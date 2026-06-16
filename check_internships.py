@@ -168,8 +168,8 @@ def notify(p: dict):
         print("NTFY_TOPIC not set — skipping push, but here's the match:")
         print(json.dumps(p, indent=2))
         return
-    title = f"{p['company']} - Mechanical Eng Intern"
-    message = f"{p['role']}\n{p['location']}"
+    title = f"{p['company']}: {p['role']}"
+    message = f"{p['location']}"
     headers = {
         "Title": title,
         "Priority": "high",
