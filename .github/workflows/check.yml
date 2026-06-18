@@ -8,6 +8,9 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit seen.json back to the repo
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -17,14 +20,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Restore previously-seen postings
-        uses: actions/cache@v4
-        with:
-          path: seen.json
-          key: seen-postings-${{ github.run_id }}
-          restore-keys: |
-            seen-postings-
-
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -32,3 +27,11 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python check_internships.py
+
+      - name: Save seen postings back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || git commit -m "chore: update seen postings [skip ci]"
+          git push
