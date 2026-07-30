@@ -25,6 +25,7 @@ phone push or to a once-a-day digest.
 from __future__ import annotations
 
 import argparse
+import base64
 import csv
 import hashlib
 import html as htmllib
@@ -518,10 +519,13 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
         post.reasons = ["software role"]
         return
 
+    # Trackers only list internships; ATS boards list every open req at the
+    # company, so this has to be a hard drop rather than a penalty.
     truncated = bool(TRUNCATED.search(post.role))
     if not INTERNISH.search(title) and not truncated:
-        score -= 6
-        reasons.append("title doesn't read like an internship (-6)")
+        post.score = -99
+        post.reasons = ["not an internship req"]
+        return
 
     if any(k in title for k in roles["core"]):
         score += 5
@@ -602,12 +606,24 @@ def archive(postings: list[Posting]) -> None:
 # notification
 # --------------------------------------------------------------------------
 
+def encode_header(value: str) -> str:
+    """HTTP headers are latin-1. Emoji in a Title header raises
+    UnicodeEncodeError, so fall back to the RFC 2047 encoded-word form that
+    ntfy decodes on its side."""
+    try:
+        value.encode("latin-1")
+        return value
+    except UnicodeEncodeError:
+        return "=?UTF-8?B?" + base64.b64encode(value.encode("utf-8")).decode("ascii") + "?="
+
+
 def push(title: str, message: str, priority: int = 3, tags: str = "rocket",
          click: str | None = None, dry: bool = False) -> None:
     if dry or not NTFY_TOPIC:
         log(f"\n[{'DRY' if dry else 'NO TOPIC'}] {title}\n{message}\n")
         return
-    headers = {"Title": title, "Priority": str(priority), "Tags": tags}
+    headers = {"Title": encode_header(title), "Priority": str(priority),
+               "Tags": encode_header(tags)}
     if click:
         headers["Click"] = click
     try:
