@@ -1,0 +1,445 @@
+{
+ "desc_cache": {
+  "18fb1fa69f4db853": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Hermeus - Subsystem Test Engineering Intern - Fall 2026 @font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metaboldlf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormal-webfont-2017.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormalitaliclf-webfont-2017.woff\") format('woff');font-weight: 400;font-style: italic;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metabolditaliclf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: italic;}@font-face {font-family: 'Meta-Caps';src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.eot\");src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Avenir';src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.eot\");src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.woff\") format('woff');src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.ttf\") format('truetype');font-weight: normal;font-style: normal;}.caps-label,.classic-table th,h4,h6,th,.btn,.submit,.btn-large,.submit-large,.btn-large-secondary,.dark-button,.toggle-label,.gated-feature:before,.gated-feature-inline:before,.gated-feature-inline-enterprise:before,.gated-feature-inline-professional:before,.gated-feature-inline-starter:before,.gated-feature-block:before,.gated-feature-block-pro:before,.cc-btn {font: 14px/1.4em 'Meta-Caps', sans-serif;text-transform: lowercase;letter-spacing: 1px;}.label,body,input,select,textarea,.btn-no-style,.application-question input,.application-additional input,.application-question textarea,.application-additional textarea,.application-question select,.application-additional select,.eeo-light-text,h5.eeo-paragraph-heading,.list .filter-popup {font: 4"
+  },
+  "1c92fd12a17c9a44": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Job Application for Mechanical Engineering Internship - Fall 2026 at Varda Space Industries Back to jobs Mechanical Engineering Internship - Fall 2026 El Segundo, California, United States Apply Now About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbital economy by creating both the products and infrastructure needed so space can directly benefit life on Earth. Our mission is to expand the economic bounds of humankind. Our team is uniquely suited to accomplishing this goal, with leadership and staff comprised of veterans from SpaceX, Blue Origin, major pharmaceutical companies and Silicon Valley. Varda was founded in January 2021 by Will Bruey and Delian Asparouhov with significant backing from world class investors including Khosla Ventures, Lux Capital, Founders Fund, Caffeinated Capital, General Catalyst, and Also Capital. Varda is headquartered in El Segundo, California, where we have offices and a production facility where our vehicles, equipment, and materials are built, integrated, and tested. Varda also has offices in Washington, DC and Huntsville, AL. Join Varda, and work to create a bustling in-space ecosystem. About This Role Fall internships will range between the months of August and December. All dates dependent upon the university schedule of the selected students. Internships are full-time and on-site in Los Angeles, CA. To be considered for this internship, candidates must be actively enrolled in an accredited un"
+  },
+  "6a0a9f80ff3396ae": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Job Application for Validation Engineering Intern [Fall 2026] at Figure Back to jobs Validation Engineering Intern [Fall 2026] San Jose, CA Apply Figure is an AI Robotics company developing a general purpose humanoid. Our Humanoid is designed for corporate tasks targeting labor shortages and jobs that are undesirable or unsafe. We are based in San Jose, CA and require 5 days/week in-office collaboration. We are looking for a Validation Engineering Intern for Fall 2026 to support the design, automation, and execution of system-level validation across our humanoid platform. This internship is designed for students in their final year of an undergraduate or master\u2019s program, as well as recent graduates who are on track to complete their degree by the end of 2026, or the following year. Responsibilities: Architect hardware and software solutions for validating humanoid subsystems (actuators, batteries, cameras, sensors). Write Python scripts to automate validation and regression testing. Contribute to the development of a CI/CD pipeline for hardware/firmware/software integration. Debug and resolve software regressions and hardware issues in collaboration with cross-functional teams. Requirements: Graduate student or recent graduate in Electrical Engineering or related field. Minimum 12-week internship, 1 to 2 terms preferred. Strong fundamentals in electrical engineering. Proficiency with Python or a similar programming language. Experience with Git and version control workflows. Familiarity with microcontrollers and embedded systems. Bonus Qualifications: Experience with firmware development in C. Exposure to PCB design and troubleshooting. Hands-on work with sensors, motors, or electromechanical systems. Apply for this job indicates a required field First Name Last Name Email Phone Country .remix-css-b62m3t-container{position:relative;box-sizing:border-box;} .remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:ab"
+  },
+  "6bc7c7ba7697238a": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Hardware R&D Engineering Intern (Fall 2026) | Formlabs window.process = Object.assign(window.process || {}, { env: JSON.parse('{\"FL_PUBLIC_WEBSITE_HOST\":\"https://careers.formlabs.com\",\"FL_PUBLIC_API_URL\":\"https://api.formlabs.com\",\"FL_PUBLIC_CMS_HOST\":\"https://careers-content.formlabs.com\",\"FL_PUBLIC_OTEL_FRONTEND_BROWSER_ENABLED\":\"true\",\"FL_PUBLIC_CLIENT_ID\":\"ovkH4rD7N0yoABP4Dd70uC9yyJxA1Wgwj0yuFkqJ\",\"FL_PUBLIC_CLIENT_SECRET\":\"ifhcbbCdMjtrv4yf6LUeliUkVfi9eNyAzDNw6S6jzAL0Uv2idYZRzhJJm4gwUxVMnXOm4WIyMqGBTASkuyAMhZmXw0ueANfWO78nIDNEdNLzwS3PLMpV3kNhqT0Cba4A\",\"FL_PUBLIC_MAGENTO_MEDIA_URL\":\"https://formlabs.com/checkout-media\",\"FL_PUBLIC_ANALYTICS_BASE_URL\":\"https://careers.formlabs.com\",\"FL_PUBLIC_CHINA_REDIRECT_ENABLED\":\"false\",\"FL_PUBLIC_SEGMENT_KEY\":\"4wlzqe42XAOM7AUhTgjtOmHoor8u1l3d\",\"FL_PUBLIC_MAGENTO_URL\":\"https://checkout.formlabs.com\",\"FL_PUBLIC_MAGENTO_API_URL\":\"/api/magento\",\"FL_PUBLIC_DASHBOARD_CDN_URL\":\"https://dashboardstatic.formlabs.com\",\"FL_PUBLIC_CMS_SITE\":\"careers\"}') }); window.onTermlyOrAnalyticsLoaded = function() { if (window.Termly && window.analytics) { if (window.Termly.getConsentState?.()?.analytics) { window.analytics.start(); } else { window.Termly.on('consent', data => { if(data.categories.includes('analytics')) { window.analytics.start(); } }); }; } } var __TERMLY_FL_LOADER_DATA = JSON.parse('{\"disableTermly\":false,\"disabledTermlyCountries\":[]}'); var ANALYTICS_AUTO_START = false; var RUDDERSTACK_API_KEY = \"2oAEBnozRX2WFyWq6HlsTP9tJvQ\"; // Deliver events through our own server so the page event can be // enriched with the HttpOnly session cookie. The proxy // (/api/rs-dataplane) forwards everything to the real data plane. var RUDDERSTACK_DATA_PLANE_URL = \"https://analytics.formlabs.com\"; var RUDDERSTACK_ANALYTICS_BASE_URL = \"https://careers.formlabs.com\"; window.analytics.start(); Careers Our Teams Engineering & Product Marketing & Design Sales & Services Internal Operations Internships Locations North America Europe Asia Pacific Open Roles "
+  },
+  "89e8bf75c3296fa0": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Bosch Group Powertrain Controls Software Engineering Intern (6-Months) | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-K5PPNKX6'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Bosch Group', 'postingId': '744000140089589', 'postingUuid': 'd147a592-5353-404c-9273-b463c2efa871', 'jobRefCode': 'REF289929X', 'jobId': '10766d6e-7a9f-42ca-bb1e-a80e1a930720' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style"
+  },
+  "8b8d609182a738a4": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "@font-face { font-family: \"ProximaNova-Regular\"; src: url(https://s6-recruiting.cdn.greenhouse.io/job_board_renderer/custom_fonts/fonts/400/002/000/original/ProximaNova-Regular.otf?1775258417); font-weight: normal; font-style: normal; } @font-face { font-family: \"ProximaNova-Regular\"; src: url(https://s6-recruiting.cdn.greenhouse.io/job_board_renderer/custom_fonts/fonts/400/002/000/original/ProximaNova-Regular.otf?1775258417); font-weight: normal; font-style: normal; } Job Application for Mechanical Engineer - Associate Program (Fall 2026) at Astranis Mechanical Engineer - Associate Program (Fall 2026) San Francisco Apply Astranis builds advanced satellites for high orbits, expanding humanity\u2019s reach into the solar system. Today, Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe\u2014 large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis has raised over $750 million from some of the world\u2019s best investors, from Andreessen Horowitz to Blackrock and Fidelity, and employs a team of 450 engineers and entrepreneurs. Astranis designs, builds, and operates its satellites out of its 153,000 sq. ft. headquarters in Northern California, USA. Mechanical Engineer \u2014 Associate Program (Fall 2026) Associate Engineer positions typically last for twelve weeks, and are salaried roles designed for students who have already received a bachelor's degree (or who will have done so before working at Astranis). As an Associate Engineer, you will have an amazing opportunity to work on hard problems \u2014 we pride ourselves on giving everyone at Astranis a chance to do meaningful work on complex projects, and our Associate"
+  },
+  "8c323ecb38b7f834": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Job Application for Electrical Engineering Intern [Fall 2026] at Figure Back to jobs Electrical Engineering Intern [Fall 2026] San Jose, CA Apply Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for an Electrical Engineering Intern to support the design and test of critical hardware components during Fall 2026. Responsibilities: Design and test full or sub sections of PCBAs on the Humanoid like power distribution boards, battery management systems, sensing boards, motor controllers, or computer boards. Support the review of design artifacts (schematics, layouts, bill of materials\u2026) from your peers or external suppliers. Support system integration and test activities by contributing to test execution and problem diagnostics and resolution. Requirements: Undergraduate student (Senior) or recent graduate in Electrical Engineering or related field. Minimum 10 weeks internship, 1 to 2 terms preferred. Solid EE fundamentals with hands-on experience designing, building, and testing PCBAs. Experience with design automation (EDA) tools, preferably Altium in both schematics and layout. Experience with power electronics (motor driver, switch mode power supplies\u2026), digital electronics (MCU, FPGA, Ethernet, USB, SPI, I2C\u2026), and analog electronics (filters, ADC/DAC\u2026) Strong verbal and written communication skills. Bonus Qualifications: Experience using LTspice, Python, and Matlab. Embedded programming of DSPs, microcontrollers, and FPGAs. Basic understanding of mechanical design fundamentals The US base salary range for this full-time position is between $40 - $45/hr. The pay offered for this position may vary based on several individual factors, including job-related knowledge, skills, and experience. The total com"
+  },
+  "a38428d403cc4a5b": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Hardware Undergrad Engineering Internships - Jobs - Careers at Apple Apple Store Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support 0 + {\"props\":{\"globalNavData\":{\"locale\":\"en_US\",\"ariaLabel\":\"Global\",\"analyticsAttributes\":[{\"name\":\"data-analytics-activitymap-region-id\",\"value\":\"global nav\"},{\"name\":\"data-analytics-region\",\"value\":\"global nav\"}],\"links\":[{\"id\":\"2758e8127e4ab787ae4e849277f79b83b3522719ae4b96a595421e50ea2d03f7\",\"name\":\"apple\",\"text\":\"Apple\",\"url\":\"/\",\"ariaLabel\":\"Apple\",\"submenuAriaLabel\":\"Apple menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"},{\"name\":\"compact\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"apple home\"}]},{\"id\":\"ad4a2a26eb4836393385e9f6c61b526b4a3cb31409c5ed8730ce7a704dd7132f\",\"name\":\"store\",\"text\":\"Store\",\"url\":\"/us/shop/goto/store\",\"ariaLabel\":\"Store\",\"submenuAriaLabel\":\"Store menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"store\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - store\"}]},{\"id\":\"9a82f08a3cc17e59a61372a40e7ecb17783e9c10aef163465f29bb5b00d4725a\",\"name\":\"mac\",\"text\":\"Mac\",\"url\":\"/mac/\",\"ariaLabel\":\"Mac\",\"submenuAriaLabel\":\"Mac menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"mac\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - mac\"}]},{\"id\":\"00948525be55e5a61fc12335c2fe8fbc94664d6237757d79344cadd205bde991\",\"name\":\"ipad\",\"text\":\"iPad\",\"url\":\"/ipad/\",\"ariaLabel\":\"iPad\",\"submenuAriaLabel\":\"iPad menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"ipad\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - ipad\"}]},{\"id\":\"254873a73c00038209d1c486273a47e092f598ac6df39eaa74322285d69c22d6\",\"name\":\"iphone\",\"text\":\"iPhone\",\"url\":\"/iphone/\",\"ariaLabel\":\"iPhone\",\"submenuAriaLabel\":\"iPhone menu\",\"images\":[{\"name\":\"regular\",\"assetI"
+  },
+  "b738696e2493a974": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Electromechanical Design Engineering Intern (Fall 2026) @ Rivian and Volkswagen Group Technologies {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electromechanical Design Engineering Intern (Fall 2026)\",\"description\":\" About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive\u2019s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we\u2019re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world. The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we\u2019ll map a new way forward. Working together, we\u2019ll create a future that\u2019s more connected, more intelligent, more sustainable for everyone. Role Summary This is a fantastic opportunity to shape the Electro-Mechanical design of vehicle systems. As an Electromechanical Design Engineering Intern, you will be directly involved in the complete life cycle development of electronic hardware, from early Proof of Concept work to final component release, and initial manufacturing support. About the Electromechanical Design Engineering Internship: We are looking for talented interns to join various teams within our Electromechanical Design Engineering department. Program Details: Timeline: Full-time, September 21 \u2013 December 18 Location: Palo Alto, CA, Champaign, IL or Irvine, CA By submitting a single application to this posting, you will be considered for all of the following internship tracks: Embedded Software Engineering Intern Software Engineering Intern - Vehicle Lab Electrical Design Engineering Intern Responsibilities Design & Development: Support and develop Proof of Concept work needed to ensure program success. Component Design: Design and develop analog, digital, and mixed-signal circuits for hardware modules, including schematic capture and component sele"
+  },
+  "bbc5c38a8f6fdeba": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Hardware Undergrad Engineering Internships - Jobs - Careers at Apple Apple Store Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support 0 + {\"props\":{\"globalNavData\":{\"locale\":\"en_US\",\"ariaLabel\":\"Global\",\"analyticsAttributes\":[{\"name\":\"data-analytics-activitymap-region-id\",\"value\":\"global nav\"},{\"name\":\"data-analytics-region\",\"value\":\"global nav\"}],\"links\":[{\"id\":\"2758e8127e4ab787ae4e849277f79b83b3522719ae4b96a595421e50ea2d03f7\",\"name\":\"apple\",\"text\":\"Apple\",\"url\":\"/\",\"ariaLabel\":\"Apple\",\"submenuAriaLabel\":\"Apple menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"},{\"name\":\"compact\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"apple home\"}]},{\"id\":\"ad4a2a26eb4836393385e9f6c61b526b4a3cb31409c5ed8730ce7a704dd7132f\",\"name\":\"store\",\"text\":\"Store\",\"url\":\"/us/shop/goto/store\",\"ariaLabel\":\"Store\",\"submenuAriaLabel\":\"Store menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"store\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - store\"}]},{\"id\":\"9a82f08a3cc17e59a61372a40e7ecb17783e9c10aef163465f29bb5b00d4725a\",\"name\":\"mac\",\"text\":\"Mac\",\"url\":\"/mac/\",\"ariaLabel\":\"Mac\",\"submenuAriaLabel\":\"Mac menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"mac\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - mac\"}]},{\"id\":\"00948525be55e5a61fc12335c2fe8fbc94664d6237757d79344cadd205bde991\",\"name\":\"ipad\",\"text\":\"iPad\",\"url\":\"/ipad/\",\"ariaLabel\":\"iPad\",\"submenuAriaLabel\":\"iPad menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"ipad\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - ipad\"}]},{\"id\":\"254873a73c00038209d1c486273a47e092f598ac6df39eaa74322285d69c22d6\",\"name\":\"iphone\",\"text\":\"iPhone\",\"url\":\"/iphone/\",\"ariaLabel\":\"iPhone\",\"submenuAriaLabel\":\"iPhone menu\",\"images\":[{\"name\":\"regular\",\"assetI"
+  },
+  "c3873f97da328959": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "Intuitive Computer Vision Engineering Intern - Fall 2026 | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-KLKCNL4'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Intuitive', 'postingId': '744000133458290', 'postingUuid': 'dfcaed79-a46f-4d0d-9d71-2d43a7283e85', 'jobRefCode': 'JOB216224', 'jobId': '2257fdc9-817f-4b8d-bd16-2801bfc58cab' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style.height = '0px'; }"
+  },
+  "eb97f2428704b237": {
+   "checked": "2026-07-30T19:14:47.654252+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Process and Thermal Performance Intern @ Rondo Energy | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Process and Thermal Performance Intern\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Rondo Energy is transforming industrial decarbonization with its innovative Rondo Heat Battery technology. The Process and Thermal Performance Intern will work alongside a multidisciplinary engineering team to analyze and develop thermal and fluid systems for high-temperature heat batteries. Responsibilities Support thermal and fluid performance analyses using 1D simulation tools (e.g., AFT, Ebsilon, Aspen, or equivalent) and first-principles hand calculations to characterize system behavior across operating conditions Assist in sizing and performance evaluation of fluid system components including pumps, blowers, fans, heat exchangers, valves, dampers, and air-flow equipment Develop and validate steady-state and transient thermal models for energy storage and heat transfer systems, comparing simulation outputs against test data and analytical predictions Perform pressure drop, flow distribution, and energy balance calculations for ducting networks, piping systems, and process loops Apply fundamental thermodynamic and fluid mechanics principles to evaluate system efficiency, identify performance bottlenecks, and support design improvements Assist in developing and maintaining engineering calculation packages, spreadsheets, and simulation scripts used for design verification and performance tracking Support test planning and data reduction: process raw test data, produce performance plots, and compare results against model predictions Contribute to equipment specification and vendor data review for pumps, blowers, heat exchangers, and related process equipment Participate in design revie"
+  }
+ },
+ "digest_queue": [],
+ "last_digest": "2026-07-30T19:14:47.654252+00:00",
+ "postings": {
+  "04d287b5d70ecef7": {
+   "company": "Kairos Power",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-22T19:11:37+00:00",
+   "role": "Chemical and Materials Engineering Internship - Summer 2027",
+   "score": 6,
+   "sources": [
+    "greenhouse:kairospower"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6122803004"
+  },
+  "1221dc75196104f9": {
+   "company": "Kairos Power",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-23T19:46:38+00:00",
+   "role": "Electrical Engineering Internship - Summer 2027",
+   "score": 6,
+   "sources": [
+    "greenhouse:kairospower"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123657004"
+  },
+  "27d17ddf0d9b8c55": {
+   "company": "Marmon Holdings",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1"
+  },
+  "2d92e37c5c953c26": {
+   "company": "Bosch Group",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Design Engineering Intern",
+   "score": 7,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131662039"
+  },
+  "3ab95800d11210c7": {
+   "company": "Moog",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Intern, Test Engineering",
+   "score": 3,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 3,
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775"
+  },
+  "3d1edc9618ec65c8": {
+   "company": "Anduril",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-06-11T17:34:22+00:00",
+   "role": "2027 Mechanical Engineer Intern",
+   "score": 13,
+   "sources": [
+    "greenhouse:andurilindustries"
+   ],
+   "term": "target",
+   "tier": 1,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
+  },
+  "467f6971c5d1721b": {
+   "company": "Tencent",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Mechanical-Engineering-Intern_R107667-1"
+  },
+  "5182d548ef11a6e4": {
+   "company": "Kairos Power",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-23T20:03:32+00:00",
+   "role": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
+   "score": 14,
+   "sources": [
+    "greenhouse:kairospower"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004"
+  },
+  "51c6f4bdb38f4adc": {
+   "company": "Generac",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Design Engineering Intern",
+   "score": 7,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679"
+  },
+  "56d12a830c060c3c": {
+   "company": "Rondo Energy",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Process and Thermal Performance Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a5932c7686b4755d1e0efa4?utm_campaign=1048&utm_source=git"
+  },
+  "68d7cb1168c980dd": {
+   "company": "Unison (GE Aerospace)",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-16T00:00:00+00:00",
+   "role": "Engineering Intern (Summer 2027)",
+   "score": 6,
+   "sources": [
+    "sndsh-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027"
+  },
+  "6ec45ec33b38b26b": {
+   "company": "BorgWarner",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineering Intern \u2013 Adv. ...",
+   "score": 5,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "unknown",
+   "tier": 3,
+   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern---Adv-Engineering---PDS--Year-Round-_R2026-2137"
+  },
+  "81b8d67fd2f466c8": {
+   "company": "Anduril",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-06-11T17:00:56+00:00",
+   "role": "2027 Electrical Engineer Intern",
+   "score": 8,
+   "sources": [
+    "greenhouse:andurilindustries"
+   ],
+   "term": "target",
+   "tier": 1,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007"
+  },
+  "860954cd3df8e440": {
+   "company": "Apple",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Hardware Undergrad Engineering Intern...",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 2,
+   "url": "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships"
+  },
+  "8b68581103f8639a": {
+   "company": "MetOx International",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a566536f7517b519ad555e4?utm_campaign=1048&utm_source=git"
+  },
+  "928b867b668900b8": {
+   "company": "Lila Sciences",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Co-op, Mechanical Engineer",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4284223009"
+  },
+  "9415b53ec44123b0": {
+   "company": "Skydio",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-28T18:27:09.057000+00:00",
+   "role": "Product Design Engineer Intern",
+   "score": 9,
+   "sources": [
+    "ashby:skydio",
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182"
+  },
+  "95f3c265db0f7298": {
+   "company": "Skydio",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-28T18:35:36.967000+00:00",
+   "role": "Electrical Engineer Intern",
+   "score": 6,
+   "sources": [
+    "ashby:skydio",
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee"
+  },
+  "a841ee15698f3a53": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-06-09T03:18:35+00:00",
+   "role": "Apprentice Aerospace Technician",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "unknown",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7712642003"
+  },
+  "b0d91835c2475f42": {
+   "company": "Bosch Group",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Powertrain Controls Software Engineer...",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589"
+  },
+  "b6b38f9420b17b5e": {
+   "company": "Kairos Power",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-23T22:04:30+00:00",
+   "role": "Nuclear Engineering Internship - Summer 2027 ",
+   "score": 11,
+   "sources": [
+    "greenhouse:kairospower"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123830004"
+  },
+  "b72b6af61b2552d1": {
+   "company": "Huntsman",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026"
+  },
+  "b8961312db5d3c39": {
+   "company": "Human Computer Lab",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Intern - Mechanical Engineer",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobs.ashbyhq.com/human-computer-lab/63a06836-54f4-4475-9e03-007ce5afc04c/application"
+  },
+  "c22b46dc33ee9bdf": {
+   "company": "KION Group",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineering Co-Op",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Henrietta-NY-United-States/Mechanical-Engineering-Co-Op_JR-0094004-1"
+  },
+  "c37e0d5f65c3d8d5": {
+   "company": "Steel Dynamics, Inc",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineering Internship",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a58df8a686b4755d1e0ceac?utm_campaign=1048&utm_source=git"
+  },
+  "d3b37ddf885cdf0a": {
+   "company": "Apple",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Hardware Undergrad Engineering Internship",
+   "score": 4,
+   "sources": [
+    "sndsh-2027"
+   ],
+   "term": "assumed",
+   "tier": 2,
+   "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships"
+  },
+  "f3f50390f0739761": {
+   "company": "Thornton Tomasetti",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineer Co-op",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://tt.wd503.myworkdayjobs.com/thorntontomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868"
+  },
+  "fdc8d7fb6c343383": {
+   "company": "Anduril",
+   "first_seen": "2026-07-30T19:14:47.654252+00:00",
+   "posted_at": "2026-06-11T17:51:24+00:00",
+   "role": "2027 Manufacturing Engineer Intern",
+   "score": 11,
+   "sources": [
+    "greenhouse:andurilindustries"
+   ],
+   "term": "target",
+   "tier": 1,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"
+  }
+ },
+ "source_health": {
+  "jobright-engineering": {
+   "last_ok": "2026-07-30T19:14:47.654252+00:00",
+   "rows": 100
+  },
+  "simplify-2027": {
+   "last_ok": "2026-07-30T19:14:47.654252+00:00",
+   "rows": 101
+  },
+  "sndsh-2027": {
+   "last_ok": "2026-07-30T19:14:47.654252+00:00",
+   "rows": 139
+  },
+  "vansh-2027": {
+   "last_ok": "2026-07-30T19:14:47.654252+00:00",
+   "rows": 147
+  },
+  "zapply-2027": {
+   "last_ok": "2026-07-30T19:14:47.654252+00:00",
+   "rows": 494
+  }
+ },
+ "version": 2
+}
