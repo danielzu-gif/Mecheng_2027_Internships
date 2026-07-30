@@ -1,0 +1,83 @@
+name: internship watcher
+
+on:
+  schedule:
+    # Recruiting hours, US: every 20 min, 12:00-03:00 UTC (8am-11pm ET).
+    # Aerospace drops land in the morning and postings close fast, so the
+    # tight cadence only matters here.
+    - cron: "*/20 12-23 * * *"
+    - cron: "*/20 0-3 * * *"
+    # Overnight: hourly is plenty.
+    - cron: "0 4-11 * * *"
+    # Sunday 09:00 UTC — confirm every ATS token still resolves.
+    - cron: "0 9 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run | dry-run | seed | digest | verify-boards"
+        required: false
+        default: "run"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    if: github.event.schedule != '0 9 * * 0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Watch
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          case "${{ github.event.inputs.mode }}" in
+            dry-run)       python watcher.py --dry-run --explain ;;
+            seed)          python watcher.py --seed ;;
+            digest)        python watcher.py --digest ;;
+            verify-boards) python watcher.py --verify-boards ;;
+            *)             python watcher.py ;;
+          esac
+
+      - name: Commit state
+        if: github.event.inputs.mode != 'dry-run' && github.event.inputs.mode != 'verify-boards'
+        run: |
+          git config user.name  "internship-watcher"
+          git config user.email "actions@github.com"
+          git add state/
+          git diff --staged --quiet && exit 0
+          git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+          # another run may have pushed while this one was working
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
+
+  verify:
+    if: github.event.schedule == '0 9 * * 0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      # Fails the job if a board token has gone stale, which sends you the
+      # standard GitHub "workflow failed" email.
+      - run: python watcher.py --verify-boards

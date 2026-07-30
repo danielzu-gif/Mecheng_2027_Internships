@@ -1,0 +1,331 @@
+# =============================================================================
+# targets.yml — everything you tune lives here. watcher.py never needs editing.
+# =============================================================================
+
+season:
+  term: summer
+  year: 2027
+  # A posting with no season anywhere in the title OR description, first seen
+  # inside this window, is treated as "probably the target season" rather than
+  # thrown away. Aerospace opens Aug 2026; most ME programs Oct 2026 - Jan 2027.
+  assume_window: ["2026-07-15", "2027-03-31"]
+  # Flip to true if you decide a fall/spring co-op is worth hearing about.
+  allow_offseason: false
+
+routing:
+  instant_min_score: 6        # push to phone immediately at or above this
+  digest_min_score: 3         # otherwise collect into the daily digest
+  instant_max_age_hours: 72   # older than this goes to digest even if it scores
+  max_instant_pushes: 12      # hard cap per run so one bad regex can't spam you
+  max_description_fetches: 30 # per run, for tracker rows with no season in title
+  digest_hour_utc: 23         # 7pm ET
+
+# -----------------------------------------------------------------------------
+# COMPANIES
+#   tier 1 = your actual trajectory. Generic "Engineering Intern" titles count
+#            here, because SpaceX et al. don't put "Mechanical" in the title.
+#   tier 2 = strong hardware companies worth a same-day look.
+#   tier 3 = fine, but digest-only unless the role is a bullseye.
+#
+#   ats/board = polled directly, so you get the real publish timestamp instead
+#               of waiting for a tracker repost. verified: false means I guessed
+#               the token — run `python watcher.py --verify-boards` and fix.
+# -----------------------------------------------------------------------------
+companies:
+  tier1:
+    - {name: SpaceX,            ats: greenhouse, board: spacex,             verified: true}
+    - {name: Anduril,           ats: greenhouse, board: andurilindustries,  verified: true}
+    - {name: Rocket Lab,        ats: greenhouse, board: rocketlab,          verified: true}
+    - {name: Astranis,          ats: greenhouse, board: astranis,           verified: true}
+    - {name: Varda Space,       ats: greenhouse, board: vardaspace,         verified: true}
+    - {name: Vast,              ats: greenhouse, board: vast,               verified: true}
+    - {name: Hermeus,           ats: lever,      board: hermeus,            verified: true}
+    - {name: Shield AI,         ats: lever,      board: shieldai,           verified: true}
+    - {name: Skydio,            ats: ashby,      board: skydio,             verified: true}
+    - {name: Saronic,           ats: ashby,      board: saronic,            verified: true}
+    - {name: Blue Origin,       ats: null,       careers: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"}
+    - {name: Joby Aviation,     ats: greenhouse, board: jobyaviation,       verified: false}
+    - {name: Archer Aviation,   ats: greenhouse, board: archeraviation,     verified: false}
+    - {name: Beta Technologies, ats: greenhouse, board: betatechnologies,   verified: false}
+    - {name: Relativity Space,  ats: greenhouse, board: relativityspace,    verified: false}
+    - {name: Firefly Aerospace, ats: greenhouse, board: fireflyaerospace,   verified: false}
+    - {name: Impulse Space,     ats: greenhouse, board: impulsespace,       verified: false}
+    - {name: Stoke Space,       ats: greenhouse, board: stokespace,         verified: false}
+    - {name: Ursa Major,        ats: greenhouse, board: ursamajor,          verified: false}
+    - {name: Boom Supersonic,   ats: greenhouse, board: boomsupersonic,     verified: false}
+    - {name: Castelion,         ats: ashby,      board: castelion,          verified: false}
+    - {name: Electra,           ats: greenhouse, board: electraaero,        verified: false}
+    - {name: magniX,            ats: null}
+    - {name: Wisk Aero,         ats: null}
+    - {name: Supernal,          ats: null}
+    - {name: Aurora Flight Sciences, ats: null}
+
+  tier2:
+    - {name: Tesla,             ats: null,       careers: "https://www.tesla.com/careers/search"}
+    - {name: Rivian,            ats: ashby,      board: rivianvw.tech,      verified: true}
+    - {name: Lucid Motors,      ats: greenhouse, board: lucidmotors,        verified: true}
+    - {name: Redwood Materials, ats: greenhouse, board: redwoodmaterials,   verified: true}
+    - {name: Figure AI,         ats: greenhouse, board: figureai,           verified: true}
+    - {name: Apptronik,         ats: greenhouse, board: apptronik,          verified: true}
+    - {name: Zipline,           ats: greenhouse, board: zipline,            verified: false}
+    - {name: Boston Dynamics,   ats: greenhouse, board: bostondynamics,     verified: false}
+    - {name: Zoox,              ats: greenhouse, board: zooxinc,            verified: false}
+    - {name: Waymo,             ats: null}
+    - {name: Commonwealth Fusion, ats: greenhouse, board: cfsenergy,        verified: false}
+    - {name: Helion Energy,     ats: greenhouse, board: helionenergy,       verified: false}
+    - {name: Radiant Nuclear,   ats: ashby,      board: radiant,            verified: false}
+    - {name: Oklo,              ats: greenhouse, board: oklo,               verified: false}
+    - {name: Kairos Power,      ats: greenhouse, board: kairospower,        verified: false}
+    - {name: TerraPower,        ats: null}
+    - {name: Form Energy,       ats: greenhouse, board: formenergy,         verified: false}
+    - {name: GE Aerospace,      ats: null,       careers: "https://careers.geaerospace.com"}
+    - {name: Boeing,            ats: null,       careers: "https://jobs.boeing.com/entry-level"}
+    - {name: Lockheed Martin,   ats: null,       careers: "https://www.lockheedmartinjobs.com/college-students"}
+    - {name: Northrop Grumman,  ats: null}
+    - {name: RTX,               ats: null}
+    - {name: Raytheon,          ats: null}
+    - {name: Collins Aerospace, ats: null}
+    - {name: Pratt & Whitney,   ats: null}
+    - {name: L3Harris,          ats: null}
+    - {name: General Atomics,   ats: null}
+    - {name: Sierra Space,      ats: null}
+    - {name: Intuitive Machines, ats: null}
+    - {name: Applied Intuition, ats: ashby,      board: appliedintuition,   verified: false}
+    - {name: Hadrian,           ats: ashby,      board: hadrian,            verified: false}
+    - {name: Divergent,         ats: null}
+    - {name: Formlabs,          ats: null}
+    - {name: Apple,             ats: null}
+    - {name: NVIDIA,            ats: null}
+    - {name: Ford,              ats: null}
+    - {name: General Motors,    ats: null}
+    - {name: Honeywell,         ats: null}
+
+  # Tier 3 is name-matching only — digest unless the role is a direct hit.
+  tier3:
+    - Airbus
+    - Bell Flight
+    - Textron
+    - Gulfstream
+    - Sikorsky
+    - Rolls-Royce
+    - Woodward
+    - Moog
+    - Parker Hannifin
+    - Eaton
+    - BWXT
+    - Curtiss-Wright
+    - Aerojet Rocketdyne
+    - Planet Labs
+    - Maxar
+    - Nuro
+    - Aptiv
+    - BorgWarner
+    - Cummins
+    - Caterpillar
+    - John Deere
+    - Emerson
+    - 3M
+    - Medtronic
+    - Stryker
+    - Intuitive Surgical
+    - Micron
+    - Intel
+    - Applied Materials
+    - Lam Research
+    - KLA
+    - Texas Instruments
+    - Analog Devices
+    - Siemens Energy
+    - GE Vernova
+    - Fluence
+    - QuantumScape
+    - Enovix
+    - NextEra Energy
+    - Constellation Energy
+    - Westinghouse
+    - NASA
+    - JPL
+    - Sandia
+    - Argonne
+    - Oak Ridge
+    - Los Alamos
+    - Lincoln Laboratory
+    - Draper
+    - MITRE
+    - Johns Hopkins APL
+
+# -----------------------------------------------------------------------------
+# ROLE SCORING — a title accumulates points, it doesn't pass/fail on one word.
+# -----------------------------------------------------------------------------
+roles:
+  # +5 — unmistakably your degree
+  core:
+    - mechanical engineer
+    - mechanical engineering
+    - mechanical design
+    - mechanical systems
+    - mechanical intern
+    - mechanical co-op
+    - mechanical
+    - mechatronics
+    - electromechanical
+
+  # +5 — where you're actually pointed. Also drives the 🚀 tag on the push.
+  focus:
+    - propulsion
+    - electric propulsion
+    - thermal
+    - heat transfer
+    - thermal management
+    - battery pack
+    - battery thermal
+    - powertrain
+    - drivetrain
+    - turbomachinery
+    - rotor
+    - flight hardware
+    - launch vehicle
+    - avionics mechanical
+    - fluid systems
+    - cooling
+    - cryogenic
+    - combustion
+    - energy systems
+    - power electronics
+
+  # +3 — adjacent work you'd take in a heartbeat
+  adjacent:
+    - hardware engineer
+    - hardware engineering
+    - design engineer
+    - product design
+    - r&d engineer
+    - prototype
+    - test engineer
+    - integration and test
+    - structures
+    - stress analysis
+    - simulation
+    - fea
+    - cfd
+    - cad
+    - gse
+    - ground support equipment
+    - manufacturing engineer
+    - manufacturing engineering
+    - process engineer
+    - tooling
+    - additive manufacturing
+    - robotics engineer
+    - controls engineer
+    - validation engineer
+    - systems engineer
+    - aerospace engineer
+    - vehicle engineer
+    - reliability engineer
+
+  # +2, and ONLY counted for tier 1/2 companies. This is the SpaceX rule:
+  # they post "Summer 2027 Engineering Internship/Co-op" with no discipline.
+  generic:
+    - engineering intern
+    - engineering internship
+    - engineer intern
+    - engineering co-op
+    - engineering student
+    - intern - engineering
+    - undergraduate intern
+    - technical intern
+
+  # -8 — kills the match outright
+  negative:
+    - software engineer intern
+    - software engineering intern
+    - software developer
+    - data scientist
+    - data engineer
+    - machine learning
+    - deep learning
+    - full stack
+    - frontend
+    - backend
+    - web developer
+    - cybersecurity
+    - security engineer
+    - quantitative
+    - trading
+    - investment
+    - sales
+    - marketing
+    - human resources
+    - recruiting
+    - accounting
+    - finance intern
+    - legal
+    - supply chain
+    - logistics
+    - environmental
+    - civil engineer
+    - construction
+    - geotechnical
+    - chemical process
+    - biomedical
+    - clinical
+    - nursing
+
+  # -4 — usually not open to a BSE undergrad
+  eligibility_penalty:
+    - phd
+    - ph.d
+    - doctoral
+    - master's
+    - masters
+    - "m.s."
+    - mba
+    - returning intern
+    - returning student
+    - high school
+
+# Locations you can't take. Matched against the location string only.
+location_blocklist:
+  - canada
+  - ontario
+  - quebec
+  - alberta
+  - british columbia
+  - united kingdom
+  - india
+  - germany
+  - france
+  - spain
+  - mexico
+  - japan
+  - singapore
+  - australia
+  - israel
+  - netherlands
+  - poland
+
+# -----------------------------------------------------------------------------
+# TRACKER SOURCES — the wide net. Trust ranks how much its date is believed.
+# -----------------------------------------------------------------------------
+trackers:
+  - name: simplify-2027
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md
+    season_hint: "summer 2027"
+    trust: high
+  - name: vansh-2027
+    url: https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md
+    season_hint: "summer 2027"
+    trust: high
+  - name: sndsh-2027
+    url: https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md
+    season_hint: null
+    trust: medium
+  - name: jobright-engineering
+    url: https://raw.githubusercontent.com/jobright-ai/2026-Engineer-Internship/master/README.md
+    season_hint: null
+    trust: medium
+  - name: zapply-2027
+    url: https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md
+    season_hint: null
+    trust: low   # titles are truncated and every date says "Undated"
