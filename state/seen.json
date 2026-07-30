@@ -12,6 +12,10 @@
    "checked": "2026-07-30T20:38:03.239238+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA\" } }, \"applicantLocationRequirements\" : { \"@type\" : \"Country\", \"name\" : \"United States of America\" }, \"jobLocationType\" : \"TELECOMMUTE\", \"hiringOrganization\" : { \"name\" : \"C01 Carrier Corporation\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Thermal Optimization Engineering Intern \u00e2\u0080\u0093 Fall\", \"@type\" : \"PropertyValue\", \"value\" : \"30204244\" }, \"datePosted\" : \"2026-07-20\", \"validThrough\" : \"2026-08-04\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Thermal Optimization Engineering Intern \u00e2\u0080\u0093 Fall\", \"description\" : \"About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure safe transport of food, lifesaving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit corporate.carrier.com or follow on Carrier social media at @Carrier. Pay Range Other Compensation Benefits This position is not eligible for Carrier benefits. Carrier EEO Statement and Accommodations Process Carrier is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. Carrier provides affirmative action i"
   },
+  "4d8820b61d174428": {
+   "checked": "2026-07-30T21:48:29.665249+00:00",
+   "snippet": "Hardware R&D Engineering Intern (Fall 2026) | Formlabs window.process = Object.assign(window.process || {}, { env: JSON.parse('{\"FL_PUBLIC_WEBSITE_HOST\":\"https://careers.formlabs.com\",\"FL_PUBLIC_API_URL\":\"https://api.formlabs.com\",\"FL_PUBLIC_CMS_HOST\":\"https://careers-content.formlabs.com\",\"FL_PUBLIC_OTEL_FRONTEND_BROWSER_ENABLED\":\"true\",\"FL_PUBLIC_CLIENT_ID\":\"ovkH4rD7N0yoABP4Dd70uC9yyJxA1Wgwj0yuFkqJ\",\"FL_PUBLIC_CLIENT_SECRET\":\"ifhcbbCdMjtrv4yf6LUeliUkVfi9eNyAzDNw6S6jzAL0Uv2idYZRzhJJm4gwUxVMnXOm4WIyMqGBTASkuyAMhZmXw0ueANfWO78nIDNEdNLzwS3PLMpV3kNhqT0Cba4A\",\"FL_PUBLIC_MAGENTO_MEDIA_URL\":\"https://formlabs.com/checkout-media\",\"FL_PUBLIC_CHINA_REDIRECT_ENABLED\":\"false\",\"FL_PUBLIC_ANALYTICS_BASE_URL\":\"https://careers.formlabs.com\",\"FL_PUBLIC_SEGMENT_KEY\":\"4wlzqe42XAOM7AUhTgjtOmHoor8u1l3d\",\"FL_PUBLIC_MAGENTO_URL\":\"https://checkout.formlabs.com\",\"FL_PUBLIC_MAGENTO_API_URL\":\"/api/magento\",\"FL_PUBLIC_DASHBOARD_CDN_URL\":\"https://dashboardstatic.formlabs.com\",\"FL_PUBLIC_CMS_SITE\":\"careers\"}') }); window.onTermlyOrAnalyticsLoaded = function() { if (window.Termly && window.analytics) { if (window.Termly.getConsentState?.()?.analytics) { window.analytics.start(); } else { window.Termly.on('consent', data => { if(data.categories.includes('analytics')) { window.analytics.start(); } }); }; } } var __TERMLY_FL_LOADER_DATA = JSON.parse('{\"disableTermly\":false,\"disabledTermlyCountries\":[]}'); var ANALYTICS_AUTO_START = false; var RUDDERSTACK_API_KEY = \"2oAEBnozRX2WFyWq6HlsTP9tJvQ\"; // Deliver events through our own server so the page event can be // enriched with the HttpOnly session cookie. The proxy // (/api/rs-dataplane) forwards everything to the real data plane. var RUDDERSTACK_DATA_PLANE_URL = \"https://analytics.formlabs.com\"; var RUDDERSTACK_ANALYTICS_BASE_URL = \"https://careers.formlabs.com\"; window.analytics.start(); Careers Our Teams Engineering & Product Marketing & Design Sales & Services Internal Operations Internships Locations North America Europe Asia Pacific Open Roles "
+  },
   "6a0a9f80ff3396ae": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Job Application for Validation Engineering Intern [Fall 2026] at Figure Back to jobs Validation Engineering Intern [Fall 2026] San Jose, CA Apply Figure is an AI Robotics company developing a general purpose humanoid. Our Humanoid is designed for corporate tasks targeting labor shortages and jobs that are undesirable or unsafe. We are based in San Jose, CA and require 5 days/week in-office collaboration. We are looking for a Validation Engineering Intern for Fall 2026 to support the design, automation, and execution of system-level validation across our humanoid platform. This internship is designed for students in their final year of an undergraduate or master\u2019s program, as well as recent graduates who are on track to complete their degree by the end of 2026, or the following year. Responsibilities: Architect hardware and software solutions for validating humanoid subsystems (actuators, batteries, cameras, sensors). Write Python scripts to automate validation and regression testing. Contribute to the development of a CI/CD pipeline for hardware/firmware/software integration. Debug and resolve software regressions and hardware issues in collaboration with cross-functional teams. Requirements: Graduate student or recent graduate in Electrical Engineering or related field. Minimum 12-week internship, 1 to 2 terms preferred. Strong fundamentals in electrical engineering. Proficiency with Python or a similar programming language. Experience with Git and version control workflows. Familiarity with microcontrollers and embedded systems. Bonus Qualifications: Experience with firmware development in C. Exposure to PCB design and troubleshooting. Hands-on work with sensors, motors, or electromechanical systems. Apply for this job indicates a required field First Name Last Name Email Phone Country .remix-css-b62m3t-container{position:relative;box-sizing:border-box;} .remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:ab"
@@ -207,7 +211,8 @@
    "role": "2027 Mechanical Engineer Intern",
    "score": 13,
    "sources": [
-    "greenhouse:andurilindustries"
+    "greenhouse:andurilindustries",
+    "zapply-2027"
    ],
    "term": "target",
    "tier": 1,
@@ -324,7 +329,8 @@
    "role": "2027 Electrical Engineer Intern",
    "score": 8,
    "sources": [
-    "greenhouse:andurilindustries"
+    "greenhouse:andurilindustries",
+    "zapply-2027"
    ],
    "term": "target",
    "tier": 1,
@@ -556,23 +562,23 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-30T20:38:03.239238+00:00",
+   "last_ok": "2026-07-30T21:48:29.665249+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-30T20:38:03.239238+00:00",
+   "last_ok": "2026-07-30T21:48:29.665249+00:00",
    "rows": 101
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-30T20:38:03.239238+00:00",
+   "last_ok": "2026-07-30T21:48:29.665249+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-30T20:38:03.239238+00:00",
+   "last_ok": "2026-07-30T21:48:29.665249+00:00",
    "rows": 147
   },
   "zapply-2027": {
-   "last_ok": "2026-07-30T20:38:03.239238+00:00",
+   "last_ok": "2026-07-30T21:48:29.665249+00:00",
    "rows": 500
   }
  },
