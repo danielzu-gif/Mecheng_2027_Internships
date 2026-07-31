@@ -61,7 +61,16 @@
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Process and Thermal Performance Intern @ Rondo Energy | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Process and Thermal Performance Intern\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Rondo Energy is transforming industrial decarbonization with its innovative Rondo Heat Battery technology. The Process and Thermal Performance Intern will work alongside a multidisciplinary engineering team to analyze and develop thermal and fluid systems for high-temperature heat batteries. Responsibilities Support thermal and fluid performance analyses using 1D simulation tools (e.g., AFT, Ebsilon, Aspen, or equivalent) and first-principles hand calculations to characterize system behavior across operating conditions Assist in sizing and performance evaluation of fluid system components including pumps, blowers, fans, heat exchangers, valves, dampers, and air-flow equipment Develop and validate steady-state and transient thermal models for energy storage and heat transfer systems, comparing simulation outputs against test data and analytical predictions Perform pressure drop, flow distribution, and energy balance calculations for ducting networks, piping systems, and process loops Apply fundamental thermodynamic and fluid mechanics principles to evaluate system efficiency, identify performance bottlenecks, and support design improvements Assist in developing and maintaining engineering calculation packages, spreadsheets, and simulation scripts used for design verification and performance tracking Support test planning and data reduction: process raw test data, produce performance plots, and compare results against model predictions Contribute to equipment specification and vendor data review for pumps, blowers, heat exchangers, and related process equipment Participate in design revie"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "company": "American Cutting Edge, Inc.",
+   "location": "Miamisburg, OH",
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a37377b649fdf16292fcd97?utm_campaign=1048&utm_source=git"
+  }
+ ],
  "last_digest": "2026-07-30T23:13:25.298454+00:00",
  "postings": {
   "04d287b5d70ecef7": {
@@ -115,6 +124,19 @@
    "term": "target",
    "tier": 2,
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123657004"
+  },
+  "2251c7be60d835d2": {
+   "company": "American Cutting Edge, Inc.",
+   "first_seen": "2026-07-31T00:59:23.985394+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a37377b649fdf16292fcd97?utm_campaign=1048&utm_source=git"
   },
   "27d17ddf0d9b8c55": {
    "company": "Marmon Holdings",
@@ -497,6 +519,19 @@
    "tier": 2,
    "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships"
   },
+  "d656de498d98f0a3": {
+   "company": "RTX",
+   "first_seen": "2026-07-31T00:59:23.985394+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineer Intern (Summer 2027)",
+   "score": 11,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a6bc21b57120971bf3a8bd9?utm_campaign=1048&utm_source=git"
+  },
   "f3f50390f0739761": {
    "company": "Thornton Tomasetti",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -526,24 +561,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-30T23:13:25.298454+00:00",
+   "last_ok": "2026-07-31T00:59:23.985394+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-30T23:13:25.298454+00:00",
+   "last_ok": "2026-07-31T00:59:23.985394+00:00",
    "rows": 104
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-30T23:13:25.298454+00:00",
+   "last_ok": "2026-07-31T00:59:23.985394+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-30T23:13:25.298454+00:00",
+   "last_ok": "2026-07-31T00:59:23.985394+00:00",
    "rows": 149
   },
   "zapply-2027": {
-   "last_ok": "2026-07-30T23:13:25.298454+00:00",
-   "rows": 498
+   "last_ok": "2026-07-31T00:59:23.985394+00:00",
+   "rows": 503
   }
  },
  "version": 2
