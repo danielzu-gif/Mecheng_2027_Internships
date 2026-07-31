@@ -89,6 +89,14 @@
    "score": 4,
    "term": "assumed",
    "url": "https://jobright.ai/jobs/info/6a6c0c5c5c54bc4752cec440?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Penn State University",
+   "location": "Optics",
+   "role": "Opto-Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://psu.wd1.myworkdayjobs.com/Student/job/Electro-Optics-Center-in-Freeport-PA/Opto-Mechanical-Engineering-Intern_REQ_0000050425"
   }
  ],
  "last_digest": "2026-07-30T23:13:25.298454+00:00",
@@ -118,6 +126,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a4e7c031544d7246c0d2f56?utm_campaign=1048&utm_source=git"
+  },
+  "0e782e866832793c": {
+   "company": "Penn State University",
+   "first_seen": "2026-07-31T14:25:50.501413+00:00",
+   "posted_at": null,
+   "role": "Opto-Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://psu.wd1.myworkdayjobs.com/Student/job/Electro-Optics-Center-in-Freeport-PA/Opto-Mechanical-Engineering-Intern_REQ_0000050425"
   },
   "10e0044cc2199575": {
    "company": "Applied Materials",
@@ -634,24 +655,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T11:55:31.828547+00:00",
+   "last_ok": "2026-07-31T14:25:50.501413+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T11:55:31.828547+00:00",
-   "rows": 101
+   "last_ok": "2026-07-31T14:25:50.501413+00:00",
+   "rows": 102
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T11:55:31.828547+00:00",
+   "last_ok": "2026-07-31T14:25:50.501413+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T11:55:31.828547+00:00",
+   "last_ok": "2026-07-31T14:25:50.501413+00:00",
    "rows": 149
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T11:55:31.828547+00:00",
-   "rows": 493
+   "last_ok": "2026-07-31T14:25:50.501413+00:00",
+   "rows": 491
   }
  },
  "version": 2
