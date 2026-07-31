@@ -56,6 +56,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Intuitive Computer Vision Engineering Intern - Fall 2026 | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-KLKCNL4'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Intuitive', 'postingId': '744000133458290', 'postingUuid': 'dfcaed79-a46f-4d0d-9d71-2d43a7283e85', 'jobRefCode': 'JOB216224', 'jobId': '2257fdc9-817f-4b8d-bd16-2801bfc58cab' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style.height = '0px'; }"
   },
+  "df4da2169197f63e": {
+   "checked": "2026-07-31T11:55:31.828547+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Manufacturing Engineering / Technical Planning Assembly Chassis & Powertrain Intern @ BMW Group | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Manufacturing Engineering / Technical Planning Assembly Chassis & Powertrain Intern\",\"description\":\" BMW Group is seeking an intern for their Manufacturing Engineering / Technical Planning Assembly Chassis & Powertrain department. This role involves supporting assembly planning tasks, developing engineering skills, and participating in project management activities within the automotive manufacturing environment. Responsibilities This position would provide key support to the Assembly Technical Planning department and give broad experience in automotive manufacturing processes to the candidate Develop engineering and project management skills in a manufacturing environment Support the planning and coordination of assembly structure and equipment projects and modification activities with implementation and strategic focus within international, cross functional project teams Assist planners daily with chassis and powertrain assembly planning tasks Gather and report data for weekly presentation of team deliverables Assist assembly planners with special equipment or new vehicle projects Review, create and modify process descriptions for continuous improvement within assembly Shutdown support and reporting Risk filter execution for assembly process and equipment Participate in Assembly concept developments and evaluations Participate in design reviews of new process and equipment related to Chassis and Powertrain Risk filter execution for assembly process and equipment Project Management and supplier management Launch topic tracking and resolution Performs other duties as assigned by management Skills Basic CAD Software knowledge Self-driven to push projects and tasks forward "
+  },
   "eb97f2428704b237": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Process and Thermal Performance Intern @ Rondo Energy | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Process and Thermal Performance Intern\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Rondo Energy is transforming industrial decarbonization with its innovative Rondo Heat Battery technology. The Process and Thermal Performance Intern will work alongside a multidisciplinary engineering team to analyze and develop thermal and fluid systems for high-temperature heat batteries. Responsibilities Support thermal and fluid performance analyses using 1D simulation tools (e.g., AFT, Ebsilon, Aspen, or equivalent) and first-principles hand calculations to characterize system behavior across operating conditions Assist in sizing and performance evaluation of fluid system components including pumps, blowers, fans, heat exchangers, valves, dampers, and air-flow equipment Develop and validate steady-state and transient thermal models for energy storage and heat transfer systems, comparing simulation outputs against test data and analytical predictions Perform pressure drop, flow distribution, and energy balance calculations for ducting networks, piping systems, and process loops Apply fundamental thermodynamic and fluid mechanics principles to evaluate system efficiency, identify performance bottlenecks, and support design improvements Assist in developing and maintaining engineering calculation packages, spreadsheets, and simulation scripts used for design verification and performance tracking Support test planning and data reduction: process raw test data, produce performance plots, and compare results against model predictions Contribute to equipment specification and vendor data review for pumps, blowers, heat exchangers, and related process equipment Participate in design revie"
@@ -484,6 +488,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7712642003"
   },
+  "acca500c6bfc08c8": {
+   "company": "BMW Group",
+   "first_seen": "2026-07-31T11:55:31.828547+00:00",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "role": "Manufacturing Engineering / Technical Planning Assembly Chassis & Powertrain Intern",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6c5fb7ca1f9338465ff04c?utm_campaign=1048&utm_source=git"
+  },
   "b0d91835c2475f42": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -617,24 +634,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T09:40:09.935490+00:00",
+   "last_ok": "2026-07-31T11:55:31.828547+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T09:40:09.935490+00:00",
-   "rows": 104
+   "last_ok": "2026-07-31T11:55:31.828547+00:00",
+   "rows": 101
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T09:40:09.935490+00:00",
+   "last_ok": "2026-07-31T11:55:31.828547+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T09:40:09.935490+00:00",
+   "last_ok": "2026-07-31T11:55:31.828547+00:00",
    "rows": 149
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T09:40:09.935490+00:00",
-   "rows": 503
+   "last_ok": "2026-07-31T11:55:31.828547+00:00",
+   "rows": 493
   }
  },
  "version": 2
