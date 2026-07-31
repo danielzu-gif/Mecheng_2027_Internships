@@ -24,6 +24,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Hardware R&D Engineering Intern (Fall 2026) | Formlabs window.process = Object.assign(window.process || {}, { env: JSON.parse('{\"FL_PUBLIC_WEBSITE_HOST\":\"https://careers.formlabs.com\",\"FL_PUBLIC_API_URL\":\"https://api.formlabs.com\",\"FL_PUBLIC_CMS_HOST\":\"https://careers-content.formlabs.com\",\"FL_PUBLIC_OTEL_FRONTEND_BROWSER_ENABLED\":\"true\",\"FL_PUBLIC_CLIENT_ID\":\"ovkH4rD7N0yoABP4Dd70uC9yyJxA1Wgwj0yuFkqJ\",\"FL_PUBLIC_CLIENT_SECRET\":\"ifhcbbCdMjtrv4yf6LUeliUkVfi9eNyAzDNw6S6jzAL0Uv2idYZRzhJJm4gwUxVMnXOm4WIyMqGBTASkuyAMhZmXw0ueANfWO78nIDNEdNLzwS3PLMpV3kNhqT0Cba4A\",\"FL_PUBLIC_MAGENTO_MEDIA_URL\":\"https://formlabs.com/checkout-media\",\"FL_PUBLIC_ANALYTICS_BASE_URL\":\"https://careers.formlabs.com\",\"FL_PUBLIC_CHINA_REDIRECT_ENABLED\":\"false\",\"FL_PUBLIC_SEGMENT_KEY\":\"4wlzqe42XAOM7AUhTgjtOmHoor8u1l3d\",\"FL_PUBLIC_MAGENTO_URL\":\"https://checkout.formlabs.com\",\"FL_PUBLIC_MAGENTO_API_URL\":\"/api/magento\",\"FL_PUBLIC_DASHBOARD_CDN_URL\":\"https://dashboardstatic.formlabs.com\",\"FL_PUBLIC_CMS_SITE\":\"careers\"}') }); window.onTermlyOrAnalyticsLoaded = function() { if (window.Termly && window.analytics) { if (window.Termly.getConsentState?.()?.analytics) { window.analytics.start(); } else { window.Termly.on('consent', data => { if(data.categories.includes('analytics')) { window.analytics.start(); } }); }; } } var __TERMLY_FL_LOADER_DATA = JSON.parse('{\"disableTermly\":false,\"disabledTermlyCountries\":[]}'); var ANALYTICS_AUTO_START = false; var RUDDERSTACK_API_KEY = \"2oAEBnozRX2WFyWq6HlsTP9tJvQ\"; // Deliver events through our own server so the page event can be // enriched with the HttpOnly session cookie. The proxy // (/api/rs-dataplane) forwards everything to the real data plane. var RUDDERSTACK_DATA_PLANE_URL = \"https://analytics.formlabs.com\"; var RUDDERSTACK_ANALYTICS_BASE_URL = \"https://careers.formlabs.com\"; window.analytics.start(); Careers Our Teams Engineering & Product Marketing & Design Sales & Services Internal Operations Internships Locations North America Europe Asia Pacific Open Roles "
   },
+  "843ad9ff912357e3": {
+   "checked": "2026-07-31T18:09:00.659629+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Quality Engineering Intern @ Joby Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Quality Engineering Intern\",\"description\":\" Joby Aviation is a pioneering company in the aerospace sector focused on developing electric air taxis. They are seeking a highly organized and analytical intern to join their Quality Engineering team, where the intern will gain hands-on experience in aerospace quality engineering, risk management, and production validation. Responsibilities Develop, coordinate, and execute process capability studies and measurement systems analysis (MSA); interpret statistical data to provide technical recommendations Assist in analyzing product or process failures, supporting structural root-cause investigations (8D, 5-Why) to prevent reoccurrence Perform preliminary design and documentation reviews to evaluate inspectability, accuracy, and conformance to internal and regulatory standards Support engineering teams with Lean Manufacturing initiatives (such as 5S, Kaizen, and mistake-proofing techniques) to eliminate waste and reduce the cost of poor quality Skills Currently pursuing a Bachelor of Science (B.S.), Master of Science (M.S.), or Ph.D. in Industrial Engineering, Quality Engineering, Manufacturing Engineering, Systems Engineering, or a closely related technical discipline with a formal focus on Quality Systems, Operations Research, or Reliability Engineering Enrollment in the final 2 years of an undergraduate program (Junior/Senior standing) or currently enrolled in a relevant graduate program. Recent graduates within the last 12 months will also be considered Strong foundational understanding of statistical data analysis, engineering statistics, or statistical process control (SPC) Demonstrated experience utilizing computer-aided design software (e.g., CATIA, SolidWorks, or NX) for rev"
+  },
   "89e8bf75c3296fa0": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Bosch Group Powertrain Controls Software Engineering Intern (6-Months) | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-K5PPNKX6'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Bosch Group', 'postingId': '744000140089589', 'postingUuid': 'd147a592-5353-404c-9273-b463c2efa871', 'jobRefCode': 'REF289929X', 'jobId': '10766d6e-7a9f-42ca-bb1e-a80e1a930720' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style"
@@ -97,10 +101,31 @@
    "score": 4,
    "term": "assumed",
    "url": "https://psu.wd1.myworkdayjobs.com/Student/job/Electro-Optics-Center-in-Freeport-PA/Opto-Mechanical-Engineering-Intern_REQ_0000050425"
+  },
+  {
+   "company": "Piping Rock Health Products",
+   "location": "Sunrise, FL, United States",
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a6cb936acb0a61f9dbc6a50?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-07-30T23:13:25.298454+00:00",
  "postings": {
+  "046d4dda98ba169c": {
+   "company": "Danfoss",
+   "first_seen": "2026-07-31T18:09:00.659629+00:00",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "role": "Mechanical Engineering Internship, Product Development, Summer 2027",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6cc7fc32f9300c3a3e50aa?utm_campaign=1048&utm_source=git"
+  },
   "04d287b5d70ecef7": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -179,6 +204,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a37377b649fdf16292fcd97?utm_campaign=1048&utm_source=git"
   },
+  "241cbfbc1616cc3f": {
+   "company": "Piping Rock Health Products",
+   "first_seen": "2026-07-31T18:09:00.659629+00:00",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6cb936acb0a61f9dbc6a50?utm_campaign=1048&utm_source=git"
+  },
   "27d17ddf0d9b8c55": {
    "company": "Marmon Holdings",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -217,6 +255,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131662039"
+  },
+  "339eb3cae39093e2": {
+   "company": "Joby Aviation",
+   "first_seen": "2026-07-31T18:09:00.659629+00:00",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "role": "Quality Engineering Intern",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://jobright.ai/jobs/info/6a4ff384fc327f422fef72f9?utm_campaign=1048&utm_source=git"
   },
   "349f88d136e37f17": {
    "company": "Karh",
@@ -655,24 +706,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T16:22:51.365846+00:00",
+   "last_ok": "2026-07-31T18:09:00.659629+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T16:22:51.365846+00:00",
+   "last_ok": "2026-07-31T18:09:00.659629+00:00",
    "rows": 104
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T16:22:51.365846+00:00",
+   "last_ok": "2026-07-31T18:09:00.659629+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T16:22:51.365846+00:00",
-   "rows": 149
+   "last_ok": "2026-07-31T18:09:00.659629+00:00",
+   "rows": 161
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T16:22:51.365846+00:00",
-   "rows": 483
+   "last_ok": "2026-07-31T18:09:00.659629+00:00",
+   "rows": 495
   }
  },
  "version": 2
