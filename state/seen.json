@@ -506,6 +506,19 @@
    "tier": 9,
    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Thermal-Optimization-Engineering-Intern---Fall_30204244"
   },
+  "a54aa1fa52d15999": {
+   "company": "Qnity",
+   "first_seen": "2026-07-31T21:16:27.547609+00:00",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "role": "2027 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities - Qnity Electronics",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6cf01facb0a61f9dbc8058?utm_campaign=1048&utm_source=git"
+  },
   "a841ee15698f3a53": {
    "company": "Rocket Lab",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -665,24 +678,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T19:58:00.654948+00:00",
+   "last_ok": "2026-07-31T21:16:27.547609+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T19:58:00.654948+00:00",
+   "last_ok": "2026-07-31T21:16:27.547609+00:00",
    "rows": 104
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T19:58:00.654948+00:00",
+   "last_ok": "2026-07-31T21:16:27.547609+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T19:58:00.654948+00:00",
+   "last_ok": "2026-07-31T21:16:27.547609+00:00",
    "rows": 161
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T19:58:00.654948+00:00",
-   "rows": 490
+   "last_ok": "2026-07-31T21:16:27.547609+00:00",
+   "rows": 480
   }
  },
  "version": 2
