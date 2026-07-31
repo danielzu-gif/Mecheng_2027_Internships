@@ -69,6 +69,14 @@
    "score": 4,
    "term": "assumed",
    "url": "https://jobright.ai/jobs/info/6a37377b649fdf16292fcd97?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "U.S. Energy",
+   "location": "Appleton, WI, United States",
+   "role": "Mechanical Engineering Intern - U.S. Energy",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a6be5ddc00ae03109f8684f?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-07-30T23:13:25.298454+00:00",
@@ -335,6 +343,19 @@
    "tier": 2,
    "url": "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships"
   },
+  "89707158880b39a6": {
+   "company": "U.S. Energy",
+   "first_seen": "2026-07-31T03:35:27.976388+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern - U.S. Energy",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6be5ddc00ae03109f8684f?utm_campaign=1048&utm_source=git"
+  },
   "8b68581103f8639a": {
    "company": "MetOx International",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -561,24 +582,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T00:59:23.985394+00:00",
+   "last_ok": "2026-07-31T03:35:27.976388+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T00:59:23.985394+00:00",
+   "last_ok": "2026-07-31T03:35:27.976388+00:00",
    "rows": 104
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T00:59:23.985394+00:00",
+   "last_ok": "2026-07-31T03:35:27.976388+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T00:59:23.985394+00:00",
+   "last_ok": "2026-07-31T03:35:27.976388+00:00",
    "rows": 149
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T00:59:23.985394+00:00",
-   "rows": 503
+   "last_ok": "2026-07-31T03:35:27.976388+00:00",
+   "rows": 506
   }
  },
  "version": 2
