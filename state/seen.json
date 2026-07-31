@@ -77,6 +77,14 @@
    "score": 4,
    "term": "assumed",
    "url": "https://jobright.ai/jobs/info/6a6be5ddc00ae03109f8684f?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "GITAI",
+   "location": "Torrance, CA, United States",
+   "role": "Mechanical Engineering Intern / Co-op",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a6c0c5c5c54bc4752cec440?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-07-30T23:13:25.298454+00:00",
@@ -159,6 +167,19 @@
    "tier": 9,
    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1"
   },
+  "2a19abdf5b8e4686": {
+   "company": "GITAI",
+   "first_seen": "2026-07-31T06:32:58.702420+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern / Co-op",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6c0c5c5c54bc4752cec440?utm_campaign=1048&utm_source=git"
+  },
   "2d92e37c5c953c26": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -171,6 +192,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131662039"
+  },
+  "349f88d136e37f17": {
+   "company": "Karh",
+   "first_seen": "2026-07-31T06:32:58.702420+00:00",
+   "posted_at": "2026-07-30T00:00:00+00:00",
+   "role": "Power Electronics Engineer (unpaid / co-op summer internship)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6c09775c54bc4752cec36f?utm_campaign=1048&utm_source=git"
   },
   "3ab95800d11210c7": {
    "company": "Moog",
@@ -245,7 +279,8 @@
    "role": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
    "score": 14,
    "sources": [
-    "greenhouse:kairospower"
+    "greenhouse:kairospower",
+    "jobright-engineering"
    ],
    "term": "target",
    "tier": 2,
@@ -582,24 +617,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-07-31T03:35:27.976388+00:00",
+   "last_ok": "2026-07-31T06:32:58.702420+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-07-31T03:35:27.976388+00:00",
-   "rows": 104
+   "last_ok": "2026-07-31T06:32:58.702420+00:00",
+   "rows": 105
   },
   "sndsh-2027": {
-   "last_ok": "2026-07-31T03:35:27.976388+00:00",
+   "last_ok": "2026-07-31T06:32:58.702420+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-07-31T03:35:27.976388+00:00",
+   "last_ok": "2026-07-31T06:32:58.702420+00:00",
    "rows": 149
   },
   "zapply-2027": {
-   "last_ok": "2026-07-31T03:35:27.976388+00:00",
-   "rows": 506
+   "last_ok": "2026-07-31T06:32:58.702420+00:00",
+   "rows": 499
   }
  },
  "version": 2
