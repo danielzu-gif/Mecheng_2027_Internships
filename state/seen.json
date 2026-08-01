@@ -117,6 +117,14 @@
    "score": 4,
    "term": "unknown",
    "url": ""
+  },
+  {
+   "company": "Newport News Shipbuilding, A Division of HII",
+   "location": "Newport News, VA, United States",
+   "role": "MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a6dcfd5ad0fe2053db9ccd6?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-07-31T23:40:37.429769+00:00",
@@ -447,6 +455,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a5932c7686b4755d1e0efa4?utm_campaign=1048&utm_source=git"
+  },
+  "63c46278ba2cf0ba": {
+   "company": "Newport News Shipbuilding, A Division of HII",
+   "first_seen": "2026-08-01T16:26:02.032557+00:00",
+   "posted_at": "2026-08-01T00:00:00+00:00",
+   "role": "MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a6dcfd5ad0fe2053db9ccd6?utm_campaign=1048&utm_source=git"
   },
   "65ee3b94cc576eff": {
    "company": "Garver",
@@ -844,24 +865,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-01T15:07:02.775680+00:00",
+   "last_ok": "2026-08-01T16:26:02.032557+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-01T15:07:02.775680+00:00",
-   "rows": 68
+   "last_ok": "2026-08-01T16:26:02.032557+00:00",
+   "rows": 72
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-01T15:07:02.775680+00:00",
+   "last_ok": "2026-08-01T16:26:02.032557+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-08-01T15:07:02.775680+00:00",
+   "last_ok": "2026-08-01T16:26:02.032557+00:00",
    "rows": 161
   },
   "zapply-2027": {
-   "last_ok": "2026-08-01T15:07:02.775680+00:00",
-   "rows": 492
+   "last_ok": "2026-08-01T16:26:02.032557+00:00",
+   "rows": 496
   }
  },
  "version": 2
