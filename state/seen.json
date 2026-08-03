@@ -472,6 +472,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
   },
+  "5e7503aad2d1fe8f": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T06:47:07.055056+00:00",
+   "posted_at": "2026-08-03T03:57:22+00:00",
+   "role": "Supplier Quality Engineer Intern",
+   "score": 11,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"
+  },
   "61d77b1302c3b4e6": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
@@ -943,6 +956,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
   },
+  "db83960a11b3f6c8": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T06:47:07.055056+00:00",
+   "posted_at": "2026-08-03T04:00:15+00:00",
+   "role": "Talent Ops Intern",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819832003"
+  },
   "ea0be5b2c854d237": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
@@ -1024,24 +1050,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-03T03:37:04.796041+00:00",
+   "last_ok": "2026-08-03T06:47:07.055056+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-03T03:37:04.796041+00:00",
-   "rows": 112
+   "last_ok": "2026-08-03T06:47:07.055056+00:00",
+   "rows": 117
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-03T03:37:04.796041+00:00",
+   "last_ok": "2026-08-03T06:47:07.055056+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-08-03T03:37:04.796041+00:00",
+   "last_ok": "2026-08-03T06:47:07.055056+00:00",
    "rows": 161
   },
   "zapply-2027": {
-   "last_ok": "2026-08-03T03:37:04.796041+00:00",
-   "rows": 491
+   "last_ok": "2026-08-03T06:47:07.055056+00:00",
+   "rows": 498
   }
  },
  "version": 2
