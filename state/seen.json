@@ -523,6 +523,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
   },
+  "58eaebda35500a84": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T20:37:16.404124+00:00",
+   "posted_at": "2026-08-03T20:20:09+00:00",
+   "role": "Avionics Intern - Neutron Avionics Hardware",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819743003"
+  },
   "5e7503aad2d1fe8f": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T06:47:07.055056+00:00",
@@ -1114,24 +1127,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "last_ok": "2026-08-03T20:37:16.404124+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "last_ok": "2026-08-03T20:37:16.404124+00:00",
    "rows": 173
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "last_ok": "2026-08-03T20:37:16.404124+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "last_ok": "2026-08-03T20:37:16.404124+00:00",
    "rows": 165
   },
   "zapply-2027": {
-   "last_ok": "2026-08-03T19:00:07.869177+00:00",
-   "rows": 506
+   "last_ok": "2026-08-03T20:37:16.404124+00:00",
+   "rows": 510
   }
  },
  "version": 2
