@@ -93,6 +93,14 @@
    "score": 4,
    "term": "assumed",
    "url": "https://jobright.ai/jobs/info/6a51099802522b5b722e6e53?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "TE Connectivity",
+   "location": "Middletown, PA, United States",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a70ca19e2b7476e7b20aeeb?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-08-03T03:37:04.796041+00:00",
@@ -1064,6 +1072,19 @@
    "tier": 9,
    "url": "https://tt.wd503.myworkdayjobs.com/thorntontomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868"
   },
+  "f424601668ae89ff": {
+   "company": "TE Connectivity",
+   "first_seen": "2026-08-03T19:00:07.869177+00:00",
+   "posted_at": "2026-08-03T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a70ca19e2b7476e7b20aeeb?utm_campaign=1048&utm_source=git"
+  },
   "f7c9aa26b306dae1": {
    "company": "VECARIUS, Inc.",
    "first_seen": "2026-07-31T22:28:39.144707+00:00",
@@ -1093,24 +1114,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-03T17:16:07.076861+00:00",
+   "last_ok": "2026-08-03T19:00:07.869177+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-03T17:16:07.076861+00:00",
-   "rows": 174
+   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "rows": 173
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-03T17:16:07.076861+00:00",
-   "rows": 139
+   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-03T17:16:07.076861+00:00",
+   "last_ok": "2026-08-03T19:00:07.869177+00:00",
    "rows": 165
   },
   "zapply-2027": {
-   "last_ok": "2026-08-03T17:16:07.076861+00:00",
-   "rows": 507
+   "last_ok": "2026-08-03T19:00:07.869177+00:00",
+   "rows": 506
   }
  },
  "version": 2
