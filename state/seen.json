@@ -24,6 +24,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Hardware R&D Engineering Intern (Fall 2026) | Formlabs window.process = Object.assign(window.process || {}, { env: JSON.parse('{\"FL_PUBLIC_WEBSITE_HOST\":\"https://careers.formlabs.com\",\"FL_PUBLIC_API_URL\":\"https://api.formlabs.com\",\"FL_PUBLIC_CMS_HOST\":\"https://careers-content.formlabs.com\",\"FL_PUBLIC_OTEL_FRONTEND_BROWSER_ENABLED\":\"true\",\"FL_PUBLIC_CLIENT_ID\":\"ovkH4rD7N0yoABP4Dd70uC9yyJxA1Wgwj0yuFkqJ\",\"FL_PUBLIC_CLIENT_SECRET\":\"ifhcbbCdMjtrv4yf6LUeliUkVfi9eNyAzDNw6S6jzAL0Uv2idYZRzhJJm4gwUxVMnXOm4WIyMqGBTASkuyAMhZmXw0ueANfWO78nIDNEdNLzwS3PLMpV3kNhqT0Cba4A\",\"FL_PUBLIC_MAGENTO_MEDIA_URL\":\"https://formlabs.com/checkout-media\",\"FL_PUBLIC_ANALYTICS_BASE_URL\":\"https://careers.formlabs.com\",\"FL_PUBLIC_CHINA_REDIRECT_ENABLED\":\"false\",\"FL_PUBLIC_SEGMENT_KEY\":\"4wlzqe42XAOM7AUhTgjtOmHoor8u1l3d\",\"FL_PUBLIC_MAGENTO_URL\":\"https://checkout.formlabs.com\",\"FL_PUBLIC_MAGENTO_API_URL\":\"/api/magento\",\"FL_PUBLIC_DASHBOARD_CDN_URL\":\"https://dashboardstatic.formlabs.com\",\"FL_PUBLIC_CMS_SITE\":\"careers\"}') }); window.onTermlyOrAnalyticsLoaded = function() { if (window.Termly && window.analytics) { if (window.Termly.getConsentState?.()?.analytics) { window.analytics.start(); } else { window.Termly.on('consent', data => { if(data.categories.includes('analytics')) { window.analytics.start(); } }); }; } } var __TERMLY_FL_LOADER_DATA = JSON.parse('{\"disableTermly\":false,\"disabledTermlyCountries\":[]}'); var ANALYTICS_AUTO_START = false; var RUDDERSTACK_API_KEY = \"2oAEBnozRX2WFyWq6HlsTP9tJvQ\"; // Deliver events through our own server so the page event can be // enriched with the HttpOnly session cookie. The proxy // (/api/rs-dataplane) forwards everything to the real data plane. var RUDDERSTACK_DATA_PLANE_URL = \"https://analytics.formlabs.com\"; var RUDDERSTACK_ANALYTICS_BASE_URL = \"https://careers.formlabs.com\"; window.analytics.start(); Careers Our Teams Engineering & Product Marketing & Design Sales & Services Internal Operations Internships Locations North America Europe Asia Pacific Open Roles "
   },
+  "718b94ca11364118": {
+   "checked": "2026-08-03T03:37:04.796041+00:00",
+   "snippet": "Hermeus - Subsystem Test Engineering Intern - Fall 2026 .template-btn-submit.hex-color {background: #E6B019;border-color: #dba718;color: white;}.template-btn-submit.hex-color:visited {color: white;}.template-btn-submit.hex-color:hover {background: #dba718;color: white;}.template-btn-submit.hex-color:active,.template-btn-submit.hex-color:focus {background: #a17b12;color: white;} @font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metaboldlf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormal-webfont-2017.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormalitaliclf-webfont-2017.woff\") format('woff');font-weight: 400;font-style: italic;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metabolditaliclf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: italic;}@font-face {font-family: 'Meta-Caps';src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.eot\");src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Avenir';src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.eot\");src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.woff\") format('woff');src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.ttf\") format('truetype');font-weight: normal;font-style: normal;}.caps-label,.classic-table th,h4,h6,th,.btn,.submit,.btn-large,.submit-large,.btn-large-secondary,.dark-button,.toggle-label,.gated-feature:before,.gated-feature-inline:before,.gated-feature-inline-enterprise:before,.gated-feature-inline-professional:before,.gated-feature-inline-starter:before,.gated-feature-block:before,.gated-feature-block-pro:before,.cc-btn {font: 14px/1.4em 'Meta-Caps', sans-serif;text-transform: lower"
+  },
   "843ad9ff912357e3": {
    "checked": "2026-07-31T18:09:00.659629+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Quality Engineering Intern @ Joby Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Quality Engineering Intern\",\"description\":\" Joby Aviation is a pioneering company in the aerospace sector focused on developing electric air taxis. They are seeking a highly organized and analytical intern to join their Quality Engineering team, where the intern will gain hands-on experience in aerospace quality engineering, risk management, and production validation. Responsibilities Develop, coordinate, and execute process capability studies and measurement systems analysis (MSA); interpret statistical data to provide technical recommendations Assist in analyzing product or process failures, supporting structural root-cause investigations (8D, 5-Why) to prevent reoccurrence Perform preliminary design and documentation reviews to evaluate inspectability, accuracy, and conformance to internal and regulatory standards Support engineering teams with Lean Manufacturing initiatives (such as 5S, Kaizen, and mistake-proofing techniques) to eliminate waste and reduce the cost of poor quality Skills Currently pursuing a Bachelor of Science (B.S.), Master of Science (M.S.), or Ph.D. in Industrial Engineering, Quality Engineering, Manufacturing Engineering, Systems Engineering, or a closely related technical discipline with a formal focus on Quality Systems, Operations Research, or Reliability Engineering Enrollment in the final 2 years of an undergraduate program (Junior/Senior standing) or currently enrolled in a relevant graduate program. Recent graduates within the last 12 months will also be considered Strong foundational understanding of statistical data analysis, engineering statistics, or statistical process control (SPC) Demonstrated experience utilizing computer-aided design software (e.g., CATIA, SolidWorks, or NX) for rev"
@@ -48,6 +52,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Electromechanical Design Engineering Intern (Fall 2026) @ Rivian and Volkswagen Group Technologies {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electromechanical Design Engineering Intern (Fall 2026)\",\"description\":\" About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive\u2019s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we\u2019re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world. The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we\u2019ll map a new way forward. Working together, we\u2019ll create a future that\u2019s more connected, more intelligent, more sustainable for everyone. Role Summary This is a fantastic opportunity to shape the Electro-Mechanical design of vehicle systems. As an Electromechanical Design Engineering Intern, you will be directly involved in the complete life cycle development of electronic hardware, from early Proof of Concept work to final component release, and initial manufacturing support. About the Electromechanical Design Engineering Internship: We are looking for talented interns to join various teams within our Electromechanical Design Engineering department. Program Details: Timeline: Full-time, September 21 \u2013 December 18 Location: Palo Alto, CA, Champaign, IL or Irvine, CA By submitting a single application to this posting, you will be considered for all of the following internship tracks: Embedded Software Engineering Intern Software Engineering Intern - Vehicle Lab Electrical Design Engineering Intern Responsibilities Design & Development: Support and develop Proof of Concept work needed to ensure program success. Component Design: Design and develop analog, digital, and mixed-signal circuits for hardware modules, including schematic capture and component sele"
   },
+  "bb5884b84194ffa9": {
+   "checked": "2026-08-03T03:37:04.796041+00:00",
+   "snippet": "Electromechanical Design Engineering Intern (Fall 2026) @ Rivian and Volkswagen Group Technologies {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electromechanical Design Engineering Intern (Fall 2026)\",\"description\":\" About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive\u2019s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we\u2019re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world. The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we\u2019ll map a new way forward. Working together, we\u2019ll create a future that\u2019s more connected, more intelligent, more sustainable for everyone. Role Summary This is a fantastic opportunity to shape the Electro-Mechanical design of vehicle systems. As an Electromechanical Design Engineering Intern, you will be directly involved in the complete life cycle development of electronic hardware, from early Proof of Concept work to final component release, and initial manufacturing support. About the Electromechanical Design Engineering Internship: We are looking for talented interns to join various teams within our Electromechanical Design Engineering department. Program Details: Timeline: Full-time, September 21 \u2013 December 18 Location: Palo Alto, CA, Champaign, IL or Irvine, CA By submitting a single application to this posting, you will be considered for all of the following internship tracks: Embedded Software Engineering Intern Software Engineering Intern - Vehicle Lab Electrical Design Engineering Intern Responsibilities Design & Development: Support and develop Proof of Concept work needed to ensure program success. Component Design: Design and develop analog, digital, and mixed-signal circuits for hardware modules, including schematic capture and component sele"
+  },
   "bbc5c38a8f6fdeba": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Hardware Undergrad Engineering Internships - Jobs - Careers at Apple Apple Store Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support 0 + {\"props\":{\"globalNavData\":{\"locale\":\"en_US\",\"ariaLabel\":\"Global\",\"analyticsAttributes\":[{\"name\":\"data-analytics-activitymap-region-id\",\"value\":\"global nav\"},{\"name\":\"data-analytics-region\",\"value\":\"global nav\"}],\"links\":[{\"id\":\"2758e8127e4ab787ae4e849277f79b83b3522719ae4b96a595421e50ea2d03f7\",\"name\":\"apple\",\"text\":\"Apple\",\"url\":\"/\",\"ariaLabel\":\"Apple\",\"submenuAriaLabel\":\"Apple menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"},{\"name\":\"compact\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"apple home\"}]},{\"id\":\"ad4a2a26eb4836393385e9f6c61b526b4a3cb31409c5ed8730ce7a704dd7132f\",\"name\":\"store\",\"text\":\"Store\",\"url\":\"/us/shop/goto/store\",\"ariaLabel\":\"Store\",\"submenuAriaLabel\":\"Store menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"store\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - store\"}]},{\"id\":\"9a82f08a3cc17e59a61372a40e7ecb17783e9c10aef163465f29bb5b00d4725a\",\"name\":\"mac\",\"text\":\"Mac\",\"url\":\"/mac/\",\"ariaLabel\":\"Mac\",\"submenuAriaLabel\":\"Mac menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"mac\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - mac\"}]},{\"id\":\"00948525be55e5a61fc12335c2fe8fbc94664d6237757d79344cadd205bde991\",\"name\":\"ipad\",\"text\":\"iPad\",\"url\":\"/ipad/\",\"ariaLabel\":\"iPad\",\"submenuAriaLabel\":\"iPad menu\",\"images\":[{\"name\":\"regular\",\"assetInline\":\" \"}],\"analyticsAttributes\":[{\"name\":\"data-analytics-title\",\"value\":\"ipad\"},{\"name\":\"data-analytics-element-engagement\",\"value\":\"hover - ipad\"}]},{\"id\":\"254873a73c00038209d1c486273a47e092f598ac6df39eaa74322285d69c22d6\",\"name\":\"iphone\",\"text\":\"iPhone\",\"url\":\"/iphone/\",\"ariaLabel\":\"iPhone\",\"submenuAriaLabel\":\"iPhone menu\",\"images\":[{\"name\":\"regular\",\"assetI"
@@ -70,7 +78,7 @@
   }
  },
  "digest_queue": [],
- "last_digest": "2026-08-01T20:24:48.916751+00:00",
+ "last_digest": "2026-08-03T03:37:04.796041+00:00",
  "postings": {
   "046d4dda98ba169c": {
    "company": "Danfoss",
@@ -97,6 +105,19 @@
    "term": "target",
    "tier": 2,
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6122803004"
+  },
+  "056bc0e6835216f3": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:33:40+00:00",
+   "role": "Ground Systems Engineering Intern",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
   },
   "09bd785269a2e03f": {
    "company": "National Laboratory of the Rockies",
@@ -189,6 +210,19 @@
    "tier": 2,
    "url": null
   },
+  "262bab3483b20a0d": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:25:39+00:00",
+   "role": "Avionics Manufacturing Engineering Intern",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
+  },
   "27d17ddf0d9b8c55": {
    "company": "Marmon Holdings",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -227,6 +261,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131662039"
+  },
+  "2f5c686d2736a918": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:20:23+00:00",
+   "role": "Web Services Intern",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821120003"
   },
   "339eb3cae39093e2": {
    "company": "Joby Aviation",
@@ -359,6 +406,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6ba4a9acb0a61f9dbc20b9?utm_campaign=1048&utm_source=git"
   },
+  "4f91e926280c5f08": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:01:15+00:00",
+   "role": "Avionics Intern - Neutron Flight Safety Systems",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819590003"
+  },
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -399,6 +459,32 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a5932c7686b4755d1e0efa4?utm_campaign=1048&utm_source=git"
   },
+  "5876d40796e3c78f": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:29:47+00:00",
+   "role": "Ground Systems Engineering Intern - Instrumentation & Control",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
+  },
+  "61d77b1302c3b4e6": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:36:41+00:00",
+   "role": "Avionics Systems and Test Engineering Intern",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821144003"
+  },
   "63c46278ba2cf0ba": {
    "company": "Newport News Shipbuilding, A Division of HII",
    "first_seen": "2026-08-01T16:26:02.032557+00:00",
@@ -411,6 +497,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6dcfd5ad0fe2053db9ccd6?utm_campaign=1048&utm_source=git"
+  },
+  "643bc4d73802a327": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:35:19+00:00",
+   "role": "Electron Vehicle Development Intern",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821136003"
   },
   "65ee3b94cc576eff": {
    "company": "Garver",
@@ -438,6 +537,19 @@
    "tier": 2,
    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027"
   },
+  "6bc995007f0e14a4": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:59:51+00:00",
+   "role": "Ground Systems Engineering Intern - Electron",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
+  },
   "6ec45ec33b38b26b": {
    "company": "BorgWarner",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -450,6 +562,19 @@
    "term": "unknown",
    "tier": 3,
    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern---Adv-Engineering---PDS--Year-Round-_R2026-2137"
+  },
+  "71641ed2d5f0d503": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:13:18+00:00",
+   "role": "Neutron Mechanical Development Intern",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
   },
   "7e690fe4c22e7ee7": {
    "company": "Marotta Controls",
@@ -543,6 +668,19 @@
    "tier": 9,
    "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Co-op-Mechanical-Engineering-R-D_JR-204658-1"
   },
+  "8db033ba7902119f": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:15:31+00:00",
+   "role": "Systems Engineering Intern",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819994003"
+  },
   "928b867b668900b8": {
    "company": "Lila Sciences",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -609,6 +747,32 @@
    "term": "target",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6cf01facb0a61f9dbc8058?utm_campaign=1048&utm_source=git"
+  },
+  "a6a5608456b9cc50": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:04:46+00:00",
+   "role": "Development Engineering Intern - Neutron Upper Module",
+   "score": 11,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821126003"
+  },
+  "a6a6c30565a61dc7": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:16:51+00:00",
+   "role": "Integrated Operations Intern",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819703003"
   },
   "a841ee15698f3a53": {
    "company": "Rocket Lab",
@@ -727,6 +891,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6d06865c54bc4752cf0ab4?utm_campaign=1048&utm_source=git"
   },
+  "cf6f8c85bbe44281": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T01:40:53+00:00",
+   "role": "Manufacturing Engineering Intern - Vehicle Integration",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"
+  },
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -752,6 +929,45 @@
    "term": "target",
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a6bc21b57120971bf3a8bd9?utm_campaign=1048&utm_source=git"
+  },
+  "da89a0bebaeca1a9": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:21:34+00:00",
+   "role": "Manufacturing Engineering Intern- Spacecraft Components",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
+  },
+  "ea0be5b2c854d237": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T03:29:51+00:00",
+   "role": "Ground Systems Mechanical Engineering Intern - Neutron",
+   "score": 16,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821138003"
+  },
+  "ecef7cab78e50e36": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-03T03:37:04.796041+00:00",
+   "posted_at": "2026-08-03T02:19:22+00:00",
+   "role": "Avionics Intern - Neutron Avionics Systems",
+   "score": 9,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819822003"
   },
   "f3224ab94840f981": {
    "company": "Cooler Heads Care",
@@ -808,24 +1024,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-02T23:43:17.929109+00:00",
+   "last_ok": "2026-08-03T03:37:04.796041+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-02T23:43:17.929109+00:00",
+   "last_ok": "2026-08-03T03:37:04.796041+00:00",
    "rows": 112
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-02T23:43:17.929109+00:00",
+   "last_ok": "2026-08-03T03:37:04.796041+00:00",
    "rows": 139
   },
   "vansh-2027": {
-   "last_ok": "2026-08-02T23:43:17.929109+00:00",
+   "last_ok": "2026-08-03T03:37:04.796041+00:00",
    "rows": 161
   },
   "zapply-2027": {
-   "last_ok": "2026-08-02T23:43:17.929109+00:00",
-   "rows": 489
+   "last_ok": "2026-08-03T03:37:04.796041+00:00",
+   "rows": 491
   }
  },
  "version": 2

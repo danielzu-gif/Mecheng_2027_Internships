@@ -1,9 +1,6 @@
-# Digest 2026-08-01 20:24 UTC
+# Digest 2026-08-03 03:37 UTC
 
-- **Varda Space** — Mechanical Engineering Internship - F... · El Segundo, Calif... · score 11 · [link]()
-- **Rivian and Volkswagen Group Technologies** — Electromechanical Design Engineering ... · Irvine, California · score 10 · [link]()
-- **Astranis** — Mechanical Engineer - Associate Progr... · San Francisco · score 9 · [link]()
-- **Hermeus** — Subsystem Test Engineering Intern - F... · Atlanta, GA · score 9 · [link]()
-- **Garver** — Buildings Mechanical Engineering Intern · Dallas, TX, United States · score 4 · [link](https://jobright.ai/jobs/info/6a5a953c686b4755d1e1613a?utm_campaign=1048&utm_source=git)
-- **Intuitive** — Computer Vision Engineering Intern - ... · Sunnyvale, CA · score 4 · [link]()
-- **Newport News Shipbuilding, A Division of HII** — MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS · Newport News, VA, United States · score 4 · [link](https://jobright.ai/jobs/info/6a6dcfd5ad0fe2053db9ccd6?utm_campaign=1048&utm_source=git)
+- **Rocket Lab** — Avionics Intern - Neutron Avionics Systems · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7819822003)
+- **Rocket Lab** — Electron Vehicle Development Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7821136003)
+- **Rocket Lab** — Integrated Operations Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7819703003)
+- **Rocket Lab** — Web Services Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7821120003)
