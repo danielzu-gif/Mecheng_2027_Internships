@@ -1,6 +1,6 @@
-# Digest 2026-08-03 03:37 UTC
+# Digest 2026-08-03 23:11 UTC
 
-- **Rocket Lab** — Avionics Intern - Neutron Avionics Systems · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7819822003)
-- **Rocket Lab** — Electron Vehicle Development Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7821136003)
-- **Rocket Lab** — Integrated Operations Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7819703003)
-- **Rocket Lab** — Web Services Intern · Auckland, NZ · score 9 · [link](https://job-boards.greenhouse.io/rocketlab/jobs/7821120003)
+- **Blue Bird Corporation** — Intern, Mechanical Engineering · Fort Valley, GA, United States · score 4 · [link](https://jobright.ai/jobs/info/6a70b4d9cb96192a36845001?utm_campaign=1048&utm_source=git)
+- **Mission Technologies, a division of HII** — Mechanical - Master Tradesperson (SkillBridge Intern) - 18127 · Norfolk, VA, United States · score 4 · [link](https://jobright.ai/jobs/info/6a51099802522b5b722e6e53?utm_campaign=1048&utm_source=git)
+- **TE Connectivity** — Mechanical Engineering Intern · Middletown, PA, United States · score 4 · [link](https://jobright.ai/jobs/info/6a70ca19e2b7476e7b20aeeb?utm_campaign=1048&utm_source=git)
+- **Garver** — Mechanical Engineering Intern · Fayetteville, AR, United States · score 4 · [link](https://jobright.ai/jobs/info/6a70fea471acd469eeda11f0?utm_campaign=1048&utm_source=git)
