@@ -64,6 +64,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Electromechanical Design Engineering Intern (Fall 2026) @ Rivian and Volkswagen Group Technologies {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electromechanical Design Engineering Intern (Fall 2026)\",\"description\":\" About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive\u2019s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we\u2019re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world. The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we\u2019ll map a new way forward. Working together, we\u2019ll create a future that\u2019s more connected, more intelligent, more sustainable for everyone. Role Summary This is a fantastic opportunity to shape the Electro-Mechanical design of vehicle systems. As an Electromechanical Design Engineering Intern, you will be directly involved in the complete life cycle development of electronic hardware, from early Proof of Concept work to final component release, and initial manufacturing support. About the Electromechanical Design Engineering Internship: We are looking for talented interns to join various teams within our Electromechanical Design Engineering department. Program Details: Timeline: Full-time, September 21 \u2013 December 18 Location: Palo Alto, CA, Champaign, IL or Irvine, CA By submitting a single application to this posting, you will be considered for all of the following internship tracks: Embedded Software Engineering Intern Software Engineering Intern - Vehicle Lab Electrical Design Engineering Intern Responsibilities Design & Development: Support and develop Proof of Concept work needed to ensure program success. Component Design: Design and develop analog, digital, and mixed-signal circuits for hardware modules, including schematic capture and component sele"
   },
+  "baea5091704f2a8b": {
+   "checked": "2026-08-04T23:10:13.394739+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Engineering / Characterization Lab Intern \u2013 Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics @ E-Space | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Engineering / Characterization Lab Intern \u2013 Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics\",\"description\":\" E-Space is a company bridging Earth and space to enable hyper-scaled deployments of Internet of Things (IoT) solutions and services. They are seeking a motivated Engineering Intern with interests across mechanical, electrical, and aerospace engineering to support their Materials Characterization Lab engineers and staff on projects driving innovation in advanced manufacturing and aerospace systems. The role involves hands-on work with materials characterization and test techniques, contributing to functional and performance testing, and collaborating across disciplines. Responsibilities Assist in the measurement and analysis of electro-optical and semiconductor components Write and maintain test plans, work instructions, and technical documentation Assist in executing functional and performance tests, collecting and analyzing data Collaborate with engineers across disciplines to troubleshoot, solve problems, and implement improvements Contribute to a culture of safety, quality, and innovation in the lab environment Skills Current student pursuing a Bachelor's degree in Materials Science, Mechanical, Electrical, Aerospace, Chemistry, Physics, or related STEM field Strong problem-solving and hands-on skills; comfortable working in lab Ability to write clear technical documentation (test plans, work instructions, reports) Enthusiasm for learning, strong attention to detail, and effective communication skills Exposure to programming platforms (Python, C/C++, MATLAB, or similar) Benefits Mentorship from ex"
+  },
   "bb5884b84194ffa9": {
    "checked": "2026-08-03T03:37:04.796041+00:00",
    "snippet": "Electromechanical Design Engineering Intern (Fall 2026) @ Rivian and Volkswagen Group Technologies {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electromechanical Design Engineering Intern (Fall 2026)\",\"description\":\" About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive\u2019s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we\u2019re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world. The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we\u2019ll map a new way forward. Working together, we\u2019ll create a future that\u2019s more connected, more intelligent, more sustainable for everyone. Role Summary This is a fantastic opportunity to shape the Electro-Mechanical design of vehicle systems. As an Electromechanical Design Engineering Intern, you will be directly involved in the complete life cycle development of electronic hardware, from early Proof of Concept work to final component release, and initial manufacturing support. About the Electromechanical Design Engineering Internship: We are looking for talented interns to join various teams within our Electromechanical Design Engineering department. Program Details: Timeline: Full-time, September 21 \u2013 December 18 Location: Palo Alto, CA, Champaign, IL or Irvine, CA By submitting a single application to this posting, you will be considered for all of the following internship tracks: Embedded Software Engineering Intern Software Engineering Intern - Vehicle Lab Electrical Design Engineering Intern Responsibilities Design & Development: Support and develop Proof of Concept work needed to ensure program success. Component Design: Design and develop analog, digital, and mixed-signal circuits for hardware modules, including schematic capture and component sele"
@@ -994,6 +998,19 @@
    "tier": 3,
    "url": "https://jobright.ai/jobs/info/6a5c56c163a8f619507cd323?utm_campaign=1048&utm_source=git"
   },
+  "b3c6e74ea83a6070": {
+   "company": "E-Space",
+   "first_seen": "2026-08-04T23:10:13.394739+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Engineering / Characterization Lab Intern \u2013 Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics",
+   "score": 9,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://jobright.ai/jobs/info/6a72591145b6af1c30dbe475?utm_campaign=1048&utm_source=git"
+  },
   "b6b38f9420b17b5e": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -1309,24 +1326,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-04T21:42:12.957402+00:00",
+   "last_ok": "2026-08-04T23:10:13.394739+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-04T21:42:12.957402+00:00",
-   "rows": 215
+   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "rows": 226
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-04T21:42:12.957402+00:00",
+   "last_ok": "2026-08-04T23:10:13.394739+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-04T21:42:12.957402+00:00",
+   "last_ok": "2026-08-04T23:10:13.394739+00:00",
    "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-04T21:42:12.957402+00:00",
-   "rows": 494
+   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "rows": 505
   }
  },
  "version": 2
