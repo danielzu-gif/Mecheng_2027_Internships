@@ -28,6 +28,10 @@
    "checked": "2026-08-03T03:37:04.796041+00:00",
    "snippet": "Hermeus - Subsystem Test Engineering Intern - Fall 2026 .template-btn-submit.hex-color {background: #E6B019;border-color: #dba718;color: white;}.template-btn-submit.hex-color:visited {color: white;}.template-btn-submit.hex-color:hover {background: #dba718;color: white;}.template-btn-submit.hex-color:active,.template-btn-submit.hex-color:focus {background: #a17b12;color: white;} @font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metaboldlf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormal-webfont-2017.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormalitaliclf-webfont-2017.woff\") format('woff');font-weight: 400;font-style: italic;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metabolditaliclf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: italic;}@font-face {font-family: 'Meta-Caps';src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.eot\");src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Avenir';src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.eot\");src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.woff\") format('woff');src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.ttf\") format('truetype');font-weight: normal;font-style: normal;}.caps-label,.classic-table th,h4,h6,th,.btn,.submit,.btn-large,.submit-large,.btn-large-secondary,.dark-button,.toggle-label,.gated-feature:before,.gated-feature-inline:before,.gated-feature-inline-enterprise:before,.gated-feature-inline-professional:before,.gated-feature-inline-starter:before,.gated-feature-block:before,.gated-feature-block-pro:before,.cc-btn {font: 14px/1.4em 'Meta-Caps', sans-serif;text-transform: lower"
   },
+  "80c536c4ef2abbcd": {
+   "checked": "2026-08-04T00:57:08.109640+00:00",
+   "snippet": "Job Application for Summer 2027 Silicon Engineering Internship/Co-op at SpaceX New Summer 2027 Silicon Engineering Internship/Co-op Flexible - Any SpaceX Site Apply SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon engineering intern, you will work closely with your mentor and other world-class cross-disciplinary teams (systems, firmware, architecture, design, validation, product engineering, ASIC implementation) who will help you apply your knowledge and grow your skills, working on our custom in-house silicon and hardware that is deployed on-orbit, in space. You\u2019ll also get to have some fun and network with other interns and employees through optional social and professional events. If you\u2019ve demonstrated a commitment to academic success and motivation to apply your knowledge outside of the classroom to a very unique application of chip design and development, you are a great candidate! Aerospace experience is not required to be successful here - rather we look for smart, motivated, collaborative engineers who love solving problems and want to make an impact on a super inspiring mission. Internships are available with a variety of silicon engineering teams across the company at Irvine, CA; Palo Alto, CA; and Redmond (Seattle), WA. BASIC QUALIFICATIONS: Must be enrolled in a bachelor\u2019s degree or graduate program 3+ months of software development, hardware engineering, or chip design/development experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. \u00a7 1157, "
+  },
   "843ad9ff912357e3": {
    "checked": "2026-07-31T18:09:00.659629+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Quality Engineering Intern @ Joby Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Quality Engineering Intern\",\"description\":\" Joby Aviation is a pioneering company in the aerospace sector focused on developing electric air taxis. They are seeking a highly organized and analytical intern to join their Quality Engineering team, where the intern will gain hands-on experience in aerospace quality engineering, risk management, and production validation. Responsibilities Develop, coordinate, and execute process capability studies and measurement systems analysis (MSA); interpret statistical data to provide technical recommendations Assist in analyzing product or process failures, supporting structural root-cause investigations (8D, 5-Why) to prevent reoccurrence Perform preliminary design and documentation reviews to evaluate inspectability, accuracy, and conformance to internal and regulatory standards Support engineering teams with Lean Manufacturing initiatives (such as 5S, Kaizen, and mistake-proofing techniques) to eliminate waste and reduce the cost of poor quality Skills Currently pursuing a Bachelor of Science (B.S.), Master of Science (M.S.), or Ph.D. in Industrial Engineering, Quality Engineering, Manufacturing Engineering, Systems Engineering, or a closely related technical discipline with a formal focus on Quality Systems, Operations Research, or Reliability Engineering Enrollment in the final 2 years of an undergraduate program (Junior/Senior standing) or currently enrolled in a relevant graduate program. Recent graduates within the last 12 months will also be considered Strong foundational understanding of statistical data analysis, engineering statistics, or statistical process control (SPC) Demonstrated experience utilizing computer-aided design software (e.g., CATIA, SolidWorks, or NX) for rev"
@@ -1034,6 +1038,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819832003"
   },
+  "dcaffa2b6d275682": {
+   "company": "SpaceX",
+   "first_seen": "2026-08-04T00:57:08.109640+00:00",
+   "posted_at": "2026-08-04T00:57:08.109640+00:00",
+   "role": "Silicon Engineer Intern/Co-op",
+   "score": 8,
+   "sources": [
+    "simplify-2027"
+   ],
+   "term": "target",
+   "tier": 1,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify"
+  },
   "ea0be5b2c854d237": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
@@ -1112,6 +1129,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6cfd9c32f9300c3a3e6666?utm_campaign=1048&utm_source=git"
   },
+  "fb52349ed5c882be": {
+   "company": "Kiewit",
+   "first_seen": "2026-08-04T00:57:08.109640+00:00",
+   "posted_at": "2026-08-03T00:00:00+00:00",
+   "role": "Mechanical Design Intern - Kiewit Industrial & Water Engineering (Summer 2027)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a710faa9a0ca4480c7d2d12?utm_campaign=1048&utm_source=git"
+  },
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -1128,24 +1158,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-03T23:11:15.934926+00:00",
+   "last_ok": "2026-08-04T00:57:08.109640+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-03T23:11:15.934926+00:00",
-   "rows": 179
+   "last_ok": "2026-08-04T00:57:08.109640+00:00",
+   "rows": 190
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-03T23:11:15.934926+00:00",
+   "last_ok": "2026-08-04T00:57:08.109640+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-03T23:11:15.934926+00:00",
+   "last_ok": "2026-08-04T00:57:08.109640+00:00",
    "rows": 166
   },
   "zapply-2027": {
-   "last_ok": "2026-08-03T23:11:15.934926+00:00",
-   "rows": 514
+   "last_ok": "2026-08-04T00:57:08.109640+00:00",
+   "rows": 515
   }
  },
  "version": 2
