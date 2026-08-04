@@ -8,6 +8,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Job Application for Mechanical Engineering Internship - Fall 2026 at Varda Space Industries Back to jobs Mechanical Engineering Internship - Fall 2026 El Segundo, California, United States Apply Now About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbital economy by creating both the products and infrastructure needed so space can directly benefit life on Earth. Our mission is to expand the economic bounds of humankind. Our team is uniquely suited to accomplishing this goal, with leadership and staff comprised of veterans from SpaceX, Blue Origin, major pharmaceutical companies and Silicon Valley. Varda was founded in January 2021 by Will Bruey and Delian Asparouhov with significant backing from world class investors including Khosla Ventures, Lux Capital, Founders Fund, Caffeinated Capital, General Catalyst, and Also Capital. Varda is headquartered in El Segundo, California, where we have offices and a production facility where our vehicles, equipment, and materials are built, integrated, and tested. Varda also has offices in Washington, DC and Huntsville, AL. Join Varda, and work to create a bustling in-space ecosystem. About This Role Fall internships will range between the months of August and December. All dates dependent upon the university schedule of the selected students. Internships are full-time and on-site in Los Angeles, CA. To be considered for this internship, candidates must be actively enrolled in an accredited un"
   },
+  "3779b43903facbad": {
+   "checked": "2026-08-04T18:17:59.524572+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Power Electronics Engineering \u2013 Power Systems @ Energy Vault | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Intern, Power Electronics Engineering \u2013 Power Systems\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Energy Vault is a global energy storage and power infrastructure company focused on delivering reliable, flexible power solutions. The Intern, Power Electronics Engineering will gain practical experience in energy storage and data center technologies, working closely with experts to analyze and troubleshoot complex systems. Responsibilities Help design and perform verification tests in the EMT simulation and hardware-in-the-loop (HIL) platforms Collaborate with internal and external teams to determine system requirements and verify our solution will meet and exceed project requirements Skills Pursuing a Current Masters or Ph.D. degree with relevant research focus with solid power systems/power electronics background Strong interest in renewable energy, energy storage and data center industry Technical knowledge of grid-forming, grid-following inverters, power plant controller, DC/DC converters and solid-state transformers Experience with hardware-in-the-loop (HIL) testing, preferably OPAL-RT or other platforms such as Typhoon and RTDS Experience working on PSCAD, PSS/E and other power system modeling software Experience with designing, testing, analyzing, evaluating power electronics systems (AC/DC and DC/DC converters) Experience in testing inverter control board gate drivers and protection circuits Familiarity with power semiconductor devices SiC and IGBT Familiarity with relevant industry standards such as UL 1741, IEEE 1547, IEEE 2800 Experience with Matlab/Simulink, embedded control design experience in C/C++ preferably with TI C2000 DSP Experience in "
+  },
   "48dc5763f8b44039": {
    "checked": "2026-07-30T20:38:03.239238+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA\" } }, \"applicantLocationRequirements\" : { \"@type\" : \"Country\", \"name\" : \"United States of America\" }, \"jobLocationType\" : \"TELECOMMUTE\", \"hiringOrganization\" : { \"name\" : \"C01 Carrier Corporation\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Thermal Optimization Engineering Intern \u00e2\u0080\u0093 Fall\", \"@type\" : \"PropertyValue\", \"value\" : \"30204244\" }, \"datePosted\" : \"2026-07-20\", \"validThrough\" : \"2026-08-04\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Thermal Optimization Engineering Intern \u00e2\u0080\u0093 Fall\", \"description\" : \"About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure safe transport of food, lifesaving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit corporate.carrier.com or follow on Carrier social media at @Carrier. Pay Range Other Compensation Benefits This position is not eligible for Carrier benefits. Carrier EEO Statement and Accommodations Process Carrier is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. Carrier provides affirmative action i"
@@ -97,6 +101,30 @@
    "score": 3,
    "term": "assumed",
    "url": "https://jobright.ai/jobs/info/6a554dcf377f983ce8a99333?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Draper",
+   "location": "Cambridge, MA, United States",
+   "role": "Mechanical Engineering & System Packaging Intern",
+   "score": 5,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Draper",
+   "location": "Cambridge, MA",
+   "role": "Mechanical Engineering & System Packa...",
+   "score": 5,
+   "term": "unknown",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763"
+  },
+  {
+   "company": "Energy Vault",
+   "location": "United States",
+   "role": "Intern, Power Electronics Engineering \u2013 Power Systems",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a540f738ef95364ead94417?utm_campaign=1048&utm_source=git"
   }
  ],
  "last_digest": "2026-08-03T23:11:15.934926+00:00",
@@ -204,6 +232,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a51099802522b5b722e6e53?utm_campaign=1048&utm_source=git"
+  },
+  "1a79d77efe8850b8": {
+   "company": "VECARIUS, Inc.",
+   "first_seen": "2026-08-04T18:17:59.524572+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Mechanical Engineer (Intern with CFD)",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a720e9dcb96192a3684bb47?utm_campaign=1048&utm_source=git"
   },
   "2251c7be60d835d2": {
    "company": "American Cutting Edge, Inc.",
@@ -701,6 +742,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
   },
+  "7737755a3d818c9e": {
+   "company": "Energy Vault",
+   "first_seen": "2026-08-04T18:17:59.524572+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Intern, Power Electronics Engineering \u2013 Power Systems",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a540f738ef95364ead94417?utm_campaign=1048&utm_source=git"
+  },
   "7e690fe4c22e7ee7": {
    "company": "Marotta Controls",
    "first_seen": "2026-07-30T23:13:25.298454+00:00",
@@ -925,6 +979,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6c5fb7ca1f9338465ff04c?utm_campaign=1048&utm_source=git"
   },
+  "ae612e03e5f39e63": {
+   "company": "Draper",
+   "first_seen": "2026-08-04T18:17:59.524572+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Mechanical Engineering & System Packaging Intern",
+   "score": 5,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git"
+  },
   "b0d91835c2475f42": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -989,6 +1056,19 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobs.ashbyhq.com/human-computer-lab/63a06836-54f4-4475-9e03-007ce5afc04c/application"
+  },
+  "b9047a025e2920ba": {
+   "company": "Draper",
+   "first_seen": "2026-08-04T18:17:59.524572+00:00",
+   "posted_at": null,
+   "role": "Mechanical Engineering & System Packa...",
+   "score": 5,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "unknown",
+   "tier": 3,
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763"
   },
   "c22b46dc33ee9bdf": {
    "company": "KION Group",
@@ -1146,6 +1226,19 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819822003"
   },
+  "eff2c349bb7d1151": {
+   "company": "RTX",
+   "first_seen": "2026-08-04T18:17:59.524572+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern - Hot Section Engineering (Summer 2027) (Onsite)",
+   "score": 11,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a72076fe2b7476e7b210c2b?utm_campaign=1048&utm_source=git"
+  },
   "f3224ab94840f981": {
    "company": "Cooler Heads Care",
    "first_seen": "2026-07-31T22:28:39.144707+00:00",
@@ -1227,24 +1320,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-04T16:30:15.666605+00:00",
+   "last_ok": "2026-08-04T18:17:59.524572+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-04T16:30:15.666605+00:00",
+   "last_ok": "2026-08-04T18:17:59.524572+00:00",
    "rows": 215
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-04T16:30:15.666605+00:00",
+   "last_ok": "2026-08-04T18:17:59.524572+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-04T16:30:15.666605+00:00",
-   "rows": 215
+   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-04T16:30:15.666605+00:00",
-   "rows": 517
+   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "rows": 500
   }
  },
  "version": 2
