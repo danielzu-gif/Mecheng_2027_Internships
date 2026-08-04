@@ -1,5 +1,9 @@
 {
  "desc_cache": {
+  "08e51ad592fc83a9": {
+   "checked": "2026-08-04T20:05:43.288045+00:00",
+   "snippet": "Job Application for Test Automation Engineer Intern - Fall 2026 at Redwood Materials Back to jobs New Test Automation Engineer Intern - Fall 2026 San Francisco, California, United States Apply About Redwood Materials Redwood is localizing a global battery supply chain that seamlessly integrates recovery, reuse, and recycling \u2014 keeping critical minerals in circulation and driving the energy transition. Founded in 2017, we\u2019re delivering low-cost and large-scale energy storage and producing battery materials in the U.S. for the first time, all from batteries we already have. Test Automation Engineering Intern Redwood Energy is building some of the fastest, lowest-cost energy storage in the U.S. from both new battery modules and second-life EV packs. Second-life hardware arrives with a history \u2014 different chemistries, capacities, and states of health \u2014 and every unit has to be proven safe and reliable before it ships. That proof comes from test: the automated systems that exercise the firmware and electronics inside our products and decide whether they're ready for the field. Our test engineering team builds those systems \u2014 the test stands on the production floor, the hardware-in-the-loop benches that validate firmware releases, and the CI pipelines that tie them together. As a Test Automation Engineering Intern, you'll work alongside our engineers building the next generation of this test capability. You'll write Python that drives real instruments and real battery hardware, help bring up new test stands from the bench up, and debug failures where the root cause could live in the test code, the firmware, or the unit under test. This is a great opportunity to apply what you've learned in coursework to production test systems, with mentorship from experienced engineers along the way. Responsibilities will include: Test Automation: Write and maintain Python test automation for firmware and hardware validation, using pytest and our internal test frameworks. Instrument Cont"
+  },
   "18fb1fa69f4db853": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Hermeus - Subsystem Test Engineering Intern - Fall 2026 @font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metaboldlf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormal-webfont-2017.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metanormalitaliclf-webfont-2017.woff\") format('woff');font-weight: 400;font-style: italic;}@font-face {font-family: 'Meta';src: url(\"https://cdn.lever.co/fonts/Meta/metabolditaliclf-webfont-2017.woff\") format('woff');font-weight: 600;font-style: italic;}@font-face {font-family: 'Meta-Caps';src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.eot\");src: url(\"https://cdn.lever.co/fonts/Meta/MetaScWeb-Normal.woff\") format('woff');font-weight: 400;font-style: normal;}@font-face {font-family: 'Avenir';src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.eot\");src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.woff\") format('woff');src: url(\"https://cdn.lever.co/fonts/Avenir/Avenir-Next-Pro-Regular.ttf\") format('truetype');font-weight: normal;font-style: normal;}.caps-label,.classic-table th,h4,h6,th,.btn,.submit,.btn-large,.submit-large,.btn-large-secondary,.dark-button,.toggle-label,.gated-feature:before,.gated-feature-inline:before,.gated-feature-inline-enterprise:before,.gated-feature-inline-professional:before,.gated-feature-inline-starter:before,.gated-feature-block:before,.gated-feature-block-pro:before,.cc-btn {font: 14px/1.4em 'Meta-Caps', sans-serif;text-transform: lowercase;letter-spacing: 1px;}.label,body,input,select,textarea,.btn-no-style,.application-question input,.application-additional input,.application-question textarea,.application-additional textarea,.application-question select,.application-additional select,.eeo-light-text,h5.eeo-paragraph-heading,.list .filter-popup {font: 4"
@@ -85,49 +89,8 @@
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Process and Thermal Performance Intern @ Rondo Energy | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Process and Thermal Performance Intern\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Rondo Energy is transforming industrial decarbonization with its innovative Rondo Heat Battery technology. The Process and Thermal Performance Intern will work alongside a multidisciplinary engineering team to analyze and develop thermal and fluid systems for high-temperature heat batteries. Responsibilities Support thermal and fluid performance analyses using 1D simulation tools (e.g., AFT, Ebsilon, Aspen, or equivalent) and first-principles hand calculations to characterize system behavior across operating conditions Assist in sizing and performance evaluation of fluid system components including pumps, blowers, fans, heat exchangers, valves, dampers, and air-flow equipment Develop and validate steady-state and transient thermal models for energy storage and heat transfer systems, comparing simulation outputs against test data and analytical predictions Perform pressure drop, flow distribution, and energy balance calculations for ducting networks, piping systems, and process loops Apply fundamental thermodynamic and fluid mechanics principles to evaluate system efficiency, identify performance bottlenecks, and support design improvements Assist in developing and maintaining engineering calculation packages, spreadsheets, and simulation scripts used for design verification and performance tracking Support test planning and data reduction: process raw test data, produce performance plots, and compare results against model predictions Contribute to equipment specification and vendor data review for pumps, blowers, heat exchangers, and related process equipment Participate in design revie"
   }
  },
- "digest_queue": [
-  {
-   "company": "Lam Research",
-   "location": "Tualatin, OR, US, 97062",
-   "role": "Process Engineering Intern Job Details / Lam Research Corporation",
-   "score": 3,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6a5c56c163a8f619507cd323?utm_campaign=1048&utm_source=git"
-  },
-  {
-   "company": "Lam Research",
-   "location": "US-OR-Tualatin (1034)",
-   "role": "Process Engineering Intern",
-   "score": 3,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6a554dcf377f983ce8a99333?utm_campaign=1048&utm_source=git"
-  },
-  {
-   "company": "Draper",
-   "location": "Cambridge, MA, United States",
-   "role": "Mechanical Engineering & System Packaging Intern",
-   "score": 5,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git"
-  },
-  {
-   "company": "Draper",
-   "location": "Cambridge, MA",
-   "role": "Mechanical Engineering & System Packa...",
-   "score": 5,
-   "term": "unknown",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763"
-  },
-  {
-   "company": "Energy Vault",
-   "location": "United States",
-   "role": "Intern, Power Electronics Engineering \u2013 Power Systems",
-   "score": 4,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6a540f738ef95364ead94417?utm_campaign=1048&utm_source=git"
-  }
- ],
- "last_digest": "2026-08-03T23:11:15.934926+00:00",
+ "digest_queue": [],
+ "last_digest": "2026-08-04T20:05:43.288045+00:00",
  "postings": {
   "046d4dda98ba169c": {
    "company": "Danfoss",
@@ -1239,6 +1202,19 @@
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a72076fe2b7476e7b210c2b?utm_campaign=1048&utm_source=git"
   },
+  "f0574ee4ef296b58": {
+   "company": "DCI",
+   "first_seen": "2026-08-04T20:05:43.288045+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Mechanical Engineer - Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a721c45e2b7476e7b211612?utm_campaign=1048&utm_source=git"
+  },
   "f3224ab94840f981": {
    "company": "Cooler Heads Care",
    "first_seen": "2026-07-31T22:28:39.144707+00:00",
@@ -1320,23 +1296,23 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "last_ok": "2026-08-04T20:05:43.288045+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "last_ok": "2026-08-04T20:05:43.288045+00:00",
    "rows": 215
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "last_ok": "2026-08-04T20:05:43.288045+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "last_ok": "2026-08-04T20:05:43.288045+00:00",
    "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-04T18:17:59.524572+00:00",
+   "last_ok": "2026-08-04T20:05:43.288045+00:00",
    "rows": 500
   }
  },
