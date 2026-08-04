@@ -431,6 +431,19 @@
    "tier": 1,
    "url": null
   },
+  "4358a2a68a541756": {
+   "company": "Lockwood, Andrews & Newnam, Inc. (LAN)",
+   "first_seen": "2026-08-04T21:42:12.957402+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Intern, Mechanical (Summer 2027)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a72367fee751e0c7934790d?utm_campaign=1048&utm_source=git"
+  },
   "467f6971c5d1721b": {
    "company": "Tencent",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -1296,24 +1309,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-04T20:05:43.288045+00:00",
+   "last_ok": "2026-08-04T21:42:12.957402+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-04T20:05:43.288045+00:00",
+   "last_ok": "2026-08-04T21:42:12.957402+00:00",
    "rows": 215
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-04T20:05:43.288045+00:00",
+   "last_ok": "2026-08-04T21:42:12.957402+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-04T20:05:43.288045+00:00",
+   "last_ok": "2026-08-04T21:42:12.957402+00:00",
    "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-04T20:05:43.288045+00:00",
-   "rows": 500
+   "last_ok": "2026-08-04T21:42:12.957402+00:00",
+   "rows": 494
   }
  },
  "version": 2
