@@ -44,6 +44,10 @@
    "checked": "2026-07-31T18:09:00.659629+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Quality Engineering Intern @ Joby Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Quality Engineering Intern\",\"description\":\" Joby Aviation is a pioneering company in the aerospace sector focused on developing electric air taxis. They are seeking a highly organized and analytical intern to join their Quality Engineering team, where the intern will gain hands-on experience in aerospace quality engineering, risk management, and production validation. Responsibilities Develop, coordinate, and execute process capability studies and measurement systems analysis (MSA); interpret statistical data to provide technical recommendations Assist in analyzing product or process failures, supporting structural root-cause investigations (8D, 5-Why) to prevent reoccurrence Perform preliminary design and documentation reviews to evaluate inspectability, accuracy, and conformance to internal and regulatory standards Support engineering teams with Lean Manufacturing initiatives (such as 5S, Kaizen, and mistake-proofing techniques) to eliminate waste and reduce the cost of poor quality Skills Currently pursuing a Bachelor of Science (B.S.), Master of Science (M.S.), or Ph.D. in Industrial Engineering, Quality Engineering, Manufacturing Engineering, Systems Engineering, or a closely related technical discipline with a formal focus on Quality Systems, Operations Research, or Reliability Engineering Enrollment in the final 2 years of an undergraduate program (Junior/Senior standing) or currently enrolled in a relevant graduate program. Recent graduates within the last 12 months will also be considered Strong foundational understanding of statistical data analysis, engineering statistics, or statistical process control (SPC) Demonstrated experience utilizing computer-aided design software (e.g., CATIA, SolidWorks, or NX) for rev"
   },
+  "898580c3bbd7065a": {
+   "checked": "2026-08-05T11:55:51.873481+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Thermal Optimization Engineering Intern \u2013 Fall @ Carrier | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Thermal Optimization Engineering Intern \u2013 Fall\",\"description\":\" Carrier Global Corporation is a leader in intelligent climate and energy solutions, focused on innovations that enhance comfort and sustainability. They are seeking a Thermal Optimization Engineering Intern to research and develop algorithms for energy systems and automate workflows for design teams. Responsibilities Research, develop, and design computational algorithms to design and operate highly integrated energy systems to achieve optimal energy efficiency Develop automated computational workflows based on open-source packages notably in Python Deploy workflows to Carrier design teams Skills Must be currently pursuing a Master's degree in Applied mathematics, Chemical Engineering, Computational Engineering, Mechanical Engineering or any engineering field Must have an overall GPA of 3.0 or higher Must be eligible to work in the US without sponsorship Theoretical foundations and practical experience with optimization algorithms, including discrete optimization and non-linear programming Familiarity with thermodynamics and HVAC systems Coding skills in Pyomo, Python and Jupyter Company Overview Carrier is the provider of intelligent climate and energy solutions. It was founded in 1902, and is headquartered in Palm Beach Gardens, Florida, USA, with a workforce of 10001+ employees. Its website is https://www.corporate.carrier.com. \",\"datePosted\":\"2026-08-05 04:38:10\",\"employmentType\":\"INTERN\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Carrier\",\"sameAs\":\"https://www.corporate.carrier.com\",\"logo\":\"https://media.licdn.com/dms/image/v2/C4D0BAQHn21AU0U42Rw/company-logo_100_100/company-logo_100_100/0/1630572464986/carrier_logo?e=2147483647&v=b"
+  },
   "89e8bf75c3296fa0": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Bosch Group Powertrain Controls Software Engineering Intern (6-Months) | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-K5PPNKX6'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Bosch Group', 'postingId': '744000140089589', 'postingUuid': 'd147a592-5353-404c-9273-b463c2efa871', 'jobRefCode': 'REF289929X', 'jobId': '10766d6e-7a9f-42ca-bb1e-a80e1a930720' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style"
@@ -1378,24 +1382,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-05T09:33:57.724099+00:00",
+   "last_ok": "2026-08-05T11:55:51.873481+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-05T09:33:57.724099+00:00",
-   "rows": 233
+   "last_ok": "2026-08-05T11:55:51.873481+00:00",
+   "rows": 232
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-05T09:33:57.724099+00:00",
+   "last_ok": "2026-08-05T11:55:51.873481+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-05T09:33:57.724099+00:00",
+   "last_ok": "2026-08-05T11:55:51.873481+00:00",
    "rows": 217
   },
   "zapply-2027": {
-   "last_ok": "2026-08-05T09:33:57.724099+00:00",
-   "rows": 502
+   "last_ok": "2026-08-05T11:55:51.873481+00:00",
+   "rows": 505
   }
  },
  "version": 2
