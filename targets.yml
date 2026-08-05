@@ -12,13 +12,42 @@ season:
   # Flip to true if you decide a fall/spring co-op is worth hearing about.
   allow_offseason: false
 
+# -----------------------------------------------------------------------------
+# RANKS — the thing that decides how loud a posting is allowed to be.
+#   S  its own notification, priority 5, never capped away, never silenced.
+#   A  its own notification at normal priority, capped, overflow rolled up.
+#   B  never alone — folded into one roll-up notification.
+#   C  board and brief only.
+# First matching rule wins, checked S then A then B.
+# Want fewer S? Raise min_score to 10. Want tier 2 in the loud lane? Set
+# S.max_tier to 2. This block is the volume knob.
+# -----------------------------------------------------------------------------
+ranks:
+  S: {max_tier: 1, min_score: 8, terms: [target, assumed]}
+  A: {max_tier: 2, min_score: 6, terms: [target, assumed]}
+  B: {max_tier: 3, min_score: 5}
+
 routing:
-  instant_min_score: 6        # push to phone immediately at or above this
-  digest_min_score: 3         # otherwise collect into the daily digest
-  instant_max_age_hours: 72   # older than this goes to digest even if it scores
-  max_instant_pushes: 12      # hard cap per run so one bad regex can't spam you
-  max_description_fetches: 30 # per run, for tracker rows with no season in title
-  digest_hour_utc: 23         # 7pm ET
+  digest_min_score: 3          # below this a posting doesn't exist at all
+  instant_max_age_hours: 72    # an old A gets rolled up; an old S still pushes
+  max_instant_top: 8           # individual S pushes per run, rest roll up as S
+  max_instant_strong: 5        # individual A pushes per run
+  group_company_at: 3          # 3+ new roles at one company = one notification
+  max_description_fetches: 30  # per run, for tracker rows with no season in title
+
+  # Midnight to 8am ET: only rank S is allowed through. Everything else waits
+  # for the morning brief, so a 3am flood is one line at breakfast.
+  quiet_hours_utc: [4, 12]
+
+  brief_hours_utc: [12, 23]    # 8am and 7pm ET
+  brief_min_gap_hours: 8
+  brief_detail_caps: {S: 12, A: 10, B: 6, C: 0}   # C shows as a count only
+  heartbeat: true              # silent daily "still running" line when nothing hits
+
+  nudge_after_days: 3          # unticked rank S, still live, gets one reminder
+  board_active_days: 21        # a posting stops showing on the board after this
+  board_title: "📋 Summer 2027 internship board"
+  state_keep_days: 400
 
 # -----------------------------------------------------------------------------
 # COMPANIES
