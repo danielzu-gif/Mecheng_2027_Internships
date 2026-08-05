@@ -527,6 +527,19 @@
    "tier": 9,
    "url": "https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679"
   },
+  "54540631664d0cff": {
+   "company": "RTX",
+   "first_seen": "2026-08-05T00:51:06.010026+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Systems Engineer Intern - Summer 2027 (Onsite)",
+   "score": 9,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git"
+  },
   "56d12a830c060c3c": {
    "company": "Rondo Energy",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
@@ -1102,6 +1115,19 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6d06865c54bc4752cf0ab4?utm_campaign=1048&utm_source=git"
   },
+  "cd97747c42ac0010": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-05T00:51:06.010026+00:00",
+   "posted_at": "2026-08-04T23:43:26+00:00",
+   "role": "Development Engineering Intern - Neutron Thermal Protection Systems",
+   "score": 11,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825281003"
+  },
   "cf6f8c85bbe44281": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
@@ -1153,6 +1179,19 @@
    "term": "target",
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a70fa6d422dce5cda1d0b51?utm_campaign=1048&utm_source=git"
+  },
+  "d8926edb4eb8cf78": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-05T00:51:06.010026+00:00",
+   "posted_at": "2026-08-04T23:42:34+00:00",
+   "role": "Manufacturing Engineering Intern - Space Sytems",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820012003"
   },
   "da89a0bebaeca1a9": {
    "company": "Rocket Lab",
@@ -1326,24 +1365,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "last_ok": "2026-08-05T00:51:06.010026+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "last_ok": "2026-08-05T00:51:06.010026+00:00",
    "rows": 226
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "last_ok": "2026-08-05T00:51:06.010026+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-04T23:10:13.394739+00:00",
+   "last_ok": "2026-08-05T00:51:06.010026+00:00",
    "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-04T23:10:13.394739+00:00",
-   "rows": 505
+   "last_ok": "2026-08-05T00:51:06.010026+00:00",
+   "rows": 508
   }
  },
  "version": 2
