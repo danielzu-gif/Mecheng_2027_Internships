@@ -102,7 +102,7 @@
   }
  },
  "digest_queue": [],
- "last_digest": "2026-08-04T20:05:43.288045+00:00",
+ "last_digest": "2026-08-05T19:59:49.009430+00:00",
  "postings": {
   "046d4dda98ba169c": {
    "company": "Danfoss",
@@ -915,6 +915,19 @@
    "tier": 9,
    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Thermal-Optimization-Engineering-Intern---Fall_30204244"
   },
+  "9c13b277d1667580": {
+   "company": "Kimley-Horn",
+   "first_seen": "2026-08-05T19:59:49.009430+00:00",
+   "posted_at": "2026-08-05T00:00:00+00:00",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a737cc132ebbc14ffb4f40d?utm_campaign=1048&utm_source=git"
+  },
   "a54aa1fa52d15999": {
    "company": "Qnity",
    "first_seen": "2026-07-31T21:16:27.547609+00:00",
@@ -1148,6 +1161,19 @@
    "term": "assumed",
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"
+  },
+  "cfc5d77f9ab65f46": {
+   "company": "Heirloom",
+   "first_seen": "2026-08-05T19:59:49.009430+00:00",
+   "posted_at": "2026-08-05T00:00:00+00:00",
+   "role": "Mechanical Engineer Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a737cfd8dc3d52d8ed9fb8e?utm_campaign=1048&utm_source=git"
   },
   "d3b37ddf885cdf0a": {
    "company": "Apple",
@@ -1386,23 +1412,23 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-05T18:10:12.837109+00:00",
+   "last_ok": "2026-08-05T19:59:49.009430+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-05T18:10:12.837109+00:00",
+   "last_ok": "2026-08-05T19:59:49.009430+00:00",
    "rows": 236
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-05T18:10:12.837109+00:00",
+   "last_ok": "2026-08-05T19:59:49.009430+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-05T18:10:12.837109+00:00",
+   "last_ok": "2026-08-05T19:59:49.009430+00:00",
    "rows": 217
   },
   "zapply-2027": {
-   "last_ok": "2026-08-05T18:10:12.837109+00:00",
+   "last_ok": "2026-08-05T19:59:49.009430+00:00",
    "rows": 505
   }
  },
