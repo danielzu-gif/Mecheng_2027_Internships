@@ -7,19 +7,21 @@ on:
     # tight cadence only matters here.
     - cron: "*/20 12-23 * * *"
     - cron: "*/20 0-3 * * *"
-    # Overnight: hourly is plenty.
+    # Overnight: hourly is plenty. Quiet hours in targets.yml mean only rank S
+    # is allowed to make noise in this window anyway.
     - cron: "0 4-11 * * *"
     # Sunday 09:00 UTC — confirm every ATS token still resolves.
     - cron: "0 9 * * 0"
   workflow_dispatch:
     inputs:
       mode:
-        description: "run | dry-run | seed | digest | verify-boards"
+        description: "run | dry-run | seed | brief | board | verify-boards"
         required: false
         default: "run"
 
 permissions:
   contents: write
+  issues: write        # the board lives in an issue so the checkboxes are tappable
 
 concurrency:
   group: watcher
@@ -43,11 +45,16 @@ jobs:
       - name: Watch
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # optional: a second topic carrying rank S only, so top-tier drops
+          # can have their own sound in the ntfy app
+          NTFY_TOPIC_TOP: ${{ secrets.NTFY_TOPIC_TOP }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           case "${{ github.event.inputs.mode }}" in
             dry-run)       python watcher.py --dry-run --explain ;;
             seed)          python watcher.py --seed ;;
-            digest)        python watcher.py --digest ;;
+            brief|digest)  python watcher.py --brief ;;
+            board)         python watcher.py --board-only ;;
             verify-boards) python watcher.py --verify-boards ;;
             *)             python watcher.py ;;
           esac
