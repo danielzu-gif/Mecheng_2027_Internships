@@ -1232,6 +1232,19 @@
    "tier": 1,
    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify"
   },
+  "e385a575dcd42960": {
+   "company": "RTX",
+   "first_seen": "2026-08-05T06:04:10.444350+00:00",
+   "posted_at": "2026-08-04T00:00:00+00:00",
+   "role": "Electrical Engineering Intern (Summer 2027)(Onsite)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a7293500354c20775f64a5d?utm_campaign=1048&utm_source=git"
+  },
   "ea0be5b2c854d237": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
@@ -1365,24 +1378,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-05T03:15:40.038948+00:00",
+   "last_ok": "2026-08-05T06:04:10.444350+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-05T03:15:40.038948+00:00",
+   "last_ok": "2026-08-05T06:04:10.444350+00:00",
    "rows": 229
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-05T03:15:40.038948+00:00",
+   "last_ok": "2026-08-05T06:04:10.444350+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-05T03:15:40.038948+00:00",
+   "last_ok": "2026-08-05T06:04:10.444350+00:00",
    "rows": 216
   },
   "zapply-2027": {
-   "last_ok": "2026-08-05T03:15:40.038948+00:00",
-   "rows": 506
+   "last_ok": "2026-08-05T06:04:10.444350+00:00",
+   "rows": 504
   }
  },
  "version": 2
