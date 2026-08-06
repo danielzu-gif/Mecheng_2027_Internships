@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-06 06:08 UTC · tick a box the moment you apply and it disappears from every alert_
+_rebuilt 2026-08-06 06:26 UTC · tick a box the moment you apply and it disappears from every alert_
 
 **97 open · 20 apply-now · 0 applied**
 
@@ -57,7 +57,7 @@ _rebuilt 2026-08-06 06:08 UTC · tick a box the moment you apply and it disappea
 - [ ] **BorgWarner** — Mechanical Engineering Intern – Adv. ... · posted 6d ago · [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern---Adv-Engineering---PDS--Year-Round-_R2026-2137) <!--6ec45ec33b38b26b-->
 **Draper** (2)
 - [ ] Mechanical Engineering & System Packaging Intern · posted 2d ago · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--ae612e03e5f39e63-->
-- [ ] Mechanical Engineering & System Packa... · posted 35h ago · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--b9047a025e2920ba-->
+- [ ] Mechanical Engineering & System Packa... · posted 36h ago · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--b9047a025e2920ba-->
 
 
 </details>
@@ -84,7 +84,7 @@ _rebuilt 2026-08-06 06:08 UTC · tick a box the moment you apply and it disappea
 - [ ] **Baxter International** — Co-op Mechanical Engineering R&D · posted 6d ago · [apply](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Co-op-Mechanical-Engineering-R-D_JR-204658-1) <!--8b6f9240b132815a-->
 - [ ] **Blue Bird Corporation** — Intern, Mechanical Engineering · posted 3d ago · [apply](https://jobright.ai/jobs/info/6a70b4d9cb96192a36845001?utm_campaign=1048&utm_source=git) <!--367e0bfd03389680-->
 - [ ] **Boeing** — Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern · S27 confirmed · posted 3d ago · [apply](https://jobright.ai/jobs/info/6a70fa6d422dce5cda1d0b51?utm_campaign=1048&utm_source=git) <!--d6a070a71f4ca21a-->
-- [ ] **CAE** — Mechanical Engineering Intern · Arlington, TX · posted 8h ago · [apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210) <!--280ee8d717635394-->
+- [ ] **CAE** — Mechanical Engineering Intern · Arlington, TX · posted 9h ago · [apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210) <!--280ee8d717635394-->
 - [ ] **Carrier Global** — Thermal Optimization Engineering Inte... · posted 6d ago · [apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Thermal-Optimization-Engineering-Intern---Fall_30204244) <!--995a591e61fdda67-->
 - [ ] **Cooler Heads Care** — Mechanical Engineering Intern · posted 6d ago · [apply](https://jobright.ai/jobs/info/6a6cfbe4acb0a61f9dbc8416?utm_campaign=1048&utm_source=git) <!--f3224ab94840f981-->
 - [ ] **DCI** — Mechanical Engineer - Intern · posted 2d ago · [apply](https://jobright.ai/jobs/info/6a721c45e2b7476e7b211612?utm_campaign=1048&utm_source=git) <!--f0574ee4ef296b58-->
