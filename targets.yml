@@ -23,9 +23,12 @@ season:
 # S.max_tier to 2. This block is the volume knob.
 # -----------------------------------------------------------------------------
 ranks:
-  S: {max_tier: 1, min_score: 8, terms: [target, assumed]}
-  A: {max_tier: 2, min_score: 6, terms: [target, assumed]}
-  B: {max_tier: 3, min_score: 5}
+  # S and A require a CONFIRMED target season. An unstated season is no longer
+  # allowed into the loud lanes: that is what filled the priority band with
+  # reqs that turned out to be fall co-ops and Summer 2026 leftovers.
+  S: {max_tier: 1, min_score: 8, terms: [target]}
+  A: {max_tier: 2, min_score: 6, terms: [target]}
+  B: {max_tier: 3, min_score: 5, terms: [target, assumed]}
 
 routing:
   digest_min_score: 3          # below this a posting doesn't exist at all
@@ -33,21 +36,35 @@ routing:
   max_instant_top: 8           # individual S pushes per run, rest roll up as S
   max_instant_strong: 5        # individual A pushes per run
   group_company_at: 3          # 3+ new roles at one company = one notification
-  max_description_fetches: 30  # per run, for tracker rows with no season in title
+  max_description_fetches: 40  # per run, for tracker rows with no season in title
+  description_timeout: 8       # seconds per description fetch
+
+  # A req that has been open this long is filled or ignoring its own pipeline.
+  # Never alerted, never boarded. Top rank gets the longer leash.
+  max_posting_age_days: 14
+  max_posting_age_days_top: 21
 
   # Midnight to 8am ET: only rank S is allowed through. Everything else waits
-  # for the morning brief, so a 3am flood is one line at breakfast.
+  # for the next brief, so an overnight flood is one line when you wake up.
   quiet_hours_utc: [4, 12]
 
-  brief_hours_utc: [12, 23]    # 8am and 7pm ET
-  brief_min_gap_hours: 8
+  # 04:00 UTC = 12am ET, covering the 12pm-12am window.
+  # 16:00 UTC = 12pm ET, covering the 12am-12pm window.
+  # These are EDT. In winter, shift both by one to [5, 17] to hold the clock.
+  brief_hours_utc: [4, 16]
+  brief_min_gap_hours: 10
   brief_detail_caps: {S: 12, A: 10, B: 6, C: 0}   # C shows as a count only
   heartbeat: true              # silent daily "still running" line when nothing hits
 
-  nudge_after_days: 3          # unticked rank S, still live, gets one reminder
-  board_active_days: 21        # a posting stops showing on the board after this
+  # The board is a short list of what is actually actionable, not an archive.
+  board_active_days: 3         # unticked postings drop off after this
+  applied_visible_hours: 3     # a ticked posting clears the board this fast
   board_title: "📋 Summer 2027 internship board"
+  widenet_title: "🕸️ Wide net — everything else that matched"
   state_keep_days: 400
+
+# Companies you never want to hear from again, whatever they post.
+company_blocklist: []
 
 # -----------------------------------------------------------------------------
 # COMPANIES
@@ -265,6 +282,40 @@ roles:
     - undergraduate intern
     - technical intern
 
+  # A title that belongs to another discipline. Dropped outright UNLESS the
+  # job description names mechanical engineering as an eligible major, which is
+  # how the good "Electrical/Mechanical Engineering Intern" reqs still get in.
+  other_discipline:
+    - electrical engineer
+    - electrical engineering
+    - chemical engineer
+    - chemical engineering
+    - civil engineer
+    - civil engineering
+    - industrial engineer
+    - industrial engineering
+    - biomedical engineer
+    - environmental engineer
+    - petroleum engineer
+    - nuclear engineer
+    - materials engineer
+    - optical engineer
+    - photonics
+    - rf engineer
+    - silicon engineer
+    - electronics engineer
+    - firmware
+    - embedded software
+    - power systems engineer
+    - network engineer
+    - quality assurance
+    - supplier quality
+    - operations intern
+    - business operations
+    - talent
+    - people operations
+    - web services
+
   # -8 — kills the match outright
   negative:
     - software engineer intern
@@ -317,6 +368,8 @@ roles:
 # Locations you can't take. Matched against the location string only.
 location_blocklist:
   - canada
+  - new zealand
+  - auckland
   - ontario
   - quebec
   - alberta
