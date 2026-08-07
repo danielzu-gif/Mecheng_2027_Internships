@@ -29,6 +29,10 @@
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "Job Application for Mechanical Engineering Internship - Fall 2026 at Varda Space Industries Back to jobs Mechanical Engineering Internship - Fall 2026 El Segundo, California, United States Apply Now About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. Varda\u2019s W-Series vehicles are built, designed, and operated by Varda in-house, including the pharmaceutical processing payloads, the capsules, the C-PICA heat shields, and the satellite buses. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbital economy by creating both the products and infrastructure needed so space can directly benefit life on Earth. Our mission is to expand the economic bounds of humankind. Our team is uniquely suited to accomplishing this goal, with leadership and staff comprised of veterans from SpaceX, Blue Origin, major pharmaceutical companies and Silicon Valley. Varda was founded in January 2021 by Will Bruey and Delian Asparouhov with significant backing from world class investors including Khosla Ventures, Lux Capital, Founders Fund, Caffeinated Capital, General Catalyst, and Also Capital. Varda is headquartered in El Segundo, California, where we have offices and a production facility where our vehicles, equipment, and materials are built, integrated, and tested. Varda also has offices in Washington, DC and Huntsville, AL. Join Varda, and work to create a bustling in-space ecosystem. About This Role Fall internships will range between the months of August and December. All dates dependent upon the university schedule of the selected students. Internships are full-time and on-site in Los Angeles, CA. To be considered for this internship, candidates must be actively enrolled in an accredited un"
   },
+  "2f2eaf786bad9cc5": {
+   "checked": "2026-08-07T20:22:37.222325+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Internship Vehicle Thermal Systems Engineering @ Bosch | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Internship Vehicle Thermal Systems Engineering\",\"description\":\" Bosch is a leading technology and services company that is shaping the future through innovation. The Vehicle Thermal Systems Engineering Intern will support the integration and testing of advanced Bosch components into a hybrid pick-up truck, contributing to the design and analysis of vehicle systems. Responsibilities Support the integration of the Bosch high voltage cooling fan into the engine bay of the hybrid pick-up truck Be an active part of the project team supporting the design, analysis and manufacturing of the shroud and mounting interfaces of the HV fan to be integrated into the hybrid pick-up truck Support the HW and SW integration of a V2L-capable CharCon on our demo truck and identify possibilities to demonstrate the V2L capabilities to customers Create reports with thorough documentation of system design changes and share updates with the project teams on a regular basis Skills Currently pursuing a Bachelor's or Master's in Mechatronics, Mechanical Engineering or Electrical Engineering Must have professional working experience or previous internships in the automotive industry, working on electrification projects Must be willing to work in a vehicle lab onsite to support vehicle integration and testing activities Company Overview Bosch is an engineering and technology firm that provides sensor technology, software, and services to improve quality of life. It was founded in 1886, and is headquartered in Gerlingen, Baden-Wurttemberg, DEU, with a workforce of 10001+ employees. Its website is http://www.bosch.com. \",\"datePosted\":\"2026-08-07 16:31:45\",\"employmentType\":\"INTERN\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Bosch\",\"sa"
+  },
   "3779b43903facbad": {
    "checked": "2026-08-04T18:17:59.524572+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Power Electronics Engineering \u2013 Power Systems @ Energy Vault | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Intern, Power Electronics Engineering \u2013 Power Systems\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Energy Vault is a global energy storage and power infrastructure company focused on delivering reliable, flexible power solutions. The Intern, Power Electronics Engineering will gain practical experience in energy storage and data center technologies, working closely with experts to analyze and troubleshoot complex systems. Responsibilities Help design and perform verification tests in the EMT simulation and hardware-in-the-loop (HIL) platforms Collaborate with internal and external teams to determine system requirements and verify our solution will meet and exceed project requirements Skills Pursuing a Current Masters or Ph.D. degree with relevant research focus with solid power systems/power electronics background Strong interest in renewable energy, energy storage and data center industry Technical knowledge of grid-forming, grid-following inverters, power plant controller, DC/DC converters and solid-state transformers Experience with hardware-in-the-loop (HIL) testing, preferably OPAL-RT or other platforms such as Typhoon and RTDS Experience working on PSCAD, PSS/E and other power system modeling software Experience with designing, testing, analyzing, evaluating power electronics systems (AC/DC and DC/DC converters) Experience in testing inverter control board gate drivers and protection circuits Familiarity with power semiconductor devices SiC and IGBT Familiarity with relevant industry standards such as UL 1741, IEEE 1547, IEEE 2800 Experience with Matlab/Simulink, embedded control design experience in C/C++ preferably with TI C2000 DSP Experience in "
@@ -138,7 +142,52 @@
    "snippet": "Bosch Group Internship Vehicle Thermal Systems Engineering | SmartRecruiters gtmDataLayer = [{ 'gtm.whitelist': ['google', 'img', 'zone'], 'gtm.blacklist': ['adm', 'sp', 'gcs', 'opt'] }]; (function(w,d,s,l,i){w[l]=w[l] || [];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer', 'GTM-K5PPNKX6'); gtmDataLayer.push({ 'event': 'jobAdPageView', 'sourceId': '998bc6c9-cfbe-4db9-af4b-d7bb8407f264', 'sourceName': 'Default Career Page', 'brandId': 'default', 'brandName': 'Bosch Group', 'postingId': '744000142173185', 'postingUuid': 'c500965f-4ca0-4514-9878-a4d4e62856a0', 'jobRefCode': 'REF292508R', 'jobId': 'fa01f82d-afa6-4b02-b561-7e3210636751' }); function cleanInactiveCookies() { var config = Optanon.GetDomainData(); var allPossibleGroups = config.Groups.filter(function (group) { return group.hasOwnProperty('ShowInPopup') && group.ShowInPopup == true; }); var activeGroups = OptanonActiveGroups.split(',').filter(function (item) { return item.length > 0 }) var inactiveGroups = allPossibleGroups.filter(function (item) { return item.hasOwnProperty('OptanonGroupId') && activeGroups.indexOf(item.OptanonGroupId) -1) { document.cookie = cookie.Name + \"=; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=/; Domain=\" + cookie.Host; } }); }); setCookieConsentBannerHeight() reloadGoogleMaps(); } function setCookieConsentBannerHeight() { var banner, bannerWrapper; banner = document.getElementById('onetrust-banner-sdk'); bannerWrapper = document.getElementById('onetrust-consent-sdk'); if ( banner && banner.clientWidth !== 0 && banner.clientHeight !== 0 && banner.style && (banner.style.opacity !== '' ? parseFloat(banner.style.opacity) > 0 : true) ) { bannerWrapper.style.height = banner.offsetHeight + 'px'; } else { bannerWrapper.style.height = '0"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "company": "Bosch",
+   "location": "Farmington Hills, MI, United States",
+   "pid": "7e2e82150806861a",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Internship Vehicle Thermal Systems Engineering",
+   "score": 7,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "HDR",
+   "location": "Kansas City, MO, United States",
+   "pid": "363b8d6346e95e6b",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a761a7167a1ad0bc53c8c94?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "HDR",
+   "location": "Kansas City, MO, United States",
+   "pid": "2c3ca926e681ceaa",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical BIM Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a760f33bb6ca93ae5610bbb?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "North American Rescue, LLC",
+   "location": "La Grange, KY, United States",
+   "pid": "7d2c3d97bf481668",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git"
+  }
+ ],
  "last_digest": "2026-08-07T16:32:47.733698+00:00",
  "postings": {
   "01be65ccc2dfa40c": {
@@ -269,7 +318,7 @@
    "company": "Kairos Power",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-23T19:46:38+00:00",
    "rank": "A",
@@ -406,7 +455,7 @@
   "27d17ddf0d9b8c55": {
    "company": "Marmon Holdings",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "United States of America",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -423,7 +472,7 @@
   "280ee8d717635394": {
    "company": "CAE",
    "first_seen": "2026-08-05T21:22:05.990588+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Arlington, TX",
    "posted_at": "2026-08-06T05:00:12.980017+00:00",
    "rank": "C",
@@ -466,10 +515,26 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a70fea471acd469eeda11f0?utm_campaign=1048&utm_source=git"
   },
+  "2c3ca926e681ceaa": {
+   "company": "HDR",
+   "first_seen": "2026-08-07T20:22:37.222325+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
+   "location": "Kansas City, MO, United States",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical BIM Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a760f33bb6ca93ae5610bbb?utm_campaign=1048&utm_source=git"
+  },
   "2d92e37c5c953c26": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Fort Lauderdale, FL",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -545,6 +610,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6c09775c54bc4752cec36f?utm_campaign=1048&utm_source=git"
   },
+  "363b8d6346e95e6b": {
+   "company": "HDR",
+   "first_seen": "2026-08-07T20:22:37.222325+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
+   "location": "Kansas City, MO, United States",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a761a7167a1ad0bc53c8c94?utm_campaign=1048&utm_source=git"
+  },
   "367e0bfd03389680": {
    "company": "Blue Bird Corporation",
    "first_seen": "2026-08-03T17:16:07.076861+00:00",
@@ -590,7 +671,7 @@
   "3d1edc9618ec65c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:34:22+00:00",
@@ -669,7 +750,7 @@
   "449ac66864659b4e": {
    "company": "Curtiss-Wright",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Brecksville, OH",
    "posted_at": "2026-08-06T00:00:00+00:00",
    "rank": "C",
@@ -716,12 +797,13 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Somerville, MA, United States",
    "posted_at": "2026-08-06T00:00:00+00:00",
    "rank": "C",
    "role": "Mechanical Engineer (Intern)",
    "score": 4,
+   "scored_live": true,
    "sources": [
     "jobright-engineering"
    ],
@@ -763,7 +845,7 @@
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Alameda, CA, Albuquerque, NM, or Oak Ridge, TN",
    "posted_at": "2026-07-23T20:03:32+00:00",
    "rank": "A",
@@ -781,7 +863,7 @@
   "51c6f4bdb38f4adc": {
    "company": "Generac",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "North Billerica, MA - USA",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -984,7 +1066,7 @@
   "68d7cb1168c980dd": {
    "company": "Unison (GE Aerospace)",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Jacksonville, FL",
    "posted_at": "2026-07-16T00:00:00+00:00",
    "rank": "A",
@@ -1103,6 +1185,40 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a540f738ef95364ead94417?utm_campaign=1048&utm_source=git"
   },
+  "7d2c3d97bf481668": {
+   "company": "North American Rescue, LLC",
+   "first_seen": "2026-08-07T20:22:37.222325+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
+   "location": "La Grange, KY, United States",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git"
+  },
+  "7e2e82150806861a": {
+   "company": "Bosch",
+   "elig": "ok",
+   "first_seen": "2026-08-07T20:22:37.222325+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
+   "location": "Farmington Hills, MI, United States",
+   "posted_at": "2026-08-07T00:00:00+00:00",
+   "rank": "C",
+   "role": "Internship Vehicle Thermal Systems Engineering",
+   "score": 7,
+   "sources": [
+    "jobright-engineering",
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git"
+  },
   "7e690fe4c22e7ee7": {
    "company": "Marotta Controls",
    "first_seen": "2026-07-30T23:13:25.298454+00:00",
@@ -1137,7 +1253,7 @@
    "company": "Anduril",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:00:56+00:00",
@@ -1260,7 +1376,7 @@
   "928b867b668900b8": {
    "company": "Lila Sciences",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Cambridge, MA USA",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -1277,7 +1393,7 @@
   "9415b53ec44123b0": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "San Mateo, California, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-07-28T18:27:09.057000+00:00",
@@ -1297,7 +1413,7 @@
    "company": "Skydio",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "San Mateo, California, United States",
    "posted_at": "2026-07-28T18:35:36.967000+00:00",
    "rank": "B",
@@ -1364,7 +1480,7 @@
   "9f9b114c19d484f0": {
    "company": "Smiths Group",
    "first_seen": "2026-08-07T05:00:12.980017+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Morton Grove, IL",
    "posted_at": "2026-07-24T05:00:12.980017+00:00",
    "rank": "C",
@@ -1520,7 +1636,7 @@
    "company": "Kairos Power",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Alameda, CA, Albuquerque, NM, Oak Ridge, TN",
    "posted_at": "2026-07-23T22:04:30+00:00",
    "rank": "A",
@@ -1537,7 +1653,7 @@
   "b72b6af61b2552d1": {
    "company": "Huntsman",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Texas",
    "posted_at": "2026-07-17T05:00:12.980017+00:00",
    "rank": "C",
@@ -1554,7 +1670,7 @@
   "b8961312db5d3c39": {
    "company": "Human Computer Lab",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "San Francisco",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -1571,7 +1687,7 @@
   "b9047a025e2920ba": {
    "company": "Draper",
    "first_seen": "2026-08-04T18:17:59.524572+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Cambridge, MA",
    "posted_at": "2026-08-05T05:00:12.980017+00:00",
    "rank": "B",
@@ -1633,7 +1749,7 @@
   "ca750f3fdde18b71": {
    "company": "Vertiv",
    "first_seen": "2026-08-05T22:41:26.855834+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-05T22:41:26.855834+00:00",
    "rank": "C",
@@ -1696,7 +1812,7 @@
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "United States",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -1822,7 +1938,7 @@
   "e82d5de548e89644": {
    "company": "Schweitzer Engineering Laboratories",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Pullman",
    "posted_at": null,
    "rank": "C",
@@ -1930,7 +2046,7 @@
   "f3f50390f0739761": {
    "company": "Thornton Tomasetti",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "New York, NY, USA",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -1993,7 +2109,7 @@
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T19:37:50.581451+00:00",
+   "last_seen": "2026-08-07T20:22:37.222325+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:51:24+00:00",
@@ -2012,24 +2128,24 @@
  "saved": {},
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-07T19:37:50.581451+00:00",
+   "last_ok": "2026-08-07T20:22:37.222325+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-07T19:37:50.581451+00:00",
+   "last_ok": "2026-08-07T20:22:37.222325+00:00",
    "rows": 260
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-07T19:37:50.581451+00:00",
+   "last_ok": "2026-08-07T20:22:37.222325+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-07T19:37:50.581451+00:00",
+   "last_ok": "2026-08-07T20:22:37.222325+00:00",
    "rows": 224
   },
   "zapply-2027": {
-   "last_ok": "2026-08-07T19:37:50.581451+00:00",
-   "rows": 506
+   "last_ok": "2026-08-07T20:22:37.222325+00:00",
+   "rows": 512
   }
  },
  "version": 4,
