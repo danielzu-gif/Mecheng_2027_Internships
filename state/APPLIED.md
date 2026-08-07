@@ -1,5 +1,7 @@
 # Applied log
 
-_0 applications across 0 companies · updated 2026-08-07 17:32 UTC_
+_2 applications across 1 companies · updated 2026-08-07 18:29 UTC_
 
-_Nothing yet. Tick a box on the board and it lands here._
+## Rocket Lab (2)
+- Development Engineering Intern - Neutron Thermal Protection Systems · applied Aug 07, 2026 · [posting](https://job-boards.greenhouse.io/rocketlab/jobs/7825281003)
+- Manufacturing Engineering Intern - Space Sytems · applied Aug 07, 2026 · [posting](https://job-boards.greenhouse.io/rocketlab/jobs/7820012003)
