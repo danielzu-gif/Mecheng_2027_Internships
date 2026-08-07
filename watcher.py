@@ -60,6 +60,7 @@ DIGEST_PATH = ROOT / "state" / "digest.md"
 BOARD_PATH = ROOT / "state" / "BOARD.md"
 APPLIED_PATH = ROOT / "state" / "APPLIED.md"
 WIDE_PATH = ROOT / "state" / "WIDE_NET.md"
+HTML_PATH = ROOT / "docs" / "index.html"
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 # Optional second topic carrying ONLY rank S. Subscribe to it separately in the
@@ -148,6 +149,10 @@ def parse_iso(value) -> datetime | None:
         return None
 
 
+def human_date(dt: datetime | None) -> str:
+    return f"{dt:%b %d}" if dt else "date unknown"
+
+
 def human_age(dt: datetime | None) -> str:
     if not dt:
         return "posted date unknown"
@@ -186,6 +191,7 @@ class Posting:
 
     rank: str = "C"                   # S | A | B | C
     rank_reason: str = ""
+    elig: str = "unknown"             # ok | grad_only | unknown
 
     @property
     def key(self) -> str:
@@ -267,8 +273,8 @@ def revalidate(state: dict, cfg: dict, index: dict) -> None:
     what retires the Auckland reqs and the boilerplate-inflated scores."""
     changed, dropped, restored, tidied = 0, 0, 0, 0
     for rec in state["postings"].values():
-        if rec.get("dup"):
-            continue          # a resolved duplicate stays resolved
+        if rec.get("dup") or rec.get("grad_only"):
+            continue      # duplicates and grad-only reqs stay resolved
         # role text written before the title cleanup still reads like a page
         # title; the stored id never depended on it, so it is safe to fix
         neat = tidy_role(rec.get("role", ""), rec.get("company", ""))
@@ -677,6 +683,65 @@ def classify_term(post: Posting, cfg: dict) -> tuple[str, str]:
 
 
 # --------------------------------------------------------------------------
+# degree eligibility — can a BSE undergrad actually apply to this?
+# --------------------------------------------------------------------------
+#
+# Plenty of "internships" are only open to grad students. The title never says
+# so; the requirements do. The trap is that "enrolled in an undergraduate,
+# master's, or PhD program" contains every grad word there is and you DO
+# qualify for it, so a bare keyword search rejects exactly the wrong postings.
+# The rule that works: look only at sentences that talk about enrollment, and
+# if any of them names an undergraduate degree, you are eligible, full stop.
+
+ELIG_CUE = re.compile(
+    r"\b(enroll\w*|pursu\w*|working toward|studying toward|candidat\w*\s+for|"
+    r"matriculat\w*|must be|should be|required to be|currently a|currently an|"
+    r"eligib\w*|open to|degree in progress|actively \w+|seeking a|rising)", re.I)
+UNDERGRAD_OK = re.compile(
+    r"\b(bachelor'?s?|b\.?\s?s\.?(?:\s?e)?\b|b\.?\s?eng\b|bsme|undergraduate|undergrad|"
+    r"baccalaureate|sophomore|junior|senior|freshman|rising|associate'?s?|"
+    r"four[- ]?year degree|4[- ]?year degree|first[- ]?year student)\b", re.I)
+GRAD_ONLY = re.compile(
+    r"\b(master'?s?|m\.?\s?s\.?\b|m\.?\s?eng\b|msc|ph\.?\s?d|doctoral|doctorate|"
+    r"graduate\s+(?:student|degree|program|level|studies|intern)\w*|mba|post[- ]?doc)", re.I)
+
+
+def degree_gate(text: str) -> str:
+    """Returns ok | grad_only | unknown. Only 'grad_only' is disqualifying;
+    'unknown' means the posting never stated a requirement, which is not a
+    reason to throw it away."""
+    if not text:
+        return "unknown"
+    verdict = "unknown"
+    for sentence in re.split(r"(?<=[.;:!?])\s+|\n+", text):
+        if not ELIG_CUE.search(sentence):
+            continue
+        if UNDERGRAD_OK.search(sentence):
+            return "ok"                       # you qualify, nothing else matters
+        if GRAD_ONLY.search(sentence):
+            verdict = "grad_only"
+    return verdict
+
+
+def apply_degree_gate(posts: list[Posting], state: dict) -> list[Posting]:
+    keep, blocked = [], 0
+    for p in posts:
+        verdict = degree_gate(p.description)
+        p.elig = verdict
+        if verdict != "grad_only":
+            keep.append(p)
+            continue
+        blocked += 1
+        # if it is already on the board, retire it there too
+        rec = state["postings"].get(p.pid)
+        if rec is not None:
+            rec["filtered"] = rec["grad_only"] = True
+    if blocked:
+        log(f"{blocked} dropped as grad-students-only")
+    return keep
+
+
+# --------------------------------------------------------------------------
 # scoring
 # --------------------------------------------------------------------------
 
@@ -943,9 +1008,12 @@ def instant_push(p: Posting, state: dict, dry: bool) -> None:
     title = f"{meta['icon']} {focus}{p.company} · {p.role}"[:120]
     season = ("Summer 2027 confirmed" if p.term == "target"
               else "season unconfirmed" if p.term == "assumed" else p.term)
+    when = (f"posted {human_date(p.posted_at)} "
+            f"({human_age(p.posted_at).replace('posted ', '')})"
+            if p.posted_at else "posted date unknown")
     body = [
-        f"{meta['label']} · {p.tier_label} · score {p.score}",
-        f"{p.location or 'location n/a'} · {human_age(p.posted_at)}",
+        f"{meta['label']} · {when}",
+        f"{p.location or 'location n/a'} · {p.tier_label} · score {p.score}",
         f"{season} · {'direct from ' + p.source.split(':')[0] if p.source_kind == 'ats' else p.source}",
     ]
     if p.also_seen:
@@ -972,7 +1040,8 @@ def company_push(company: str, group: list[Posting], state: dict, dry: bool) -> 
     lines = [f"{meta['label']} · {top.tier_label}", ""]
     for p in sorted(group, key=lambda x: (rank_key(x.rank), -x.score))[:10]:
         lines.append(f"{p.rank} · {p.role[:60]}")
-        lines.append(f"    {p.location[:34] or 'location n/a'} · {human_age(p.posted_at)}")
+        lines.append(f"    posted {human_date(p.posted_at)} · "
+                     f"{p.location[:30] or 'location n/a'}")
     burl = board_url(state)
     if burl:
         lines += ["", burl]
@@ -1048,9 +1117,10 @@ def send_brief(state: dict, cfg: dict, dry: bool, force: bool = False) -> None:
         lines.append(f"{meta['icon']} {meta['label'].upper()} ({len(items)})")
         for it in items[:cap]:
             lines.append(f"{it['company'][:24]} · {it['role'][:46]}")
-            detail = f"    {it['location'][:30] or 'location n/a'}"
+            detail = f"    posted {human_date(parse_iso(it.get('posted_at')))} · " \
+                     f"{it['location'][:26] or 'location n/a'}"
             if it.get("term") == "target":
-                detail += " · S27 confirmed"
+                detail += " · S27"
             lines.append(detail)
         if len(items) > cap:
             lines.append(f"    +{len(items) - cap} more on the board")
@@ -1172,17 +1242,18 @@ def board_line(pid: str, rec: dict, checked: bool = False,
     """Two taps per posting and no typing: the top box archives it, the nested
     box pins it. Both carry a hidden id so the next run can read them back."""
     box = "x" if checked else " "
-    bits = [f"**{rec.get('company', '?')}** — {rec.get('role', '?')}"
-            if company_prefix else rec.get("role", "?")]
+    # company, then what the job is, then when it went up. Every line reads the
+    # same way, so scanning a column of them takes one pass instead of three.
+    bits = [f"**{rec.get('company', '?')}** — {rec.get('role', '?')}"]
+    posted = parse_iso(rec.get("posted_at")) or parse_iso(rec.get("first_seen"))
+    if posted:
+        bits.append(f"posted {human_date(posted)} ({human_age(posted).replace('posted ', '')})")
     if rec.get("location"):
         bits.append(rec["location"])
     if rec.get("term") == "target":
         bits.append("S27 confirmed")
     elif rec.get("term") == "assumed":
         bits.append("season unstated")
-    posted = parse_iso(rec.get("posted_at")) or parse_iso(rec.get("first_seen"))
-    if posted:
-        bits.append(human_age(posted))
     if rec.get("url"):
         bits.append(f"[apply]({rec['url']})")
     if checked and applied_date(rec):
@@ -1211,13 +1282,8 @@ def band_rows(items: list[tuple[str, dict]], savable: bool = True) -> list[str]:
     rows = []
     for company, group in ordered:
         group.sort(key=lambda kv: -int(kv[1].get("score", 0)))
-        if len(group) == 1:
-            rows += board_line(group[0][0], group[0][1], savable=savable)
-            rows.append("")
-            continue
-        rows.append(f"**{company}** ({len(group)})")
         for pid, rec in group:
-            rows += board_line(pid, rec, company_prefix=False, savable=savable)
+            rows += board_line(pid, rec, savable=savable)
         rows.append("")
     return rows
 
@@ -1385,6 +1451,95 @@ def sync_issue(state: dict, key: str, title: str, body: str) -> None:
         log(f"  issue #{issue['number']} created ({title})")
 
 
+def compose_html(state: dict, cfg: dict) -> str:
+    """GitHub strips target="_blank" out of issue markdown, so a click there
+    always eats the page you were reading. This page is ours, so the apply
+    links open in a new tab. Read here on a desktop, tick boxes on the issue."""
+    routing = cfg["routing"]
+    fresh_days = float(routing.get("board_active_days", 3))
+    applied, saved = state.get("applied", {}), state.get("saved", {})
+    bands = {r: [] for r in RANK_ORDER}
+    pinned = []
+    for pid, rec in state["postings"].items():
+        if pid in applied or rec.get("filtered"):
+            continue
+        if pid in saved:
+            pinned.append(rec)
+            continue
+        if too_old(rec, cfg):
+            continue
+        seen = parse_iso(rec.get("first_seen"))
+        if seen and (NOW - seen) > timedelta(days=fresh_days):
+            continue
+        bands.get(rec.get("rank", "C"), bands["C"]).append(rec)
+    for b in bands.values():
+        b.sort(key=lambda r: (-int(r.get("score", 0)), r.get("company", "")))
+    pinned.sort(key=lambda r: (rank_key(r.get("rank", "C")), -int(r.get("score", 0))))
+
+    def esc(t):
+        return htmllib.escape(str(t or ""))
+
+    def rows(items):
+        out = []
+        for rec in items:
+            posted = parse_iso(rec.get("posted_at")) or parse_iso(rec.get("first_seen"))
+            meta = [f"posted {human_date(posted)}" if posted else "posted date unknown"]
+            if rec.get("location"):
+                meta.append(esc(rec["location"]))
+            if rec.get("term") == "target":
+                meta.append("Summer 2027 confirmed")
+            elif rec.get("term") == "assumed":
+                meta.append("season unstated")
+            link = (f'<a href="{esc(rec["url"])}" target="_blank" rel="noopener noreferrer">apply →</a>'
+                    if rec.get("url") else "")
+            out.append(
+                f'<li><span class="c">{esc(rec.get("company", "?"))}</span>'
+                f'<span class="r">{esc(rec.get("role", "?"))}</span>'
+                f'<span class="m">{" · ".join(meta)}</span>{link}</li>')
+        return "\n".join(out)
+
+    sections = []
+    if pinned:
+        sections.append(f'<h2>📌 Saved ({len(pinned)})</h2><ul>{rows(pinned)}</ul>')
+    for r in RANK_ORDER:
+        if bands[r]:
+            sections.append(f'<h2>{esc(RANK_META[r]["board"])} ({len(bands[r])})</h2>'
+                            f'<ul>{rows(bands[r])}</ul>')
+    if not sections:
+        sections.append("<p class='empty'>Nothing open right now.</p>")
+
+    issue = (f'<a href="https://github.com/{GITHUB_REPO}/issues/{state["board_issue"]}" '
+             f'target="_blank" rel="noopener noreferrer">tick boxes on the board issue →</a>'
+             if state.get("board_issue") and GITHUB_REPO else "")
+    live = sum(len(bands[r]) for r in ("S", "A", "B"))
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Summer 2027 board</title>
+<style>
+:root {{ color-scheme: light dark; --line:#8883; --dim:#8888; --acc:#0a66ff; }}
+body {{ font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
+        max-width:860px; margin:0 auto; padding:28px 18px 60px; }}
+h1 {{ font-size:22px; margin:0 0 4px; }}
+h2 {{ font-size:15px; margin:30px 0 8px; padding-bottom:6px; border-bottom:1px solid var(--line); }}
+.sub {{ color:var(--dim); font-size:13px; margin:0 0 18px; }}
+ul {{ list-style:none; padding:0; margin:0; }}
+li {{ padding:10px 0; border-bottom:1px solid var(--line); display:flex;
+      flex-wrap:wrap; align-items:baseline; gap:4px 10px; }}
+.c {{ font-weight:650; }}
+.r {{ flex:1 1 340px; }}
+.m {{ color:var(--dim); font-size:13px; }}
+a {{ color:var(--acc); text-decoration:none; white-space:nowrap; }}
+a:hover {{ text-decoration:underline; }}
+.empty {{ color:var(--dim); }}
+</style></head><body>
+<h1>Summer 2027 board</h1>
+<p class="sub">{live} open · {len(pinned)} saved · rebuilt {NOW:%Y-%m-%d %H:%M} UTC ·
+links open in a new tab · {issue}</p>
+{"".join(sections)}
+</body></html>"""
+
+
 def publish_board(state: dict, cfg: dict, dry: bool) -> None:
     routing = cfg["routing"]
     body = compose_board(state, cfg)
@@ -1395,6 +1550,8 @@ def publish_board(state: dict, cfg: dict, dry: bool) -> None:
         BOARD_PATH.write_text(body)
         WIDE_PATH.write_text(wide)
         APPLIED_PATH.write_text(log_md)
+        HTML_PATH.parent.mkdir(parents=True, exist_ok=True)
+        HTML_PATH.write_text(compose_html(state, cfg))
     if dry or not (GITHUB_TOKEN and GITHUB_REPO):
         log(f"board {len(body)} chars · wide net {len(wide)} · applied log {len(log_md)}")
         return
@@ -1626,6 +1783,7 @@ def run(args) -> int:
     log(f"{len(posts)} clear the score floor")
 
     enrich_descriptions(posts, state, cfg)
+    posts = apply_degree_gate(posts, state)
     for p in posts:
         p.term, p.term_evidence = classify_term(p, cfg)
         if p.term == "target":
@@ -1689,6 +1847,8 @@ def run(args) -> int:
         }
         if any("description takes ME" in r for r in p.reasons):
             state["postings"][pid]["me_ok"] = True
+        if p.elig != "unknown":
+            state["postings"][pid]["elig"] = p.elig
         fresh_hits.append(p)
     if stale_count:
         log(f"{stale_count} skipped as already open too long")
@@ -1761,11 +1921,13 @@ def run(args) -> int:
         state["digest_queue"].append({
             "pid": p.pid, "rank": p.rank, "company": p.company, "role": p.role,
             "location": p.location, "term": p.term, "score": p.score, "url": p.url or "",
+            "posted_at": iso(p.posted_at),
         })
     for p in singles + [x for _, g in groups for x in g]:
         state["digest_queue"].append({
             "pid": p.pid, "rank": p.rank, "company": p.company, "role": p.role,
             "location": p.location, "term": p.term, "score": p.score, "url": p.url or "",
+            "posted_at": iso(p.posted_at),
         })
 
     brief_hours = routing.get("brief_hours_utc") or [int(routing.get("digest_hour_utc", 23))]
