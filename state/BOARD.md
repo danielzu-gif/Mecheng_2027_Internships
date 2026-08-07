@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-07 05:00 UTC · tick the top box when you apply · tick 📌 to keep something past the 3-day expiry_
+_rebuilt 2026-08-07 05:36 UTC · tick the top box when you apply · tick 📌 to keep something past the 3-day expiry_
 
 **8 open · 0 apply-now · 0 saved · 0 applied all-time**
 
@@ -30,5 +30,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (3d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
 
-### · Wide net (21)
-Unlisted companies that still match. Parked on the wide net page so they cannot bury the bands above. Ticking 📌 there moves one here.
+### · Wide net (20)
+Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.

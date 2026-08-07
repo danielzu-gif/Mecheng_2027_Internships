@@ -1,5 +1,5 @@
 # Wide net
-_21 open · rebuilt 2026-08-07 05:00 UTC · tick 📌 to move one onto the main board_
+_20 open · rebuilt 2026-08-07 05:36 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -45,14 +45,11 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Mitsubishi Electric Research Laboratories** — Internship - Experimental Thermofluid Systems · posted Aug 06 (29h ago) · Cambridge, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a74e1b1bb6ca93ae560c798?utm_campaign=1048&utm_source=git) <!--a:1519c0742d71a487-->
   - [ ] 📌 keep on the board <!--s:1519c0742d71a487-->
 
-- [ ] **Schweitzer Engineering Laboratories** — Mechanical Engineering Intern · posted Aug 07 (4h ago) · Pullman · season unstated · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-22469) <!--a:e82d5de548e89644-->
+- [ ] **Schweitzer Engineering Laboratories** — Mechanical Engineering Intern · posted Aug 07 (5h ago) · Pullman · season unstated · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-22469) <!--a:e82d5de548e89644-->
   - [ ] 📌 keep on the board <!--s:e82d5de548e89644-->
 
 - [ ] **Seasats** — Mechanical Engineering Intern · posted Aug 05 (2d ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a61432e7196365a6f009e30?utm_campaign=1048&utm_source=git) <!--a:8155163dc805cf0a-->
   - [ ] 📌 keep on the board <!--s:8155163dc805cf0a-->
-
-- [ ] **Smiths Group** — Mechanical Engineering Co-Op · posted Jul 24 (14d ago) · Morton Grove, IL · season unstated · [apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) <!--a:9f9b114c19d484f0-->
-  - [ ] 📌 keep on the board <!--s:9f9b114c19d484f0-->
 
 - [ ] **Space Capital** — Engineering / Characterization Lab Intern - Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics · posted Aug 05 (2d ago) · Arlington, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a739cf3e55c73319eb1863c?utm_campaign=1048&utm_source=git) <!--a:74cac0cfcb90daf3-->
   - [ ] 📌 keep on the board <!--s:74cac0cfcb90daf3-->
