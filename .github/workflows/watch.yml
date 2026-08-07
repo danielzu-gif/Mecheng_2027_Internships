@@ -65,7 +65,7 @@ jobs:
         run: |
           git config user.name  "internship-watcher"
           git config user.email "actions@github.com"
-          git add state/
+          git add state/ docs/
           git diff --staged --quiet && exit 0
           git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
           # Another run may have pushed while this one was working. State is
