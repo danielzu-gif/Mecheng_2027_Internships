@@ -106,14 +106,55 @@
    "checked": "2026-08-05T22:41:26.855834+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"FLME222\" } }, \"hiringOrganization\" : { \"name\" : \"0090 CORP-Corporate Office\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 Intern Vehicle Engineering\", \"@type\" : \"PropertyValue\", \"value\" : \"R10244105\" }, \"datePosted\" : \"2026-08-05\", \"validThrough\" : \"2026-08-08\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 Intern Vehicle Engineering\", \"description\" : \"RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. Northrop Grumman is seeking Vehicle Engineering Intern to join the Aeronautics Systems Intern Program. This position will be located in Melbourne, FL or Saint Augustine, FL The qualified candidate will become part of Northrop Grumman\u00e2\u0080\u0099s Vehicle Engineering Directorate. The selected candidate will work in a dynamic people-focused environment where he/she will interact with users, customers and other developers. As an intern, you\u00e2\u0080\u0099ll participate in a summer internship program to develop competencies in a v"
   },
+  "eaa333bd0aff9adb": {
+   "checked": "2026-08-07T02:57:12.764785+00:00",
+   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Intern Vehicle Engineering @ Northrop Grumman | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Intern Vehicle Engineering\",\"description\":\" Northrop Grumman is a leading company in revolutionary systems and technological advancements. They are seeking a Vehicle Engineering Intern to join their Aeronautics Systems Intern Program, where the selected candidate will develop competencies in various vehicle engineering specializations. Responsibilities Construct, troubleshoot, calibrate, adjust, test, and maintain equipment, components, devices, or systems Work from engineering drawings and written or verbal instructions Operate related equipment; conduct tests and report data in prescribed format Perform calibration and alignment checks; make adjustments, modifications, and replacements as directed Prepare prescribed compounds and solutions Skills Be enrolled full-time and pursuing an undergraduate or graduate degree from an accredited college/university AND graduating after August 2027 Be majoring in a STEM (Science, Technology, Engineering or Math) degree Be available to work full-time (40 hours per week) for at least 10 weeks during summer 2027 Be able to obtain and maintain a U.S. Government security clearance (U.S. citizenship is a pre-requisite) as well as Program Special access within a reasonable period of time, as determined by the company to meet its business needs (U.S. citizenship is a pre-requisite) Have an overall cumulative GPA of 3.25/4.0 or higher Previous internship/co-op experience, leadership & teamwork capabilities, interpersonal communication skills, and activities (professional/community/extracurricular) Benefits Relocation assistance: Relocation assistance may be available Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in"
+  },
   "eb97f2428704b237": {
    "checked": "2026-07-30T19:14:47.654252+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Process and Thermal Performance Intern @ Rondo Energy | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"[Remote] Process and Thermal Performance Intern\",\"description\":\" Note: The job is a remote job and is open to candidates in USA. Rondo Energy is transforming industrial decarbonization with its innovative Rondo Heat Battery technology. The Process and Thermal Performance Intern will work alongside a multidisciplinary engineering team to analyze and develop thermal and fluid systems for high-temperature heat batteries. Responsibilities Support thermal and fluid performance analyses using 1D simulation tools (e.g., AFT, Ebsilon, Aspen, or equivalent) and first-principles hand calculations to characterize system behavior across operating conditions Assist in sizing and performance evaluation of fluid system components including pumps, blowers, fans, heat exchangers, valves, dampers, and air-flow equipment Develop and validate steady-state and transient thermal models for energy storage and heat transfer systems, comparing simulation outputs against test data and analytical predictions Perform pressure drop, flow distribution, and energy balance calculations for ducting networks, piping systems, and process loops Apply fundamental thermodynamic and fluid mechanics principles to evaluate system efficiency, identify performance bottlenecks, and support design improvements Assist in developing and maintaining engineering calculation packages, spreadsheets, and simulation scripts used for design verification and performance tracking Support test planning and data reduction: process raw test data, produce performance plots, and compare results against model predictions Contribute to equipment specification and vendor data review for pumps, blowers, heat exchangers, and related process equipment Participate in design revie"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "company": "KBR Careers",
+   "location": "Las Cruces, NM, United States",
+   "pid": "ec9138f86c544a06",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a7522ec972ac843c699921a?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Rocket Lab",
+   "location": "Auckland, NZ",
+   "pid": "01be65ccc2dfa40c",
+   "rank": "S",
+   "role": "Manufacturing Engineering Intern - Composites",
+   "score": 14,
+   "term": "assumed",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
+  }
+ ],
  "last_digest": "2026-08-07T00:20:23.888150+00:00",
  "postings": {
+  "01be65ccc2dfa40c": {
+   "company": "Rocket Lab",
+   "first_seen": "2026-08-07T02:57:12.764785+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
+   "location": "Auckland, NZ",
+   "posted_at": "2026-08-07T02:23:50+00:00",
+   "rank": "S",
+   "role": "Manufacturing Engineering Intern - Composites",
+   "score": 14,
+   "sources": [
+    "greenhouse:rocketlab"
+   ],
+   "term": "assumed",
+   "tier": 1,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
+  },
   "046d4dda98ba169c": {
    "company": "Danfoss",
    "first_seen": "2026-07-31T18:09:00.659629+00:00",
@@ -131,7 +172,7 @@
   "04d287b5d70ecef7": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-22T19:11:37+00:00",
    "rank": "A",
    "role": "Chemical and Materials Engineering Internship - Summer 2027",
@@ -146,7 +187,7 @@
   "056bc0e6835216f3": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:33:40+00:00",
    "rank": "S",
@@ -221,7 +262,7 @@
   "1221dc75196104f9": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-23T19:46:38+00:00",
    "rank": "A",
    "role": "Electrical Engineering Internship - Summer 2027",
@@ -339,7 +380,7 @@
   "262bab3483b20a0d": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:25:39+00:00",
    "rank": "S",
@@ -355,7 +396,7 @@
   "27d17ddf0d9b8c55": {
    "company": "Marmon Holdings",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Mechanical Engineer Intern",
@@ -370,7 +411,7 @@
   "280ee8d717635394": {
    "company": "CAE",
    "first_seen": "2026-08-05T21:22:05.990588+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "Arlington, TX",
    "posted_at": null,
    "rank": "C",
@@ -415,7 +456,7 @@
   "2d92e37c5c953c26": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Mechanical Design Engineering Intern",
@@ -431,7 +472,7 @@
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:20:23+00:00",
    "rank": "S",
@@ -533,7 +574,7 @@
   "3d1edc9618ec65c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:34:22+00:00",
    "rank": "S",
@@ -578,14 +619,15 @@
   "415c5e9edfcd12a2": {
    "company": "Northrop Grumman",
    "first_seen": "2026-08-05T22:41:26.855834+00:00",
-   "last_seen": "2026-08-06T14:28:48.324647+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "2 Locations",
    "posted_at": null,
    "rank": "A",
    "role": "2027 Intern Vehicle Engineering",
    "score": 7,
    "sources": [
-    "zapply-2027"
+    "zapply-2027",
+    "jobright-engineering"
    ],
    "term": "target",
    "tier": 2,
@@ -608,7 +650,7 @@
   "449ac66864659b4e": {
    "company": "Curtiss-Wright",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "Brecksville, OH",
    "posted_at": null,
    "rank": "C",
@@ -683,7 +725,7 @@
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:01:15+00:00",
    "rank": "S",
@@ -699,7 +741,7 @@
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-23T20:03:32+00:00",
    "rank": "A",
    "role": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
@@ -715,7 +757,7 @@
   "51c6f4bdb38f4adc": {
    "company": "Generac",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Mechanical Design Engineering Intern",
@@ -730,7 +772,7 @@
   "52ac1cfc83e60d78": {
    "company": "Ferrero",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "North Canton, OH, United States",
    "posted_at": "2026-08-06T00:00:00+00:00",
    "rank": "C",
@@ -774,7 +816,7 @@
   "5876d40796e3c78f": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:29:47+00:00",
    "rank": "S",
@@ -791,7 +833,7 @@
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-08-03T20:37:16.404124+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-07T00:20:23.888150+00:00",
    "posted_at": "2026-08-03T20:20:09+00:00",
    "rank": "S",
@@ -807,7 +849,7 @@
   "5e7503aad2d1fe8f": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T06:47:07.055056+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T09:36:53.448948+00:00",
    "posted_at": "2026-08-03T03:57:22+00:00",
    "rank": "S",
@@ -837,7 +879,7 @@
   "61d77b1302c3b4e6": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:36:41+00:00",
    "rank": "S",
@@ -898,7 +940,7 @@
   "68d7cb1168c980dd": {
    "company": "Unison (GE Aerospace)",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-16T00:00:00+00:00",
    "rank": "A",
    "role": "Engineering Intern (Summer 2027)",
@@ -927,7 +969,7 @@
   "6bc995007f0e14a4": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:59:51+00:00",
    "rank": "S",
@@ -971,7 +1013,7 @@
   "71641ed2d5f0d503": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:13:18+00:00",
    "rank": "S",
@@ -1047,7 +1089,7 @@
   "81b8d67fd2f466c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:00:56+00:00",
    "rank": "S",
@@ -1150,7 +1192,7 @@
   "8db033ba7902119f": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:15:31+00:00",
    "rank": "S",
@@ -1166,7 +1208,7 @@
   "928b867b668900b8": {
    "company": "Lila Sciences",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Co-op, Mechanical Engineer",
@@ -1181,7 +1223,7 @@
   "9415b53ec44123b0": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-07-28T18:27:09.057000+00:00",
    "rank": "S",
@@ -1198,7 +1240,7 @@
   "95f3c265db0f7298": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-28T18:35:36.967000+00:00",
    "rank": "A",
    "role": "Electrical Engineer Intern",
@@ -1258,7 +1300,7 @@
   "a6a5608456b9cc50": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:04:46+00:00",
    "rank": "S",
@@ -1275,7 +1317,7 @@
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:16:51+00:00",
    "rank": "S",
@@ -1292,7 +1334,7 @@
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-06-09T03:18:35+00:00",
    "rank": "B",
    "role": "Apprentice Aerospace Technician",
@@ -1380,7 +1422,7 @@
   "b6b38f9420b17b5e": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-07-23T22:04:30+00:00",
    "rank": "A",
    "role": "Nuclear Engineering Internship - Summer 2027 ",
@@ -1395,7 +1437,7 @@
   "b72b6af61b2552d1": {
    "company": "Huntsman",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Mechanical Engineering Intern",
@@ -1410,7 +1452,7 @@
   "b8961312db5d3c39": {
    "company": "Human Computer Lab",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Intern - Mechanical Engineer",
@@ -1425,7 +1467,7 @@
   "b9047a025e2920ba": {
    "company": "Draper",
    "first_seen": "2026-08-04T18:17:59.524572+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "B",
    "role": "Mechanical Engineering & System Packa...",
@@ -1483,7 +1525,7 @@
   "ca750f3fdde18b71": {
    "company": "Vertiv",
    "first_seen": "2026-08-05T22:41:26.855834+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-05T22:41:26.855834+00:00",
    "rank": "C",
@@ -1499,7 +1541,7 @@
   "cd97747c42ac0010": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-05T00:51:06.010026+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-08-04T23:43:26+00:00",
    "rank": "S",
    "role": "Development Engineering Intern - Neutron Thermal Protection Systems",
@@ -1514,7 +1556,7 @@
   "cf6f8c85bbe44281": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T01:40:53+00:00",
    "rank": "S",
@@ -1545,7 +1587,7 @@
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Hardware Undergrad Engineering Internship",
@@ -1589,7 +1631,7 @@
   "d8926edb4eb8cf78": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-05T00:51:06.010026+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-08-04T23:42:34+00:00",
    "rank": "S",
    "role": "Manufacturing Engineering Intern - Space Sytems",
@@ -1604,7 +1646,7 @@
   "da89a0bebaeca1a9": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:21:34+00:00",
    "rank": "S",
@@ -1637,7 +1679,8 @@
   "dcaffa2b6d275682": {
    "company": "SpaceX",
    "first_seen": "2026-08-04T00:57:08.109640+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
+   "nudged": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": "2026-08-04T00:57:08.109640+00:00",
    "rank": "S",
    "role": "Silicon Engineer Intern/Co-op",
@@ -1666,7 +1709,7 @@
   "e82d5de548e89644": {
    "company": "Schweitzer Engineering Laboratories",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "location": "Pullman",
    "posted_at": null,
    "rank": "C",
@@ -1682,7 +1725,7 @@
   "ea0be5b2c854d237": {
    "company": "Rocket Lab",
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T03:29:51+00:00",
    "rank": "S",
@@ -1695,11 +1738,27 @@
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821138003"
   },
+  "ec9138f86c544a06": {
+   "company": "KBR Careers",
+   "first_seen": "2026-08-07T02:57:12.764785+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
+   "location": "Las Cruces, NM, United States",
+   "posted_at": "2026-08-06T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a7522ec972ac843c699921a?utm_campaign=1048&utm_source=git"
+  },
   "ecef7cab78e50e36": {
    "company": "Rocket Lab",
    "filtered": true,
    "first_seen": "2026-08-03T03:37:04.796041+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-06T06:08:16.468765+00:00",
    "posted_at": "2026-08-03T02:19:22+00:00",
    "rank": "S",
@@ -1757,7 +1816,7 @@
   "f3f50390f0739761": {
    "company": "Thornton Tomasetti",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "posted_at": null,
    "rank": "C",
    "role": "Mechanical Engineer Co-op",
@@ -1814,7 +1873,7 @@
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-07T00:20:23.888150+00:00",
+   "last_seen": "2026-08-07T02:57:12.764785+00:00",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:51:24+00:00",
    "rank": "S",
@@ -1830,24 +1889,24 @@
  },
  "source_health": {
   "jobright-engineering": {
-   "last_ok": "2026-08-07T00:20:23.888150+00:00",
+   "last_ok": "2026-08-07T02:57:12.764785+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-07T00:20:23.888150+00:00",
-   "rows": 261
+   "last_ok": "2026-08-07T02:57:12.764785+00:00",
+   "rows": 266
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-07T00:20:23.888150+00:00",
+   "last_ok": "2026-08-07T02:57:12.764785+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-07T00:20:23.888150+00:00",
+   "last_ok": "2026-08-07T02:57:12.764785+00:00",
    "rows": 224
   },
   "zapply-2027": {
-   "last_ok": "2026-08-07T00:20:23.888150+00:00",
-   "rows": 507
+   "last_ok": "2026-08-07T02:57:12.764785+00:00",
+   "rows": 505
   }
  },
  "version": 3
