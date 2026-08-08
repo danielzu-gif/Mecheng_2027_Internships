@@ -1,5 +1,5 @@
 # Wide net
-_22 open · rebuilt 2026-08-08 19:04 UTC · tick 📌 to move one onto the main board_
+_22 open · rebuilt 2026-08-08 19:47 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -9,7 +9,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Vertiv** — Thermal Application Engineer Intern - Summer 2027 · posted Aug 05 (2d ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512?utm_source=Simplify&ref=Simplify) <!--a:ca750f3fdde18b71-->
   - [ ] 📌 keep on the board <!--s:ca750f3fdde18b71-->
 
-- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (26h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
+- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (27h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
 
 - [ ] **CAE** — Mechanical Engineering Intern · posted Aug 06 (2d ago) · Arlington, TX · season unstated · [apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210) <!--a:280ee8d717635394-->
@@ -50,7 +50,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **RoShay Services** — Mechanical Engineering Intern/Co-Op · posted Aug 07 (43h ago) · Cincinnati, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git) <!--a:c70ca694dbf32e27-->
   - [ ] 📌 keep on the board <!--s:c70ca694dbf32e27-->
 
-- [ ] **Schweitzer Engineering Laboratories** — Mechanical Engineering Intern · posted Aug 07 (42h ago) · Pullman · season unstated · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-22469) <!--a:e82d5de548e89644-->
+- [ ] **Schweitzer Engineering Laboratories** — Mechanical Engineering Intern · posted Aug 07 (43h ago) · Pullman · season unstated · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-22469) <!--a:e82d5de548e89644-->
   - [ ] 📌 keep on the board <!--s:e82d5de548e89644-->
 
 - [ ] **Seasats** — Mechanical Engineering Intern · posted Aug 05 (3d ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a61432e7196365a6f009e30?utm_campaign=1048&utm_source=git) <!--a:8155163dc805cf0a-->
