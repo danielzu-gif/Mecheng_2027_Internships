@@ -1,5 +1,5 @@
 # Wide net
-_60 open · rebuilt 2026-08-09 14:03 UTC · tick 📌 to move one onto the main board_
+_61 open · rebuilt 2026-08-09 14:56 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -36,7 +36,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Bosch** — Internship Vehicle Thermal Systems Engineering · posted Aug 07 (2d ago) · Farmington Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git) <!--a:7e2e82150806861a-->
   - [ ] 📌 keep on the board <!--s:7e2e82150806861a-->
 
-- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (45h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
+- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (46h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
 - [ ] **Bosch Group** — Powertrain Controls Software Engineer... · posted Jul 30 (9d ago) · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) <!--a:b0d91835c2475f42-->
   - [ ] 📌 keep on the board <!--s:b0d91835c2475f42-->
@@ -143,6 +143,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Seasats** — Mechanical Engineering Intern · posted Aug 05 (4d ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a61432e7196365a6f009e30?utm_campaign=1048&utm_source=git) <!--a:8155163dc805cf0a-->
   - [ ] 📌 keep on the board <!--s:8155163dc805cf0a-->
+
+- [ ] **Shinkei** — Mechanical Engineering Intern/Associate Engineer · posted Aug 09 (14h ago) · El Segundo, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7874acb17cba56903618cf?utm_campaign=1048&utm_source=git) <!--a:f4995c282da87900-->
+  - [ ] 📌 keep on the board <!--s:f4995c282da87900-->
 
 - [ ] **Smiths Group** — Mechanical Engineering Co-Op · posted Jul 24 (16d ago) · Morton Grove, IL · season unstated · [apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) <!--a:9f9b114c19d484f0-->
   - [ ] 📌 keep on the board <!--s:9f9b114c19d484f0-->
