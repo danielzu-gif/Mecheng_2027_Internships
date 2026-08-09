@@ -1,18 +1,11 @@
 # Summer 2027 board
-_rebuilt 2026-08-09 18:52 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-09 19:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**26 open · 0 apply-now · 0 saved · 3 applied all-time**
+**20 open · 0 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## 🔷 Strong (15)
-
-- [ ] **Kairos Power** — Mechanical and Manufacturing Engineering Internship - Summer 2027 · posted Jul 23 (16d ago) · Alameda, CA, Albuquerque, NM, or Oak Ridge, TN · S27 confirmed · [apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) <!--a:5182d548ef11a6e4-->
-  - [ ] 📌 keep on the board <!--s:5182d548ef11a6e4-->
-- [ ] **Kairos Power** — Nuclear Engineering Internship - Summer 2027 · posted Jul 23 (16d ago) · Alameda, CA, Albuquerque, NM, Oak Ridge, TN · S27 confirmed · [apply](https://job-boards.greenhouse.io/kairospower/jobs/6123830004) <!--a:b6b38f9420b17b5e-->
-  - [ ] 📌 keep on the board <!--s:b6b38f9420b17b5e-->
-- [ ] **Kairos Power** — Chemical and Materials Engineering Internship - Summer 2027 · posted Jul 22 (17d ago) · Alameda, CA, Albuquerque, NM or Oak Ridge, TN  · S27 confirmed · [apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) <!--a:04d287b5d70ecef7-->
-  - [ ] 📌 keep on the board <!--s:04d287b5d70ecef7-->
+## 🔷 Strong (10)
 
 - [ ] **Rocket Lab** — Ground Systems Mechanical Engineering Intern - Neutron · posted Aug 03 (6d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821138003) <!--a:ea0be5b2c854d237-->
   - [ ] 📌 keep on the board <!--s:ea0be5b2c854d237-->
@@ -38,13 +31,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (5d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
 
-- [ ] **Skydio** — Product Design Engineer Intern · posted Jul 28 (12d ago) · San Mateo, California, United States · season unstated · [apply](https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182) <!--a:9415b53ec44123b0-->
-  - [ ] 📌 keep on the board <!--s:9415b53ec44123b0-->
-
-- [ ] **Unison (GE Aerospace)** — Engineering Intern (Summer 2027) · posted Jul 16 (24d ago) · Jacksonville, FL · S27 confirmed · [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) <!--a:68d7cb1168c980dd-->
-  - [ ] 📌 keep on the board <!--s:68d7cb1168c980dd-->
-
-## ▫️ Worth a look (11)
+## ▫️ Worth a look (10)
 
 - [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (4d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
   - [ ] 📌 keep on the board <!--s:b9047a025e2920ba-->
@@ -70,8 +57,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (2d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
 
-- [ ] **BorgWarner** — Mechanical Engineering Intern – Adv. ... · posted Jul 30 (9d ago) · [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern---Adv-Engineering---PDS--Year-Round-_R2026-2137) <!--a:6ec45ec33b38b26b-->
-  - [ ] 📌 keep on the board <!--s:6ec45ec33b38b26b-->
-
-### · Wide net (62)
+### · Wide net (55)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
