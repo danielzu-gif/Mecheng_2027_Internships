@@ -108,7 +108,8 @@ companies:
     - {name: Skydio,            ats: ashby,      board: skydio,             verified: true}
     - {name: Saronic,           ats: ashby,      board: saronic,            verified: true}
     - {name: Blue Origin,       ats: null,       careers: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"}
-    - {name: Joby Aviation,     ats: greenhouse, board: jobyaviation,       verified: false}
+    # iCIMS, which has no public board API. Reaches you via the trackers only.
+    - {name: Joby Aviation,     ats: null,       careers: "https://careers-jobyaviation.icims.com/"}
     - {name: Archer Aviation,   ats: greenhouse, board: archeraviation,     verified: false}
     - {name: Beta Technologies, ats: greenhouse, board: betatechnologies,   verified: false}
     - {name: Relativity Space,  ats: greenhouse, board: relativityspace,    verified: false}
