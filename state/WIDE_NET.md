@@ -1,5 +1,5 @@
 # Wide net
-_55 open · rebuilt 2026-08-09 20:11 UTC · tick 📌 to move one onto the main board_
+_49 open · rebuilt 2026-08-09 20:56 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -21,14 +21,8 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **American Cutting Edge, Inc.** — Mechanical Engineer Intern · posted Jul 30 (10d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a37377b649fdf16292fcd97?utm_campaign=1048&utm_source=git) <!--a:2251c7be60d835d2-->
   - [ ] 📌 keep on the board <!--s:2251c7be60d835d2-->
 
-- [ ] **Arora Engineers** — Mechanical Engineering Intern · posted Jul 30 (10d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a590b26856af468ab00178f?utm_campaign=1048&utm_source=git) <!--a:4939fa76df9c22e4-->
-  - [ ] 📌 keep on the board <!--s:4939fa76df9c22e4-->
-
 - [ ] **Baker Hughes** — Intern – Mechanical Engineering & Mec... · posted Jul 19 (21d ago) · Celle, DE · [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055) <!--a:edf12232cd7c6be6-->
   - [ ] 📌 keep on the board <!--s:edf12232cd7c6be6-->
-
-- [ ] **Baxter International** — Co-op Mechanical Engineering R&D · posted Jul 30 (9d ago) · season unstated · [apply](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Co-op-Mechanical-Engineering-R-D_JR-204658-1) <!--a:8b6f9240b132815a-->
-  - [ ] 📌 keep on the board <!--s:8b6f9240b132815a-->
 
 - [ ] **Blue Bird Corporation** — Intern, Mechanical Engineering · posted Aug 03 (6d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a70b4d9cb96192a36845001?utm_campaign=1048&utm_source=git) <!--a:367e0bfd03389680-->
   - [ ] 📌 keep on the board <!--s:367e0bfd03389680-->
@@ -44,9 +38,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **CAE** — Mechanical Engineering Intern · posted Aug 06 (3d ago) · Arlington, TX · season unstated · [apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210) <!--a:280ee8d717635394-->
   - [ ] 📌 keep on the board <!--s:280ee8d717635394-->
-
-- [ ] **Carrier Global** — Thermal Optimization Engineering Inte... · posted Aug 06 (3d ago) · CAG10: ALC · season unstated · [apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Thermal-Optimization-Engineering-Intern---Fall_30204244) <!--a:995a591e61fdda67-->
-  - [ ] 📌 keep on the board <!--s:995a591e61fdda67-->
 
 - [ ] **Cooler Heads Care** — Mechanical Engineering Intern · posted Jul 31 (9d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a6cfbe4acb0a61f9dbc8416?utm_campaign=1048&utm_source=git) <!--a:f3224ab94840f981-->
   - [ ] 📌 keep on the board <!--s:f3224ab94840f981-->
@@ -109,9 +100,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Mission Technologies, a division of HII** — Mechanical - Master Tradesperson (SkillBridge Intern) - 18127 · posted Aug 03 (6d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a51099802522b5b722e6e53?utm_campaign=1048&utm_source=git) <!--a:163d605d82bc7d88-->
   - [ ] 📌 keep on the board <!--s:163d605d82bc7d88-->
 
-- [ ] **National Laboratory of the Rockies** — (Associate/Undergraduate) Intern - Carbon Management and Large Energy Systems · posted Jul 30 (10d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a4e7c031544d7246c0d2f56?utm_campaign=1048&utm_source=git) <!--a:09bd785269a2e03f-->
-  - [ ] 📌 keep on the board <!--s:09bd785269a2e03f-->
-
 - [ ] **Newport News Shipbuilding, A Division of HII** — MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS · posted Aug 01 (8d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a6dcfd5ad0fe2053db9ccd6?utm_campaign=1048&utm_source=git) <!--a:63c46278ba2cf0ba-->
   - [ ] 📌 keep on the board <!--s:63c46278ba2cf0ba-->
 
@@ -154,14 +142,8 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **TTM Technologies** — Mechanical Engineering Intern (August-December) · posted Aug 06 (3d ago) · Syracuse, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a58444c68d16a30e2412585?utm_campaign=1048&utm_source=git) <!--a:15d12c93861dbf30-->
   - [ ] 📌 keep on the board <!--s:15d12c93861dbf30-->
 
-- [ ] **U.S. AutoForce** — Mechanical Engineering Intern - U.S. Energy · posted Jul 30 (10d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a6ba4a9acb0a61f9dbc20b9?utm_campaign=1048&utm_source=git) <!--a:4e73030eb85f7e70-->
-  - [ ] 📌 keep on the board <!--s:4e73030eb85f7e70-->
-
 - [ ] **U.S. Energy** — Mechanical Engineering Intern - U.S. Energy · posted Jul 30 (10d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a6be5ddc00ae03109f8684f?utm_campaign=1048&utm_source=git) <!--a:89707158880b39a6-->
   - [ ] 📌 keep on the board <!--s:89707158880b39a6-->
-
-- [ ] **Applied Materials** — 2026 Process Engineer Co-op - Adv Deg... · posted Jul 30 (9d ago) · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409) <!--a:10e0044cc2199575-->
-  - [ ] 📌 keep on the board <!--s:10e0044cc2199575-->
 
 - [ ] **Curtiss-Wright** — Intern, Manufacturing Engineering · posted Aug 06 (3d ago) · Brecksville, OH · season unstated · [apply](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Intern--Manufacturing-Engineering_JR13116) <!--a:449ac66864659b4e-->
   - [ ] 📌 keep on the board <!--s:449ac66864659b4e-->
