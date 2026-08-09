@@ -602,6 +602,82 @@ ATS_CLIENTS = {
     "smartrecruiters": fetch_smartrecruiters,
 }
 
+# Words companies put in their legal name and leave out of their board token.
+# "Boom Supersonic" is `boom`, "Relativity Space" is `relativity`.
+FILLER_WORDS = {
+    "aviation", "aerospace", "space", "technologies", "technology", "industries",
+    "systems", "energy", "motors", "materials", "labs", "laboratories", "power",
+    "dynamics", "group", "company", "corporation", "corp", "inc", "the", "ai",
+    "robotics", "holdings", "global", "international", "nuclear", "works",
+}
+
+
+def board_candidates(entry: dict) -> list[str]:
+    """Plausible spellings of a board token, best guess first.
+
+    Hand-typing these is what left 18 boards in targets.yml returning 404 for
+    weeks while the bot reported nothing and looked healthy. Generate the
+    options and let the API say which one is real.
+    """
+    name = entry.get("name", "")
+    words = [w for w in re.split(r"[^a-z0-9]+", name.lower()) if w]
+    core = [w for w in words if w not in FILLER_WORDS] or words
+    out = [
+        # the token already in targets.yml, in case only the ats field is wrong
+        # (an Ashby board filed under greenhouse 404s exactly like a typo)
+        entry.get("board") or "",
+        slug(name),                    # boomsupersonic
+        "".join(core),                 # boom
+        core[0] if core else "",       # boom
+        "-".join(core),                # boom
+        "-".join(words),               # boom-supersonic
+        "".join(words[:2]),            # boomsupersonic
+        slug(name) + "inc",
+        "".join(core) + "inc",
+    ]
+    # a careers URL usually contains the real handle
+    for url in (entry.get("careers") or "", entry.get("site") or ""):
+        m = re.search(r"https?://(?:www\.)?([a-z0-9\-]+)\.", url)
+        if m:
+            out.append(m.group(1).replace("-", ""))
+            out.append(m.group(1))
+    seen, uniq = set(), []
+    for c in out:
+        if c and c not in seen:
+            seen.add(c)
+            uniq.append(c)
+    return uniq
+
+
+def probe_board(entry: dict) -> list[tuple[str, str, int, int, str]]:
+    """Try every candidate token against every ATS we can read. Returns
+    [(ats, token, jobs, intern-ish jobs, sample title), ...], best first.
+    The sample title is there so a collision on a short token like `beta`
+    is obvious before you paste it."""
+    trials = [(ats, fn, cand)
+              for ats, fn in ATS_CLIENTS.items()
+              for cand in board_candidates(entry)]
+
+    def one(trial):
+        ats, fn, cand = trial
+        try:
+            jobs = fn(entry["name"], cand)
+        except Exception:
+            return None
+        if not jobs:
+            return None
+        return (ats, cand, len(jobs),
+                sum(1 for j in jobs if INTERNISH.search(j.role)), jobs[0].role[:44])
+
+    hits, found_ats = [], set()
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        for result in pool.map(one, trials):
+            if result and result[0] not in found_ats:
+                found_ats.add(result[0])
+                hits.append(result)
+    hits.sort(key=lambda h: (-h[3], -h[2]))
+    return hits
+
 
 # --------------------------------------------------------------------------
 # season classification — the actual fix for the noise problem
@@ -1686,15 +1762,31 @@ def collect_ats(cfg: dict, state: dict, dry: bool = False) -> list[Posting]:
             log(f"  ats {entry['name']} ({entry['ats']}:{entry['board']}) returned 0 jobs")
 
     if broken:
+        # A board that has NEVER returned a job is a wrong token in targets.yml.
+        # A board that worked yesterday and 500s today is an outage and will
+        # probably fix itself. Same symptom, opposite response, so say which.
+        never, went_dark = [], []
+        for entry, err in broken:
+            key = f"ats:{entry['ats']}:{entry['board']}"
+            (went_dark if state["source_health"].get(key, {}).get("last_ok")
+             else never).append((entry, err))
         last = parse_iso(state.get("ats_last_warned"))
         if not last or (NOW - last) > timedelta(hours=24):
             state["ats_last_warned"] = iso(NOW)
-            lines = "\n".join(f"{e['name']}: {m}" for e, m in broken[:10])
-            push("⚠️ ATS boards unreachable",
-                 f"{len(broken)} of {len(jobs)} boards are failing, so those "
-                 f"companies cannot alert at all:\n{lines}\n\n"
-                 f"Run the workflow in verify-boards mode and fix the tokens "
-                 f"in targets.yml.", 4, "warning", None, dry)
+            body = []
+            if never:
+                body.append(f"{len(never)} board(s) have never returned a job, so "
+                            f"the token is wrong, not the company:")
+                body += [f"  {e['name']} ({e['ats']}:{e['board']}) {m}" for e, m in never[:14]]
+                if len(never) > 14:
+                    body.append(f"  ...and {len(never) - 14} more")
+                body.append("Run the workflow in verify-boards mode: it now "
+                            "prints the correct token to paste.")
+            if went_dark:
+                body.append(f"\n{len(went_dark)} board(s) were working and just stopped:")
+                body += [f"  {e['name']} ({e['ats']}:{e['board']}) {m}" for e, m in went_dark[:10]]
+            push("⚠️ ATS boards not answering",
+                 "\n".join(body), 4, "warning", None, dry)
 
     log(f"ATS layer: {len(out)} postings from {len(jobs) - len(broken) - empty}"
         f"/{len(jobs)} live boards"
@@ -2105,27 +2197,76 @@ def verify_boards(args) -> int:
             if isinstance(e, dict) and e.get("ats") and e.get("board"):
                 rows.append((tier, e))
     log(f"checking {len(rows)} boards\n")
-    for tier, e in rows:
+
+    def check(pair):
+        tier, e = pair
         fn = ATS_CLIENTS.get(e["ats"])
         if not fn:
-            log(f"  DEAD {e['name']:<22} {e['ats']}:{e['board']:<22} "
-                f"no client for that ats")
-            dead += 1
-            continue
+            return tier, e, None, f"no client for ats: {e['ats']}"
         try:
-            jobs = fn(e["name"], e["board"])
-            interns = [j for j in jobs if INTERNISH.search(j.role)]
-            mark = "ok  " if jobs else "EMPTY"
-            log(f"  {mark} {e['name']:<22} {e['ats']}:{e['board']:<22} "
-                f"{len(jobs):>4} jobs, {len(interns):>3} intern-ish")
+            return tier, e, fn(e["name"], e["board"]), None
         except Exception as ex:
             code = getattr(getattr(ex, "response", None), "status_code", "")
-            log(f"  DEAD {e['name']:<22} {e['ats']}:{e['board']:<22} {type(ex).__name__} {code}"
-                f"   <- fix the token or set ats: null")
+            return tier, e, None, f"{type(ex).__name__} {code}".strip()
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        results = list(pool.map(check, rows))
+
+    broken = []
+    for tier, e, jobs, err in results:
+        if err is not None:
+            log(f"  DEAD  {e['name']:<22} {e['ats']}:{e['board']:<24} {err}")
+            broken.append((tier, e))
             dead += 1
-    if dead:
-        log(f"\n{dead} board(s) unreachable — fix the tokens in targets.yml")
-    return 1 if dead else 0
+        elif not jobs:
+            log(f"  EMPTY {e['name']:<22} {e['ats']}:{e['board']:<24} "
+                f"token resolves but the board is empty")
+        else:
+            interns = [j for j in jobs if INTERNISH.search(j.role)]
+            log(f"  ok    {e['name']:<22} {e['ats']}:{e['board']:<24} "
+                f"{len(jobs):>4} jobs, {len(interns):>3} intern-ish")
+
+    if not broken:
+        log("\nevery board resolves")
+        return 0
+
+    # ------------------------------------------------------------------
+    # Don't just report the dead ones. Go find the right token.
+    # ------------------------------------------------------------------
+    log(f"\n{dead} board(s) unreachable. Probing for the real token...\n")
+    fixes, hopeless = [], []
+    for tier, e in broken:
+        hits = probe_board(e)
+        if not hits:
+            hopeless.append((tier, e))
+            log(f"  {e['name']:<22} nothing on greenhouse, lever, ashby or "
+                f"smartrecruiters")
+            continue
+        ats, token, total, interns, sample = hits[0]
+        fixes.append((tier, e, ats, token, total, interns))
+        log(f"  {e['name']:<22} -> {ats}:{token}  ({total} jobs, {interns} intern-ish)")
+        log(f"  {'':<22}    check it is the right company: \"{sample}\"")
+        for extra in hits[1:]:
+            log(f"  {'':<22}    also {extra[0]}:{extra[1]} ({extra[2]} jobs, "
+                f"\"{extra[4]}\")")
+
+    log("\n" + "=" * 78)
+    log("PASTE-READY — replace these lines in targets.yml")
+    log("=" * 78)
+    for tier, e, ats, token, total, interns in fixes:
+        log(f"    - {{name: {e['name']+',':<24} ats: {ats+',':<17} "
+            f"board: {token+',':<26} verified: true}}")
+    for tier, e in hopeless:
+        careers = e.get("careers") or f"search \"{e['name']} careers\""
+        log(f"    - {{name: {e['name']+',':<24} ats: null,{'':<12}"
+            f"careers: \"{careers}\"}}")
+    if hopeless:
+        log("\nThe ats: null ones are on an ATS this bot can't read (Workday, "
+            "iCIMS, SuccessFactors and friends).")
+        log("They still reach you through the tracker repos, just a day or two "
+            "later than an ATS poll would.")
+    log("=" * 78)
+    return 1
 
 
 def why(args) -> int:
