@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-09 14:56 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-09 15:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **26 open · 0 apply-now · 0 saved · 3 applied all-time**
 
@@ -73,5 +73,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **BorgWarner** — Mechanical Engineering Intern – Adv. ... · posted Jul 30 (9d ago) · [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern---Adv-Engineering---PDS--Year-Round-_R2026-2137) <!--a:6ec45ec33b38b26b-->
   - [ ] 📌 keep on the board <!--s:6ec45ec33b38b26b-->
 
-### · Wide net (61)
+### · Wide net (62)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
