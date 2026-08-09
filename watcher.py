@@ -31,6 +31,7 @@ holds every open posting sorted by rank until you tick it off.
   python watcher.py --verify-boards  check every ATS token in targets.yml
   python watcher.py --brief          force the daily brief to send now
   python watcher.py --board-only     rebuild the board, send nothing
+  python watcher.py --why spacex     why did that posting not reach me?
 """
 
 from __future__ import annotations
@@ -135,6 +136,26 @@ def sha(text: str) -> str:
     return hashlib.sha1(text.encode("utf-8")).hexdigest()[:16]
 
 
+_KW_CACHE: dict[str, re.Pattern] = {}
+
+
+def kw_hit(text: str, keyword: str) -> bool:
+    """Keyword match on word boundaries instead of raw substring.
+
+    Plain `in` was quietly wrong in both directions: "sales" killed
+    "Salesforce Hardware Intern", "legal" killed "Paralegal", and worst of
+    all "india" in the location blocklist killed every posting in
+    Indianapolis, which is Rolls-Royce, Allison and Cummins.
+    """
+    pat = _KW_CACHE.get(keyword)
+    if pat is None:
+        word = keyword.strip().lower()
+        lead = r"\b" if word[:1].isalnum() else ""
+        tail = r"\b" if word[-1:].isalnum() else ""
+        pat = _KW_CACHE[keyword] = re.compile(lead + re.escape(word) + tail, re.I)
+    return bool(pat.search(text or ""))
+
+
 def iso(dt: datetime | None) -> str | None:
     return dt.astimezone(timezone.utc).isoformat() if dt else None
 
@@ -186,6 +207,7 @@ class Posting:
     term: str = "unknown"             # target | offseason | assumed | unknown
     term_evidence: str = ""
     focus_hit: bool = False
+    needs_me_check: bool = False      # off-discipline title, description pending
     reasons: list = field(default_factory=list)
     also_seen: list = field(default_factory=list)
 
@@ -242,21 +264,28 @@ DEFAULT_RANKS = {
 
 
 def rank_for(tier: int, score: int, term: str, focus: bool, cfg: dict) -> str:
-    """First matching rule wins, S first. Everything unmatched is C."""
+    """First matching rule wins, S first. Everything unmatched is C.
+
+    A letter may carry a LIST of rules, any one of which qualifies. That is
+    what lets rank S mean "confirmed target season, or a tier 1 bullseye whose
+    recruiter just never wrote the season down" without loosening the whole
+    band, which is the trap the previous single-rule version fell into.
+    """
     rules = cfg.get("ranks") or DEFAULT_RANKS
     for letter in ("S", "A", "B"):
-        rule = rules.get(letter)
-        if not rule:
+        entry = rules.get(letter)
+        if not entry:
             continue
-        if int(tier) > int(rule.get("max_tier", 9)):
-            continue
-        if int(score) < int(rule.get("min_score", 999)):
-            continue
-        if rule.get("terms") and term not in rule["terms"]:
-            continue
-        if rule.get("require_focus") and not focus:
-            continue
-        return letter
+        for rule in (entry if isinstance(entry, list) else [entry]):
+            if int(tier) > int(rule.get("max_tier", 9)):
+                continue
+            if int(score) < int(rule.get("min_score", 999)):
+                continue
+            if rule.get("terms") and term not in rule["terms"]:
+                continue
+            if rule.get("require_focus") and not focus:
+                continue
+            return letter
     return "C"
 
 
@@ -594,6 +623,25 @@ OFF_RANGE = re.compile(
     r"\b(aug|august|sept?|september|jan|january)\w*\s*[-–—/]\s*"
     r"(dec|december|may|apr|april)\w*", re.I)
 TRUNCATED = re.compile(r"(\.\.\.|…)\s*$")
+# "must be returning to the fall semester" and "expected graduation Spring
+# 2028" describe YOUR enrollment, not the season of the req. Both used to be
+# read as season evidence, which threw away genuine summer postings for
+# quoting the single most common sentence in an internship listing.
+ENROLLMENT_CTX = re.compile(
+    r"\b(return\w*|resum\w*|go(ing)? back|back to (school|campus|class\w*)|"
+    r"graduat\w*|commencement|conferr\w*|degree completion|"
+    r"(expected|anticipated)\s+(graduation|completion)|"
+    r"following the (internship|program)|after the (internship|program))\b", re.I)
+
+
+def _drop_enrollment_sentences(text: str) -> str:
+    """Remove sentences that talk about when YOU finish school, so their
+    season words can't be mistaken for the season of the posting."""
+    if not text:
+        return text
+    keep = [s for s in re.split(r"(?<=[.;:!?])\s+|\n+", text)
+            if not ENROLLMENT_CTX.search(s)]
+    return " ".join(keep)
 
 
 def _norm_year(raw: str) -> int | None:
@@ -644,6 +692,11 @@ def classify_term(post: Posting, cfg: dict) -> tuple[str, str]:
                 return "target", f"target year in {where}"
             if not hits:
                 hits = [(m.group(1).lower(), None) for m in LONE_SEASON.finditer(blob)]
+            off_hits = hits
+        else:
+            # Positive evidence is read from the whole description; a verdict
+            # of "wrong season" is not allowed to rest on enrollment boilerplate.
+            off_hits = find_seasons(_drop_enrollment_sentences(blob))
         # an exact target hit anywhere wins outright
         for season, yr in hits:
             if season == term_word and yr == year:
@@ -656,12 +709,20 @@ def classify_term(post: Posting, cfg: dict) -> tuple[str, str]:
             if season == term_word and yr is None:
                 return "target", f"unqualified '{season}' in {where}"
         # explicit other season/year
-        for season, yr in hits:
+        for season, yr in off_hits:
             if yr is not None and (season != term_word or yr != year):
                 return "offseason", f"{season} {yr} in {where}"
-        for season, yr in hits:
-            if season != term_word:
-                return "offseason", f"'{season}' in {where} with no year"
+        # A yearless off-season word is decisive in a title, where every word is
+        # about this req. In a description it is not: one stray "spring" in a
+        # benefits paragraph should not delete the posting.
+        if where == "title":
+            for season, yr in off_hits:
+                if season != term_word:
+                    return "offseason", f"'{season}' in {where} with no year"
+        else:
+            for m in BARE_SEASON.finditer(_drop_enrollment_sentences(blob)):
+                if m.group(1).lower() != term_word:
+                    return "offseason", f"'{m.group(0)}' in {where}"
 
     if post.season_hint and term_word in post.season_hint and str(year) in post.season_hint:
         return "target", "source is a target-season-only list"
@@ -784,7 +845,11 @@ def match_company(name: str, index: dict) -> dict | None:
     return None
 
 
-def score_posting(post: Posting, cfg: dict, index: dict) -> None:
+def score_posting(post: Posting, cfg: dict, index: dict, strict: bool = True) -> None:
+    """Score a posting on its title, with the description as supporting
+    evidence. Called twice per run: once before descriptions are fetched
+    (strict=False, which defers the one verdict that needs one) and once after
+    (strict=True, the real verdict)."""
     roles = cfg["roles"]
     title = post.role.lower()
     loc = post.location.lower()
@@ -792,6 +857,8 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
 
     meta = match_company(post.company, index)
     post.tier = meta["tier"] if meta else 9
+    post.focus_hit = False
+    post.needs_me_check = False
 
     reasons, score = [], 0
 
@@ -801,13 +868,13 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
         return
 
     for bad in roles["negative"]:
-        if bad in title:
+        if kw_hit(title, bad):
             post.score = -99
             post.reasons = [f"negative keyword: {bad}"]
             return
 
     for blocked in cfg.get("location_blocklist", []):
-        if blocked in loc:
+        if kw_hit(loc, blocked):
             post.score = -99
             post.reasons = [f"location blocked: {blocked}"]
             return
@@ -817,7 +884,8 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
         return
 
     # "software" in the title with nothing mechanical alongside it is a SWE req
-    if "software" in title and not any(k in title for k in roles["core"] + roles["focus"]):
+    if kw_hit(title, "software") and not any(
+            kw_hit(title, k) for k in roles["core"] + roles["focus"]):
         post.score = -99
         post.reasons = ["software role"]
         return
@@ -830,25 +898,35 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
         post.reasons = ["not an internship req"]
         return
 
-    core_hit = any(k in title for k in roles["core"])
+    core_hit = any(kw_hit(title, k) for k in roles["core"])
 
     # A req titled for another discipline is theirs, not yours, unless the
     # description explicitly opens it to mechanical majors. This is the rule
     # that stops "2027 Electrical Engineer Intern" landing in the top band.
+    #
+    # On the first pass there is no description yet, so "no description" is not
+    # a verdict, it is a request: flag the posting so enrich_descriptions goes
+    # and reads one, and decide on the second pass. Killing it here is what
+    # made the rescue below unreachable for every tracker row.
     if not core_hit:
-        owned = next((k for k in roles.get("other_discipline", []) if k in title), None)
+        owned = next((k for k in roles.get("other_discipline", []) if kw_hit(title, k)), None)
         if owned:
             if not desc:
-                post.score = -99
-                post.reasons = [f"titled for another discipline ({owned}), "
-                                f"no description to check ME eligibility"]
-                return
-            if not ME_ELIGIBLE.search(desc):
+                if not strict:
+                    post.needs_me_check = True
+                    reasons.append(f"{owned} title, description not read yet")
+                else:
+                    post.score = -99
+                    post.reasons = [f"titled for another discipline ({owned}), "
+                                    f"no description to check ME eligibility"]
+                    return
+            elif not ME_ELIGIBLE.search(desc):
                 post.score = -99
                 post.reasons = [f"titled for another discipline ({owned}), "
                                 f"description never mentions mechanical"]
                 return
-            reasons.append(f"{owned} title, but the description takes ME")
+            else:
+                reasons.append(f"{owned} title, but the description takes ME")
 
     # ---- title signals. Only these can qualify a posting. ----
     title_signal = False
@@ -857,19 +935,19 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
         title_signal = True
         reasons.append("core ME title (+5)")
 
-    title_focus = [k for k in roles["focus"] if k in title]
+    title_focus = [k for k in roles["focus"] if kw_hit(title, k)]
     if title_focus:
         score += 5
         title_signal = True
         post.focus_hit = True
         reasons.append(f"focus area in title: {title_focus[0]} (+5)")
 
-    if any(k in title for k in roles["adjacent"]):
+    if any(kw_hit(title, k) for k in roles["adjacent"]):
         score += 3
         title_signal = True
         reasons.append("adjacent hardware role (+3)")
 
-    if post.tier <= 2 and any(k in title for k in roles["generic"]):
+    if post.tier <= 2 and any(kw_hit(title, k) for k in roles["generic"]):
         score += 2
         title_signal = True
         reasons.append("generic engineering intern at a target company (+2)")
@@ -884,7 +962,7 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
 
     # ---- description signals. Supporting only, and capped. ----
     if not title_focus:
-        desc_focus = [k for k in roles["focus"] if k in desc[:2500]]
+        desc_focus = [k for k in roles["focus"] if kw_hit(desc[:2500], k)]
         if desc_focus:
             score += 2
             post.focus_hit = True
@@ -894,7 +972,7 @@ def score_posting(post: Posting, cfg: dict, index: dict) -> None:
     score += tier_bonus
     reasons.append(f"{post.tier_label} company ({tier_bonus:+d})")
 
-    if any(k in title for k in roles["eligibility_penalty"]):
+    if any(kw_hit(title, k) for k in roles["eligibility_penalty"]):
         score -= 4
         reasons.append("grad-level or returning-student wording (-4)")
 
@@ -1565,29 +1643,62 @@ def publish_board(state: dict, cfg: dict, dry: bool) -> None:
 # collection
 # --------------------------------------------------------------------------
 
-def collect_ats(cfg: dict, state: dict) -> list[Posting]:
+def collect_ats(cfg: dict, state: dict, dry: bool = False) -> list[Posting]:
+    """The day-of-drop layer. A dead board token here used to be a single line
+    in an Actions log and nothing else, which looks exactly like "nobody is
+    hiring" from the outside. Trackers already shout when they parse nothing;
+    now this layer does too."""
     jobs = []
     for tier in ("tier1", "tier2"):
         for entry in cfg["companies"][tier] or []:
             if isinstance(entry, dict) and entry.get("ats") and entry.get("board"):
                 jobs.append(entry)
 
-    out: list[Posting] = []
-
     def one(entry):
         fn = ATS_CLIENTS.get(entry["ats"])
         if not fn:
-            return []
+            return entry, [], f"no client for ats: {entry.get('ats')}"
         try:
-            return fn(entry["name"], entry["board"])
+            return entry, fn(entry["name"], entry["board"]), None
         except Exception as e:
-            log(f"  ats {entry['name']} ({entry['ats']}:{entry['board']}) failed: {type(e).__name__}")
-            return []
+            code = getattr(getattr(e, "response", None), "status_code", "")
+            return entry, [], f"{type(e).__name__} {code}".strip()
 
+    out: list[Posting] = []
+    broken, empty = [], 0
     with ThreadPoolExecutor(max_workers=8) as pool:
-        for result in pool.map(one, jobs):
-            out.extend(result)
-    log(f"ATS layer: {len(out)} postings from {len(jobs)} boards")
+        results = list(pool.map(one, jobs))
+
+    for entry, rows, err in results:
+        name = f"ats:{entry['ats']}:{entry['board']}"
+        health = state["source_health"].setdefault(name, {})
+        health["company"] = entry["name"]
+        if rows:
+            health["last_ok"], health["rows"] = iso(NOW), len(rows)
+            out.extend(rows)
+            continue
+        health["rows"] = 0
+        if err:
+            broken.append((entry, err))
+            log(f"  ats {entry['name']} ({entry['ats']}:{entry['board']}) failed: {err}")
+        else:
+            empty += 1
+            log(f"  ats {entry['name']} ({entry['ats']}:{entry['board']}) returned 0 jobs")
+
+    if broken:
+        last = parse_iso(state.get("ats_last_warned"))
+        if not last or (NOW - last) > timedelta(hours=24):
+            state["ats_last_warned"] = iso(NOW)
+            lines = "\n".join(f"{e['name']}: {m}" for e, m in broken[:10])
+            push("⚠️ ATS boards unreachable",
+                 f"{len(broken)} of {len(jobs)} boards are failing, so those "
+                 f"companies cannot alert at all:\n{lines}\n\n"
+                 f"Run the workflow in verify-boards mode and fix the tokens "
+                 f"in targets.yml.", 4, "warning", None, dry)
+
+    log(f"ATS layer: {len(out)} postings from {len(jobs) - len(broken) - empty}"
+        f"/{len(jobs)} live boards"
+        + (f", {len(broken)} failing, {empty} empty" if broken or empty else ""))
     return out
 
 
@@ -1635,17 +1746,22 @@ def enrich_descriptions(posts: list[Posting], state: dict, cfg: dict) -> None:
     for p in posts:
         if p.source_kind == "ats" or not p.url:
             continue
-        if p.tier > 3 and not p.focus_hit:
+        if p.tier > 3 and not p.focus_hit and not p.needs_me_check:
             continue
-        if find_seasons(p.role):
+        # A season in the title answers the season question, but it does not
+        # answer whether an off-discipline req takes ME majors, and that one
+        # needs the description too.
+        if find_seasons(p.role) and not p.needs_me_check:
             continue
         key = sha(p.url)
         if key in cache:
             p.description = cache[key].get("snippet", "")
             continue
         todo.append((key, p))
-    # season confirmation is worth most where the company matters most
-    todo.sort(key=lambda kp: (kp[1].tier, -kp[1].score))
+    # season confirmation is worth most where the company matters most, and a
+    # posting that gets deleted without a description outranks one that only
+    # loses a season label
+    todo.sort(key=lambda kp: (not kp[1].needs_me_check, kp[1].tier, -kp[1].score))
     todo = todo[:budget]
     if not todo:
         return
@@ -1773,16 +1889,28 @@ def run(args) -> int:
             save_state(state)
         return 0
 
-    posts = collect_ats(cfg, state) + collect_trackers(cfg, state, args.dry_run)
+    posts = collect_ats(cfg, state, args.dry_run) + collect_trackers(cfg, state, args.dry_run)
     posts = dedupe(posts)
     log(f"{len(posts)} unique postings after dedupe")
 
+    # Two passes, and the order matters. Scoring used to run once, here, before
+    # a single description had been fetched, so every rule that reads the
+    # description was decided against an empty string: off-discipline titles
+    # were killed for "no description to check ME eligibility" and the
+    # description focus bonus could never fire on a tracker row.
     for p in posts:
-        score_posting(p, cfg, index)
+        score_posting(p, cfg, index, strict=False)
     posts = [p for p in posts if p.score >= routing["digest_min_score"]]
-    log(f"{len(posts)} clear the score floor")
+    log(f"{len(posts)} clear the provisional score floor")
 
     enrich_descriptions(posts, state, cfg)
+
+    # Same rules, now with the descriptions in hand. This is the real verdict.
+    for p in posts:
+        score_posting(p, cfg, index, strict=True)
+    posts = [p for p in posts if p.score >= routing["digest_min_score"]]
+    log(f"{len(posts)} clear the score floor once descriptions are read")
+
     posts = apply_degree_gate(posts, state)
     for p in posts:
         p.term, p.term_evidence = classify_term(p, cfg)
@@ -1978,7 +2106,12 @@ def verify_boards(args) -> int:
                 rows.append((tier, e))
     log(f"checking {len(rows)} boards\n")
     for tier, e in rows:
-        fn = ATS_CLIENTS[e["ats"]]
+        fn = ATS_CLIENTS.get(e["ats"])
+        if not fn:
+            log(f"  DEAD {e['name']:<22} {e['ats']}:{e['board']:<22} "
+                f"no client for that ats")
+            dead += 1
+            continue
         try:
             jobs = fn(e["name"], e["board"])
             interns = [j for j in jobs if INTERNISH.search(j.role)]
@@ -1993,6 +2126,70 @@ def verify_boards(args) -> int:
     if dead:
         log(f"\n{dead} board(s) unreachable — fix the tokens in targets.yml")
     return 1 if dead else 0
+
+
+def why(args) -> int:
+    """`--why rocket lab` answers "where did that posting go" against the live
+    feeds, including every posting that never survives far enough to appear
+    anywhere else. Sends nothing, saves nothing."""
+    needle = args.why.strip().lower()
+    cfg = yaml.safe_load(CONFIG_PATH.read_text())
+    state = load_state()
+    index = build_company_index(cfg)
+    floor = int(cfg["routing"]["digest_min_score"])
+    routing = cfg["routing"]
+
+    posts = dedupe(collect_ats(cfg, state, True) + collect_trackers(cfg, state, True))
+    hits = [p for p in posts
+            if needle in p.company.lower() or needle in p.role.lower()]
+    if not hits:
+        log(f"\nnothing matching '{args.why}' in {len(posts)} postings this run")
+        return 1
+
+    for p in hits:
+        score_posting(p, cfg, index, strict=False)
+    enrich_descriptions([p for p in hits if p.score >= floor], state, cfg)
+    for p in hits:
+        score_posting(p, cfg, index, strict=True)
+        p.elig = degree_gate(p.description)
+        p.term, p.term_evidence = classify_term(p, cfg)
+        if p.term == "target":
+            p.score += 2
+        assign_rank(p, cfg)
+
+    log("\n" + "=" * 100)
+    for p in sorted(hits, key=lambda x: (rank_key(x.rank), -x.score)):
+        stored = state["postings"].get(p.pid)
+        age = (NOW - p.posted_at).days if p.posted_at else None
+        limit = int(routing.get("max_posting_age_days_top", 45)) if p.rank == "S" \
+            else int(routing.get("max_posting_age_days", 30))
+        if p.score < floor:
+            verdict = "DROPPED at the score floor"
+        elif p.elig == "grad_only":
+            verdict = "DROPPED, grad students only"
+        elif p.term == "offseason" and not cfg["season"]["allow_offseason"]:
+            verdict = "DROPPED, wrong season"
+        elif p.pid in state["applied"]:
+            verdict = "already ticked off as applied"
+        elif stored:
+            verdict = f"already on file since {(stored.get('first_seen') or '')[:10]}"
+        elif age is not None and age > limit:
+            verdict = f"DROPPED, open {age}d (limit {limit}d for rank {p.rank})"
+        elif p.rank in ("S", "A"):
+            verdict = "would push on its own"
+        elif p.rank == "B":
+            verdict = "would be rolled up"
+        else:
+            verdict = "brief and board only"
+        log(f"{p.rank}  {p.company[:24]:<24} {p.role[:46]:<46} {p.location[:20]:<20}")
+        log(f"    score {p.score:<4} tier {p.tier:<2} season {p.term:<9} -> {verdict}")
+        log(f"    why:    {'; '.join(p.reasons) or 'no signal'}")
+        log(f"    season: {p.term_evidence}")
+        log(f"    seen:   {', '.join([p.source] + p.also_seen)}"
+            + (f"  posted {human_date(p.posted_at)}" if p.posted_at else "  posted date unknown"))
+        log(f"    link:   {p.url or 'none'}\n")
+    log("=" * 100)
+    return 0
 
 
 def doctor() -> int:
@@ -2043,7 +2240,9 @@ def doctor() -> int:
     stale = [n for n, h in state.get("source_health", {}).items()
              if not h.get("last_ok") or (NOW - parse_iso(h["last_ok"])) > timedelta(days=2)]
     if stale:
-        problems.append(f"tracker sources quiet for over 2 days: {', '.join(stale)}")
+        problems.append(f"sources quiet for over 2 days ({len(stale)}): "
+                        f"{', '.join(sorted(stale)[:12])}"
+                        + (" ..." if len(stale) > 12 else ""))
 
     log("")
     for pr in problems:
@@ -2063,9 +2262,13 @@ def main() -> int:
     ap.add_argument("--explain", action="store_true", help="show every match with rank and score")
     ap.add_argument("--verify-boards", action="store_true", help="check every ATS token")
     ap.add_argument("--doctor", action="store_true", help="self-check config, state and tokens")
+    ap.add_argument("--why", metavar="TEXT", default="",
+                    help="explain every verdict for postings matching a company or role")
     args = ap.parse_args()
     if args.doctor:
         return doctor()
+    if args.why:
+        return why(args)
     if args.verify_boards:
         return verify_boards(args)
     return run(args)
