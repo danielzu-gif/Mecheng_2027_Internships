@@ -1,12 +1,12 @@
 # Wide net
-_16 open · rebuilt 2026-08-09 03:55 UTC · tick 📌 to move one onto the main board_
+_16 open · rebuilt 2026-08-09 04:59 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Bosch** — Internship Vehicle Thermal Systems Engineering · posted Aug 07 (2d ago) · Farmington Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git) <!--a:7e2e82150806861a-->
   - [ ] 📌 keep on the board <!--s:7e2e82150806861a-->
 
-- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (35h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
+- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (36h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
 
 - [ ] **Ferrero** — Mechanical/Industrial Internship · posted Aug 06 (3d ago) · North Canton, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a74f500972ac843c6998412?utm_campaign=1048&utm_source=git) <!--a:52ac1cfc83e60d78-->
