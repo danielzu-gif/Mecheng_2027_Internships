@@ -15,9 +15,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "run | dry-run | seed | brief | board | doctor | verify-boards"
+        description: "run | dry-run | seed | brief | board | doctor | verify-boards | why"
         required: false
         default: "run"
+      query:
+        description: "for mode=why: a company or role to explain, e.g. 'rocket lab'"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -57,11 +61,16 @@ jobs:
             board)         python watcher.py --board-only ;;
             doctor)        python watcher.py --doctor ;;
             verify-boards) python watcher.py --verify-boards ;;
+            why)           python watcher.py --why "${{ github.event.inputs.query }}" ;;
             *)             python watcher.py ;;
           esac
 
       - name: Commit state
-        if: github.event.inputs.mode != 'dry-run' && github.event.inputs.mode != 'verify-boards'
+        if: >-
+          github.event.inputs.mode != 'dry-run' &&
+          github.event.inputs.mode != 'verify-boards' &&
+          github.event.inputs.mode != 'why' &&
+          github.event.inputs.mode != 'doctor'
         run: |
           git config user.name  "internship-watcher"
           git config user.email "actions@github.com"
