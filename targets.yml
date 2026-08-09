@@ -22,13 +22,27 @@ season:
 # Want fewer S? Raise min_score to 10. Want tier 2 in the loud lane? Set
 # S.max_tier to 2. This block is the volume knob.
 # -----------------------------------------------------------------------------
+# A letter may hold a LIST of rules; matching any one of them wins that rank.
+#
+# Locking S and A to a CONFIRMED season killed the noise and most of the signal
+# with it: Rocket Lab's entire intern slate, scoring 9 to 11, fell to rank B
+# because Rocket Lab never writes "Summer 2027" anywhere in the req. Explicit
+# off-season reqs are now caught by the season classifier itself, so the ranks
+# no longer have to do that job by refusing everything unconfirmed.
 ranks:
-  # S and A require a CONFIRMED target season. An unstated season is no longer
-  # allowed into the loud lanes: that is what filled the priority band with
-  # reqs that turned out to be fall co-ops and Summer 2026 leftovers.
-  S: {max_tier: 1, min_score: 8, terms: [target]}
-  A: {max_tier: 2, min_score: 6, terms: [target]}
-  B: {max_tier: 3, min_score: 5, terms: [target, assumed]}
+  S:
+    - {max_tier: 1, min_score: 8, terms: [target]}
+    # tier 1, high score, and pointed at your focus areas. A recruiter not
+    # typing the season is not a reason to bury this one.
+    - {max_tier: 1, min_score: 9, terms: [assumed], require_focus: true}
+  A:
+    - {max_tier: 2, min_score: 6, terms: [target]}
+    - {max_tier: 2, min_score: 7, terms: [assumed]}
+    # "unknown" almost always means a tracker truncated the title so the season
+    # was unreadable, not that the season is wrong. A tier 1 bullseye should not
+    # be punished for someone else's string slicing.
+    - {max_tier: 1, min_score: 9, terms: [unknown], require_focus: true}
+  B: {max_tier: 3, min_score: 5, terms: [target, assumed, unknown]}
 
 routing:
   digest_min_score: 3          # below this a posting doesn't exist at all
@@ -39,25 +53,29 @@ routing:
   max_description_fetches: 40  # per run, for tracker rows with no season in title
   description_timeout: 8       # seconds per description fetch
 
-  # A req that has been open this long is filled or ignoring its own pipeline.
-  # Never alerted, never boarded. Top rank gets the longer leash.
-  max_posting_age_days: 14
-  max_posting_age_days_top: 21
+  # A req open this long is probably filled. "Probably" is doing real work
+  # here: aerospace intern reqs routinely sit open six to eight weeks, and at
+  # 14 days this rule was hiding a fifth of the live board. Never alerted,
+  # never boarded, so keep it generous. Top rank gets the longer leash.
+  max_posting_age_days: 30
+  max_posting_age_days_top: 45
 
   # Midnight to 8am ET: only rank S is allowed through. Everything else waits
   # for the next brief, so an overnight flood is one line when you wake up.
   quiet_hours_utc: [4, 12]
 
-  # 04:00 UTC = 12am ET, covering the 12pm-12am window.
-  # 16:00 UTC = 12pm ET, covering the 12am-12pm window.
-  # These are EDT. In winter, shift both by one to [5, 17] to hold the clock.
-  brief_hours_utc: [4, 16]
-  brief_min_gap_hours: 10
+  # 12:00 UTC = 8am ET, which is when the overnight quiet-hours backlog is
+  # actually useful. 23:00 UTC = 7pm ET. The previous [4, 16] put the first
+  # brief at midnight ET, i.e. at the START of the quiet window, so anything
+  # held overnight waited until lunch.
+  # These are EDT. In winter, shift both by one to [13, 0] to hold the clock.
+  brief_hours_utc: [12, 23]
+  brief_min_gap_hours: 8
   brief_detail_caps: {S: 12, A: 10, B: 6, C: 0}   # C shows as a count only
   heartbeat: true              # silent daily "still running" line when nothing hits
 
   # The board is a short list of what is actually actionable, not an archive.
-  board_active_days: 3         # unticked postings drop off after this
+  board_active_days: 10        # unticked postings drop off after this
   applied_visible_hours: 3     # a ticked posting clears the board this fast
   board_title: "📋 Summer 2027 internship board"
   widenet_title: "🕸️ Wide net — everything else that matched"
@@ -316,7 +334,10 @@ roles:
     - people operations
     - web services
 
-  # -8 — kills the match outright
+  # -8 — kills the match outright. Matched on WORD BOUNDARIES, so "sales" no
+  # longer takes out "Salesforce Hardware Intern" and "legal" no longer takes
+  # out "Paralegal". Same for locations below: "india" was killing every
+  # posting in Indianapolis.
   negative:
     - software engineer intern
     - software engineering intern
@@ -343,7 +364,10 @@ roles:
     - legal
     - supply chain
     - logistics
-    - environmental
+    # NOT bare "environmental": environmental test engineering is thermal vac
+    # and vibe work, which is squarely yours.
+    - environmental science
+    - environmental health
     - civil engineer
     - construction
     - geotechnical
@@ -367,10 +391,11 @@ roles:
 
 # Locations you can't take. Matched against the location string only.
 location_blocklist:
+  # "ontario" on its own blocks Ontario, California and Ontario, Oregon. The
+  # Canadian one always arrives with "Canada" or the ON code attached.
   - canada
   - new zealand
   - auckland
-  - ontario
   - quebec
   - alberta
   - british columbia
