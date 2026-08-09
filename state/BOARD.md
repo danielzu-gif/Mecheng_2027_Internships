@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-09 04:59 UTC · tick the top box when you apply · tick 📌 to keep something past the 3-day expiry_
+_rebuilt 2026-08-09 05:52 UTC · tick the top box when you apply · tick 📌 to keep something past the 3-day expiry_
 
 **2 open · 0 apply-now · 0 saved · 3 applied all-time**
 
@@ -7,7 +7,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## 🔷 Strong (1)
 
-- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (29h ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
+- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (30h ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
   - [ ] 📌 keep on the board <!--s:03a82c0854517b1a-->
 
 ## ▫️ Worth a look (1)
