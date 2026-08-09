@@ -1,12 +1,12 @@
 # Wide net
-_17 open · rebuilt 2026-08-09 02:11 UTC · tick 📌 to move one onto the main board_
+_16 open · rebuilt 2026-08-09 03:55 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Bosch** — Internship Vehicle Thermal Systems Engineering · posted Aug 07 (2d ago) · Farmington Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git) <!--a:7e2e82150806861a-->
   - [ ] 📌 keep on the board <!--s:7e2e82150806861a-->
 
-- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (33h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
+- [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (35h ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
 
 - [ ] **Ferrero** — Mechanical/Industrial Internship · posted Aug 06 (3d ago) · North Canton, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a74f500972ac843c6998412?utm_campaign=1048&utm_source=git) <!--a:52ac1cfc83e60d78-->
@@ -40,9 +40,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Schweitzer Engineering Laboratories** — Mechanical Engineering Intern · posted Aug 07 (2d ago) · Pullman · season unstated · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-22469) <!--a:e82d5de548e89644-->
   - [ ] 📌 keep on the board <!--s:e82d5de548e89644-->
-
-- [ ] **Seasats** — Mechanical Engineering Intern · posted Aug 05 (4d ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a61432e7196365a6f009e30?utm_campaign=1048&utm_source=git) <!--a:8155163dc805cf0a-->
-  - [ ] 📌 keep on the board <!--s:8155163dc805cf0a-->
 
 - [ ] **T2 Design & Prototype** — Mechanical Engineering Intern · posted Aug 07 (2d ago) · Santa Monica, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76a1f47b3417772ade8e10?utm_campaign=1048&utm_source=git) <!--a:03278ac17b8ebba2-->
   - [ ] 📌 keep on the board <!--s:03278ac17b8ebba2-->
