@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-09 17:52 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-09 18:52 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **26 open · 0 apply-now · 0 saved · 3 applied all-time**
 
@@ -28,7 +28,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **E-Space** — Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics · posted Aug 04 (5d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a72591145b6af1c30dbe475?utm_campaign=1048&utm_source=git) <!--a:b3c6e74ea83a6070-->
   - [ ] 📌 keep on the board <!--s:b3c6e74ea83a6070-->
 
-- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (42h ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
+- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (43h ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
   - [ ] 📌 keep on the board <!--s:03a82c0854517b1a-->
 
 - [ ] **RTX** — Mechanical Engineer Intern (Summer 2027) · posted Jul 30 (10d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a6bc21b57120971bf3a8bd9?utm_campaign=1048&utm_source=git) <!--a:d656de498d98f0a3-->
@@ -38,7 +38,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (5d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
 
-- [ ] **Skydio** — Product Design Engineer Intern · posted Jul 28 (11d ago) · San Mateo, California, United States · season unstated · [apply](https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182) <!--a:9415b53ec44123b0-->
+- [ ] **Skydio** — Product Design Engineer Intern · posted Jul 28 (12d ago) · San Mateo, California, United States · season unstated · [apply](https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182) <!--a:9415b53ec44123b0-->
   - [ ] 📌 keep on the board <!--s:9415b53ec44123b0-->
 
 - [ ] **Unison (GE Aerospace)** — Engineering Intern (Summer 2027) · posted Jul 16 (24d ago) · Jacksonville, FL · S27 confirmed · [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) <!--a:68d7cb1168c980dd-->
