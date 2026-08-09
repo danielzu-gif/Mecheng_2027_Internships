@@ -1,5 +1,5 @@
 # Wide net
-_49 open · rebuilt 2026-08-09 23:11 UTC · tick 📌 to move one onto the main board_
+_48 open · rebuilt 2026-08-09 23:52 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -93,9 +93,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Lockwood, Andrews & Newnam, Inc. (LAN)** — Intern, Mechanical (Summer 2027) · posted Aug 04 (5d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a72367fee751e0c7934790d?utm_campaign=1048&utm_source=git) <!--a:4358a2a68a541756-->
   - [ ] 📌 keep on the board <!--s:4358a2a68a541756-->
-
-- [ ] **Marotta Controls** — Mechanical Engineering Intern, Space Systems (Summer 2027) · posted Jul 30 (10d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a6bba6032f9300c3a3e0994?utm_campaign=1048&utm_source=git) <!--a:7e690fe4c22e7ee7-->
-  - [ ] 📌 keep on the board <!--s:7e690fe4c22e7ee7-->
 
 - [ ] **Mission Technologies, a division of HII** — Mechanical - Master Tradesperson (SkillBridge Intern) - 18127 · posted Aug 03 (6d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a51099802522b5b722e6e53?utm_campaign=1048&utm_source=git) <!--a:163d605d82bc7d88-->
   - [ ] 📌 keep on the board <!--s:163d605d82bc7d88-->
