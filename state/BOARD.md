@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-10 21:25 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-10 22:18 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**18 open · 0 apply-now · 0 saved · 3 applied all-time**
+**19 open · 0 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -29,7 +29,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (6d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
 
-## ▫️ Worth a look (9)
+## ▫️ Worth a look (10)
 
 - [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (5d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
   - [ ] 📌 keep on the board <!--s:b9047a025e2920ba-->
@@ -51,6 +51,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (3d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
+
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (22h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
+  - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
 ### · Wide net (54)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
