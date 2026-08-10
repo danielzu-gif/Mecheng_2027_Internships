@@ -1,22 +1,22 @@
 # Wide net
-_51 open · rebuilt 2026-08-10 17:14 UTC · tick 📌 to move one onto the main board_
+_51 open · rebuilt 2026-08-10 18:07 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **VECARIUS, Inc.** — Mechanical Engineer (Intern with CFD) · posted Aug 04 (6d ago) · Somerville, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a720e9dcb96192a3684bb47?utm_campaign=1048&utm_source=git) <!--a:1a79d77efe8850b8-->
   - [ ] 📌 keep on the board <!--s:1a79d77efe8850b8-->
 
-- [ ] **Second Order Effects** — Mechanical Engineering Intern (Summer 2027) · posted Aug 09 (41h ago) · El Segundo · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a5c4dbac8e3a473cb8b1f47?utm_campaign=1048&utm_source=git) <!--a:9aa8513bc02b412c-->
+- [ ] **Second Order Effects** — Mechanical Engineering Intern (Summer 2027) · posted Aug 09 (42h ago) · El Segundo · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a5c4dbac8e3a473cb8b1f47?utm_campaign=1048&utm_source=git) <!--a:9aa8513bc02b412c-->
   - [ ] 📌 keep on the board <!--s:9aa8513bc02b412c-->
 
-- [ ] **Vertiv** — Thermal Engineer Intern - Summer 2027 · posted Aug 10 (2h ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) <!--a:32db0eadada51d89-->
+- [ ] **Vertiv** — Thermal Engineer Intern - Summer 2027 · posted Aug 10 (3h ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) <!--a:32db0eadada51d89-->
   - [ ] 📌 keep on the board <!--s:32db0eadada51d89-->
-- [ ] **Vertiv** — Thermal Engineering Intern (Summer 2... · posted Aug 10 (16h ago) · Westerville, OH, Unite... · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) <!--a:8d608791209b0d10-->
+- [ ] **Vertiv** — Thermal Engineering Intern (Summer 2... · posted Aug 10 (17h ago) · Westerville, OH, Unite... · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) <!--a:8d608791209b0d10-->
   - [ ] 📌 keep on the board <!--s:8d608791209b0d10-->
 - [ ] **Vertiv** — Thermal Application Engineer Intern - Summer 2027 · posted Aug 05 (4d ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512?utm_source=Simplify&ref=Simplify) <!--a:ca750f3fdde18b71-->
   - [ ] 📌 keep on the board <!--s:ca750f3fdde18b71-->
 
-- [ ] **Alef** — Immediate Mechanical Engineering Internship · posted Aug 09 (41h ago) · Milpitas, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a78c0787b3417772adebf76?utm_campaign=1048&utm_source=git) <!--a:52d6006c8b312e66-->
+- [ ] **Alef** — Immediate Mechanical Engineering Internship · posted Aug 09 (42h ago) · Milpitas, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a78c0787b3417772adebf76?utm_campaign=1048&utm_source=git) <!--a:52d6006c8b312e66-->
   - [ ] 📌 keep on the board <!--s:52d6006c8b312e66-->
 
 - [ ] **Baker Hughes** — Intern – Mechanical Engineering & Mec... · posted Jul 19 (22d ago) · Celle, DE · [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055) <!--a:edf12232cd7c6be6-->
@@ -55,7 +55,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Ferrero** — Mechanical/Industrial Internship · posted Aug 06 (4d ago) · North Canton, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a74f500972ac843c6998412?utm_campaign=1048&utm_source=git) <!--a:52ac1cfc83e60d78-->
   - [ ] 📌 keep on the board <!--s:52ac1cfc83e60d78-->
 
-- [ ] **FieldAI** — Mechanical Engineer, Robotics Hardware - Part-Time Internship · posted Aug 09 (41h ago) · Irvine, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a791a9667a1ad0bc53ce780?utm_campaign=1048&utm_source=git) <!--a:c8caf648f715a600-->
+- [ ] **FieldAI** — Mechanical Engineer, Robotics Hardware - Part-Time Internship · posted Aug 09 (42h ago) · Irvine, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a791a9667a1ad0bc53ce780?utm_campaign=1048&utm_source=git) <!--a:c8caf648f715a600-->
   - [ ] 📌 keep on the board <!--s:c8caf648f715a600-->
 
 - [ ] **Flint Hills Resources** — Summer 2027 Mechanical Engineering Intern · posted Aug 04 (6d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a71c495e2b7476e7b20f545?utm_campaign=1048&utm_source=git) <!--a:60dcc16b7147ceea-->
@@ -92,7 +92,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Koch** — Summer 2027 Mechanical Engineering Intern · posted Aug 03 (7d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a718c87e2b7476e7b20e792?utm_campaign=1048&utm_source=git) <!--a:6f5558940b6f429b-->
   - [ ] 📌 keep on the board <!--s:6f5558940b6f429b-->
 
-- [ ] **Körber Supply Chain** — Mechanical Engineering Intern · posted Aug 09 (41h ago) · Fargo, ND, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7956c3bb6ca93ae56171ea?utm_campaign=1048&utm_source=git) <!--a:dc8383c62deb6cf1-->
+- [ ] **Körber Supply Chain** — Mechanical Engineering Intern · posted Aug 09 (42h ago) · Fargo, ND, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7956c3bb6ca93ae56171ea?utm_campaign=1048&utm_source=git) <!--a:dc8383c62deb6cf1-->
   - [ ] 📌 keep on the board <!--s:dc8383c62deb6cf1-->
 
 - [ ] **Lockwood, Andrews & Newnam, Inc. (LAN)** — Intern, Mechanical (Summer 2027) · posted Aug 04 (6d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a72367fee751e0c7934790d?utm_campaign=1048&utm_source=git) <!--a:4358a2a68a541756-->
@@ -122,7 +122,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Seasats** — Mechanical Engineering Intern · posted Aug 05 (5d ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a61432e7196365a6f009e30?utm_campaign=1048&utm_source=git) <!--a:8155163dc805cf0a-->
   - [ ] 📌 keep on the board <!--s:8155163dc805cf0a-->
 
-- [ ] **Shinkei** — Mechanical Engineering Intern/Associate Engineer · posted Aug 09 (41h ago) · El Segundo, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7874acb17cba56903618cf?utm_campaign=1048&utm_source=git) <!--a:f4995c282da87900-->
+- [ ] **Shinkei** — Mechanical Engineering Intern/Associate Engineer · posted Aug 09 (42h ago) · El Segundo, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7874acb17cba56903618cf?utm_campaign=1048&utm_source=git) <!--a:f4995c282da87900-->
   - [ ] 📌 keep on the board <!--s:f4995c282da87900-->
 
 - [ ] **Smiths Group** — Mechanical Engineering Co-Op · posted Jul 24 (17d ago) · Morton Grove, IL · season unstated · [apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) <!--a:9f9b114c19d484f0-->
@@ -143,10 +143,10 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **TTM Technologies** — Mechanical Engineering Intern (August-December) · posted Aug 06 (4d ago) · Syracuse, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a58444c68d16a30e2412585?utm_campaign=1048&utm_source=git) <!--a:15d12c93861dbf30-->
   - [ ] 📌 keep on the board <!--s:15d12c93861dbf30-->
 
-- [ ] **Teledyne** — Mechanical Engineering Intern · posted Aug 10 (3h ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:f436b5ec0ffdad46-->
+- [ ] **Teledyne** — Mechanical Engineering Intern · posted Aug 10 (4h ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:f436b5ec0ffdad46-->
   - [ ] 📌 keep on the board <!--s:f436b5ec0ffdad46-->
 
-- [ ] **Teledyne Qioptiq** — Mechanical Engineering Intern · posted Aug 10 (17h ago) · Miamisburg, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a79c4daa26ccc369f83abb8?utm_campaign=1048&utm_source=git) <!--a:754bbd4c62a43790-->
+- [ ] **Teledyne Qioptiq** — Mechanical Engineering Intern · posted Aug 10 (18h ago) · Miamisburg, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a79c4daa26ccc369f83abb8?utm_campaign=1048&utm_source=git) <!--a:754bbd4c62a43790-->
   - [ ] 📌 keep on the board <!--s:754bbd4c62a43790-->
 
 - [ ] **Curtiss-Wright** — Intern, Manufacturing Engineering · posted Aug 06 (4d ago) · Brecksville, OH · season unstated · [apply](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Intern--Manufacturing-Engineering_JR13116) <!--a:449ac66864659b4e-->
