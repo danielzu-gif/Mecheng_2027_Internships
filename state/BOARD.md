@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-10 04:11 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-10 05:22 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **19 open · 0 apply-now · 0 saved · 3 applied all-time**
 
@@ -31,7 +31,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (10)
 
-- [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (4d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
+- [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (5d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
   - [ ] 📌 keep on the board <!--s:b9047a025e2920ba-->
 - [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (6d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
