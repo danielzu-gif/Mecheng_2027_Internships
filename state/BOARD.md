@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-11 18:12 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-11 19:30 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **21 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -7,7 +7,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ⭐ Apply now (1)
 
-- [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (42h ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
+- [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (43h ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
 
 ## 🔷 Strong (9)
@@ -57,11 +57,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (4d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
 
-- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (19h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
+- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (20h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (42h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (43h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
   - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
-### · Wide net (60)
+### · Wide net (61)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
