@@ -1,10 +1,9 @@
-# Brief 2026-08-11 17:18 UTC
+# Brief 2026-08-11 23:22 UTC
 
-6 new since the last brief.
+5 new since the last brief.
 
-- `C` **Hubbell Incorporated** — 2027 Summer Intern: Engineering - Mechanical · Portsmouth, NH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a70a638e2b7476e7b209ef0?utm_campaign=1048&utm_source=git)
-- `C` **Koch** — OPD Summer 2027 Mechanical Engineer Intern · Katy, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a7b0b37b933773d16be4e00?utm_campaign=1048&utm_source=git)
-- `C` **Amazon** — Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) · Boston, Massachusetts, USA · score 4 · [apply](https://jobright.ai/jobs/info/6a55625c2084cd792b47837f?utm_campaign=1048&utm_source=git)
-- `C` **Mueller Water Products** — Mechanical Engineer Intern · Chattanooga, TN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a5e1cd8050c423c792ed4b2?utm_campaign=1048&utm_source=git)
-- `C` **Bosch Group** — 2026 Mechanical Engineering Internati... · Charleston, SC · score 4 · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953)
-- `C` **Micron Technology** — Intern - DRAM IP Circuits Design Engineer · Boise, ID, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a7ab4f39ee17f276dbf3f34?utm_campaign=1048&utm_source=git)
+- `C` **Odys Aviation** — [Mechanical Engineering Intern/Co-Op [Propulsion]](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) · Long Beach, CA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git)
+- `C` **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · Milpitas, CA · score 6 · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744)
+- `C` **Sargent & Lundy** — Mechanical Engineer Intern - Energy & Industrial (Summer 2027) · Chicago, IL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a7b5d92ecfd2977075387a9?utm_campaign=1048&utm_source=git)
+- `C` **Etched** — Mech / Thermal Intern · San Jose, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a56db17efb06a45240d887b?utm_campaign=1048&utm_source=git)
+- `C` **Teledyne Technologies Incorporated** — Mechanical Engineering Intern · Miamisburg, OH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a79d8739ee17f276dbefbcd?utm_campaign=1048&utm_source=git)
