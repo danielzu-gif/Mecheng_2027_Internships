@@ -1,16 +1,16 @@
 # Summer 2027 board
-_rebuilt 2026-08-11 23:22 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-12 00:42 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**21 open · 1 apply-now · 0 saved · 3 applied all-time**
+**25 open · 1 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
 ## ⭐ Apply now (1)
 
-- [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (47h ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
+- [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (2d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
 
-## 🔷 Strong (9)
+## 🔷 Strong (13)
 
 - [ ] **Rocket Lab** — Ground Systems Mechanical Engineering Intern - Neutron · posted Aug 03 (8d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821138003) <!--a:ea0be5b2c854d237-->
   - [ ] 📌 keep on the board <!--s:ea0be5b2c854d237-->
@@ -23,22 +23,31 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rocket Lab** — Manufacturing Engineering Intern- Spacecraft Components · posted Aug 03 (8d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820014003) <!--a:da89a0bebaeca1a9-->
   - [ ] 📌 keep on the board <!--s:da89a0bebaeca1a9-->
 
-- [ ] **E-Space** — Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics · posted Aug 04 (7d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a72591145b6af1c30dbe475?utm_campaign=1048&utm_source=git) <!--a:b3c6e74ea83a6070-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (24h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
+  - [ ] 📌 keep on the board <!--s:67b8d603982a00f0-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Electronics/Electrical Systems Engineer I · posted Aug 11 (24h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960c77e6b569c61c1b3f?utm_campaign=1048&utm_source=git) <!--a:2e4fae870911f74b-->
+  - [ ] 📌 keep on the board <!--s:2e4fae870911f74b-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Manufacturing Engineer I · posted Aug 11 (24h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git) <!--a:d1a65575e036e4c1-->
+  - [ ] 📌 keep on the board <!--s:d1a65575e036e4c1-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Test Engineer I · posted Aug 11 (24h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b96223b399d106e4d79b4?utm_campaign=1048&utm_source=git) <!--a:224bbbc4309d3271-->
+  - [ ] 📌 keep on the board <!--s:224bbbc4309d3271-->
+
+- [ ] **E-Space** — Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics · posted Aug 04 (8d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a72591145b6af1c30dbe475?utm_campaign=1048&utm_source=git) <!--a:b3c6e74ea83a6070-->
   - [ ] 📌 keep on the board <!--s:b3c6e74ea83a6070-->
 
-- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (3d ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
+- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (4d ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
   - [ ] 📌 keep on the board <!--s:03a82c0854517b1a-->
 
-- [ ] **RTX** — Mechanical Engineering Intern - Hot Section Engineering (Summer 2027) (Onsite) · posted Aug 04 (7d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a72076fe2b7476e7b210c2b?utm_campaign=1048&utm_source=git) <!--a:eff2c349bb7d1151-->
+- [ ] **RTX** — Mechanical Engineering Intern - Hot Section Engineering (Summer 2027) (Onsite) · posted Aug 04 (8d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a72076fe2b7476e7b210c2b?utm_campaign=1048&utm_source=git) <!--a:eff2c349bb7d1151-->
   - [ ] 📌 keep on the board <!--s:eff2c349bb7d1151-->
-- [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (7d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
+- [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (8d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
 
 ## ▫️ Worth a look (11)
 
 - [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (6d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
   - [ ] 📌 keep on the board <!--s:b9047a025e2920ba-->
-- [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (7d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
+- [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (8d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
 
 - [ ] **Rocket Lab** — Ground Systems Engineering Intern · posted Aug 03 (8d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821140003) <!--a:056bc0e6835216f3-->
@@ -54,13 +63,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rocket Lab** — Development Engineering Intern - Neutron Upper Module · posted Aug 03 (8d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821126003) <!--a:a6a5608456b9cc50-->
   - [ ] 📌 keep on the board <!--s:a6a5608456b9cc50-->
 
-- [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (4d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
+- [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (5d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
 
-- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (24h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
+- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (25h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (47h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
   - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
 ### · Wide net (64)
