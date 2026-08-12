@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-12 04:26 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-12 05:27 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -23,13 +23,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rocket Lab** — Manufacturing Engineering Intern- Spacecraft Components · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820014003) <!--a:da89a0bebaeca1a9-->
   - [ ] 📌 keep on the board <!--s:da89a0bebaeca1a9-->
 
-- [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (28h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (29h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
   - [ ] 📌 keep on the board <!--s:67b8d603982a00f0-->
-- [ ] **Blue Origin** — 2026 Intern Conversion - Test Engineer I · posted Aug 11 (28h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b96223b399d106e4d79b4?utm_campaign=1048&utm_source=git) <!--a:224bbbc4309d3271-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Test Engineer I · posted Aug 11 (29h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b96223b399d106e4d79b4?utm_campaign=1048&utm_source=git) <!--a:224bbbc4309d3271-->
   - [ ] 📌 keep on the board <!--s:224bbbc4309d3271-->
-- [ ] **Blue Origin** — 2026 Intern Conversion - Electronics/Electrical Systems Engineer I · posted Aug 11 (28h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960c77e6b569c61c1b3f?utm_campaign=1048&utm_source=git) <!--a:2e4fae870911f74b-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Electronics/Electrical Systems Engineer I · posted Aug 11 (29h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960c77e6b569c61c1b3f?utm_campaign=1048&utm_source=git) <!--a:2e4fae870911f74b-->
   - [ ] 📌 keep on the board <!--s:2e4fae870911f74b-->
-- [ ] **Blue Origin** — 2026 Intern Conversion - Manufacturing Engineer I · posted Aug 11 (28h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git) <!--a:d1a65575e036e4c1-->
+- [ ] **Blue Origin** — 2026 Intern Conversion - Manufacturing Engineer I · posted Aug 11 (29h ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git) <!--a:d1a65575e036e4c1-->
   - [ ] 📌 keep on the board <!--s:d1a65575e036e4c1-->
 
 - [ ] **E-Space** — Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics · posted Aug 04 (8d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a72591145b6af1c30dbe475?utm_campaign=1048&utm_source=git) <!--a:b3c6e74ea83a6070-->
@@ -45,7 +45,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (11)
 
-- [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (6d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
+- [ ] **Draper** — Mechanical Engineering & System Packa... · posted Aug 05 (7d ago) · Cambridge, MA · S27 confirmed · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) <!--a:b9047a025e2920ba-->
   - [ ] 📌 keep on the board <!--s:b9047a025e2920ba-->
 - [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (8d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
@@ -66,7 +66,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (5d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
 
-- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (29h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
+- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (30h ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
 
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
