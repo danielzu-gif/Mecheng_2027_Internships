@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-13 11:50 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-13 13:27 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**15 open · 1 apply-now · 0 saved · 3 applied all-time**
+**16 open · 1 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -10,7 +10,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (3d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
 
-## 🔷 Strong (8)
+## 🔷 Strong (9)
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (2d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
   - [ ] 📌 keep on the board <!--s:67b8d603982a00f0-->
@@ -31,6 +31,8 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:eff2c349bb7d1151-->
 - [ ] **RTX** — Systems Engineer Intern - Summer 2027 (Onsite) · posted Aug 04 (9d ago) · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a725d7302d93145bf8945d2?utm_campaign=1048&utm_source=git) <!--a:54540631664d0cff-->
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
+- [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (24h ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
+  - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
 
 ## ▫️ Worth a look (6)
 
@@ -39,7 +41,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (9d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
 
-- [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (35h ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
+- [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (37h ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
   - [ ] 📌 keep on the board <!--s:0f9bcfe8c6d4fcf7-->
 
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (6d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
