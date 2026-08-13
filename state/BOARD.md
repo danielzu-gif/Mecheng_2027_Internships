@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-13 00:43 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-13 02:30 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **26 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -14,13 +14,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Rocket Lab** — Ground Systems Mechanical Engineering Intern - Neutron · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821138003) <!--a:ea0be5b2c854d237-->
   - [ ] 📌 keep on the board <!--s:ea0be5b2c854d237-->
-- [ ] **Rocket Lab** — Avionics Manufacturing Engineering Intern · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819770003) <!--a:262bab3483b20a0d-->
+- [ ] **Rocket Lab** — Avionics Manufacturing Engineering Intern · posted Aug 03 (10d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819770003) <!--a:262bab3483b20a0d-->
   - [ ] 📌 keep on the board <!--s:262bab3483b20a0d-->
-- [ ] **Rocket Lab** — Neutron Mechanical Development Intern · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821122003) <!--a:71641ed2d5f0d503-->
+- [ ] **Rocket Lab** — Neutron Mechanical Development Intern · posted Aug 03 (10d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821122003) <!--a:71641ed2d5f0d503-->
   - [ ] 📌 keep on the board <!--s:71641ed2d5f0d503-->
-- [ ] **Rocket Lab** — Manufacturing Engineering Intern - Vehicle Integration · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819745003) <!--a:cf6f8c85bbe44281-->
+- [ ] **Rocket Lab** — Manufacturing Engineering Intern - Vehicle Integration · posted Aug 03 (10d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819745003) <!--a:cf6f8c85bbe44281-->
   - [ ] 📌 keep on the board <!--s:cf6f8c85bbe44281-->
-- [ ] **Rocket Lab** — Manufacturing Engineering Intern- Spacecraft Components · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820014003) <!--a:da89a0bebaeca1a9-->
+- [ ] **Rocket Lab** — Manufacturing Engineering Intern- Spacecraft Components · posted Aug 03 (10d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820014003) <!--a:da89a0bebaeca1a9-->
   - [ ] 📌 keep on the board <!--s:da89a0bebaeca1a9-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (2d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
@@ -50,12 +50,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Draper** — Mechanical Engineering & System Packaging Intern · posted Aug 04 (9d ago) · season unstated · [apply](https://jobright.ai/jobs/info/6a720dd771acd469eeda5998?utm_campaign=1048&utm_source=git) <!--a:ae612e03e5f39e63-->
   - [ ] 📌 keep on the board <!--s:ae612e03e5f39e63-->
 
-- [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (24h ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
+- [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (26h ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
   - [ ] 📌 keep on the board <!--s:0f9bcfe8c6d4fcf7-->
 
 - [ ] **Rocket Lab** — Ground Systems Engineering Intern · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821140003) <!--a:056bc0e6835216f3-->
   - [ ] 📌 keep on the board <!--s:056bc0e6835216f3-->
-- [ ] **Rocket Lab** — Ground Systems Engineering Intern - Instrumentation & Control · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819722003) <!--a:5876d40796e3c78f-->
+- [ ] **Rocket Lab** — Ground Systems Engineering Intern - Instrumentation & Control · posted Aug 03 (10d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819722003) <!--a:5876d40796e3c78f-->
   - [ ] 📌 keep on the board <!--s:5876d40796e3c78f-->
 - [ ] **Rocket Lab** — Avionics Systems and Test Engineering Intern · posted Aug 03 (9d ago) · season unstated · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821144003) <!--a:61d77b1302c3b4e6-->
   - [ ] 📌 keep on the board <!--s:61d77b1302c3b4e6-->
