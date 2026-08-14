@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-14 19:35 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-14 20:14 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **15 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -31,7 +31,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:54540631664d0cff-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (2d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (0m ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (38m ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 ## ▫️ Worth a look (5)
@@ -48,8 +48,8 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (4d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
   - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
-- [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (43h ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
+- [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (44h ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-### · Wide net (77)
+### · Wide net (76)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
