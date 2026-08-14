@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-14 16:30 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-14 17:36 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **17 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -53,7 +53,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (4d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
   - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
-- [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (40h ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
+- [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (41h ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
 ### · Wide net (78)
