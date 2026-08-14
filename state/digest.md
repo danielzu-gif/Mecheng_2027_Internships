@@ -1,9 +1,7 @@
-# Brief 2026-08-14 17:36 UTC
+# Brief 2026-08-14 23:30 UTC
 
-5 new since the last brief.
+3 new since the last brief.
 
-- `C` **Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires** — Intern, Mechanical Engineering · Westminster, MD, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a392e48214ae004c7a1d49c?utm_campaign=1048&utm_source=git)
-- `C` **Fishbeck** — Mechanical Engineering Internship/ Co-Op · Grand Rapids, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a7f1069e2030208f276ba65?utm_campaign=1048&utm_source=git)
-- `C` **Leviton** — Mechanical Engineering Intern (Year-round) · Melville, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git)
-- `C` **VECARIUS, Inc.** — Mechanical Engineer (Intern with SolidWorks) · Somerville, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a7f1d66ad9ff00c26baca22?utm_campaign=1048&utm_source=git)
-- `C` **Micron Technology** — Intern - Digital IP Design Engineer, DRAM · Boise, ID, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a7e122ee51a1e18a240be6f?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Electrical Computer-Aided Design Engineer Intern · Tucson, AZ · score 9 · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify)
+- `A` **RTX** — Material/Process Engineering Intern (... · Santa Fe Springs, CA · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166)
+- `A` **RTX** — Radar Digital Products Engineering Intern · Tewksbury, MA · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify)
