@@ -1,9 +1,9 @@
 # Wide net
-_79 open · rebuilt 2026-08-15 20:29 UTC · tick 📌 to move one onto the main board_
+_79 open · rebuilt 2026-08-15 20:58 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
-- [ ] **Vertiv** — Mechanical Engineering Intern - Liquid Cooling Summer 2027 · posted Aug 12 (2d ago) · Westerville, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e0fd7ad9ff00c26ba9a0f?utm_campaign=1048&utm_source=git) <!--a:e817a644635fb34b-->
+- [ ] **Vertiv** — Mechanical Engineering Intern - Liquid Cooling Summer 2027 · posted Aug 12 (3d ago) · Westerville, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e0fd7ad9ff00c26ba9a0f?utm_campaign=1048&utm_source=git) <!--a:e817a644635fb34b-->
   - [ ] 📌 keep on the board <!--s:e817a644635fb34b-->
 - [ ] **Vertiv** — Thermal Engineer Intern - Summer 2027 · posted Aug 10 (5d ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) <!--a:32db0eadada51d89-->
   - [ ] 📌 keep on the board <!--s:32db0eadada51d89-->
@@ -80,7 +80,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (8d ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
-- [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (44h ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
+- [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (45h ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
   - [ ] 📌 keep on the board <!--s:f58760be07bed14d-->
 - [ ] **Bosch Group** — 2026 Mechanical Engineering Internati... · posted Aug 11 (4d ago) · Charleston, SC · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) <!--a:ffce5329b6474942-->
   - [ ] 📌 keep on the board <!--s:ffce5329b6474942-->
