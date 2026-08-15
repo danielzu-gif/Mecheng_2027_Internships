@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-15 04:08 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-15 04:24 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**16 open · 2 apply-now · 0 saved · 3 applied all-time**
+**17 open · 2 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -36,13 +36,16 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (8h ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
-## ▫️ Worth a look (5)
+## ▫️ Worth a look (6)
 
 - [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (3d ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
   - [ ] 📌 keep on the board <!--s:0f9bcfe8c6d4fcf7-->
 
 - [ ] **Applied Intuition** — Research Intern - Robotic Hardware, Simulation and Data · posted Aug 07 (8d ago) · Sunnyvale · season unstated · [apply](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git) <!--a:95f4c61a6a5a5552-->
   - [ ] 📌 keep on the board <!--s:95f4c61a6a5a5552-->
+
+- [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (0m ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
+  - [ ] 📌 keep on the board <!--s:6130b33163523762-->
 
 - [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (4d ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
