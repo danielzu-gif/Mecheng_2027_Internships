@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-15 18:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-15 19:04 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **18 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -7,12 +7,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ⭐ Apply now (3)
 
-- [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (18h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
+- [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (19h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
   - [ ] 📌 keep on the board <!--s:cfd3e0212d7893a9-->
 - [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (5d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
 
-- [ ] **Astranis Space Technologies** — CAD Engineer/Librarian Intern (Summer 2027) · posted Aug 14 (42h ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:7c7c0aa83a18ce70-->
+- [ ] **Astranis Space Technologies** — CAD Engineer/Librarian Intern (Summer 2027) · posted Aug 14 (43h ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:7c7c0aa83a18ce70-->
   - [ ] 📌 keep on the board <!--s:7c7c0aa83a18ce70-->
 
 ## 🔷 Strong (9)
@@ -33,9 +33,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (3d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
-- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (19h ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
+- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (20h ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (22h ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (23h ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 ## ▫️ Worth a look (6)
