@@ -1,5 +1,5 @@
 # Wide net
-_77 open · rebuilt 2026-08-15 13:36 UTC · tick 📌 to move one onto the main board_
+_80 open · rebuilt 2026-08-15 13:58 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -25,6 +25,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Odys Aviation** — [Mechanical Engineering Intern/Co-Op [Propulsion]](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) · posted Aug 11 (4d ago) · Long Beach, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) <!--a:75b7e4f69dd90f82-->
   - [ ] 📌 keep on the board <!--s:75b7e4f69dd90f82-->
+
+- [ ] **Onto Innovation** — Mechanical Systems Engineer Intern · posted Aug 15 (13h ago) · Bloomington-MN · season unstated · [apply](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git) <!--a:c6dff4d061fd5d1f-->
+  - [ ] 📌 keep on the board <!--s:c6dff4d061fd5d1f-->
 
 - [ ] **BAE Systems** — Mechanical Engineering Intern IV, (Summer 2027) Onsite · posted Aug 13 (2d ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e35f1e51a1e18a240cbf9?utm_campaign=1048&utm_source=git) <!--a:27a6bf61d61f99d1-->
   - [ ] 📌 keep on the board <!--s:27a6bf61d61f99d1-->
@@ -77,7 +80,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Bosch Group** — Internship Vehicle Thermal Systems En... · posted Aug 07 (7d ago) · Farmington Hills, MI · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) <!--a:5803f14d9d5f5a2c-->
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
-- [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (37h ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
+- [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (38h ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
   - [ ] 📌 keep on the board <!--s:f58760be07bed14d-->
 - [ ] **Bosch Group** — 2026 Mechanical Engineering Internati... · posted Aug 11 (3d ago) · Charleston, SC · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) <!--a:ffce5329b6474942-->
   - [ ] 📌 keep on the board <!--s:ffce5329b6474942-->
@@ -158,6 +161,11 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Mueller Water Products** — Mechanical Engineer Intern · posted Aug 11 (4d ago) · Chattanooga, TN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a5e1cd8050c423c792ed4b2?utm_campaign=1048&utm_source=git) <!--a:0c15dc61b2b47304-->
   - [ ] 📌 keep on the board <!--s:0c15dc61b2b47304-->
+
+- [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (13h ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
+  - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
+- [ ] **Neuralink** — Mechanical Engineering Intern, Robotics · posted Aug 15 (13h ago) · Fremont, California, United States · season unstated · [apply](https://jobright.ai/jobs/info/68802b0f764c3d7411c4fe8e?utm_campaign=1048&utm_source=git) <!--a:1a42bc2f187cce85-->
+  - [ ] 📌 keep on the board <!--s:1a42bc2f187cce85-->
 
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (8d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
   - [ ] 📌 keep on the board <!--s:7d2c3d97bf481668-->
