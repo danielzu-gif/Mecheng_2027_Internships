@@ -1,5 +1,5 @@
 # Wide net
-_81 open · rebuilt 2026-08-15 19:04 UTC · tick 📌 to move one onto the main board_
+_81 open · rebuilt 2026-08-15 19:40 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -41,7 +41,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Jacobs** — Mechanical Engineering Intern - Summer 2027 · posted Aug 12 (3d ago) · Cincinnati, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cfbcddc3dff2d1c0ca488?utm_campaign=1048&utm_source=git) <!--a:79fa10485d24883c-->
   - [ ] 📌 keep on the board <!--s:79fa10485d24883c-->
 
-- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (3d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
+- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (4d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
   - [ ] 📌 keep on the board <!--s:64b1ae2f57f5345c-->
 
 - [ ] **Reframe Systems** — Mechanical Engineer Internship (Summer 27) · posted Aug 10 (5d ago) · Andover, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a74519ee17f276dbf32d1?utm_campaign=1048&utm_source=git) <!--a:1555d6be07e4a178-->
@@ -225,7 +225,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
 - [ ] **Micron Technology** — Intern - DRAM Design Engineer · posted Aug 10 (5d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) <!--a:4765439ae4835402-->
   - [ ] 📌 keep on the board <!--s:4765439ae4835402-->
-- [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (38h ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
+- [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (39h ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
 - [ ] **Micron Technology** — Intern - DRAM IP Circuits Design Engineer · posted Aug 11 (4d ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7ab4f39ee17f276dbf3f34?utm_campaign=1048&utm_source=git) <!--a:fe73dd503910c384-->
   - [ ] 📌 keep on the board <!--s:fe73dd503910c384-->
