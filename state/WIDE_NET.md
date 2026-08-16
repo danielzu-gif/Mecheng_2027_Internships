@@ -1,5 +1,5 @@
 # Wide net
-_76 open · rebuilt 2026-08-16 01:46 UTC · tick 📌 to move one onto the main board_
+_77 open · rebuilt 2026-08-16 03:06 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -24,7 +24,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Odys Aviation** — [Mechanical Engineering Intern/Co-Op [Propulsion]](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) · posted Aug 11 (5d ago) · Long Beach, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) <!--a:75b7e4f69dd90f82-->
   - [ ] 📌 keep on the board <!--s:75b7e4f69dd90f82-->
 
-- [ ] **Onto Innovation** — Mechanical Systems Engineer Intern · posted Aug 15 (25h ago) · Bloomington-MN · season unstated · [apply](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git) <!--a:c6dff4d061fd5d1f-->
+- [ ] **Onto Innovation** — Mechanical Systems Engineer Intern · posted Aug 15 (27h ago) · Bloomington-MN · season unstated · [apply](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git) <!--a:c6dff4d061fd5d1f-->
   - [ ] 📌 keep on the board <!--s:c6dff4d061fd5d1f-->
 
 - [ ] **BAE Systems** — Mechanical Engineering Intern IV, (Summer 2027) Onsite · posted Aug 13 (3d ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e35f1e51a1e18a240cbf9?utm_campaign=1048&utm_source=git) <!--a:27a6bf61d61f99d1-->
@@ -72,6 +72,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Barry-Wehmiller** — Mechanical Engineering Intern · posted Aug 13 (3d ago) · Waukesha, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a5b59b84da96a42cfd9a21e?utm_campaign=1048&utm_source=git) <!--a:cbfbbf80ab523634-->
   - [ ] 📌 keep on the board <!--s:cbfbbf80ab523634-->
+
+- [ ] **Bombardier** — Mechanical Engineer Intern · posted Aug 15 (27h ago) · Wichita, KS, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a63b09ce8d8d22e3292a168?utm_campaign=1048&utm_source=git) <!--a:4b6bf6cb84c1a0cf-->
+  - [ ] 📌 keep on the board <!--s:4b6bf6cb84c1a0cf-->
 
 - [ ] **Bosch** — Internship Vehicle Thermal Systems Engineering · posted Aug 07 (9d ago) · Farmington Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git) <!--a:7e2e82150806861a-->
   - [ ] 📌 keep on the board <!--s:7e2e82150806861a-->
@@ -142,7 +145,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (2d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Mechatronics Engineering Co-op · posted Aug 11 (4d ago) · Newmarket, Ontario, CA · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) <!--a:87b103cee0b2a65e-->
+- [ ] **Magna** — Mechatronics Engineering Co-op · posted Aug 11 (5d ago) · Newmarket, Ontario, CA · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) <!--a:87b103cee0b2a65e-->
   - [ ] 📌 keep on the board <!--s:87b103cee0b2a65e-->
 
 - [ ] **Mind Robotics** — Intern, Mechanical Design - Wiring Harness · posted Aug 13 (3d ago) · Palo Alto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7dbc170cd4a0703257bb3c?utm_campaign=1048&utm_source=git) <!--a:7403ac7c6f049110-->
@@ -151,9 +154,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Mueller Water Products** — Mechanical Engineer Intern · posted Aug 11 (5d ago) · Chattanooga, TN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a5e1cd8050c423c792ed4b2?utm_campaign=1048&utm_source=git) <!--a:0c15dc61b2b47304-->
   - [ ] 📌 keep on the board <!--s:0c15dc61b2b47304-->
 
-- [ ] **Neuralink** — Mechanical Engineering Intern, Robotics · posted Aug 15 (25h ago) · Fremont, California, United States · season unstated · [apply](https://jobright.ai/jobs/info/68802b0f764c3d7411c4fe8e?utm_campaign=1048&utm_source=git) <!--a:1a42bc2f187cce85-->
+- [ ] **Neuralink** — Mechanical Engineering Intern, Robotics · posted Aug 15 (27h ago) · Fremont, California, United States · season unstated · [apply](https://jobright.ai/jobs/info/68802b0f764c3d7411c4fe8e?utm_campaign=1048&utm_source=git) <!--a:1a42bc2f187cce85-->
   - [ ] 📌 keep on the board <!--s:1a42bc2f187cce85-->
-- [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (25h ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
+- [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (27h ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
   - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
 
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (9d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
@@ -198,7 +201,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **We Energies** — Power Generation Mechanical Engineering Intern · posted Aug 14 (2d ago) · Germantown, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f7e3bad9ff00c26bae962?utm_campaign=1048&utm_source=git) <!--a:4707fee559c52d38-->
   - [ ] 📌 keep on the board <!--s:4707fee559c52d38-->
 
-- [ ] **Westlake** — 2026 Intern - Mechanical Engineer · posted Aug 15 (25h ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a512bca78e364789ca5979e?utm_campaign=1048&utm_source=git) <!--a:f9dc8a9753793e29-->
+- [ ] **Westlake** — 2026 Intern - Mechanical Engineer · posted Aug 15 (27h ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a512bca78e364789ca5979e?utm_campaign=1048&utm_source=git) <!--a:f9dc8a9753793e29-->
   - [ ] 📌 keep on the board <!--s:f9dc8a9753793e29-->
 
 - [ ] **Women In Science** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (3d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e72160cd4a070325802b5?utm_campaign=1048&utm_source=git) <!--a:65d9a15cd04e34ea-->
@@ -211,7 +214,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
 - [ ] **Micron Technology** — Intern - DRAM Design Engineer · posted Aug 10 (5d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) <!--a:4765439ae4835402-->
   - [ ] 📌 keep on the board <!--s:4765439ae4835402-->
-- [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (45h ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
+- [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (46h ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
 - [ ] **Micron Technology** — Intern - DRAM IP Circuits Design Engineer · posted Aug 11 (5d ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7ab4f39ee17f276dbf3f34?utm_campaign=1048&utm_source=git) <!--a:fe73dd503910c384-->
   - [ ] 📌 keep on the board <!--s:fe73dd503910c384-->
