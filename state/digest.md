@@ -1,5 +1,6 @@
-# Brief 2026-08-16 20:57 UTC
+# Brief 2026-08-16 23:28 UTC
 
-1 new since the last brief.
+2 new since the last brief.
 
-- `S` **Anduril Industries** — 2027 Manufacturing Engineer Intern · Atlanta, Georgia, United States · score 11 · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Mechanical Engineering Intern (Summer 2027) · Tucson, AZ, United States · score 11 · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Mechanical Engineering Intern - ALE (Summer 2027) · Tucson, AZ, United States · score 11 · [apply](https://jobright.ai/jobs/info/6a8230ef19ce4e6e9d947986?utm_campaign=1048&utm_source=git)
