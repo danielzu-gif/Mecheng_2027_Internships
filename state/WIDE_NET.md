@@ -1,5 +1,5 @@
 # Wide net
-_74 open · rebuilt 2026-08-16 14:58 UTC · tick 📌 to move one onto the main board_
+_74 open · rebuilt 2026-08-16 15:30 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -24,7 +24,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Odys Aviation** — [Mechanical Engineering Intern/Co-Op [Propulsion]](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) · posted Aug 11 (5d ago) · Long Beach, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b8b2677e6b569c61c16ba?utm_campaign=1048&utm_source=git) <!--a:75b7e4f69dd90f82-->
   - [ ] 📌 keep on the board <!--s:75b7e4f69dd90f82-->
 
-- [ ] **Onto Innovation** — Mechanical Systems Engineer Intern · posted Aug 15 (38h ago) · Bloomington-MN · season unstated · [apply](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git) <!--a:c6dff4d061fd5d1f-->
+- [ ] **Onto Innovation** — Mechanical Systems Engineer Intern · posted Aug 15 (39h ago) · Bloomington-MN · season unstated · [apply](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git) <!--a:c6dff4d061fd5d1f-->
   - [ ] 📌 keep on the board <!--s:c6dff4d061fd5d1f-->
 
 - [ ] **BAE Systems** — Mechanical Engineering Intern IV, (Summer 2027) Onsite · posted Aug 13 (3d ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e35f1e51a1e18a240cbf9?utm_campaign=1048&utm_source=git) <!--a:27a6bf61d61f99d1-->
@@ -73,7 +73,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Barry-Wehmiller** — Mechanical Engineering Intern · posted Aug 13 (3d ago) · Waukesha, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a5b59b84da96a42cfd9a21e?utm_campaign=1048&utm_source=git) <!--a:cbfbbf80ab523634-->
   - [ ] 📌 keep on the board <!--s:cbfbbf80ab523634-->
 
-- [ ] **Bombardier** — Mechanical Engineer Intern · posted Aug 15 (38h ago) · Wichita, KS, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a63b09ce8d8d22e3292a168?utm_campaign=1048&utm_source=git) <!--a:4b6bf6cb84c1a0cf-->
+- [ ] **Bombardier** — Mechanical Engineer Intern · posted Aug 15 (39h ago) · Wichita, KS, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a63b09ce8d8d22e3292a168?utm_campaign=1048&utm_source=git) <!--a:4b6bf6cb84c1a0cf-->
   - [ ] 📌 keep on the board <!--s:4b6bf6cb84c1a0cf-->
 
 - [ ] **Bosch** — Internship Vehicle Thermal Systems Engineering · posted Aug 07 (9d ago) · Farmington Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a760871b17cba569035c2e0?utm_campaign=1048&utm_source=git) <!--a:7e2e82150806861a-->
@@ -151,9 +151,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Mueller Water Products** — Mechanical Engineer Intern · posted Aug 11 (5d ago) · Chattanooga, TN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a5e1cd8050c423c792ed4b2?utm_campaign=1048&utm_source=git) <!--a:0c15dc61b2b47304-->
   - [ ] 📌 keep on the board <!--s:0c15dc61b2b47304-->
 
-- [ ] **Neuralink** — Mechanical Engineering Intern, Robotics · posted Aug 15 (38h ago) · Fremont, California, United States · season unstated · [apply](https://jobright.ai/jobs/info/68802b0f764c3d7411c4fe8e?utm_campaign=1048&utm_source=git) <!--a:1a42bc2f187cce85-->
+- [ ] **Neuralink** — Mechanical Engineering Intern, Robotics · posted Aug 15 (39h ago) · Fremont, California, United States · season unstated · [apply](https://jobright.ai/jobs/info/68802b0f764c3d7411c4fe8e?utm_campaign=1048&utm_source=git) <!--a:1a42bc2f187cce85-->
   - [ ] 📌 keep on the board <!--s:1a42bc2f187cce85-->
-- [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (38h ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
+- [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (39h ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
   - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
 
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (9d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
@@ -192,7 +192,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **We Energies** — Power Generation Mechanical Engineering Intern · posted Aug 14 (2d ago) · Germantown, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f7e3bad9ff00c26bae962?utm_campaign=1048&utm_source=git) <!--a:4707fee559c52d38-->
   - [ ] 📌 keep on the board <!--s:4707fee559c52d38-->
 
-- [ ] **Westlake** — 2026 Intern - Mechanical Engineer · posted Aug 15 (38h ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a512bca78e364789ca5979e?utm_campaign=1048&utm_source=git) <!--a:f9dc8a9753793e29-->
+- [ ] **Westlake** — 2026 Intern - Mechanical Engineer · posted Aug 15 (39h ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a512bca78e364789ca5979e?utm_campaign=1048&utm_source=git) <!--a:f9dc8a9753793e29-->
   - [ ] 📌 keep on the board <!--s:f9dc8a9753793e29-->
 
 - [ ] **Women In Science** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (3d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e72160cd4a070325802b5?utm_campaign=1048&utm_source=git) <!--a:65d9a15cd04e34ea-->
