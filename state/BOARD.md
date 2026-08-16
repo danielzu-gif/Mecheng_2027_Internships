@@ -1,14 +1,16 @@
 # Summer 2027 board
-_rebuilt 2026-08-16 14:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-16 14:58 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**18 open · 3 apply-now · 0 saved · 3 applied all-time**
+**19 open · 4 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (3)
+## ⭐ Apply now (4)
 
 - [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (38h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
   - [ ] 📌 keep on the board <!--s:cfd3e0212d7893a9-->
+- [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (14h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
+  - [ ] 📌 keep on the board <!--s:79fbdd36cf458fd2-->
 - [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (6d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
 
@@ -35,7 +37,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
 - [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (39h ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (42h ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (43h ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 ## ▫️ Worth a look (6)
