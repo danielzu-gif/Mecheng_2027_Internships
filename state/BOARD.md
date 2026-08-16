@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-16 22:29 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-16 22:56 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**20 open · 4 apply-now · 0 saved · 3 applied all-time**
+**21 open · 4 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -17,11 +17,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Astranis Space Technologies** — CAD Engineer/Librarian Intern (Summer 2027) · posted Aug 14 (2d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:7c7c0aa83a18ce70-->
   - [ ] 📌 keep on the board <!--s:7c7c0aa83a18ce70-->
 
-## 🔷 Strong (10)
+## 🔷 Strong (11)
 
 - [ ] **RTX** — Mechanical Engineering Intern (Summer 2027) · posted Aug 15 (46h ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git) <!--a:0d99d6114f9b8c2b-->
   - [ ] 📌 keep on the board <!--s:0d99d6114f9b8c2b-->
-- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (47h ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
+- [ ] **RTX** — Mechanical Engineering Intern - ALE (Summer 2027) · posted Aug 15 (46h ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8230ef19ce4e6e9d947986?utm_campaign=1048&utm_source=git) <!--a:594e62bda6fc3613-->
+  - [ ] 📌 keep on the board <!--s:594e62bda6fc3613-->
+- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (2d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (4d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
