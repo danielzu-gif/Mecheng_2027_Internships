@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-16 23:28 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-16 23:54 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **21 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -41,7 +41,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Blue Origin** — 2026 Intern Conversion - Manufacturing Engineer I · posted Aug 11 (5d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git) <!--a:d1a65575e036e4c1-->
   - [ ] 📌 keep on the board <!--s:d1a65575e036e4c1-->
 
-- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (8d ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
+- [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (9d ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
   - [ ] 📌 keep on the board <!--s:03a82c0854517b1a-->
 
 ## ▫️ Worth a look (6)
