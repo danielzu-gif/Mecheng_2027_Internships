@@ -1,5 +1,5 @@
 # Wide net
-_74 open · rebuilt 2026-08-16 19:03 UTC · tick 📌 to move one onto the main board_
+_74 open · rebuilt 2026-08-16 19:39 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -39,7 +39,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Jacobs** — Mechanical Engineering Intern - Summer 2027 · posted Aug 12 (4d ago) · Cincinnati, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cfbcddc3dff2d1c0ca488?utm_campaign=1048&utm_source=git) <!--a:79fa10485d24883c-->
   - [ ] 📌 keep on the board <!--s:79fa10485d24883c-->
 
-- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (4d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
+- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (5d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
   - [ ] 📌 keep on the board <!--s:64b1ae2f57f5345c-->
 
 - [ ] **Reframe Systems** — Mechanical Engineer Internship (Summer 27) · posted Aug 10 (6d ago) · Andover, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a74519ee17f276dbf32d1?utm_campaign=1048&utm_source=git) <!--a:1555d6be07e4a178-->
