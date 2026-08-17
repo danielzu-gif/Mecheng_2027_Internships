@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-17 22:59 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-17 23:32 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -9,7 +9,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (2d ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
   - [ ] 📌 keep on the board <!--s:cfd3e0212d7893a9-->
-- [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (46h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
+- [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (47h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
   - [ ] 📌 keep on the board <!--s:79fbdd36cf458fd2-->
 - [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (7d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
@@ -19,11 +19,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## 🔷 Strong (16)
 
-- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (46h ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (47h ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
   - [ ] 📌 keep on the board <!--s:813294e7bfc597b5-->
-- [ ] **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 · posted Aug 16 (46h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a827a1e9b859b227766a0ad?utm_campaign=1048&utm_source=git) <!--a:0afe1b33b2da3e50-->
+- [ ] **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 · posted Aug 16 (47h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a827a1e9b859b227766a0ad?utm_campaign=1048&utm_source=git) <!--a:0afe1b33b2da3e50-->
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (46h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (47h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (16h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
@@ -63,7 +63,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (2d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
   - [ ] 📌 keep on the board <!--s:6130b33163523762-->
 
-- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (6d ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
+- [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (7d ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
 
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (7d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
