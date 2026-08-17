@@ -1,11 +1,11 @@
 # Wide net
-_69 open · rebuilt 2026-08-17 14:35 UTC · tick 📌 to move one onto the main board_
+_69 open · rebuilt 2026-08-17 15:00 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Vertiv** — Mechanical Engineering Intern - Liquid Cooling Summer 2027 · posted Aug 12 (4d ago) · Westerville, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e0fd7ad9ff00c26ba9a0f?utm_campaign=1048&utm_source=git) <!--a:e817a644635fb34b-->
   - [ ] 📌 keep on the board <!--s:e817a644635fb34b-->
-- [ ] **Vertiv** — Thermal Engineer Intern - Summer 2027 · posted Aug 10 (6d ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) <!--a:32db0eadada51d89-->
+- [ ] **Vertiv** — Thermal Engineer Intern - Summer 2027 · posted Aug 10 (7d ago) · Westerville, OH · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) <!--a:32db0eadada51d89-->
   - [ ] 📌 keep on the board <!--s:32db0eadada51d89-->
 - [ ] **Vertiv** — Mechanical Engineering Intern (Summer... · posted Aug 12 (5d ago) · United States · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503) <!--a:6d1b629de016fa92-->
   - [ ] 📌 keep on the board <!--s:6d1b629de016fa92-->
@@ -83,7 +83,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:5803f14d9d5f5a2c-->
 - [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (3d ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
   - [ ] 📌 keep on the board <!--s:f58760be07bed14d-->
-- [ ] **Bosch Group** — 2026 Mechanical Engineering Internati... · posted Aug 11 (5d ago) · Charleston, SC · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) <!--a:ffce5329b6474942-->
+- [ ] **Bosch Group** — 2026 Mechanical Engineering Internati... · posted Aug 11 (6d ago) · Charleston, SC · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) <!--a:ffce5329b6474942-->
   - [ ] 📌 keep on the board <!--s:ffce5329b6474942-->
 
 - [ ] **Etched** — Mech / Thermal Intern · posted Aug 11 (6d ago) · San Jose, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a56db17efb06a45240d887b?utm_campaign=1048&utm_source=git) <!--a:1ed63705572bab9b-->
@@ -150,7 +150,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
   - [ ] 📌 keep on the board <!--s:7d2c3d97bf481668-->
 
-- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (38h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
+- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (39h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
   - [ ] 📌 keep on the board <!--s:db761decf34ab34b-->
 
 - [ ] **RoShay Services** — Mechanical Engineering Intern/Co-Op · posted Aug 07 (10d ago) · Cincinnati, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git) <!--a:c70ca694dbf32e27-->
