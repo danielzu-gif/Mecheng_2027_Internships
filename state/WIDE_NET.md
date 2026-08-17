@@ -1,5 +1,5 @@
 # Wide net
-_69 open · rebuilt 2026-08-17 07:48 UTC · tick 📌 to move one onto the main board_
+_69 open · rebuilt 2026-08-17 08:37 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -150,7 +150,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
   - [ ] 📌 keep on the board <!--s:7d2c3d97bf481668-->
 
-- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (31h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
+- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (32h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
   - [ ] 📌 keep on the board <!--s:db761decf34ab34b-->
 
 - [ ] **RoShay Services** — Mechanical Engineering Intern/Co-Op · posted Aug 07 (10d ago) · Cincinnati, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git) <!--a:c70ca694dbf32e27-->
@@ -165,7 +165,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **T2 Design & Prototype** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · Santa Monica, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76a1f47b3417772ade8e10?utm_campaign=1048&utm_source=git) <!--a:03278ac17b8ebba2-->
   - [ ] 📌 keep on the board <!--s:03278ac17b8ebba2-->
 
-- [ ] **Teledyne** — Mechanical Engineering Intern · posted Aug 10 (6d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:f436b5ec0ffdad46-->
+- [ ] **Teledyne** — Mechanical Engineering Intern · posted Aug 10 (7d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:f436b5ec0ffdad46-->
   - [ ] 📌 keep on the board <!--s:f436b5ec0ffdad46-->
 
 - [ ] **Teledyne Qioptiq** — Mechanical Engineering Intern · posted Aug 10 (7d ago) · Miamisburg, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a79c4daa26ccc369f83abb8?utm_campaign=1048&utm_source=git) <!--a:754bbd4c62a43790-->
@@ -188,7 +188,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, DRAM · posted Aug 14 (3d ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e122ee51a1e18a240be6f?utm_campaign=1048&utm_source=git) <!--a:1cca64c92e77eced-->
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
-- [ ] **Micron Technology** — Intern - DRAM Design Engineer · posted Aug 10 (6d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) <!--a:4765439ae4835402-->
+- [ ] **Micron Technology** — Intern - DRAM Design Engineer · posted Aug 10 (7d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) <!--a:4765439ae4835402-->
   - [ ] 📌 keep on the board <!--s:4765439ae4835402-->
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (3d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
