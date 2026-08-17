@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-17 12:57 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-17 13:47 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -9,7 +9,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (2d ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
   - [ ] 📌 keep on the board <!--s:cfd3e0212d7893a9-->
-- [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (36h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
+- [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (37h ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
   - [ ] 📌 keep on the board <!--s:79fbdd36cf458fd2-->
 - [ ] **Anduril Industries** — 2027 Electrical Engineer Intern · posted Aug 10 (7d ago) · Atlanta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a53fa04e726ec56126a8a8e?utm_campaign=1048&utm_source=git) <!--a:7af893492c0eddeb-->
   - [ ] 📌 keep on the board <!--s:7af893492c0eddeb-->
@@ -19,11 +19,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## 🔷 Strong (16)
 
-- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (36h ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (37h ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
   - [ ] 📌 keep on the board <!--s:813294e7bfc597b5-->
-- [ ] **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 · posted Aug 16 (36h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a827a1e9b859b227766a0ad?utm_campaign=1048&utm_source=git) <!--a:0afe1b33b2da3e50-->
+- [ ] **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 · posted Aug 16 (37h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a827a1e9b859b227766a0ad?utm_campaign=1048&utm_source=git) <!--a:0afe1b33b2da3e50-->
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (36h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (37h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (6h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
@@ -36,7 +36,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:594e62bda6fc3613-->
 - [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (2d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
-- [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (4d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
+- [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (5d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
 - [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (2d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
