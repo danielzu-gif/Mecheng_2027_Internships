@@ -1,5 +1,5 @@
 # Wide net
-_70 open · rebuilt 2026-08-17 01:43 UTC · tick 📌 to move one onto the main board_
+_70 open · rebuilt 2026-08-17 03:06 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -118,9 +118,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Innovative Timing Systems** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · Maryland Heights, MO, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76cbd67b3417772ade944e?utm_campaign=1048&utm_source=git) <!--a:64579295eaa31b3c-->
   - [ ] 📌 keep on the board <!--s:64579295eaa31b3c-->
 
-- [ ] **KBR Careers** — Mechanical Engineering Intern · posted Aug 06 (11d ago) · Las Cruces, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7522ec972ac843c699921a?utm_campaign=1048&utm_source=git) <!--a:ec9138f86c544a06-->
-  - [ ] 📌 keep on the board <!--s:ec9138f86c544a06-->
-
 - [ ] **Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires** — Intern, Mechanical Engineering · posted Aug 14 (3d ago) · Westminster, MD, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a392e48214ae004c7a1d49c?utm_campaign=1048&utm_source=git) <!--a:b6435f8a0ee5974c-->
   - [ ] 📌 keep on the board <!--s:b6435f8a0ee5974c-->
 
@@ -136,7 +133,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (3d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Mechatronics Engineering Co-op · posted Aug 11 (5d ago) · Newmarket, Ontario, CA · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) <!--a:87b103cee0b2a65e-->
+- [ ] **Magna** — Mechatronics Engineering Co-op · posted Aug 11 (6d ago) · Newmarket, Ontario, CA · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) <!--a:87b103cee0b2a65e-->
   - [ ] 📌 keep on the board <!--s:87b103cee0b2a65e-->
 
 - [ ] **Mind Robotics** — Intern, Mechanical Design - Wiring Harness · posted Aug 13 (4d ago) · Palo Alto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7dbc170cd4a0703257bb3c?utm_campaign=1048&utm_source=git) <!--a:7403ac7c6f049110-->
@@ -152,6 +149,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
   - [ ] 📌 keep on the board <!--s:7d2c3d97bf481668-->
+
+- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (27h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
+  - [ ] 📌 keep on the board <!--s:db761decf34ab34b-->
 
 - [ ] **RoShay Services** — Mechanical Engineering Intern/Co-Op · posted Aug 07 (10d ago) · Cincinnati, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git) <!--a:c70ca694dbf32e27-->
   - [ ] 📌 keep on the board <!--s:c70ca694dbf32e27-->
