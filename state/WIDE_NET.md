@@ -1,5 +1,5 @@
 # Wide net
-_75 open · rebuilt 2026-08-17 22:31 UTC · tick 📌 to move one onto the main board_
+_75 open · rebuilt 2026-08-17 22:59 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -122,12 +122,12 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **IMEG** — Mechanical Engineering Intern / Minneapolis, MN · posted Aug 17 (22h ago) · Minneapolis, MN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a836e0f1081a745e970f1f8?utm_campaign=1048&utm_source=git) <!--a:2dc36be8cdddb52f-->
   - [ ] 📌 keep on the board <!--s:2dc36be8cdddb52f-->
-- [ ] **IMEG** — Mechanical Engineering Intern / Naperville, IL · posted Aug 17 (22h ago) · Naperville, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a833ca19b859b227766d7c9?utm_campaign=1048&utm_source=git) <!--a:708f7c3d462edbe6-->
-  - [ ] 📌 keep on the board <!--s:708f7c3d462edbe6-->
 - [ ] **IMEG** — Mechanical Engineering Intern / Columbus, OH · posted Aug 17 (22h ago) · Columbus, Ohio, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a832ba1379c304e892f5557?utm_campaign=1048&utm_source=git) <!--a:5ecc08d8bfff6a11-->
   - [ ] 📌 keep on the board <!--s:5ecc08d8bfff6a11-->
 - [ ] **IMEG** — Mechanical Engineering Intern / Madison, WI · posted Aug 17 (22h ago) · Madison, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a833c912dbaf907b0767628?utm_campaign=1048&utm_source=git) <!--a:69f27b4cc3bd6c6b-->
   - [ ] 📌 keep on the board <!--s:69f27b4cc3bd6c6b-->
+- [ ] **IMEG** — Mechanical Engineering Intern / Naperville, IL · posted Aug 17 (22h ago) · Naperville, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a833ca19b859b227766d7c9?utm_campaign=1048&utm_source=git) <!--a:708f7c3d462edbe6-->
+  - [ ] 📌 keep on the board <!--s:708f7c3d462edbe6-->
 - [ ] **IMEG** — Mechanical Engineering Intern / Rogers, AR · posted Aug 17 (22h ago) · Rogers, AR, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a836e7cb5a0ac0e84a25b67?utm_campaign=1048&utm_source=git) <!--a:7400a1f4aa9ccb4e-->
   - [ ] 📌 keep on the board <!--s:7400a1f4aa9ccb4e-->
 
