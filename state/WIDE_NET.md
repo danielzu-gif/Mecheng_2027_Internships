@@ -1,5 +1,5 @@
 # Wide net
-_69 open · rebuilt 2026-08-17 11:20 UTC · tick 📌 to move one onto the main board_
+_69 open · rebuilt 2026-08-17 12:57 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -150,7 +150,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **North American Rescue, LLC** — Mechanical Engineering Intern · posted Aug 07 (10d ago) · La Grange, KY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a75f145bb6ca93ae5610218?utm_campaign=1048&utm_source=git) <!--a:7d2c3d97bf481668-->
   - [ ] 📌 keep on the board <!--s:7d2c3d97bf481668-->
 
-- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (35h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
+- [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (36h ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
   - [ ] 📌 keep on the board <!--s:db761decf34ab34b-->
 
 - [ ] **RoShay Services** — Mechanical Engineering Intern/Co-Op · posted Aug 07 (10d ago) · Cincinnati, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git) <!--a:c70ca694dbf32e27-->
