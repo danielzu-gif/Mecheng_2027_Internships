@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-17 19:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-17 19:58 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -25,9 +25,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (43h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (12h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (13h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (12h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (13h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
   - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
 
 - [ ] **RTX** — Mechanical Engineering Intern (Summer 2027) · posted Aug 15 (2d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git) <!--a:0d99d6114f9b8c2b-->
@@ -40,7 +40,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
 - [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (2d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (2d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (3d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (6d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
