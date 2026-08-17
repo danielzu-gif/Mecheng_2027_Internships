@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-17 15:00 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-17 15:35 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -73,4 +73,4 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
 ### · Wide net (69)
-Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/2) so they cannot bury the bands above. Ticking 📌 there moves one here.
+Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
