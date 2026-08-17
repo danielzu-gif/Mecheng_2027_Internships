@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-17 21:02 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-17 21:45 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **25 open · 4 apply-now · 0 saved · 3 applied all-time**
 
