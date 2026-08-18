@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-18 15:38 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-18 16:03 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **33 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -25,11 +25,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (2d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (32h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (33h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
 - [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (31h ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (32h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (33h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
   - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
 
 - [ ] **RTX** — Mechanical Engineering Intern (Summer 2027) · posted Aug 15 (3d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git) <!--a:0d99d6114f9b8c2b-->
@@ -56,12 +56,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Blue Origin** — 2026 Intern Conversion - Manufacturing Engineer I · posted Aug 11 (7d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git) <!--a:d1a65575e036e4c1-->
   - [ ] 📌 keep on the board <!--s:d1a65575e036e4c1-->
 
-- [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (15h ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
+- [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (16h ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
   - [ ] 📌 keep on the board <!--s:b4707a1e0fc1a41b-->
-- [ ] **L3Harris Technologies** — Manufacturing Engineering Intern · posted Aug 18 (15h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84520d2f4f0014cae1fd19?utm_campaign=1048&utm_source=git) <!--a:f926e594aed50315-->
-  - [ ] 📌 keep on the board <!--s:f926e594aed50315-->
-- [ ] **L3Harris Technologies** — Systems Engineer Intern · posted Aug 18 (15h ago) · Alpharetta, GA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git) <!--a:46dd500382074fc1-->
+- [ ] **L3Harris Technologies** — Systems Engineer Intern · posted Aug 18 (16h ago) · Alpharetta, GA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git) <!--a:46dd500382074fc1-->
   - [ ] 📌 keep on the board <!--s:46dd500382074fc1-->
+- [ ] **L3Harris Technologies** — Manufacturing Engineering Intern · posted Aug 18 (16h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84520d2f4f0014cae1fd19?utm_campaign=1048&utm_source=git) <!--a:f926e594aed50315-->
+  - [ ] 📌 keep on the board <!--s:f926e594aed50315-->
 
 - [ ] **Northrop Grumman** — 2027 Operations Manufacturing Engineering Intern · posted Aug 07 (10d ago) · Palmdale, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a765ffe67a1ad0bc53ca296?utm_campaign=1048&utm_source=git) <!--a:03a82c0854517b1a-->
   - [ ] 📌 keep on the board <!--s:03a82c0854517b1a-->
@@ -80,15 +80,15 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (8d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
   - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
 
-- [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (15h ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
+- [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (16h ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
   - [ ] 📌 keep on the board <!--s:21f4f655e80ff9b4-->
-- [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (15h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
+- [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (16h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
   - [ ] 📌 keep on the board <!--s:a34644ad416cdde6-->
-- [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (15h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
+- [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (16h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
   - [ ] 📌 keep on the board <!--s:d2b4b8a31dc9963a-->
 
 - [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (5d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-### · Wide net (76)
+### · Wide net (78)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
