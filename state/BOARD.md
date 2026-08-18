@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-18 02:41 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-18 03:50 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **26 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -25,11 +25,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (2d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (19h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (21h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (2h ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (3h ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (19h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (21h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
   - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
 
 - [ ] **RTX** — Mechanical Engineering Intern (Summer 2027) · posted Aug 15 (3d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git) <!--a:0d99d6114f9b8c2b-->
