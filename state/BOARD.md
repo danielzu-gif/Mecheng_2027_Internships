@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-18 22:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-18 22:59 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **39 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -25,7 +25,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (2d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (39h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (40h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
 - [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 18 (3h ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
@@ -35,7 +35,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:5ec19a83ef2dfa21-->
 - [ ] **GE Aerospace** — Edison Works Engineering Intern - Aero Design - US - Summer 2027 · posted Aug 18 (22h ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848a17e12474455273aef4?utm_campaign=1048&utm_source=git) <!--a:8f598153a2697a10-->
   - [ ] 📌 keep on the board <!--s:8f598153a2697a10-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (39h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
+- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (40h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
   - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
 
 - [ ] **RTX** — Mechanical Engineering Intern (Summer 2027) · posted Aug 15 (3d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a821e9de2030208f277d56a?utm_campaign=1048&utm_source=git) <!--a:0d99d6114f9b8c2b-->
@@ -46,9 +46,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (6d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
-- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (3d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
+- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (4d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
-- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (39h ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
+- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (40h ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
 - [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (4d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
@@ -101,7 +101,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (5d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (5h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
+- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (6h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
 ### · Wide net (85)
