@@ -1,3 +1,27 @@
-# Brief 2026-08-18 12:59 UTC
+# Brief 2026-08-18 21:33 UTC
 
-Nothing new.
+23 new since the last brief.
+
+- `A` **Zipline** — Mechanical Engineer Intern (Summer 2027) · South San Francisco, C... · score 11 · [apply](https://www.zipline.com/open-roles?gh_jid=7866071003)
+- `A` **L3Harris Technologies** — Intern, Mechanical Engineer · Malabar, FL, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git)
+- `A` **Zipline** — Long Range Platform Hardware Engineering Intern (Summer 2027) · South San Francisco, CA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a848148d34f700f87fb900a?utm_campaign=1048&utm_source=git)
+- `A` **L3Harris Technologies** — Manufacturing Engineering Intern · Palm Bay, FL, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a84520d2f4f0014cae1fd19?utm_campaign=1048&utm_source=git)
+- `A` **L3Harris Technologies** — Systems Engineer Intern · Alpharetta, GA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git)
+- `A` **GE Aerospace** — Unison Engineering Intern - Summer 2027 · Jacksonville · score 6 · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097)
+- `A` **GE Aerospace** — Edison Works Engineering Intern - US - Signature Design & Test - Summer 2027 · Evendale, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a848a19e459fa3baa85f074?utm_campaign=1048&utm_source=git)
+- `A` **GE Aerospace** — Edison Works Engineering Intern - Aero Design - US - Summer 2027 · Evendale, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a848a17e12474455273aef4?utm_campaign=1048&utm_source=git)
+- `B` **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · Anaheim, CA, United States · score 5 · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git)
+- `B` **L3Harris Technologies** — Intern, Info Sec Systems Engineer · Palm Bay, FL, United States · score 5 · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git)
+- `B` **L3Harris Technologies** — Intern, Systems Engineer · Palm Bay, FL, United States · score 5 · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git)
+- `B` **Zipline** — Long Range Platform Hardware Engineer... · South San Francisco, C... · score 5 · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003)
+- `C` **Vertiv** — Mechanical Design Engineering Internship (Summer 2027) · Westerville, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a844f8f7b33d72276255232?utm_campaign=1048&utm_source=git)
+- `C` **Kiewit** — Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering · Houston, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8482eed34f700f87fb90d0?utm_campaign=1048&utm_source=git)
+- `C` **Freeform** — Mechanical Engineering Intern (Summer... · Los Angeles, CA (On-site) · score 6 · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003)
+- `C` **Freeform** — Mechanical Engineer (New Grad Summer ... · Los Angeles, CA (On-site) · score 6 · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003)
+- `C` **MSA - The Safety Company** — Co-op: Mechanical Engineer, New Product Development (Summer 2027) · Cranberry Township, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8495522f4f0014cae21840?utm_campaign=1048&utm_source=git)
+- `C` **Vertiv** — Mechanical Design Engineering Interns... · Westerville, OH, Unite... · score 4 · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563)
+- `C` **CDM Smith** — Bachelors - Mechanical Engineering Intern · Wadsworth, OH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a846dc77b33d72276255c7f?utm_campaign=1048&utm_source=git)
+- `C` **Huntsman Corporation** — Mechanical Engineering Intern · Houston, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a4bf96a971cd25b06f991ba?utm_campaign=1048&utm_source=git)
+- `C` **Amentum** — Mechanical Engineering Intern · Scoville, ID · score 4 · [apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1)
+- `C` **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · North America/USA/Miss... · score 4 · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190)
+- `C` **True Anomaly** — Propulsion and Fluids Intern · Long Beach, CA · score 4 · [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007)
