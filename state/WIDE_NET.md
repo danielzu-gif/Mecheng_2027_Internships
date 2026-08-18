@@ -1,5 +1,5 @@
 # Wide net
-_78 open · rebuilt 2026-08-18 16:03 UTC · tick 📌 to move one onto the main board_
+_77 open · rebuilt 2026-08-18 16:53 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -19,7 +19,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:eb438571228e9a6b-->
 - [ ] **Vertiv** — Mechanical Engineering Intern - Liqui... · posted Aug 13 (5d ago) · Westerville, OH, Unite... · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279267) <!--a:ebe5bbcb8c8989be-->
   - [ ] 📌 keep on the board <!--s:ebe5bbcb8c8989be-->
-- [ ] **Vertiv** — Mechanical Design Engineering Interns... · posted Aug 18 (15h ago) · Westerville, OH, Unite... · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563) <!--a:f966cc0b2ba07cb4-->
+- [ ] **Vertiv** — Mechanical Design Engineering Interns... · posted Aug 18 (16h ago) · Westerville, OH, Unite... · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563) <!--a:f966cc0b2ba07cb4-->
   - [ ] 📌 keep on the board <!--s:f966cc0b2ba07cb4-->
 
 - [ ] **Heart Aerospace** — Mechanical Design Intern, Structures (Summer / Fall) · posted Aug 10 (8d ago) · Los Angeles, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a10a3bb6ca93ae5619b18?utm_campaign=1048&utm_source=git) <!--a:6fee2c38ab5a9729-->
@@ -103,7 +103,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Etched** — Mech / Thermal Intern · posted Aug 11 (7d ago) · San Jose, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a56db17efb06a45240d887b?utm_campaign=1048&utm_source=git) <!--a:1ed63705572bab9b-->
   - [ ] 📌 keep on the board <!--s:1ed63705572bab9b-->
 
-- [ ] **FLIR Systems** — Mechanical Engineering Intern · posted Aug 10 (7d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:1219c7948f63dd10-->
+- [ ] **FLIR Systems** — Mechanical Engineering Intern · posted Aug 10 (8d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:1219c7948f63dd10-->
   - [ ] 📌 keep on the board <!--s:1219c7948f63dd10-->
 
 - [ ] **Field AI** — Mechanical Engineer, Robotics Hardwar... · posted Aug 10 (8d ago) · Irvine, CA · [apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) <!--a:b56f067d31a29d08-->
@@ -129,9 +129,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Garver** — Process Mechanical Engineering Intern · posted Aug 12 (6d ago) · College Station, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7cbfde83621355407abb0b?utm_campaign=1048&utm_source=git) <!--a:4bc05bdeeaf279df-->
   - [ ] 📌 keep on the board <!--s:4bc05bdeeaf279df-->
-
-- [ ] **Huntsman Corporation** — Mechanical Engineering Intern · posted Jul 19 (30d ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a4bf96a971cd25b06f991ba?utm_campaign=1048&utm_source=git) <!--a:a86c86eb62ab08b2-->
-  - [ ] 📌 keep on the board <!--s:a86c86eb62ab08b2-->
 
 - [ ] **IMEG** — Mechanical Engineering Intern / Minneapolis, MN · posted Aug 17 (40h ago) · Minneapolis, MN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a836e0f1081a745e970f1f8?utm_campaign=1048&utm_source=git) <!--a:2dc36be8cdddb52f-->
   - [ ] 📌 keep on the board <!--s:2dc36be8cdddb52f-->
