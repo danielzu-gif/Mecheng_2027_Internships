@@ -1,5 +1,5 @@
 # Wide net
-_80 open · rebuilt 2026-08-18 19:02 UTC · tick 📌 to move one onto the main board_
+_80 open · rebuilt 2026-08-18 19:44 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -37,7 +37,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Eastman** — 2027 Mechanical/Electrical Engineer Intern · posted Aug 17 (43h ago) · Longview, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a833c63b5a0ac0e84a247eb?utm_campaign=1048&utm_source=git) <!--a:710e1912452ff7a6-->
   - [ ] 📌 keep on the board <!--s:710e1912452ff7a6-->
 
-- [ ] **Freeform** — Mechanical Engineering Intern (Summer... · posted Aug 18 (0m ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) <!--a:cc4d86071bb7f585-->
+- [ ] **Freeform** — Mechanical Engineering Intern (Summer... · posted Aug 18 (1h ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) <!--a:cc4d86071bb7f585-->
   - [ ] 📌 keep on the board <!--s:cc4d86071bb7f585-->
 - [ ] **Freeform** — Mechanical Engineer (New Grad Summer ... · posted Aug 18 (1h ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) <!--a:fddb0a4ad8929b2f-->
   - [ ] 📌 keep on the board <!--s:fddb0a4ad8929b2f-->
@@ -54,7 +54,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Kiewit** — Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering · posted Aug 18 (19h ago) · Houston, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8482eed34f700f87fb90d0?utm_campaign=1048&utm_source=git) <!--a:c65d74566357e381-->
   - [ ] 📌 keep on the board <!--s:c65d74566357e381-->
 
-- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (6d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
+- [ ] **MKS Instruments** — 2027 Summer Mechanical Automation Eng... · posted Aug 11 (7d ago) · Milpitas, CA · S27 confirmed · [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) <!--a:64b1ae2f57f5345c-->
   - [ ] 📌 keep on the board <!--s:64b1ae2f57f5345c-->
 
 - [ ] **Providence Engineering** — Summer Intern, Mechanical (Summer 2027) · posted Aug 17 (43h ago) · York, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8331c32dbaf907b0766f5a?utm_campaign=1048&utm_source=git) <!--a:ca45a5292b080cb9-->
