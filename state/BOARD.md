@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-18 03:50 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-18 04:30 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **26 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -27,7 +27,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (21h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (3h ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (4h ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (21h ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
   - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
@@ -62,7 +62,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (6d ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
   - [ ] 📌 keep on the board <!--s:0f9bcfe8c6d4fcf7-->
 
-- [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (2d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
+- [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (3d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
   - [ ] 📌 keep on the board <!--s:6130b33163523762-->
 
 - [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (7d ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
