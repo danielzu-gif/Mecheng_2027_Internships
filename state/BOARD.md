@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-19 19:31 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-19 19:57 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **43 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -52,14 +52,14 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
 - [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (2d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (4d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (5d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 - [ ] **Zipline** — Mechanical Engineer Intern (Summer 2027) · posted Aug 18 (43h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7866071003) <!--a:040b3319c2b11256-->
   - [ ] 📌 keep on the board <!--s:040b3319c2b11256-->
 - [ ] **Zipline** — Long Range Platform Hardware Engineering Intern (Summer 2027) · posted Aug 18 (43h ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848148d34f700f87fb900a?utm_campaign=1048&utm_source=git) <!--a:2b63b2c994fa7f81-->
   - [ ] 📌 keep on the board <!--s:2b63b2c994fa7f81-->
-- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (2h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
+- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (3h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (8d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
@@ -102,16 +102,16 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:21f4f655e80ff9b4-->
 - [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (43h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
   - [ ] 📌 keep on the board <!--s:a34644ad416cdde6-->
-- [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (43h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
-  - [ ] 📌 keep on the board <!--s:d2b4b8a31dc9963a-->
 - [ ] **L3Harris Technologies** — Integration and Test Engineering - Automation Intern · posted Aug 19 (19h ago) · Northampton, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84211d8d793736c6133d2d?utm_campaign=1048&utm_source=git) <!--a:c5d517fbf5605c8e-->
   - [ ] 📌 keep on the board <!--s:c5d517fbf5605c8e-->
+- [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (43h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
+  - [ ] 📌 keep on the board <!--s:d2b4b8a31dc9963a-->
 
 - [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (6d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (26h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
+- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (27h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (93)
+### · Wide net (92)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
