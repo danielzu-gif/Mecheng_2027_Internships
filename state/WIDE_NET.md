@@ -1,5 +1,5 @@
 # Wide net
-_90 open · rebuilt 2026-08-19 16:03 UTC · tick 📌 to move one onto the main board_
+_90 open · rebuilt 2026-08-19 16:51 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -37,7 +37,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Eastman** — 2027 Mechanical/Electrical Engineer Intern · posted Aug 17 (2d ago) · Longview, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a833c63b5a0ac0e84a247eb?utm_campaign=1048&utm_source=git) <!--a:710e1912452ff7a6-->
   - [ ] 📌 keep on the board <!--s:710e1912452ff7a6-->
 
-- [ ] **Freeform** — Mechanical Engineering Intern (Summer... · posted Aug 18 (21h ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) <!--a:cc4d86071bb7f585-->
+- [ ] **Freeform** — Mechanical Engineering Intern (Summer... · posted Aug 18 (22h ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) <!--a:cc4d86071bb7f585-->
   - [ ] 📌 keep on the board <!--s:cc4d86071bb7f585-->
 - [ ] **Freeform** — Mechanical Engineer (New Grad Summer ... · posted Aug 18 (22h ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) <!--a:fddb0a4ad8929b2f-->
   - [ ] 📌 keep on the board <!--s:fddb0a4ad8929b2f-->
@@ -123,7 +123,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Etched** — Mech / Thermal Intern · posted Aug 11 (8d ago) · San Jose, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a56db17efb06a45240d887b?utm_campaign=1048&utm_source=git) <!--a:1ed63705572bab9b-->
   - [ ] 📌 keep on the board <!--s:1ed63705572bab9b-->
 
-- [ ] **FLIR Systems** — Mechanical Engineering Intern · posted Aug 10 (8d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:1219c7948f63dd10-->
+- [ ] **FLIR Systems** — Mechanical Engineering Intern · posted Aug 10 (9d ago) · Miamisburg, OH · season unstated · [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562) <!--a:1219c7948f63dd10-->
   - [ ] 📌 keep on the board <!--s:1219c7948f63dd10-->
 
 - [ ] **Field AI** — Mechanical Engineer, Robotics Hardwar... · posted Aug 10 (9d ago) · Irvine, CA · [apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) <!--a:b56f067d31a29d08-->
@@ -200,7 +200,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (4d ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
   - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
 
-- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (17h ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
+- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (18h ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
   - [ ] 📌 keep on the board <!--s:f08a65851ebe258a-->
 
 - [ ] **Parametric (YC F25)** — Mechatronics Engineer, Intern · posted Aug 16 (3d ago) · San Francisco, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a826040b56bea5779c1e7ca?utm_campaign=1048&utm_source=git) <!--a:db761decf34ab34b-->
