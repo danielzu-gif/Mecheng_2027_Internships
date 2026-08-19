@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-19 23:32 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-19 23:57 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **43 open · 4 apply-now · 0 saved · 3 applied all-time**
 
@@ -59,7 +59,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:040b3319c2b11256-->
 - [ ] **Zipline** — Long Range Platform Hardware Engineering Intern (Summer 2027) · posted Aug 18 (47h ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848148d34f700f87fb900a?utm_campaign=1048&utm_source=git) <!--a:2b63b2c994fa7f81-->
   - [ ] 📌 keep on the board <!--s:2b63b2c994fa7f81-->
-- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (6h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
+- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (7h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (8d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
@@ -110,8 +110,8 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (6d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (30h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
+- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (31h ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (94)
+### · Wide net (95)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
