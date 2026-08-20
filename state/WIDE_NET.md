@@ -1,5 +1,5 @@
 # Wide net
-_104 open · rebuilt 2026-08-20 23:01 UTC · tick 📌 to move one onto the main board_
+_105 open · rebuilt 2026-08-20 23:44 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -132,7 +132,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **CF Industries** — Intern, Mechanical Engineer · posted Aug 17 (3d ago) · Claremore, OK, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a834b839b859b227766dd7a?utm_campaign=1048&utm_source=git) <!--a:7943cbd41db81ac6-->
   - [ ] 📌 keep on the board <!--s:7943cbd41db81ac6-->
 
-- [ ] **Crane Co.** — Mechanical Engineering CO-OP · posted Aug 20 (21h ago) · Elyria, Ohio · season unstated · [apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190) <!--a:d92ce8ccec8377ba-->
+- [ ] **Crane Co.** — Mechanical Engineering CO-OP · posted Aug 20 (22h ago) · Elyria, Ohio · season unstated · [apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190) <!--a:d92ce8ccec8377ba-->
   - [ ] 📌 keep on the board <!--s:d92ce8ccec8377ba-->
 
 - [ ] **Crane Company** — Mechanical Engineering CO-OP · posted Aug 19 (47h ago) · Elyria, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a86428f2f4f0014cae29315?utm_campaign=1048&utm_source=git) <!--a:8e1b96224a674b70-->
@@ -271,6 +271,8 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Zipline** — Maintenance Tool Engineering Intern (... · posted Aug 20 (4h ago) · Esparto, California, USA · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7909945003) <!--a:780aa3df3cdc5ee5-->
   - [ ] 📌 keep on the board <!--s:780aa3df3cdc5ee5-->
+- [ ] **Zipline** — Civil and Structural Engineer Intern ... · posted Aug 20 (0m ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7920472003) <!--a:9f3329b5125d953b-->
+  - [ ] 📌 keep on the board <!--s:9f3329b5125d953b-->
 
 - [ ] **BWXT** — Manufacturing Engineer Intern/Co-Op · posted Aug 18 (2d ago) · Euclid, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84c7a7e12474455273c9cf?utm_campaign=1048&utm_source=git) <!--a:24b101e499e270a3-->
   - [ ] 📌 keep on the board <!--s:24b101e499e270a3-->
@@ -281,7 +283,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:4765439ae4835402-->
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (6d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
-- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 20 (26m ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
+- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 20 (1h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
   - [ ] 📌 keep on the board <!--s:75e44aac9d40c3f9-->
 - [ ] **Micron Technology** — Intern - DRAM IP Circuits Design Engineer · posted Aug 11 (9d ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7ab4f39ee17f276dbf3f34?utm_campaign=1048&utm_source=git) <!--a:fe73dd503910c384-->
   - [ ] 📌 keep on the board <!--s:fe73dd503910c384-->
