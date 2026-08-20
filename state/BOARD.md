@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-20 21:48 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-20 22:34 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**43 open · 4 apply-now · 0 saved · 3 applied all-time**
+**42 open · 4 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -27,7 +27,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (3d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (41h ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
+- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (42h ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
 - [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (3d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
@@ -44,7 +44,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0d99d6114f9b8c2b-->
 - [ ] **RTX** — Mechanical Engineering Intern - ALE (Summer 2027) · posted Aug 15 (5d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8230ef19ce4e6e9d947986?utm_campaign=1048&utm_source=git) <!--a:594e62bda6fc3613-->
   - [ ] 📌 keep on the board <!--s:594e62bda6fc3613-->
-- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (5d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
+- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (6d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (8d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
@@ -59,7 +59,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:040b3319c2b11256-->
 - [ ] **Zipline** — Long Range Platform Hardware Engineering Intern (Summer 2027) · posted Aug 18 (2d ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848148d34f700f87fb900a?utm_campaign=1048&utm_source=git) <!--a:2b63b2c994fa7f81-->
   - [ ] 📌 keep on the board <!--s:2b63b2c994fa7f81-->
-- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (29h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
+- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (30h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (9d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
@@ -78,13 +78,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **L3Harris Technologies** — Manufacturing Engineering Intern · posted Aug 18 (2d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84520d2f4f0014cae1fd19?utm_campaign=1048&utm_source=git) <!--a:f926e594aed50315-->
   - [ ] 📌 keep on the board <!--s:f926e594aed50315-->
 
-- [ ] **NVIDIA** — Hardware Engineering Intern · posted Aug 19 (35h ago) · Santa Clara, CA · S27 confirmed · [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify) <!--a:60899effbcc020d2-->
+- [ ] **NVIDIA** — Hardware Engineering Intern · posted Aug 19 (36h ago) · Santa Clara, CA · S27 confirmed · [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify) <!--a:60899effbcc020d2-->
   - [ ] 📌 keep on the board <!--s:60899effbcc020d2-->
 
-- [ ] **Rivian** — UIUC Research Park Intern - Mechanical Modeling · posted Aug 19 (45h ago) · Champaign, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a690a3f05bae84301b5a184?utm_campaign=1048&utm_source=git) <!--a:fea474c97f9235aa-->
+- [ ] **Rivian** — UIUC Research Park Intern - Mechanical Modeling · posted Aug 19 (46h ago) · Champaign, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a690a3f05bae84301b5a184?utm_campaign=1048&utm_source=git) <!--a:fea474c97f9235aa-->
   - [ ] 📌 keep on the board <!--s:fea474c97f9235aa-->
 
-## ▫️ Worth a look (10)
+## ▫️ Worth a look (9)
 
 - [ ] **Textron** — 2027 Mechanical Engineer Intern · posted Aug 12 (8d ago) · Augusta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cf4c377d5f033c4b9198b?utm_campaign=1048&utm_source=git) <!--a:0f9bcfe8c6d4fcf7-->
   - [ ] 📌 keep on the board <!--s:0f9bcfe8c6d4fcf7-->
@@ -95,14 +95,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Gulfstream** — Computer Science Intern - Advanced Structures and Materials · posted Aug 10 (9d ago) · Savannah, GA · S27 confirmed · [apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors&utm_source=Simplify&ref=Simplify) <!--a:7b980767b280b7fe-->
   - [ ] 📌 keep on the board <!--s:7b980767b280b7fe-->
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Advanced Structures and Materials (ASMI) - College Associate Intern · posted Aug 10 (10d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7a26f9b17cba5690365aa0?utm_campaign=1048&utm_source=git) <!--a:2515fdd17a784451-->
-  - [ ] 📌 keep on the board <!--s:2515fdd17a784451-->
-
 - [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (2d ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
   - [ ] 📌 keep on the board <!--s:21f4f655e80ff9b4-->
 - [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (2d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
   - [ ] 📌 keep on the board <!--s:a34644ad416cdde6-->
-- [ ] **L3Harris Technologies** — Integration and Test Engineering - Automation Intern · posted Aug 19 (45h ago) · Northampton, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84211d8d793736c6133d2d?utm_campaign=1048&utm_source=git) <!--a:c5d517fbf5605c8e-->
+- [ ] **L3Harris Technologies** — Integration and Test Engineering - Automation Intern · posted Aug 19 (46h ago) · Northampton, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84211d8d793736c6133d2d?utm_campaign=1048&utm_source=git) <!--a:c5d517fbf5605c8e-->
   - [ ] 📌 keep on the board <!--s:c5d517fbf5605c8e-->
 - [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (2d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
   - [ ] 📌 keep on the board <!--s:d2b4b8a31dc9963a-->
@@ -113,5 +110,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (2d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (97)
+### · Wide net (98)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
