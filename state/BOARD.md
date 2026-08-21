@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-21 21:58 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-21 22:34 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**42 open · 3 apply-now · 0 saved · 3 applied all-time**
+**43 open · 3 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -15,7 +15,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Astranis Space Technologies** — CAD Engineer/Librarian Intern (Summer 2027) · posted Aug 14 (7d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:7c7c0aa83a18ce70-->
   - [ ] 📌 keep on the board <!--s:7c7c0aa83a18ce70-->
 
-## 🔷 Strong (31)
+## 🔷 Strong (32)
 
 - [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (5d ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
   - [ ] 📌 keep on the board <!--s:813294e7bfc597b5-->
@@ -42,7 +42,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0d99d6114f9b8c2b-->
 - [ ] **RTX** — Mechanical Engineering Intern - ALE (Summer 2027) · posted Aug 15 (6d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8230ef19ce4e6e9d947986?utm_campaign=1048&utm_source=git) <!--a:594e62bda6fc3613-->
   - [ ] 📌 keep on the board <!--s:594e62bda6fc3613-->
-- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (6d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
+- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (7d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (9d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
@@ -59,8 +59,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:2b63b2c994fa7f81-->
 - [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (2d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
-- [ ] **Zipline** — Applications Engineer Intern (Summer ... · posted Aug 20 (45h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909946003) <!--a:4b6d5f41fec8966b-->
+- [ ] **Zipline** — Applications Engineer Intern (Summer ... · posted Aug 20 (46h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909946003) <!--a:4b6d5f41fec8966b-->
   - [ ] 📌 keep on the board <!--s:4b6d5f41fec8966b-->
+- [ ] **Zipline** — Materials Engineer Intern (Spring & Summer 2027) · posted Aug 21 (22h ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88b97bd34f700f87fca2df?utm_campaign=1048&utm_source=git) <!--a:9597fcaa7dd3f102-->
+  - [ ] 📌 keep on the board <!--s:9597fcaa7dd3f102-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (10d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
   - [ ] 📌 keep on the board <!--s:67b8d603982a00f0-->
@@ -73,7 +75,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (3d ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
   - [ ] 📌 keep on the board <!--s:b4707a1e0fc1a41b-->
-- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (21h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
+- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (22h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
   - [ ] 📌 keep on the board <!--s:2c62f2335979ba65-->
 - [ ] **L3Harris Technologies** — Systems Engineer Intern · posted Aug 18 (3d ago) · Alpharetta, GA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git) <!--a:46dd500382074fc1-->
   - [ ] 📌 keep on the board <!--s:46dd500382074fc1-->
@@ -109,5 +111,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (3d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (103)
+### · Wide net (105)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
