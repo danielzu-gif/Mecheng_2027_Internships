@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-21 14:58 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-21 15:42 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **42 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -57,9 +57,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:040b3319c2b11256-->
 - [ ] **Zipline** — Long Range Platform Hardware Engineering Intern (Summer 2027) · posted Aug 18 (3d ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848148d34f700f87fb900a?utm_campaign=1048&utm_source=git) <!--a:2b63b2c994fa7f81-->
   - [ ] 📌 keep on the board <!--s:2b63b2c994fa7f81-->
-- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (46h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
+- [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (47h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
-- [ ] **Zipline** — Applications Engineer Intern (Summer ... · posted Aug 20 (38h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909946003) <!--a:4b6d5f41fec8966b-->
+- [ ] **Zipline** — Applications Engineer Intern (Summer ... · posted Aug 20 (39h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909946003) <!--a:4b6d5f41fec8966b-->
   - [ ] 📌 keep on the board <!--s:4b6d5f41fec8966b-->
 
 - [ ] **Blue Origin** — 2026 Intern Conversion - Mechanical Engineer I · posted Aug 11 (10d ago) · Greater Seattle Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7b960db933773d16be8799?utm_campaign=1048&utm_source=git) <!--a:67b8d603982a00f0-->
@@ -73,7 +73,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (3d ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
   - [ ] 📌 keep on the board <!--s:b4707a1e0fc1a41b-->
-- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (14h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
+- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (15h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
   - [ ] 📌 keep on the board <!--s:2c62f2335979ba65-->
 - [ ] **L3Harris Technologies** — Systems Engineer Intern · posted Aug 18 (3d ago) · Alpharetta, GA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git) <!--a:46dd500382074fc1-->
   - [ ] 📌 keep on the board <!--s:46dd500382074fc1-->
@@ -109,5 +109,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (2d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (100)
+### · Wide net (101)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
