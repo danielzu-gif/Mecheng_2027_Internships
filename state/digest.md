@@ -1,7 +1,7 @@
-# Brief 2026-08-21 08:35 UTC
+# Brief 2026-08-21 16:42 UTC
 
 3 new since the last brief.
 
-- `C` **Brunswick** — BBG Tech Center - Mechanical Engineer... · Edgewater, FL · score 4 · [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/BBG-Tech-Center---Mechanical-Engineering-Intern_JR-050976-1)
-- `C` **Danfoss** — Mechanical Engineering Intern · Tallahassee, FL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a877ba4d34f700f87fc5ac7?utm_campaign=1048&utm_source=git)
-- `C` **UnitX** — Mechanical Engineering Intern-Robotics · Milpitas, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a87d74d25fc4e7ae3daee3b?utm_campaign=1048&utm_source=git)
+- `A` **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · Fort Wayne, Indiana, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git)
+- `C` **Magna** — Intern - Engineering Mechanical Optics · Auburn Hills, Michigan... · score 4 · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153)
+- `C` **Re:Build Manufacturing** — Mechanical Engineering Intern · Merrimack, NH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8853c0680f314a29d3b623?utm_campaign=1048&utm_source=git)
