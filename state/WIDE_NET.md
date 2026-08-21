@@ -1,5 +1,5 @@
 # Wide net
-_103 open · rebuilt 2026-08-21 21:34 UTC · tick 📌 to move one onto the main board_
+_103 open · rebuilt 2026-08-21 21:58 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -82,7 +82,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **WSP** — Mechanical Engineering (Substation) Intern - Summer 2027 · posted Aug 20 (45h ago) · Billings, MT, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a87575a680f314a29d384a4?utm_campaign=1048&utm_source=git) <!--a:b22037eb1cc3b272-->
   - [ ] 📌 keep on the board <!--s:b22037eb1cc3b272-->
-- [ ] **WSP** — Mechanical Engineering (Substation) I... · posted Aug 20 (44h ago) · Billings, MT, United S... · [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468) <!--a:a150e90213bd3c5c-->
+- [ ] **WSP** — Mechanical Engineering (Substation) I... · posted Aug 20 (45h ago) · Billings, MT, United S... · [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468) <!--a:a150e90213bd3c5c-->
   - [ ] 📌 keep on the board <!--s:a150e90213bd3c5c-->
 
 - [ ] **3D Architech** — Mechanical Engineer Intern · posted Aug 19 (2d ago) · Somerville, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a867f4f25fc4e7ae3da98a5?utm_campaign=1048&utm_source=git) <!--a:f4ab4535df21494b-->
@@ -115,7 +115,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **CF Industries** — Intern, Mechanical Engineer · posted Aug 17 (4d ago) · Claremore, OK, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a834b839b859b227766dd7a?utm_campaign=1048&utm_source=git) <!--a:7943cbd41db81ac6-->
   - [ ] 📌 keep on the board <!--s:7943cbd41db81ac6-->
 
-- [ ] **Crane Co.** — Mechanical Engineering CO-OP · posted Aug 20 (43h ago) · Elyria, Ohio · season unstated · [apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190) <!--a:d92ce8ccec8377ba-->
+- [ ] **Crane Co.** — Mechanical Engineering CO-OP · posted Aug 20 (44h ago) · Elyria, Ohio · season unstated · [apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190) <!--a:d92ce8ccec8377ba-->
   - [ ] 📌 keep on the board <!--s:d92ce8ccec8377ba-->
 
 - [ ] **Crane Company** — Mechanical Engineering CO-OP · posted Aug 19 (2d ago) · Elyria, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a86428f2f4f0014cae29315?utm_campaign=1048&utm_source=git) <!--a:8e1b96224a674b70-->
@@ -197,7 +197,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (7d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (5h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (6h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Magna International** — Intern - Engineering Mechanical Optics · posted Aug 21 (21h ago) · Auburn Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8861254afae74a0834b51b?utm_campaign=1048&utm_source=git) <!--a:5cc2ba10d723068e-->
@@ -268,7 +268,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Women In Science** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (8d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e72160cd4a070325802b5?utm_campaign=1048&utm_source=git) <!--a:65d9a15cd04e34ea-->
   - [ ] 📌 keep on the board <!--s:65d9a15cd04e34ea-->
 
-- [ ] **Zipline** — Maintenance Tool Engineering Intern (... · posted Aug 20 (26h ago) · Esparto, California, USA · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909945003) <!--a:780aa3df3cdc5ee5-->
+- [ ] **Zipline** — Maintenance Tool Engineering Intern (... · posted Aug 20 (27h ago) · Esparto, California, USA · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909945003) <!--a:780aa3df3cdc5ee5-->
   - [ ] 📌 keep on the board <!--s:780aa3df3cdc5ee5-->
 - [ ] **Zipline** — Civil and Structural Engineer Intern ... · posted Aug 20 (45h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7920472003) <!--a:9f3329b5125d953b-->
   - [ ] 📌 keep on the board <!--s:9f3329b5125d953b-->
