@@ -1,5 +1,5 @@
 # Wide net
-_102 open · rebuilt 2026-08-21 19:02 UTC · tick 📌 to move one onto the main board_
+_102 open · rebuilt 2026-08-21 19:43 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -35,9 +35,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Eastman** — 2027 Mechanical/Electrical Engineer Intern · posted Aug 17 (4d ago) · Longview, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a833c63b5a0ac0e84a247eb?utm_campaign=1048&utm_source=git) <!--a:710e1912452ff7a6-->
   - [ ] 📌 keep on the board <!--s:710e1912452ff7a6-->
-
-- [ ] **Etched** — Mech / Thermal Intern · posted Aug 11 (10d ago) · San Jose, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a56db17efb06a45240d887b?utm_campaign=1048&utm_source=git) <!--a:1ed63705572bab9b-->
-  - [ ] 📌 keep on the board <!--s:1ed63705572bab9b-->
 
 - [ ] **Flint Hills Resources** — Summer 2027 Mechanical Engineer Intern (MN) · posted Aug 20 (43h ago) · Rosemount, MN, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8730f44afae74a083472eb?utm_campaign=1048&utm_source=git) <!--a:99639e8d3dc51e50-->
   - [ ] 📌 keep on the board <!--s:99639e8d3dc51e50-->
@@ -199,7 +196,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (7d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (3h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (4h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Marvin Engineering Company** — INTERN (MECHANICAL ENGINEERING) · posted Aug 19 (2d ago) · Los Angeles metropolitan area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a86469274e02153f145b6ca?utm_campaign=1048&utm_source=git) <!--a:e298c13ed5406b5c-->
@@ -272,6 +269,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Zipline** — Civil and Structural Engineer Intern ... · posted Aug 20 (43h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7920472003) <!--a:9f3329b5125d953b-->
   - [ ] 📌 keep on the board <!--s:9f3329b5125d953b-->
 
+- [ ] **Analog Devices** — Analog Design Engineer Intern · posted Aug 21 (0m ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) <!--a:74b1b2fc585f154d-->
+  - [ ] 📌 keep on the board <!--s:74b1b2fc585f154d-->
+
 - [ ] **BWXT** — Manufacturing Engineer Intern/Co-Op · posted Aug 18 (3d ago) · Euclid, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84c7a7e12474455273c9cf?utm_campaign=1048&utm_source=git) <!--a:24b101e499e270a3-->
   - [ ] 📌 keep on the board <!--s:24b101e499e270a3-->
 
@@ -279,5 +279,5 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (7d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
-- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (15h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
+- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (16h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
   - [ ] 📌 keep on the board <!--s:75e44aac9d40c3f9-->
