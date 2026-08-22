@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-22 22:57 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-22 23:29 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **39 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -46,7 +46,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Modeling, Simulation & Analysis Intern · posted Aug 12 (10d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254?utm_source=Simplify&ref=Simplify) <!--a:8029f1c513e1ebd1-->
   - [ ] 📌 keep on the board <!--s:8029f1c513e1ebd1-->
-- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (7d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
+- [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (8d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
 - [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (5d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
@@ -61,12 +61,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:41f1957e0ca23922-->
 - [ ] **Zipline** — Applications Engineer Intern (Summer ... · posted Aug 20 (2d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909946003) <!--a:4b6d5f41fec8966b-->
   - [ ] 📌 keep on the board <!--s:4b6d5f41fec8966b-->
-- [ ] **Zipline** — Materials Engineer Intern (Spring & Summer 2027) · posted Aug 21 (46h ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88b97bd34f700f87fca2df?utm_campaign=1048&utm_source=git) <!--a:9597fcaa7dd3f102-->
+- [ ] **Zipline** — Materials Engineer Intern (Spring & Summer 2027) · posted Aug 21 (47h ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88b97bd34f700f87fca2df?utm_campaign=1048&utm_source=git) <!--a:9597fcaa7dd3f102-->
   - [ ] 📌 keep on the board <!--s:9597fcaa7dd3f102-->
 
 - [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (4d ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
   - [ ] 📌 keep on the board <!--s:b4707a1e0fc1a41b-->
-- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (46h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
+- [ ] **L3Harris Technologies** — Intern C, Mechanical Engineer (Fort Wayne, IN) · posted Aug 21 (47h ago) · Fort Wayne, Indiana, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a873396e8b6601d129024ce?utm_campaign=1048&utm_source=git) <!--a:2c62f2335979ba65-->
   - [ ] 📌 keep on the board <!--s:2c62f2335979ba65-->
 - [ ] **L3Harris Technologies** — Systems Engineer Intern · posted Aug 18 (4d ago) · Alpharetta, GA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84215485e0d023aaea298f?utm_campaign=1048&utm_source=git) <!--a:46dd500382074fc1-->
   - [ ] 📌 keep on the board <!--s:46dd500382074fc1-->
@@ -102,5 +102,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (4d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (108)
+### · Wide net (106)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
