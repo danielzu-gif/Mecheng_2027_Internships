@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-22 19:27 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-22 19:55 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **39 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -50,7 +50,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
 - [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (5d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
-- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (7d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
+- [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (8d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
 
 - [ ] **Zipline** — Mechanical Engineer Intern (Summer 2027) · posted Aug 18 (4d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7866071003) <!--a:040b3319c2b11256-->

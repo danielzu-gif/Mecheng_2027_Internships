@@ -1,5 +1,5 @@
 # Wide net
-_107 open · rebuilt 2026-08-22 19:27 UTC · tick 📌 to move one onto the main board_
+_107 open · rebuilt 2026-08-22 19:55 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -42,7 +42,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Freeform** — Mechanical Engineer (New Grad Summer ... · posted Aug 18 (4d ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) <!--a:fddb0a4ad8929b2f-->
   - [ ] 📌 keep on the board <!--s:fddb0a4ad8929b2f-->
 
-- [ ] **General Matter** — Summer 2027 Internship - Mechanical E... · posted Aug 21 (20h ago) · South Bay, Los Angeles · S27 confirmed · [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377107008) <!--a:4df6c23ba551d5bb-->
+- [ ] **General Matter** — Summer 2027 Internship - Mechanical E... · posted Aug 21 (21h ago) · South Bay, Los Angeles · S27 confirmed · [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377107008) <!--a:4df6c23ba551d5bb-->
   - [ ] 📌 keep on the board <!--s:4df6c23ba551d5bb-->
 - [ ] **General Matter** — Summer 2027 Internship - Mechanical Engineering · posted Aug 21 (43h ago) · South Bay, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88c977d34f700f87fca862?utm_campaign=1048&utm_source=git) <!--a:c74a5a978245c494-->
   - [ ] 📌 keep on the board <!--s:c74a5a978245c494-->
@@ -210,7 +210,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (8d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (27h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (28h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Magna International** — Intern - Engineering Mechanical Optics · posted Aug 21 (43h ago) · Auburn Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8861254afae74a0834b51b?utm_campaign=1048&utm_source=git) <!--a:5cc2ba10d723068e-->
@@ -293,5 +293,5 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (8d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
-- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (39h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
+- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (40h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
   - [ ] 📌 keep on the board <!--s:75e44aac9d40c3f9-->
