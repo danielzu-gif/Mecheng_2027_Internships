@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-22 16:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-22 16:58 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **39 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -99,7 +99,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Sandia National Laboratories** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (9d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7df207b56bea5779c02872?utm_campaign=1048&utm_source=git) <!--a:ae1d9d6f0616b796-->
   - [ ] 📌 keep on the board <!--s:ae1d9d6f0616b796-->
 
-- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (3d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
+- [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (4d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
 ### · Wide net (108)

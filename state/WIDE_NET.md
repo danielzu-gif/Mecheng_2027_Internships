@@ -1,5 +1,5 @@
 # Wide net
-_108 open · rebuilt 2026-08-22 16:33 UTC · tick 📌 to move one onto the main board_
+_108 open · rebuilt 2026-08-22 16:58 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -85,10 +85,10 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Sargent & Lundy** — Mechanical Engineering Intern - Nuclear (Summer 2027) · posted Aug 12 (10d ago) · Chicago, IL, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7cfc5983621355407ad15f?utm_campaign=1048&utm_source=git) <!--a:536baedeb4b79851-->
   - [ ] 📌 keep on the board <!--s:536baedeb4b79851-->
 
-- [ ] **Springs Window Fashions** — Mechanical Engineering Internship - Summer 2027 · posted Aug 22 (16h ago) · Long Island City, NY, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3dad34f700f87fcbdb2?utm_campaign=1048&utm_source=git) <!--a:ef506b3e6e2a3e3a-->
-  - [ ] 📌 keep on the board <!--s:ef506b3e6e2a3e3a-->
 - [ ] **Springs Window Fashions** — Mechanical Engineering Intern - Summer 2027 · posted Aug 22 (16h ago) · Middleton, WI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3c54afae74a0834f034?utm_campaign=1048&utm_source=git) <!--a:4fbcdedbcac88a21-->
   - [ ] 📌 keep on the board <!--s:4fbcdedbcac88a21-->
+- [ ] **Springs Window Fashions** — Mechanical Engineering Internship - Summer 2027 · posted Aug 22 (16h ago) · Long Island City, NY, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3dad34f700f87fcbdb2?utm_campaign=1048&utm_source=git) <!--a:ef506b3e6e2a3e3a-->
+  - [ ] 📌 keep on the board <!--s:ef506b3e6e2a3e3a-->
 
 - [ ] **WSP** — Mechanical Engineering (Substation) Intern - Summer 2027 · posted Aug 20 (2d ago) · Billings, MT, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a87575a680f314a29d384a4?utm_campaign=1048&utm_source=git) <!--a:b22037eb1cc3b272-->
   - [ ] 📌 keep on the board <!--s:b22037eb1cc3b272-->
@@ -212,7 +212,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (8d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (24h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (25h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Magna International** — Intern - Engineering Mechanical Optics · posted Aug 21 (40h ago) · Auburn Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8861254afae74a0834b51b?utm_campaign=1048&utm_source=git) <!--a:5cc2ba10d723068e-->
@@ -280,12 +280,12 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Women In Science** — Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote · posted Aug 13 (9d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e72160cd4a070325802b5?utm_campaign=1048&utm_source=git) <!--a:65d9a15cd04e34ea-->
   - [ ] 📌 keep on the board <!--s:65d9a15cd04e34ea-->
 
-- [ ] **Zipline** — Maintenance Tool Engineering Intern (... · posted Aug 20 (45h ago) · Esparto, California, USA · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909945003) <!--a:780aa3df3cdc5ee5-->
+- [ ] **Zipline** — Maintenance Tool Engineering Intern (... · posted Aug 20 (46h ago) · Esparto, California, USA · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7909945003) <!--a:780aa3df3cdc5ee5-->
   - [ ] 📌 keep on the board <!--s:780aa3df3cdc5ee5-->
 - [ ] **Zipline** — Civil and Structural Engineer Intern ... · posted Aug 20 (2d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7920472003) <!--a:9f3329b5125d953b-->
   - [ ] 📌 keep on the board <!--s:9f3329b5125d953b-->
 
-- [ ] **Analog Devices** — Analog Design Engineer Intern · posted Aug 21 (19h ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) <!--a:74b1b2fc585f154d-->
+- [ ] **Analog Devices** — Analog Design Engineer Intern · posted Aug 21 (20h ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) <!--a:74b1b2fc585f154d-->
   - [ ] 📌 keep on the board <!--s:74b1b2fc585f154d-->
 
 - [ ] **BWXT** — Manufacturing Engineer Intern/Co-Op · posted Aug 18 (4d ago) · Euclid, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84c7a7e12474455273c9cf?utm_campaign=1048&utm_source=git) <!--a:24b101e499e270a3-->
