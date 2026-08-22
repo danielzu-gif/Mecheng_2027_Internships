@@ -1,5 +1,5 @@
 # Wide net
-_108 open · rebuilt 2026-08-22 22:30 UTC · tick 📌 to move one onto the main board_
+_108 open · rebuilt 2026-08-22 22:57 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -213,7 +213,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (8d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
   - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
 
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (30h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (31h ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Magna International** — Intern - Engineering Mechanical Optics · posted Aug 21 (46h ago) · Auburn Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8861254afae74a0834b51b?utm_campaign=1048&utm_source=git) <!--a:5cc2ba10d723068e-->
@@ -233,7 +233,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (7d ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
   - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
 
-- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (3d ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
+- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (4d ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
   - [ ] 📌 keep on the board <!--s:f08a65851ebe258a-->
 
 - [ ] **PPL Corporation** — Craft Worker Intern – Mechanical Maintenance · posted Aug 20 (2d ago) · Louisville Metropolitan Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a86ce7acc81eb647e9f3619?utm_campaign=1048&utm_source=git) <!--a:54d3c793bda3fabf-->
@@ -296,5 +296,5 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (8d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
   - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
-- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (42h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
+- [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (43h ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
   - [ ] 📌 keep on the board <!--s:75e44aac9d40c3f9-->
