@@ -1,5 +1,5 @@
 # Wide net
-_100 open · rebuilt 2026-08-23 23:29 UTC · tick 📌 to move one onto the main board_
+_96 open · rebuilt 2026-08-23 23:55 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -24,9 +24,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Arizona Public Service - APS** — Palo Verde Engineering Summer Internship (Mechanical/Chemical/Welding Engineer) 1 · posted Aug 21 (2d ago) · Tonopah, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8923adcde3717f9e9b7ceb?utm_campaign=1048&utm_source=git) <!--a:fa393c619f85c4ce-->
   - [ ] 📌 keep on the board <!--s:fa393c619f85c4ce-->
 
-- [ ] **BAE Systems** — Mechanical Engineering Intern IV, (Summer 2027) Onsite · posted Aug 13 (10d ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e35f1e51a1e18a240cbf9?utm_campaign=1048&utm_source=git) <!--a:27a6bf61d61f99d1-->
-  - [ ] 📌 keep on the board <!--s:27a6bf61d61f99d1-->
-
 - [ ] **Eastman** — 2027 Mechanical/Electrical Engineer Intern · posted Aug 17 (6d ago) · Longview, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a833c63b5a0ac0e84a247eb?utm_campaign=1048&utm_source=git) <!--a:710e1912452ff7a6-->
   - [ ] 📌 keep on the board <!--s:710e1912452ff7a6-->
 
@@ -45,9 +42,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **GigFinder.ai** — Mechanical Engineering Intern \u2013 Hot Section Engineering, Turbine Airfoils (Summer 2027) (Onsite) · posted Aug 22 (47h ago) · Indiana, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89e377d34f700f87fcc1b5?utm_campaign=1048&utm_source=git) <!--a:c7f514c0aee3aba1-->
   - [ ] 📌 keep on the board <!--s:c7f514c0aee3aba1-->
-
-- [ ] **HNTB** — WED - 2027 New Grad Mechanical & Fire... · posted Aug 13 (10d ago) · Oakland, CA · S27 confirmed · [apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165-1) <!--a:c5ba6034b6ea7bde-->
-  - [ ] 📌 keep on the board <!--s:c5ba6034b6ea7bde-->
 
 - [ ] **Kiewit** — Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering · posted Aug 18 (5d ago) · Houston, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8482eed34f700f87fb90d0?utm_campaign=1048&utm_source=git) <!--a:c65d74566357e381-->
   - [ ] 📌 keep on the board <!--s:c65d74566357e381-->
@@ -94,9 +88,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Bombardier** — Mechanical Engineer Intern · posted Aug 15 (8d ago) · Wichita, KS, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a63b09ce8d8d22e3292a168?utm_campaign=1048&utm_source=git) <!--a:4b6bf6cb84c1a0cf-->
   - [ ] 📌 keep on the board <!--s:4b6bf6cb84c1a0cf-->
-
-- [ ] **Bosch Group** — Mechanical Engineering Intern · posted Aug 13 (9d ago) · Fort Lauderdale, FL · season unstated · [apply](https://jobs.smartrecruiters.com/BoschGroup/744000126065755) <!--a:f58760be07bed14d-->
-  - [ ] 📌 keep on the board <!--s:f58760be07bed14d-->
 
 - [ ] **Brunswick** — BBG Tech Center - Mechanical Engineer... · posted Aug 18 (5d ago) · Edgewater, FL · [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/BBG-Tech-Center---Mechanical-Engineering-Intern_JR-050976-1) <!--a:e4ed3366bcc2b4ea-->
   - [ ] 📌 keep on the board <!--s:e4ed3366bcc2b4ea-->
@@ -272,7 +263,5 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
 - [ ] **Micron Technology** — Intern - Digital IP Design Engineer, DRAM · posted Aug 14 (9d ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7e122ee51a1e18a240be6f?utm_campaign=1048&utm_source=git) <!--a:1cca64c92e77eced-->
   - [ ] 📌 keep on the board <!--s:1cca64c92e77eced-->
-- [ ] **Micron Technology** — Intern - Digital IP Design Engineer, ... · posted Aug 14 (9d ago) · Boise, ID - Main Site · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) <!--a:6ced03617c449b82-->
-  - [ ] 📌 keep on the board <!--s:6ced03617c449b82-->
 - [ ] **Micron Technology** — Intern - HBM SoC RTL Design Engineer · posted Aug 21 (2d ago) · Folsom, CA · season unstated · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) <!--a:75e44aac9d40c3f9-->
   - [ ] 📌 keep on the board <!--s:75e44aac9d40c3f9-->
