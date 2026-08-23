@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-23 08:23 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-23 09:22 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **38 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -27,7 +27,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
 - [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (4d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (5d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (6d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
 - [ ] **GE Aerospace** — Welding Engineering Intern - Summer 2027 · posted Aug 18 (5d ago) · Evendale, United States of America · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a849cb758ded76ad8fe83f5?utm_campaign=1048&utm_source=git) <!--a:37e42f0aff8b3f6e-->
   - [ ] 📌 keep on the board <!--s:37e42f0aff8b3f6e-->
