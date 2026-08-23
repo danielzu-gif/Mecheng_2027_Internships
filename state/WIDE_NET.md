@@ -1,10 +1,8 @@
 # Wide net
-_101 open · rebuilt 2026-08-23 20:31 UTC · tick 📌 to move one onto the main board_
+_100 open · rebuilt 2026-08-23 20:57 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
-- [ ] **Vertiv** — Mechanical Engineering Intern - Liquid Cooling Summer 2027 · posted Aug 12 (10d ago) · Westerville, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7e0fd7ad9ff00c26ba9a0f?utm_campaign=1048&utm_source=git) <!--a:e817a644635fb34b-->
-  - [ ] 📌 keep on the board <!--s:e817a644635fb34b-->
 - [ ] **Vertiv** — Mechanical/Thermal Engineering Intern... · posted Aug 19 (4d ago) · Pelzer, SC, United States · S27 confirmed · [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133) <!--a:d0709e2c50f2daa3-->
   - [ ] 📌 keep on the board <!--s:d0709e2c50f2daa3-->
 - [ ] **Vertiv** — Mechanical Design Engineering Internship (Summer 2027) · posted Aug 18 (5d ago) · Westerville, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a844f8f7b33d72276255232?utm_campaign=1048&utm_source=git) <!--a:498025cb3e712258-->
@@ -237,7 +235,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **The Marvin Group** — INTERN (MECHANICAL ENGINEERING) · posted Aug 19 (4d ago) · Inglewood, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8689f774e02153f145c030?utm_campaign=1048&utm_source=git) <!--a:70b9ffb06f84bdd8-->
   - [ ] 📌 keep on the board <!--s:70b9ffb06f84bdd8-->
 
-- [ ] **True Anomaly** — Propulsion and Fluids Intern · posted Aug 18 (4d ago) · Long Beach, CA · season unstated · [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007) <!--a:65ee6934c8f99781-->
+- [ ] **True Anomaly** — Propulsion and Fluids Intern · posted Aug 18 (5d ago) · Long Beach, CA · season unstated · [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007) <!--a:65ee6934c8f99781-->
   - [ ] 📌 keep on the board <!--s:65ee6934c8f99781-->
 
 - [ ] **UnitX** — Mechanical Engineering Intern-Robotics · posted Aug 20 (3d ago) · Milpitas, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a87d74d25fc4e7ae3daee3b?utm_campaign=1048&utm_source=git) <!--a:7e4176039a3b55eb-->
