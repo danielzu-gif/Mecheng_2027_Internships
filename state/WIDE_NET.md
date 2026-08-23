@@ -1,5 +1,5 @@
 # Wide net
-_100 open · rebuilt 2026-08-23 22:30 UTC · tick 📌 to move one onto the main board_
+_100 open · rebuilt 2026-08-23 22:57 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -208,7 +208,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Neuralink** — Mechanical Engineering Intern, Brain Interfaces · posted Aug 15 (8d ago) · Austin, Texas, United States · season unstated · [apply](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git) <!--a:dc55263171454a61-->
   - [ ] 📌 keep on the board <!--s:dc55263171454a61-->
 
-- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (4d ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
+- [ ] **Nidec** — Mechanical Engineer Co-Op (Acoustics ... · posted Aug 18 (5d ago) · North America/USA/Miss... · [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190) <!--a:f08a65851ebe258a-->
   - [ ] 📌 keep on the board <!--s:f08a65851ebe258a-->
 
 - [ ] **PPL Corporation** — Craft Worker Intern – Mechanical Maintenance · posted Aug 20 (3d ago) · Louisville Metropolitan Area, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a86ce7acc81eb647e9f3619?utm_campaign=1048&utm_source=git) <!--a:54d3c793bda3fabf-->
