@@ -1,5 +1,5 @@
 # Wide net
-_101 open · rebuilt 2026-08-23 19:04 UTC · tick 📌 to move one onto the main board_
+_101 open · rebuilt 2026-08-23 19:41 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -40,7 +40,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Freeform** — Mechanical Engineer (New Grad Summer ... · posted Aug 18 (5d ago) · Los Angeles, CA (On-site) · S27 confirmed · [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) <!--a:fddb0a4ad8929b2f-->
   - [ ] 📌 keep on the board <!--s:fddb0a4ad8929b2f-->
 
-- [ ] **General Matter** — Summer 2027 Internship - Mechanical E... · posted Aug 21 (44h ago) · South Bay, Los Angeles · S27 confirmed · [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377107008) <!--a:4df6c23ba551d5bb-->
+- [ ] **General Matter** — Summer 2027 Internship - Mechanical E... · posted Aug 21 (45h ago) · South Bay, Los Angeles · S27 confirmed · [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377107008) <!--a:4df6c23ba551d5bb-->
   - [ ] 📌 keep on the board <!--s:4df6c23ba551d5bb-->
 - [ ] **General Matter** — Summer 2027 Internship - Mechanical Engineering · posted Aug 21 (2d ago) · South Bay, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88c977d34f700f87fca862?utm_campaign=1048&utm_source=git) <!--a:c74a5a978245c494-->
   - [ ] 📌 keep on the board <!--s:c74a5a978245c494-->
