@@ -1,5 +1,5 @@
 # Wide net
-_100 open · rebuilt 2026-08-23 22:57 UTC · tick 📌 to move one onto the main board_
+_100 open · rebuilt 2026-08-23 23:29 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -43,7 +43,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **General Matter** — Summer 2027 Internship - Mechanical Engineering · posted Aug 21 (2d ago) · South Bay, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88c977d34f700f87fca862?utm_campaign=1048&utm_source=git) <!--a:c74a5a978245c494-->
   - [ ] 📌 keep on the board <!--s:c74a5a978245c494-->
 
-- [ ] **GigFinder.ai** — Mechanical Engineering Intern \u2013 Hot Section Engineering, Turbine Airfoils (Summer 2027) (Onsite) · posted Aug 22 (46h ago) · Indiana, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89e377d34f700f87fcc1b5?utm_campaign=1048&utm_source=git) <!--a:c7f514c0aee3aba1-->
+- [ ] **GigFinder.ai** — Mechanical Engineering Intern \u2013 Hot Section Engineering, Turbine Airfoils (Summer 2027) (Onsite) · posted Aug 22 (47h ago) · Indiana, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89e377d34f700f87fcc1b5?utm_campaign=1048&utm_source=git) <!--a:c7f514c0aee3aba1-->
   - [ ] 📌 keep on the board <!--s:c7f514c0aee3aba1-->
 
 - [ ] **HNTB** — WED - 2027 New Grad Mechanical & Fire... · posted Aug 13 (10d ago) · Oakland, CA · S27 confirmed · [apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165-1) <!--a:c5ba6034b6ea7bde-->
@@ -76,9 +76,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Providence Engineering** — Summer Intern, Mechanical (Summer 2027) · posted Aug 17 (6d ago) · York, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8331c32dbaf907b0766f5a?utm_campaign=1048&utm_source=git) <!--a:ca45a5292b080cb9-->
   - [ ] 📌 keep on the board <!--s:ca45a5292b080cb9-->
 
-- [ ] **Springs Window Fashions** — Mechanical Engineering Intern - Summer 2027 · posted Aug 22 (46h ago) · Middleton, WI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3c54afae74a0834f034?utm_campaign=1048&utm_source=git) <!--a:4fbcdedbcac88a21-->
+- [ ] **Springs Window Fashions** — Mechanical Engineering Intern - Summer 2027 · posted Aug 22 (47h ago) · Middleton, WI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3c54afae74a0834f034?utm_campaign=1048&utm_source=git) <!--a:4fbcdedbcac88a21-->
   - [ ] 📌 keep on the board <!--s:4fbcdedbcac88a21-->
-- [ ] **Springs Window Fashions** — Mechanical Engineering Internship - Summer 2027 · posted Aug 22 (46h ago) · Long Island City, NY, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3dad34f700f87fcbdb2?utm_campaign=1048&utm_source=git) <!--a:ef506b3e6e2a3e3a-->
+- [ ] **Springs Window Fashions** — Mechanical Engineering Internship - Summer 2027 · posted Aug 22 (47h ago) · Long Island City, NY, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89b3dad34f700f87fcbdb2?utm_campaign=1048&utm_source=git) <!--a:ef506b3e6e2a3e3a-->
   - [ ] 📌 keep on the board <!--s:ef506b3e6e2a3e3a-->
 
 - [ ] **WSP** — Mechanical Engineering (Substation) Intern - Summer 2027 · posted Aug 20 (3d ago) · Billings, MT, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a87575a680f314a29d384a4?utm_campaign=1048&utm_source=git) <!--a:b22037eb1cc3b272-->
@@ -247,7 +247,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **WELL BILT Industries** — Mechanical Engineering Intern · posted Aug 20 (3d ago) · Gainesville, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a876562d34f700f87fc530a?utm_campaign=1048&utm_source=git) <!--a:bd750a41d2cc4e6f-->
   - [ ] 📌 keep on the board <!--s:bd750a41d2cc4e6f-->
 
-- [ ] **Walter P Moore** — Mechanical Intern – MEP · posted Aug 22 (46h ago) · Tippecanoe County, IN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a231ac5d46c0f799608451b?utm_campaign=1048&utm_source=git) <!--a:2a1e5a236b059895-->
+- [ ] **Walter P Moore** — Mechanical Intern – MEP · posted Aug 22 (47h ago) · Tippecanoe County, IN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a231ac5d46c0f799608451b?utm_campaign=1048&utm_source=git) <!--a:2a1e5a236b059895-->
   - [ ] 📌 keep on the board <!--s:2a1e5a236b059895-->
 
 - [ ] **We Energies** — Power Generation Mechanical Engineering Intern · posted Aug 14 (9d ago) · Germantown, WI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f7e3bad9ff00c26bae962?utm_campaign=1048&utm_source=git) <!--a:4707fee559c52d38-->
