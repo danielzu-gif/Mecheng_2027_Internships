@@ -1,5 +1,5 @@
 # Wide net
-_96 open · rebuilt 2026-08-24 15:05 UTC · tick 📌 to move one onto the main board_
+_93 open · rebuilt 2026-08-24 15:59 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -127,13 +127,10 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Dewberry** — Mechanical Engineering Intern · posted Aug 17 (7d ago) · New York, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a83567a2dbaf907b07680ab?utm_campaign=1048&utm_source=git) <!--a:b9d8827776590a8a-->
   - [ ] 📌 keep on the board <!--s:b9d8827776590a8a-->
 
-- [ ] **Disney** — WDI Show Mechanical Design & Producti... · posted Aug 24 (10h ago) · Celebration, FL, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1) <!--a:9f25e6e193af8379-->
+- [ ] **Disney** — WDI Show Mechanical Design & Producti... · posted Aug 24 (11h ago) · Celebration, FL, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1) <!--a:9f25e6e193af8379-->
   - [ ] 📌 keep on the board <!--s:9f25e6e193af8379-->
-- [ ] **Disney** — WDI Show Mechanical Engineering Inter... · posted Aug 24 (7h ago) · Glendale, CA, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) <!--a:e106e588291813a4-->
+- [ ] **Disney** — WDI Show Mechanical Engineering Inter... · posted Aug 24 (8h ago) · Glendale, CA, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) <!--a:e106e588291813a4-->
   - [ ] 📌 keep on the board <!--s:e106e588291813a4-->
-
-- [ ] **Fishbeck** — Mechanical Engineering Internship/ Co-Op · posted Aug 14 (10d ago) · Grand Rapids, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1069e2030208f276ba65?utm_campaign=1048&utm_source=git) <!--a:8da008847e2e45fa-->
-  - [ ] 📌 keep on the board <!--s:8da008847e2e45fa-->
 
 - [ ] **Framatome North America** — (Mechanical Engineering) Intern - Univ/Co-Op Technical (Lynchburg) · posted Aug 17 (7d ago) · Lynchburg, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a831f1b9b859b227766c923?utm_campaign=1048&utm_source=git) <!--a:18963c5578bcb8ce-->
   - [ ] 📌 keep on the board <!--s:18963c5578bcb8ce-->
@@ -176,10 +173,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Lab37** — Mechanical Design Engineering Intern‬ · posted Aug 21 (3d ago) · Los Angeles, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a88c6e4cde3717f9e9b71f1?utm_campaign=1048&utm_source=git) <!--a:dba7651709613b30-->
   - [ ] 📌 keep on the board <!--s:dba7651709613b30-->
 
-- [ ] **Leviton** — Mechanical Engineering Intern (Year-round) · posted Aug 14 (10d ago) · Melville, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1dc6927c79391ad0650d?utm_campaign=1048&utm_source=git) <!--a:de211ab96d31ce7d-->
-  - [ ] 📌 keep on the board <!--s:de211ab96d31ce7d-->
-
-- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (2d ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
+- [ ] **Magna** — Intern - Engineering Mechanical Optics · posted Aug 21 (3d ago) · Auburn Hills, Michigan... · season unstated · [apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153) <!--a:23af3156f35cd0d1-->
   - [ ] 📌 keep on the board <!--s:23af3156f35cd0d1-->
 
 - [ ] **Magna International** — Intern - Engineering Mechanical Optics · posted Aug 21 (3d ago) · Auburn Hills, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8861254afae74a0834b51b?utm_campaign=1048&utm_source=git) <!--a:5cc2ba10d723068e-->
@@ -211,7 +205,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **REV Group, Inc** — Intern - Mechanical Engineer · posted Aug 19 (5d ago) · Winter Park, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a85a1dc74e02153f1457925?utm_campaign=1048&utm_source=git) <!--a:31b37b71aec04d96-->
   - [ ] 📌 keep on the board <!--s:31b37b71aec04d96-->
 
-- [ ] **RTX** — System Engineering Co-op (Remote) · posted Aug 24 (0m ago) · Aurora, CO · season unstated · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902) <!--a:9128d13f79ecf092-->
+- [ ] **RTX** — System Engineering Co-op (Remote) · posted Aug 24 (54m ago) · Aurora, CO · season unstated · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902) <!--a:9128d13f79ecf092-->
   - [ ] 📌 keep on the board <!--s:9128d13f79ecf092-->
 
 - [ ] **Rassey Industries Inc** — Intern - Manufacturing Mechanical Engineer · posted Aug 19 (5d ago) · Shelby Township, MI, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a85ebf7d34f700f87fbf226?utm_campaign=1048&utm_source=git) <!--a:d951ee65f079365f-->
@@ -232,9 +226,6 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **UnitX** — Mechanical Engineering Intern-Robotics · posted Aug 20 (4d ago) · Milpitas, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a87d74d25fc4e7ae3daee3b?utm_campaign=1048&utm_source=git) <!--a:7e4176039a3b55eb-->
   - [ ] 📌 keep on the board <!--s:7e4176039a3b55eb-->
 
-- [ ] **VECARIUS, Inc.** — Mechanical Engineer (Intern with SolidWorks) · posted Aug 14 (10d ago) · Somerville, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a7f1d66ad9ff00c26baca22?utm_campaign=1048&utm_source=git) <!--a:f8911d34dd1c2e44-->
-  - [ ] 📌 keep on the board <!--s:f8911d34dd1c2e44-->
-
 - [ ] **WELL BILT Industries** — Mechanical Engineering Intern · posted Aug 20 (4d ago) · Gainesville, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a876562d34f700f87fc530a?utm_campaign=1048&utm_source=git) <!--a:bd750a41d2cc4e6f-->
   - [ ] 📌 keep on the board <!--s:bd750a41d2cc4e6f-->
 
@@ -252,11 +243,11 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Zipline** — Civil and Structural Engineer Intern ... · posted Aug 20 (4d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7920472003) <!--a:9f3329b5125d953b-->
   - [ ] 📌 keep on the board <!--s:9f3329b5125d953b-->
 
-- [ ] **Analog Devices** — Digital Design Engineer Intern · posted Aug 24 (6h ago) · Durham, NC · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) <!--a:556fb4c020dde88b-->
+- [ ] **Analog Devices** — Digital Design Engineer Intern · posted Aug 24 (7h ago) · Durham, NC · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) <!--a:556fb4c020dde88b-->
   - [ ] 📌 keep on the board <!--s:556fb4c020dde88b-->
 - [ ] **Analog Devices** — Analog Design Engineer Intern · posted Aug 21 (2d ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) <!--a:74b1b2fc585f154d-->
   - [ ] 📌 keep on the board <!--s:74b1b2fc585f154d-->
-- [ ] **Analog Devices** — Manufacturing Engineer Intern · posted Aug 24 (6h ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) <!--a:b52985073f065d8e-->
+- [ ] **Analog Devices** — Manufacturing Engineer Intern · posted Aug 24 (7h ago) · Wilmington, MA · season unstated · [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) <!--a:b52985073f065d8e-->
   - [ ] 📌 keep on the board <!--s:b52985073f065d8e-->
 
 - [ ] **BWXT** — Manufacturing Engineer Intern/Co-Op · posted Aug 18 (6d ago) · Euclid, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84c7a7e12474455273c9cf?utm_campaign=1048&utm_source=git) <!--a:24b101e499e270a3-->
