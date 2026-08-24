@@ -1,5 +1,5 @@
 # Wide net
-_97 open · rebuilt 2026-08-24 01:45 UTC · tick 📌 to move one onto the main board_
+_97 open · rebuilt 2026-08-24 03:09 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -43,7 +43,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **GigFinder.ai** — Mechanical Engineering Intern \u2013 Hot Section Engineering, Turbine Airfoils (Summer 2027) (Onsite) · posted Aug 22 (2d ago) · Indiana, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a89e377d34f700f87fcc1b5?utm_campaign=1048&utm_source=git) <!--a:c7f514c0aee3aba1-->
   - [ ] 📌 keep on the board <!--s:c7f514c0aee3aba1-->
 
-- [ ] **Hubbell Incorporated** — 2027 Summer Intern: Engineering - Mechanical Design · posted Aug 23 (25h ago) · Aiken, SC, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a74fd03b17cba5690358c01?utm_campaign=1048&utm_source=git) <!--a:8a660af7475cfcee-->
+- [ ] **Hubbell Incorporated** — 2027 Summer Intern: Engineering - Mechanical Design · posted Aug 23 (27h ago) · Aiken, SC, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a74fd03b17cba5690358c01?utm_campaign=1048&utm_source=git) <!--a:8a660af7475cfcee-->
   - [ ] 📌 keep on the board <!--s:8a660af7475cfcee-->
 
 - [ ] **Kiewit** — Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering · posted Aug 18 (6d ago) · Houston, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8482eed34f700f87fb90d0?utm_campaign=1048&utm_source=git) <!--a:c65d74566357e381-->
