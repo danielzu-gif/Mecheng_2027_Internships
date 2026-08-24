@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 18:04 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 19:05 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **40 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -81,11 +81,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (9)
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (42h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (43h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
   - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (18h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (19h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
   - [ ] 📌 keep on the board <!--s:3a208d63ea312a52-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (42h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (43h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
   - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
 
 - [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (9d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
@@ -103,5 +103,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (6d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (95)
+### · Wide net (96)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
