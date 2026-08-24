@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 05:34 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 06:48 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**37 open · 3 apply-now · 0 saved · 3 applied all-time**
+**39 open · 3 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -48,7 +48,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (9d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
-- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (6d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
+- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (7d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
 - [ ] **RTX** — Material/Process Engineering Intern (... · posted Aug 14 (9d ago) · Santa Fe Springs, CA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) <!--a:f341117a59410ce8-->
   - [ ] 📌 keep on the board <!--s:f341117a59410ce8-->
@@ -79,7 +79,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rivian** — UIUC Research Park Intern - Mechanical Modeling · posted Aug 19 (5d ago) · Champaign, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a690a3f05bae84301b5a184?utm_campaign=1048&utm_source=git) <!--a:fea474c97f9235aa-->
   - [ ] 📌 keep on the board <!--s:fea474c97f9235aa-->
 
-## ▫️ Worth a look (6)
+## ▫️ Worth a look (8)
+
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (30h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
+  - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (30h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
+  - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
 
 - [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (9d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
   - [ ] 📌 keep on the board <!--s:6130b33163523762-->
