@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 04:10 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 04:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **36 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -25,7 +25,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (6d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (4d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
+- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (5d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
 - [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (6d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
@@ -79,7 +79,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (6)
 
-- [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (8d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
+- [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (9d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
   - [ ] 📌 keep on the board <!--s:6130b33163523762-->
 
 - [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (6d ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
@@ -94,5 +94,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (5d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (97)
+### · Wide net (96)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
