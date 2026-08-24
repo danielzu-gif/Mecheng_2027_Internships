@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 08:42 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 09:41 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **39 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -81,9 +81,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (8)
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (32h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (33h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
   - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (32h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (33h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
   - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
 
 - [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (9d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
