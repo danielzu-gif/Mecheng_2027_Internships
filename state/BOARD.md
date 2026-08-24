@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 21:48 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 22:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**39 open · 3 apply-now · 0 saved · 3 applied all-time**
+**38 open · 3 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -15,7 +15,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Astranis Space Technologies** — CAD Engineer/Librarian Intern (Summer 2027) · posted Aug 14 (10d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:7c7c0aa83a18ce70-->
   - [ ] 📌 keep on the board <!--s:7c7c0aa83a18ce70-->
 
-## 🔷 Strong (27)
+## 🔷 Strong (26)
 
 - [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (8d ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
   - [ ] 📌 keep on the board <!--s:813294e7bfc597b5-->
@@ -44,8 +44,6 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:0d99d6114f9b8c2b-->
 - [ ] **RTX** — Mechanical Engineering Intern - ALE (Summer 2027) · posted Aug 15 (9d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8230ef19ce4e6e9d947986?utm_campaign=1048&utm_source=git) <!--a:594e62bda6fc3613-->
   - [ ] 📌 keep on the board <!--s:594e62bda6fc3613-->
-- [ ] **RTX** — Electrical Computer-Aided Design Engineer Intern · posted Aug 14 (9d ago) · Tucson, AZ · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify) <!--a:318eeec73b34fb9f-->
-  - [ ] 📌 keep on the board <!--s:318eeec73b34fb9f-->
 - [ ] **RTX** — Radar Digital Products Engineering Intern · posted Aug 14 (9d ago) · Tewksbury, MA · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243?utm_source=Simplify&ref=Simplify) <!--a:1c7c51e0de4c0d17-->
   - [ ] 📌 keep on the board <!--s:1c7c51e0de4c0d17-->
 - [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (7d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
@@ -79,11 +77,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ▫️ Worth a look (9)
 
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (45h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (46h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
   - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (21h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (22h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
   - [ ] 📌 keep on the board <!--s:3a208d63ea312a52-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (45h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (46h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
   - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
 
 - [ ] **Applied Materials** — 2026-2027 Process Engineer Co-op - Do... · posted Aug 15 (9d ago) · Gloucester,MA · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) <!--a:6130b33163523762-->
@@ -101,5 +99,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (6d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (97)
+### · Wide net (98)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
