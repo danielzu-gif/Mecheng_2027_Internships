@@ -1,7 +1,7 @@
-# Brief 2026-08-24 23:00 UTC
+# Brief 2026-08-24 23:41 UTC
 
 3 new since the last brief.
 
-- `C` **BAE Systems** — Mechanical Engineering Internship - Summer, 2027 · Sterling Heights, MI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8caca8cde3717f9e9be93f?utm_campaign=1048&utm_source=git)
-- `C` **Packaging Corporation of America** — Mechanical Engineering Co Op/Intern - All Mills · Counce, TN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8c70bc2f736c304f2a5ab0?utm_campaign=1048&utm_source=git)
-- `C` **Neuralink** — Mechanical Engineering Intern, Robotics and Surgery Engineering · South San Francisco, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a53cef9c8eb0843027adcf4?utm_campaign=1048&utm_source=git)
+- `C` **Brunswick Corporation** — Electro - Mechanical Engineering Intern · Menomonee Falls, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8c74352f736c304f2a5c46?utm_campaign=1048&utm_source=git)
+- `C` **Brunswick Corporation** — Mechanical Engineer Co-op/Intern · Lowell, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8c742ad34f700f87fd089d?utm_campaign=1048&utm_source=git)
+- `C` **Teradar** — Mechanical Engineer Intern or Co-Op · Boston, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8cb3bc1d96e6541c8c295c?utm_campaign=1048&utm_source=git)

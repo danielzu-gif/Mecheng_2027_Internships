@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-24 23:00 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-24 23:41 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **37 open · 3 apply-now · 0 saved · 3 applied all-time**
 
@@ -97,5 +97,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (6d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (98)
+### · Wide net (101)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
