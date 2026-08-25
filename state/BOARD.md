@@ -1,14 +1,12 @@
 # Summer 2027 board
-_rebuilt 2026-08-25 14:09 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-25 15:09 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**36 open · 2 apply-now · 0 saved · 3 applied all-time**
+**36 open · 1 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (2)
+## ⭐ Apply now (1)
 
-- [ ] **Anduril Industries** — 2027 Mechanical Engineer Intern · posted Aug 15 (10d ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git) <!--a:cfd3e0212d7893a9-->
-  - [ ] 📌 keep on the board <!--s:cfd3e0212d7893a9-->
 - [ ] **Anduril Industries** — 2027 Manufacturing Engineer Intern · posted Aug 16 (9d ago) · Atlanta, Georgia, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git) <!--a:79fbdd36cf458fd2-->
   - [ ] 📌 keep on the board <!--s:79fbdd36cf458fd2-->
 
@@ -70,11 +68,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rivian** — UIUC Research Park Intern - Mechanical Modeling · posted Aug 19 (6d ago) · Champaign, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a690a3f05bae84301b5a184?utm_campaign=1048&utm_source=git) <!--a:fea474c97f9235aa-->
   - [ ] 📌 keep on the board <!--s:fea474c97f9235aa-->
 
-## ▫️ Worth a look (9)
+## ▫️ Worth a look (10)
 
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
   - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (38h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (39h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
   - [ ] 📌 keep on the board <!--s:3a208d63ea312a52-->
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
   - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
@@ -88,7 +86,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **L3Harris Technologies** — Intern, Systems Engineer · posted Aug 18 (7d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8420d685e0d023aaea2956?utm_campaign=1048&utm_source=git) <!--a:d2b4b8a31dc9963a-->
   - [ ] 📌 keep on the board <!--s:d2b4b8a31dc9963a-->
 
-- [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (38h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
+- [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (0m ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
+  - [ ] 📌 keep on the board <!--s:544de9fec152ed5c-->
+
+- [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (39h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
   - [ ] 📌 keep on the board <!--s:bdd2b48ca0e8ebbb-->
 
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (6d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
