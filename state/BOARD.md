@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-25 21:59 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-25 22:38 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **41 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -55,7 +55,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (21h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
   - [ ] 📌 keep on the board <!--s:7c6ca489bcd45e0e-->
-- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (23m ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
+- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (1h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
   - [ ] 📌 keep on the board <!--s:e62192304cd4f4d9-->
 
 - [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (7d ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
@@ -79,16 +79,16 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern · posted Aug 23 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git) <!--a:03524bb056f8018d-->
   - [ ] 📌 keep on the board <!--s:03524bb056f8018d-->
-- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (45h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
+- [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern · posted Aug 24 (46h ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bce6be8b6601d1290cb1c?utm_campaign=1048&utm_source=git) <!--a:3a208d63ea312a52-->
   - [ ] 📌 keep on the board <!--s:3a208d63ea312a52-->
 - [ ] **Gulfstream Aerospace** — Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern · posted Aug 23 (2d ago) · Savannah, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8bc948d34f700f87fce6cf?utm_campaign=1048&utm_source=git) <!--a:a2a7431baf3b09f0-->
   - [ ] 📌 keep on the board <!--s:a2a7431baf3b09f0-->
 
 - [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (7d ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
   - [ ] 📌 keep on the board <!--s:21f4f655e80ff9b4-->
-- [ ] **L3Harris Technologies** — Intern C, Systems Engineer · posted Aug 25 (21h ago) · Herndon, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8538cd58ded76ad8feabcc?utm_campaign=1048&utm_source=git) <!--a:2df6b09cb3808ef3-->
+- [ ] **L3Harris Technologies** — Intern C, Systems Engineer · posted Aug 25 (22h ago) · Herndon, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8538cd58ded76ad8feabcc?utm_campaign=1048&utm_source=git) <!--a:2df6b09cb3808ef3-->
   - [ ] 📌 keep on the board <!--s:2df6b09cb3808ef3-->
-- [ ] **L3Harris Technologies** — Intern D, Systems Engineer · posted Aug 25 (21h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8d5a22a5639a4810325b25?utm_campaign=1048&utm_source=git) <!--a:5f48cc84620af5c8-->
+- [ ] **L3Harris Technologies** — Intern D, Systems Engineer · posted Aug 25 (22h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8d5a22a5639a4810325b25?utm_campaign=1048&utm_source=git) <!--a:5f48cc84620af5c8-->
   - [ ] 📌 keep on the board <!--s:5f48cc84620af5c8-->
 - [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (7d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
   - [ ] 📌 keep on the board <!--s:a34644ad416cdde6-->
@@ -97,10 +97,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (2h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
   - [ ] 📌 keep on the board <!--s:544de9fec152ed5c-->
-- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (4h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
+- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (5h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
   - [ ] 📌 keep on the board <!--s:fceebbd24d0aa445-->
 
-- [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (45h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
+- [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (46h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
   - [ ] 📌 keep on the board <!--s:bdd2b48ca0e8ebbb-->
 
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (7d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
