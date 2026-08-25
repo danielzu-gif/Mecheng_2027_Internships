@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-25 23:03 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-25 23:43 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **42 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -55,7 +55,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (22h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
   - [ ] 📌 keep on the board <!--s:7c6ca489bcd45e0e-->
-- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (1h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
+- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (2h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
   - [ ] 📌 keep on the board <!--s:e62192304cd4f4d9-->
 
 - [ ] **Honeywell Technologies** — Mechanical Engineering - Summer 2027 Intern · posted Aug 25 (23h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e09d225fc4e7ae3dbf6c5?utm_campaign=1048&utm_source=git) <!--a:7d72888c3ff312f9-->
