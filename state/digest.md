@@ -1,10 +1,9 @@
-# Brief 2026-08-25 08:36 UTC
+# Brief 2026-08-25 17:00 UTC
 
-6 new since the last brief.
+5 new since the last brief.
 
-- `B` **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · Cranberry Township, PA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git)
-- `C` **BAE Systems** — Mechanical Engineering Co-Op - Spring/Summer, 2027 · Sterling Heights, MI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8cbc731d96e6541c8c2bc9?utm_campaign=1048&utm_source=git)
-- `C` **Laveer Engineering** — Summer Intern - Mechanical Engineering · Cranberry Township, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8cc14d2f736c304f2a7b5c?utm_campaign=1048&utm_source=git)
-- `C` **Hanson Professional Services Inc.** — 2027 Mechanical Engineering Internship · Houston, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8ccad52f736c304f2a7e0d?utm_campaign=1048&utm_source=git)
-- `C` **Armstrong World Industries** — Mechanical Engineer Intern (Macon GA) Job · Macon, GA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8cc0b1cde3717f9e9bf131?utm_campaign=1048&utm_source=git)
-- `C` **LotusWorks** — Mechanical Technician - Part Time Internship · Sunnyvale, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8c96f0581f2d7bfdfe499f?utm_campaign=1048&utm_source=git)
+- `B` **Moog** — Intern, Hardware Engineering · Mineral Wells, TX · score 5 · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417)
+- `B` **Moog** — Hardware Engineer Intern · Mineral Wells, TX · score 5 · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify)
+- `C` **Brunswick** — Mechanical Engineering Intern · Menomonee Falls, WI · score 4 · [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231)
+- `C` **IMEG** — Mechanical Engineering Intern / New York, NY · New York, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8da168cc0cf270685241b1?utm_campaign=1048&utm_source=git)
+- `C` **Philips** — Co-op - Robotics Mechatronics, Surgic... · Cambridge (US), Massac... · score 4 · [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905)
