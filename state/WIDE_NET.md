@@ -1,5 +1,5 @@
 # Wide net
-_110 open · rebuilt 2026-08-26 04:06 UTC · tick 📌 to move one onto the main board_
+_110 open · rebuilt 2026-08-26 04:34 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 
@@ -152,11 +152,11 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/1
 - [ ] **Dewberry** — Mechanical Engineering Intern · posted Aug 17 (9d ago) · New York, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a83567a2dbaf907b07680ab?utm_campaign=1048&utm_source=git) <!--a:b9d8827776590a8a-->
   - [ ] 📌 keep on the board <!--s:b9d8827776590a8a-->
 
-- [ ] **Disney** — WDI Show Mechanical Design & Producti... · posted Aug 24 (47h ago) · Celebration, FL, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1) <!--a:9f25e6e193af8379-->
+- [ ] **Disney** — WDI Show Mechanical Design & Producti... · posted Aug 24 (2d ago) · Celebration, FL, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Design---Production-Intern--Orlando--Spring-2027_10158494-1) <!--a:9f25e6e193af8379-->
   - [ ] 📌 keep on the board <!--s:9f25e6e193af8379-->
 - [ ] **Disney** — Disneyland Mechanical Engineering Int... · posted Aug 24 (31h ago) · Anaheim, CA, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2) <!--a:d6a3884971cdd612-->
   - [ ] 📌 keep on the board <!--s:d6a3884971cdd612-->
-- [ ] **Disney** — WDI Show Mechanical Engineering Inter... · posted Aug 24 (36h ago) · Glendale, CA, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) <!--a:e106e588291813a4-->
+- [ ] **Disney** — WDI Show Mechanical Engineering Inter... · posted Aug 24 (37h ago) · Glendale, CA, USA · [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506) <!--a:e106e588291813a4-->
   - [ ] 📌 keep on the board <!--s:e106e588291813a4-->
 
 - [ ] **Framatome North America** — (Mechanical Engineering) Intern - Univ/Co-Op Technical (Lynchburg) · posted Aug 17 (9d ago) · Lynchburg, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a831f1b9b859b227766c923?utm_campaign=1048&utm_source=git) <!--a:18963c5578bcb8ce-->

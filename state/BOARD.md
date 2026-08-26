@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-26 04:06 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-26 04:34 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **42 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -20,7 +20,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
 - [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (8d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (6d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
+- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (7d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
 - [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (8d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
