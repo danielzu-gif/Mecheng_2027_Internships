@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-26 07:41 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-26 08:37 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **43 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -22,7 +22,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
 - [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (7d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
   - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (8d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (9d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
   - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
 - [ ] **GE Aerospace** — Welding Engineering Intern - Summer 2027 · posted Aug 18 (8d ago) · Evendale, United States of America · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a849cb758ded76ad8fe83f5?utm_campaign=1048&utm_source=git) <!--a:37e42f0aff8b3f6e-->
   - [ ] 📌 keep on the board <!--s:37e42f0aff8b3f6e-->
@@ -53,12 +53,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Materials Engineer Intern (Spring & Summer 2027) · posted Aug 21 (5d ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88b97bd34f700f87fca2df?utm_campaign=1048&utm_source=git) <!--a:9597fcaa7dd3f102-->
   - [ ] 📌 keep on the board <!--s:9597fcaa7dd3f102-->
 
-- [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (30h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
+- [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (31h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
   - [ ] 📌 keep on the board <!--s:7c6ca489bcd45e0e-->
-- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (10h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
+- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (11h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
   - [ ] 📌 keep on the board <!--s:e62192304cd4f4d9-->
 
-- [ ] **Honeywell Technologies** — Mechanical Engineering - Summer 2027 Intern (US Person Required) · posted Aug 25 (31h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e184b25fc4e7ae3dbfad6?utm_campaign=1048&utm_source=git) <!--a:bcccc5ac2c073f19-->
+- [ ] **Honeywell Technologies** — Mechanical Engineering - Summer 2027 Intern (US Person Required) · posted Aug 25 (32h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e184b25fc4e7ae3dbfad6?utm_campaign=1048&utm_source=git) <!--a:bcccc5ac2c073f19-->
   - [ ] 📌 keep on the board <!--s:bcccc5ac2c073f19-->
 
 - [ ] **L3Harris Technologies** — Intern, Mechanical Engineer · posted Aug 18 (8d ago) · Malabar, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214ce459fa3baa85d098?utm_campaign=1048&utm_source=git) <!--a:b4707a1e0fc1a41b-->
@@ -89,21 +89,21 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **L3Harris Technologies** — Intern, Manufacturing Engineer (Anaheim, CA) · posted Aug 18 (8d ago) · Anaheim, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214de459fa3baa85d0a2?utm_campaign=1048&utm_source=git) <!--a:21f4f655e80ff9b4-->
   - [ ] 📌 keep on the board <!--s:21f4f655e80ff9b4-->
-- [ ] **L3Harris Technologies** — Intern C, Systems Engineer · posted Aug 25 (31h ago) · Herndon, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8538cd58ded76ad8feabcc?utm_campaign=1048&utm_source=git) <!--a:2df6b09cb3808ef3-->
+- [ ] **L3Harris Technologies** — Intern C, Systems Engineer · posted Aug 25 (32h ago) · Herndon, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8538cd58ded76ad8feabcc?utm_campaign=1048&utm_source=git) <!--a:2df6b09cb3808ef3-->
   - [ ] 📌 keep on the board <!--s:2df6b09cb3808ef3-->
-- [ ] **L3Harris Technologies** — Intern D, Systems Engineer · posted Aug 25 (31h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8d5a22a5639a4810325b25?utm_campaign=1048&utm_source=git) <!--a:5f48cc84620af5c8-->
+- [ ] **L3Harris Technologies** — Intern D, Systems Engineer · posted Aug 25 (32h ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8d5a22a5639a4810325b25?utm_campaign=1048&utm_source=git) <!--a:5f48cc84620af5c8-->
   - [ ] 📌 keep on the board <!--s:5f48cc84620af5c8-->
 - [ ] **L3Harris Technologies** — Intern, Info Sec Systems Engineer · posted Aug 18 (8d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb?utm_campaign=1048&utm_source=git) <!--a:a34644ad416cdde6-->
   - [ ] 📌 keep on the board <!--s:a34644ad416cdde6-->
 - [ ] **L3Harris Technologies** — Integration and Test Engineering - Automation Intern · posted Aug 19 (7d ago) · Northampton, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84211d8d793736c6133d2d?utm_campaign=1048&utm_source=git) <!--a:c5d517fbf5605c8e-->
   - [ ] 📌 keep on the board <!--s:c5d517fbf5605c8e-->
 
-- [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (11h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
+- [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (12h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
   - [ ] 📌 keep on the board <!--s:544de9fec152ed5c-->
-- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (14h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
+- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (15h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
   - [ ] 📌 keep on the board <!--s:fceebbd24d0aa445-->
 
-- [ ] **Sandia National Laboratories** — Intern, R&D Graduate Summer - Research and Applications of Mechanics of Structures (RAMS), Onsite · posted Aug 25 (31h ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e6ec3e3efd719bf57d30b?utm_campaign=1048&utm_source=git) <!--a:10c6dbaf3fde97b1-->
+- [ ] **Sandia National Laboratories** — Intern, R&D Graduate Summer - Research and Applications of Mechanics of Structures (RAMS), Onsite · posted Aug 25 (32h ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e6ec3e3efd719bf57d30b?utm_campaign=1048&utm_source=git) <!--a:10c6dbaf3fde97b1-->
   - [ ] 📌 keep on the board <!--s:10c6dbaf3fde97b1-->
 
 - [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (2d ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
