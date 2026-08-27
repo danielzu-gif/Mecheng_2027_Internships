@@ -1,10 +1,9 @@
-# Brief 2026-08-27 03:33 UTC
+# Brief 2026-08-27 14:56 UTC
 
-6 new since the last brief.
+5 new since the last brief.
 
-- `A` **Northrop Grumman** — 2026 Part-Time Mechanical Engineering... · Arizona · score 7 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965)
-- `A` **Zipline** — Embedded Engineering Intern (Summer 2... · South San Francisco, C... · score 6 · [apply](https://www.zipline.com/open-roles?gh_jid=7978843003)
-- `C` **Axon** — 2027 US Mechanical Engineering Internship · Scottsdale, AZ, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8f6ebc7c32860d14cf5d39?utm_campaign=1048&utm_source=git)
-- `C` **Daktronics** — Mechanical Design Co-op Intern · Brookings, SD, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8f1d2b382b237ac80c4683?utm_campaign=1048&utm_source=git)
-- `C` **Brunswick Corporation** — Mercury Marine: Mechanical Engineering Intern · Fond du Lac, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8f091a309e5f2248709f3d?utm_campaign=1048&utm_source=git)
-- `C` **Fourth Power** — Mechanical Engineering Intern · Middleton, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8f8f280bd89e205d247232?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2026 Part-Time Mechanical Engineering Intern - Chandler AZ · Chandler, AZ, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a8f9bafa19886486675e114?utm_campaign=1048&utm_source=git)
+- `C` **Axon** — 2027 US Mechanical Engineering Intern... · Arizona, USA · score 6 · [apply](https://job-boards.greenhouse.io/axon/jobs/7978840003)
+- `C` **LyondellBasell** — 2027 Mechanical Engineer Intern/Co-op · Clinton, IA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8ffc438ffa38557e6cacd4?utm_campaign=1048&utm_source=git)
+- `C` **AMETEK** — Sunpower Mechanical Engineering Intern · Athens, OH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8fcc53d96ad228f125eb27?utm_campaign=1048&utm_source=git)
+- `C` **Oshkosh Corporation** — Engineering Intern - Mechanical (Summ... · Orlando, Florida, Unit... · score 4 · [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823)
