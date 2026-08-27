@@ -1,34 +1,11 @@
 # Summer 2027 board
-_rebuilt 2026-08-27 03:33 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-27 08:47 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**42 open · 0 apply-now · 0 saved · 3 applied all-time**
+**38 open · 0 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## 🔷 Strong (29)
-
-- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 · posted Aug 16 (11d ago) · Dayton, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279fa1081a745e970a771?utm_campaign=1048&utm_source=git) <!--a:813294e7bfc597b5-->
-  - [ ] 📌 keep on the board <!--s:813294e7bfc597b5-->
-- [ ] **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 · posted Aug 16 (11d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a827a1e9b859b227766a0ad?utm_campaign=1048&utm_source=git) <!--a:0afe1b33b2da3e50-->
-  - [ ] 📌 keep on the board <!--s:0afe1b33b2da3e50-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 · posted Aug 16 (11d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8279f8b5a0ac0e84a2111b?utm_campaign=1048&utm_source=git) <!--a:012cf16f83047d79-->
-  - [ ] 📌 keep on the board <!--s:012cf16f83047d79-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – US – Sum... · posted Aug 17 (9d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1) <!--a:142d274d3849251a-->
-  - [ ] 📌 keep on the board <!--s:142d274d3849251a-->
-- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (7d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
-  - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (9d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
-  - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
-- [ ] **GE Aerospace** — Welding Engineering Intern - Summer 2027 · posted Aug 18 (9d ago) · Evendale, United States of America · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a849cb758ded76ad8fe83f5?utm_campaign=1048&utm_source=git) <!--a:37e42f0aff8b3f6e-->
-  - [ ] 📌 keep on the board <!--s:37e42f0aff8b3f6e-->
-- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanic... · posted Aug 18 (8d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1) <!--a:4f71bda9c73a5172-->
-  - [ ] 📌 keep on the board <!--s:4f71bda9c73a5172-->
-- [ ] **GE Aerospace** — Edison Works Engineering Intern - US - Signature Design & Test - Summer 2027 · posted Aug 18 (9d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848a19e459fa3baa85f074?utm_campaign=1048&utm_source=git) <!--a:5ec19a83ef2dfa21-->
-  - [ ] 📌 keep on the board <!--s:5ec19a83ef2dfa21-->
-- [ ] **GE Aerospace** — Edison Works Engineering Intern - Aero Design - US - Summer 2027 · posted Aug 18 (9d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848a17e12474455273aef4?utm_campaign=1048&utm_source=git) <!--a:8f598153a2697a10-->
-  - [ ] 📌 keep on the board <!--s:8f598153a2697a10-->
-- [ ] **GE Aerospace** — Engines Engineering Intern – Computer... · posted Aug 17 (9d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) <!--a:ea0e227ffd023b52-->
-  - [ ] 📌 keep on the board <!--s:ea0e227ffd023b52-->
+## 🔷 Strong (25)
 
 - [ ] **Zipline** — Mechanical Engineer Intern (Summer 2027) · posted Aug 18 (9d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7866071003) <!--a:040b3319c2b11256-->
   - [ ] 📌 keep on the board <!--s:040b3319c2b11256-->
@@ -40,12 +17,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:4b6d5f41fec8966b-->
 - [ ] **Zipline** — Materials Engineer Intern (Spring & Summer 2027) · posted Aug 21 (6d ago) · South San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a88b97bd34f700f87fca2df?utm_campaign=1048&utm_source=git) <!--a:9597fcaa7dd3f102-->
   - [ ] 📌 keep on the board <!--s:9597fcaa7dd3f102-->
-- [ ] **Zipline** — Embedded Engineering Intern (Summer 2... · posted Aug 27 (3h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7978843003) <!--a:e19099747ad7fcfd-->
+- [ ] **Zipline** — Embedded Engineering Intern (Summer 2... · posted Aug 27 (8h ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7978843003) <!--a:e19099747ad7fcfd-->
   - [ ] 📌 keep on the board <!--s:e19099747ad7fcfd-->
 
 - [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (2d ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
   - [ ] 📌 keep on the board <!--s:7c6ca489bcd45e0e-->
-- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (29h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
+- [ ] **Honeywell** — Embedded Engineer Intern · posted Aug 25 (35h ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) <!--a:e62192304cd4f4d9-->
   - [ ] 📌 keep on the board <!--s:e62192304cd4f4d9-->
 
 - [ ] **Honeywell Technologies** — Mechanical Engineering - Summer 2027 Intern (US Person Required) · posted Aug 25 (2d ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e184b25fc4e7ae3dbfad6?utm_campaign=1048&utm_source=git) <!--a:bcccc5ac2c073f19-->
@@ -65,13 +42,28 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **NVIDIA** — Hardware Engineering Intern · posted Aug 19 (7d ago) · Santa Clara, CA · S27 confirmed · [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify) <!--a:60899effbcc020d2-->
   - [ ] 📌 keep on the board <!--s:60899effbcc020d2-->
 
-- [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering... · posted Aug 27 (3h ago) · Arizona · season unstated · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) <!--a:56a0f5dffdbd5411-->
+- [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering Intern - Chandler AZ · posted Aug 26 (32h ago) · Chandler, AZ, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8f9bafa19886486675e114?utm_campaign=1048&utm_source=git) <!--a:03282d1687ed9d02-->
+  - [ ] 📌 keep on the board <!--s:03282d1687ed9d02-->
+- [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering... · posted Aug 27 (8h ago) · Arizona · season unstated · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) <!--a:56a0f5dffdbd5411-->
   - [ ] 📌 keep on the board <!--s:56a0f5dffdbd5411-->
 
 - [ ] **Rivian** — UIUC Research Park Intern - Mechanical Modeling · posted Aug 19 (8d ago) · Champaign, IL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a690a3f05bae84301b5a184?utm_campaign=1048&utm_source=git) <!--a:fea474c97f9235aa-->
   - [ ] 📌 keep on the board <!--s:fea474c97f9235aa-->
 
-- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (9d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
+- [ ] **GE Aerospace** — Unison Engineering Intern - Summer 2027 · posted Aug 19 (8d ago) · Jacksonville · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) <!--a:286b158d32b0fb65-->
+  - [ ] 📌 keep on the board <!--s:286b158d32b0fb65-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Electric... · posted Aug 17 (10d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1) <!--a:2d2ab94438ffba01-->
+  - [ ] 📌 keep on the board <!--s:2d2ab94438ffba01-->
+- [ ] **GE Aerospace** — Welding Engineering Intern - Summer 2027 · posted Aug 18 (9d ago) · Evendale, United States of America · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a849cb758ded76ad8fe83f5?utm_campaign=1048&utm_source=git) <!--a:37e42f0aff8b3f6e-->
+  - [ ] 📌 keep on the board <!--s:37e42f0aff8b3f6e-->
+- [ ] **GE Aerospace** — Systems Engineering Intern - Mechanic... · posted Aug 18 (9d ago) · Dayton · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1) <!--a:4f71bda9c73a5172-->
+  - [ ] 📌 keep on the board <!--s:4f71bda9c73a5172-->
+- [ ] **GE Aerospace** — Edison Works Engineering Intern - US - Signature Design & Test - Summer 2027 · posted Aug 18 (9d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848a19e459fa3baa85f074?utm_campaign=1048&utm_source=git) <!--a:5ec19a83ef2dfa21-->
+  - [ ] 📌 keep on the board <!--s:5ec19a83ef2dfa21-->
+- [ ] **GE Aerospace** — Edison Works Engineering Intern - Aero Design - US - Summer 2027 · posted Aug 18 (9d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a848a17e12474455273aef4?utm_campaign=1048&utm_source=git) <!--a:8f598153a2697a10-->
+  - [ ] 📌 keep on the board <!--s:8f598153a2697a10-->
+
+- [ ] **RTX** — Systems Engineering Intern · posted Aug 17 (10d ago) · Portsmouth, RI · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify) <!--a:bb15d047784a1974-->
   - [ ] 📌 keep on the board <!--s:bb15d047784a1974-->
 
 ## ▫️ Worth a look (13)
@@ -94,9 +86,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **L3Harris Technologies** — Integration and Test Engineering - Automation Intern · posted Aug 19 (8d ago) · Northampton, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a84211d8d793736c6133d2d?utm_campaign=1048&utm_source=git) <!--a:c5d517fbf5605c8e-->
   - [ ] 📌 keep on the board <!--s:c5d517fbf5605c8e-->
 
-- [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (31h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
+- [ ] **Moog** — Intern, Hardware Engineering · posted Aug 25 (36h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417) <!--a:544de9fec152ed5c-->
   - [ ] 📌 keep on the board <!--s:544de9fec152ed5c-->
-- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (34h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
+- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (39h ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
   - [ ] 📌 keep on the board <!--s:fceebbd24d0aa445-->
 
 - [ ] **Sandia National Laboratories** — Intern, R&D Graduate Summer - Research and Applications of Mechanics of Structures (RAMS), Onsite · posted Aug 25 (2d ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e6ec3e3efd719bf57d30b?utm_campaign=1048&utm_source=git) <!--a:10c6dbaf3fde97b1-->
@@ -108,5 +100,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Long Range Platform Hardware Engineer... · posted Aug 18 (8d ago) · South San Francisco, C... · season unstated · [apply](https://www.zipline.com/open-roles?gh_jid=7891460003) <!--a:7f812f171123fd16-->
   - [ ] 📌 keep on the board <!--s:7f812f171123fd16-->
 
-### · Wide net (116)
+### · Wide net (118)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
