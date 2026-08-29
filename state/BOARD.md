@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-08-29 03:44 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-08-29 06:45 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **28 open · 1 apply-now · 0 saved · 3 applied all-time**
 
@@ -7,19 +7,19 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## ⭐ Apply now (1)
 
-- [ ] **Astranis Space Technologies** — CAD Engineer Intern (Summer 2027) · posted Aug 28 (27h ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:74abe6ad549baa4e-->
+- [ ] **Astranis Space Technologies** — CAD Engineer Intern (Summer 2027) · posted Aug 28 (30h ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:74abe6ad549baa4e-->
   - [ ] 📌 keep on the board <!--s:74abe6ad549baa4e-->
 
 ## 🔷 Strong (17)
 
-- [ ] **Honeywell Aerospace** — Mechanical Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (27h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e2668e59685453378341?utm_campaign=1048&utm_source=git) <!--a:93de3697e8127ac7-->
+- [ ] **Honeywell Aerospace** — Mechanical Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (30h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e2668e59685453378341?utm_campaign=1048&utm_source=git) <!--a:93de3697e8127ac7-->
   - [ ] 📌 keep on the board <!--s:93de3697e8127ac7-->
-- [ ] **Honeywell Aerospace** — Test Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (27h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e26b9864261ccd29f745?utm_campaign=1048&utm_source=git) <!--a:a019bfb2d51dae25-->
-  - [ ] 📌 keep on the board <!--s:a019bfb2d51dae25-->
-- [ ] **Honeywell Aerospace** — Systems Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (27h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e26a8e59685453378343?utm_campaign=1048&utm_source=git) <!--a:a1b3d5373f1ba6d9-->
-  - [ ] 📌 keep on the board <!--s:a1b3d5373f1ba6d9-->
-- [ ] **Honeywell Aerospace** — Semiconductor Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (27h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a921adec12c90443efc979a?utm_campaign=1048&utm_source=git) <!--a:75b991181a88473c-->
+- [ ] **Honeywell Aerospace** — Semiconductor Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (30h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a921adec12c90443efc979a?utm_campaign=1048&utm_source=git) <!--a:75b991181a88473c-->
   - [ ] 📌 keep on the board <!--s:75b991181a88473c-->
+- [ ] **Honeywell Aerospace** — Test Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (30h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e26b9864261ccd29f745?utm_campaign=1048&utm_source=git) <!--a:a019bfb2d51dae25-->
+  - [ ] 📌 keep on the board <!--s:a019bfb2d51dae25-->
+- [ ] **Honeywell Aerospace** — Systems Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (30h ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e26a8e59685453378343?utm_campaign=1048&utm_source=git) <!--a:a1b3d5373f1ba6d9-->
+  - [ ] 📌 keep on the board <!--s:a1b3d5373f1ba6d9-->
 
 - [ ] **Honeywell** — Mechanical Engineering - Summer 2027 ... · posted Aug 25 (4d ago) · United States · S27 confirmed · [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) <!--a:7c6ca489bcd45e0e-->
   - [ ] 📌 keep on the board <!--s:7c6ca489bcd45e0e-->
@@ -37,7 +37,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering... · posted Aug 27 (2d ago) · Arizona · season unstated · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) <!--a:56a0f5dffdbd5411-->
   - [ ] 📌 keep on the board <!--s:56a0f5dffdbd5411-->
 
-- [ ] **RTX** — Manufacturing Engineering Intern (Sum... · posted Aug 28 (6h ago) · Burnsville, MN · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineering-Intern--Summer-2027-_01870591) <!--a:5654feb5358b466a-->
+- [ ] **RTX** — Manufacturing Engineering Intern (Sum... · posted Aug 28 (9h ago) · Burnsville, MN · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineering-Intern--Summer-2027-_01870591) <!--a:5654feb5358b466a-->
   - [ ] 📌 keep on the board <!--s:5654feb5358b466a-->
 
 - [ ] **Zipline** — Controls Engineer Intern (Summer 2027) · posted Aug 19 (9d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7903889003) <!--a:41f1957e0ca23922-->
@@ -82,5 +82,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Engineering · posted Aug 24 (5d ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8caf721d96e6541c8c2720?utm_campaign=1048&utm_source=git) <!--a:bdd2b48ca0e8ebbb-->
   - [ ] 📌 keep on the board <!--s:bdd2b48ca0e8ebbb-->
 
-### · Wide net (103)
+### · Wide net (102)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
