@@ -1,19 +1,20 @@
-# Brief 2026-08-31 17:49 UTC
+# Brief 2026-08-31 23:14 UTC
 
-15 new since the last brief.
+16 new since the last brief.
 
-- `S` **Shield AI** — Summer 2027 - Advanced Manufacturing Engineering Intern · Dallas, Texas · score 11 · [apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a)
-- `A` **GE Aerospace** — Applied AI Engineer Intern – Summer 2027 (May/June Start) · Evendale, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a94ef88c12c90443efce05f?utm_campaign=1048&utm_source=git)
-- `A` **GE Aerospace** — Product Definition Engineering Intern... · Lynn · score 6 · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1)
-- `A` **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · Utah · score 6 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475)
-- `A` **RTX** — TCMA Systems Engineering Intern - Sum... · Huntsville, AL · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372)
-- `C` **Aerotech, Inc.** — Mechanical Engineering Internship or Co-op 2027 · Pittsburgh, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a9572df0924ae4764cad939?utm_campaign=1048&utm_source=git)
-- `C` **Motrex LLC** — 2027 Summer Intern - Industrial or Mechanical Engineer · Salina, KS, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a958d8ac8763a3a87ffa8a3?utm_campaign=1048&utm_source=git)
-- `C` **Motrex LLC** — 2027 Summer Intern - Mechanical Engineer · Alpharetta, GA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a958d95c8763a3a87ffa8a8?utm_campaign=1048&utm_source=git)
-- `C` **Oshkosh Corporation** — Mechanical Design Intern (Summer 2027) · Bradenton, Florida, Un... · score 6 · [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820)
-- `C` **Qorvo, Inc.** — Facilities Mechanical Engineering Intern · Richardson, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a950367c12c90443efce199?utm_campaign=1048&utm_source=git)
-- `C` **Qorvo, Inc.** — Mechanical-Systems Engineering Intern · Greensboro, NC, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95095ec12c90443efce257?utm_campaign=1048&utm_source=git)
-- `C` **Qorvo, Inc.** — Mechanical Engineering Intern · Richardson, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95035ed18f75674827ffa0?utm_campaign=1048&utm_source=git)
-- `C` **Lexington Medical, Inc** — Mechanical Engineering Intern · Bedford, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a959adfc8763a3a87ffae11?utm_campaign=1048&utm_source=git)
-- `C` **Ohio's Electric Cooperatives** — Mechanical Engineering Process Intern · Brilliant, Ohio, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95975f9fcec5442372dd91?utm_campaign=1048&utm_source=git)
-- `C` **WSP** — Mechanical Engineering Intern - Summe... · Richmond, VA, United S... · score 4 · [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94305)
+- `A` **Raytheon** — Mechanical Engineering Internship (Summer 2027) · Tewksbury, MA, United States · score 11 · [apply](https://jobright.ai/jobs/info/6a95f169cabc9f6703e1b24a?utm_campaign=1048&utm_source=git)
+- `A` **General Motors** — 2027 Co-Op – Manufacturing Controls Engineer · Detroit, MI, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a95e9764c22023a07936de2?utm_campaign=1048&utm_source=git)
+- `A` **GE Aerospace** — Product Definition Engineer Intern - Designer · Lynn, MA · score 6 · [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1?utm_source=Simplify&ref=Simplify)
+- `C` **Iowa Mold Tooling Co., Inc.** — Engineer Intern - Mechanical (Summer 2027) · Garner, IA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95baf23843db0159906cfa?utm_campaign=1048&utm_source=git)
+- `C` **McNeilus Truck and Manufacturing, Inc.** — Engineer Intern - Mechanical (Summer 2027) · Dodge Center, Minnesota, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95baf29fcec5442372eb70?utm_campaign=1048&utm_source=git)
+- `C` **Mott MacDonald** — Mechanical Engineering Internship - 2027 · Austin, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95b454f28891320e85d623?utm_campaign=1048&utm_source=git)
+- `C` **Pierce Manufacturing** — Engineer Intern - Mechanical (Summer 2027) · Garner, IA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95b9ad4c22023a079355e0?utm_campaign=1048&utm_source=git)
+- `C` **Pierce Manufacturing** — Mechanical Design Intern (Summer 2027) · Bradenton, FL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95b9adc8763a3a87ffba5d?utm_campaign=1048&utm_source=git)
+- `C` **BAE Systems** — Mechanical Engineering Intern - Summer 2027 · Maple Grove, MN, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a95ede6f28891320e85f15a?utm_campaign=1048&utm_source=git)
+- `C` **Dimension 6** — Mechanical Engineering Co-op / Internship · Portland, OR, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95be464c22023a07935795?utm_campaign=1048&utm_source=git)
+- `C` **Coffman Engineers** — Mechanical Engineering Intern · Duluth, GA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95e120cabc9f6703e1a886?utm_campaign=1048&utm_source=git)
+- `C` **Olsson** — Mechanical Engineering Internship - Substation and Power Generation · Fayetteville, AR, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95f197cabc9f6703e1b291?utm_campaign=1048&utm_source=git)
+- `C` **Olsson** — Mechanical Engineering Internship - Federal Infrastructure · Overland Park, KS, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95ebb49fcec54423730388?utm_campaign=1048&utm_source=git)
+- `C` **Olsson** — Mechanical Engineering Internship - Industrial Facilities · Lincoln, NE, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95ee434c22023a07936f7a?utm_campaign=1048&utm_source=git)
+- `C` **Olsson** — Revit Drafting Internship - Mechanical · North Kansas City, MO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95ebb6c8763a3a87ffd377?utm_campaign=1048&utm_source=git)
+- `C` **MITRE** — Embedded Security Intern - Electronics Prototype · Bedford, MA, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a959bc7f28891320e85cb9e?utm_campaign=1048&utm_source=git)
