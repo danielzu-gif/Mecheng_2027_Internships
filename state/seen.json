@@ -139,6 +139,10 @@
    "checked": "2026-08-20T01:39:32.145208+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Propulsion and Fluids Intern @ Cubit Capital | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Propulsion and Fluids Intern\",\"description\":\" True Anomaly develops autonomous spacecraft, advanced payloads, mission software, and space-based interceptors for space superiority and national security. The Propulsion and Fluids Intern will support spacecraft propulsion and fluid systems test campaigns, including setup, instrumentation, test execution, data collection and analysis, documentation, and post-test activities. Responsibilities Assist test engineers with test setup, instrumentation installation, and hardware integration in preparation for propulsion and fluids test campaigns Support execution of propulsion test operations including pressure testing, leak testing, flow testing, and functional performance tests under the supervision of test engineers Assist with data acquisition system setup, sensor calibration, and test instrumentation checkout Collect, organize, and perform preliminary analysis of test data including pressure, temperature, flow, and performance measurements Help develop test procedures, work instructions, and test documentation under engineer guidance Support assembly and configuration of ground support equipment, test fixtures, and fluid systems hardware Assist with post-test hardware inspections, anomaly documentation, and test report generation Participate in test readiness reviews, safety briefings, and cross-functional team meetings Support maintenance of test equipment, tooling inventory, and test site cleanliness and organization Skills Currently enrolled in a Bachelor's or Master's degree program in aerospace, mechanical, chemical engineering, or related technical discipline Completed coursework in thermodynamics, fluid mechanics, or propulsion systems Strong interest in spacecraft propu"
   },
+  "2b50b6ac8f619663": {
+   "checked": "2026-09-01T01:52:13.440809+00:00",
+   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"Santa Clara,CA\" } }, \"hiringOrganization\" : { \"name\" : \"0001 Applied Materials, Inc\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"New College Grad - Process Engineer - MS/PhD (Winter 2026)\", \"@type\" : \"PropertyValue\", \"value\" : \"R2627711\" }, \"datePosted\" : \"2026-08-31\", \"validThrough\" : \"2026-09-30\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"New College Grad - Process Engineer - MS/PhD (Winter 2026)\", \"description\" : \"Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world\u00e2\u0080\u0099s technology. What We Offer Salary: $124,000.00 - $171,000.00 Location: Santa Clara,CA You\u00e2\u0080\u0099ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible\u00e2\u0080\u0094while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We\u00e2\u0080\u0099re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits. As a Process Engineer, you'll play a crucial role in designing and optimizing manufacturing processes for display and semiconductor manufacturing technologies. You will"
+  },
   "2bf204d45aa7f8a3": {
    "checked": "2026-08-24T06:48:03.893795+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Manufacturing Engineer Intern/Co-Op Job Details | BWXT @ BWXT | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Manufacturing Engineer Intern/Co-Op Job Details | BWXT\",\"description\":\" BWX Technologies, Inc. provides nuclear solutions and precision manufacturing for security, clean energy, medicine, and space applications. The Manufacturing Engineer Intern supports process engineering activities by developing manufacturing plans, improving production processes, generating SAP routings, assisting with CAD and tooling development, and resolving manufacturing issues. Responsibilities Adhere to contract technical requirements while developing, and maintaining, step-by-step process plans in the manufacturing of Control Rod Drive Mechanisms Monitor manufacturing processes and implement improvements to ensure processes are safe, maintain high quality and are performed efficiently to meet delivery and cost requirements Generate SAP routings based on step-by-step process plans Assist in developing CAD drawings detailing step-by-step process plans, process fixturing, process tooling, and process setup instructions Assist in design, development, test/source, and cost-justify various tools, machinery, and equipment for recommended manufacturing methods Work with other internal departments, customer and vendors to resolve issues encountered during the manufacturing process Propose, support and participate in continuous improvement projects to improve safety, quality, delivery or cost Other engineering tasks and responsibilities as required Skills Enrollment in a Bachelor of Science program in Mechanical Engineering or Mechanical Engineering Technology Basic familiarity with engineering drawings and geometric tolerancing Strong communications skills, and ability to work with multiple disciplines in support of manufacturing produc"
@@ -716,7 +720,140 @@
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern - DRAM Design Engineer @ Micron Technology | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern - DRAM Design Engineer\",\"description\":\" Micron Technology is a world leader in innovating memory and storage solutions. As a DRAM Verification Engineering Intern, you will work with a highly innovative engineering team to verify advanced memory products and gain hands-on experience using industry-standard verification tools. Responsibilities Perform verification activities including datasheet analysis, verification planning, simulation execution, coverage analysis, debugging, and results review Support modeling and simulation efforts using industry-standard verification and circuit simulation tools Collaborate with global design, verification, and multi-functional engineering teams to drive standardization, improve design quality, and support successful product development Contribute to innovation in future memory technologies by applying advanced verification methodologies and problem-solving techniques Leverage Artificial Intelligence, AI Assisted tools, and automation technologies to improve verification efficiency, accelerate analysis, and enhance workflow productivity Skills Currently pursuing a Bachelor's or Master's degree in Electrical Engineering or a related technical field Must not graduate before September 2026 Familiarity with analog and digital simulation tools such as HSPICE, Verilog HDL, FINESIM, or similar industry-standard environments Demonstrated debugging, timing analysis, analytical, and problem-solving skills through coursework, research, or project experience Strong communication and teamwork abilities with the capability to explain technical concepts effectively Knowledge of CMOS circuit design, semiconductor devices, and integrated circuit layout concepts Experience with verification,"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "company": "BWXT",
+   "location": "Euclid, OH, United States",
+   "pid": "71273a3125ba9103",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Mechanical Engineering Intern/Co-Op - Summer 2027",
+   "score": 7,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95b354f28891320e85d5bd?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Stryker",
+   "location": "San Jose, CA, United States",
+   "pid": "3f38ad4fe75274ff",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - California",
+   "score": 7,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95cd0b9fcec5442372f2b7?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Stryker",
+   "location": "Mahwah, NJ, United States",
+   "pid": "a99f76d5ec6bf497",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - New Jersey",
+   "score": 7,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Stryker",
+   "location": "Portage, MI, United States",
+   "pid": "359c77fca730b65a",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - Michigan",
+   "score": 7,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95b8354c22023a07935567?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Stryker",
+   "location": "Tempe, AZ, United States",
+   "pid": "733eff27b50035db",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - Arizona",
+   "score": 7,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95cd0bf28891320e85dfad?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Stryker",
+   "location": "Kalamazoo, MI, United States",
+   "pid": "17148ab9d009a5dc",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Manufacturing Engineering - Michigan",
+   "score": 5,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95cd144c22023a07935de7?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Michelin",
+   "location": "Emporia, KS, United States",
+   "pid": "3218143857ba2330",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Summer 2027 Internship: Mechanical Engineer (Emporia, KS)",
+   "score": 6,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95c73a4c22023a07935b38?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Katalyst Space",
+   "location": "Broomfield, CO, United States",
+   "pid": "a7fcf5f6db714e26",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Engineering Intern (Electrical / Mechanical / GNC / Software)",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a960b9b3843db015990935f?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Olsson",
+   "location": "Fayetteville, AR",
+   "pid": "e307e125704e2044",
+   "posted_at": "2026-08-31T21:52:13.440809+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Internship - S...",
+   "score": 4,
+   "term": "unknown",
+   "url": "https://job-boards.greenhouse.io/olsson/jobs/5411244008"
+  },
+  {
+   "company": "Optimus Steel LLC",
+   "location": "Vidor, TX, United States",
+   "pid": "efa5f159d721fa57",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical / Electrical Internship",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6a95ea12f28891320e85f007?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Honeywell Aerospace",
+   "location": "Moca, PR, United States",
+   "pid": "d068420c25bf7bf2",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "A",
+   "role": "Puerto Rico - Mechanical Engineering Intern - Summer 2027 (U.S. Citizen Required)",
+   "score": 11,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95fad8cabc9f6703e1b588?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "Honeywell Aerospace",
+   "location": "Moca, PR, United States",
+   "pid": "a0bdb9252b97652d",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "A",
+   "role": "Puerto Rico - Systems Engineering Intern - Summer 2027 (U.S. Citizen Required)",
+   "score": 6,
+   "term": "target",
+   "url": "https://jobright.ai/jobs/info/6a95fad7f28891320e85f664?utm_campaign=1048&utm_source=git"
+  }
+ ],
  "last_digest": "2026-08-31T23:14:38.657252+00:00",
  "postings": {
   "0042fc6b79af63b3": {
@@ -875,7 +1012,7 @@
   "04d287b5d70ecef7": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-22T19:11:37+00:00",
    "rank": "A",
@@ -1250,7 +1387,7 @@
    "company": "Kairos Power",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-23T19:46:38+00:00",
    "rank": "A",
@@ -1363,6 +1500,22 @@
    "term": "target",
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a94ef88c12c90443efce05f?utm_campaign=1048&utm_source=git"
+  },
+  "17148ab9d009a5dc": {
+   "company": "Stryker",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Kalamazoo, MI, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Manufacturing Engineering - Michigan",
+   "score": 5,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95cd144c22023a07935de7?utm_campaign=1048&utm_source=git"
   },
   "18963c5578bcb8ce": {
    "company": "Framatome North America",
@@ -1689,17 +1842,17 @@
    "company": "BWXT",
    "elig": "ok",
    "first_seen": "2026-08-19T01:40:55.099425+00:00",
-   "last_seen": "2026-08-24T13:03:55.396239+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Euclid, OH, United States",
    "posted_at": "2026-08-18T00:00:00+00:00",
-   "rank": "C",
+   "rank": "B",
    "role": "Manufacturing Engineer Intern/Co-Op",
-   "score": 3,
+   "score": 5,
    "scored_live": true,
    "sources": [
     "jobright-engineering"
    ],
-   "term": "assumed",
+   "term": "target",
    "tier": 3,
    "url": "https://jobright.ai/jobs/info/6a84c7a7e12474455273c9cf?utm_campaign=1048&utm_source=git"
   },
@@ -1888,7 +2041,7 @@
   "2a870b31a9710c6c": {
    "company": "WSP",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Richmond, VA, United S...",
    "posted_at": "2026-08-31T00:49:12.428169+00:00",
    "rank": "C",
@@ -1919,7 +2072,7 @@
   "2b63b2c994fa7f81": {
    "company": "Zipline",
    "first_seen": "2026-08-18T17:34:15.752058+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "South San Francisco, CA, United States",
    "posted_at": "2026-08-18T00:00:00+00:00",
    "rank": "A",
@@ -1991,7 +2144,7 @@
   "2d92e37c5c953c26": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Fort Lauderdale, FL",
    "posted_at": "2026-07-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -2129,7 +2282,7 @@
    "company": "RTX",
    "elig": "ok",
    "first_seen": "2026-08-14T22:32:55.658239+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-08-14T22:32:55.658239+00:00",
    "rank": "A",
@@ -2160,6 +2313,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a85a1dc74e02153f1457925?utm_campaign=1048&utm_source=git"
   },
+  "3218143857ba2330": {
+   "company": "Michelin",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Emporia, KS, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Summer 2027 Internship: Mechanical Engineer (Emporia, KS)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a95c73a4c22023a07935b38?utm_campaign=1048&utm_source=git"
+  },
   "32a3ae99a3256f4c": {
    "company": "Northwood",
    "first_seen": "2026-08-29T03:44:40.320827+00:00",
@@ -2180,7 +2349,7 @@
   "32db0eadada51d89": {
    "company": "Vertiv",
    "first_seen": "2026-08-10T14:42:09.582753+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-10T14:42:09.582753+00:00",
    "rank": "C",
@@ -2211,7 +2380,7 @@
   "344c3571b90dbd00": {
    "company": "GE Aerospace",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Lynn",
    "posted_at": "2026-08-31T18:04:17.018922+00:00",
    "rank": "A",
@@ -2256,6 +2425,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a6c09775c54bc4752cec36f?utm_campaign=1048&utm_source=git"
   },
+  "359c77fca730b65a": {
+   "company": "Stryker",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Portage, MI, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - Michigan",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95b8354c22023a07935567?utm_campaign=1048&utm_source=git"
+  },
   "363b8d6346e95e6b": {
    "company": "HDR",
    "first_seen": "2026-08-07T20:22:37.222325+00:00",
@@ -2290,7 +2475,7 @@
   "37750fe19cad3aef": {
    "company": "Northwood Space",
    "first_seen": "2026-08-29T03:44:40.320827+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Torrance, CA",
    "posted_at": "2026-08-29T01:44:40.320827+00:00",
    "rank": "C",
@@ -2371,7 +2556,7 @@
   "3d1edc9618ec65c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:34:22+00:00",
@@ -2414,6 +2599,22 @@
    "term": "unknown",
    "tier": 1,
    "url": null
+  },
+  "3f38ad4fe75274ff": {
+   "company": "Stryker",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "San Jose, CA, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - California",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95cd0b9fcec5442372f2b7?utm_campaign=1048&utm_source=git"
   },
   "40ff7542de8c918d": {
    "company": "Coffman Engineers",
@@ -2507,7 +2708,7 @@
    "posted_at": "2026-08-31T00:00:00+00:00",
    "rank": "C",
    "role": "Mechanical Engineering Intern - Summer 2027",
-   "score": 6,
+   "score": 4,
    "sources": [
     "jobright-engineering"
    ],
@@ -2813,7 +3014,7 @@
    "posted_at": "2026-08-31T00:00:00+00:00",
    "rank": "A",
    "role": "Mechanical Engineering Internship (Summer 2027)",
-   "score": 11,
+   "score": 9,
    "sources": [
     "jobright-engineering"
    ],
@@ -2960,7 +3161,7 @@
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Alameda, CA, Albuquerque, NM, or Oak Ridge, TN",
    "posted_at": "2026-07-23T20:03:32+00:00",
    "rank": "A",
@@ -3094,7 +3295,7 @@
   "556fb4c020dde88b": {
    "company": "Analog Devices",
    "first_seen": "2026-08-24T09:41:28.665091+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Durham, NC",
    "posted_at": "2026-08-24T08:41:28.665091+00:00",
    "rank": "C",
@@ -3113,7 +3314,7 @@
    "company": "RTX",
    "elig": "ok",
    "first_seen": "2026-08-28T22:09:41.337174+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Burnsville, MN",
    "posted_at": "2026-08-28T21:09:41.337174+00:00",
    "rank": "A",
@@ -3131,7 +3332,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-08-27T03:33:31.849237+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Arizona",
    "posted_at": "2026-08-27T00:33:31.849237+00:00",
    "rank": "A",
@@ -3212,7 +3413,7 @@
   "5803f14d9d5f5a2c": {
    "company": "Bosch Group",
    "first_seen": "2026-08-07T16:32:47.733698+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Farmington Hills, MI",
    "posted_at": "2026-08-07T16:32:29.602600+00:00",
    "rank": "C",
@@ -3279,12 +3480,13 @@
   "5994d9cf3c0bd6ea": {
    "company": "GE Aerospace",
    "first_seen": "2026-08-31T23:14:38.657252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Lynn, MA",
    "posted_at": "2026-08-31T23:14:38.657252+00:00",
    "rank": "A",
    "role": "Product Definition Engineer Intern - Designer",
    "score": 6,
+   "scored_live": true,
    "sources": [
     "simplify-2027"
    ],
@@ -3447,7 +3649,7 @@
    "company": "NVIDIA",
    "elig": "ok",
    "first_seen": "2026-08-19T10:23:37.433397+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Santa Clara, CA",
    "posted_at": "2026-08-19T10:23:37.433397+00:00",
    "rank": "A",
@@ -3733,7 +3935,7 @@
   "68d7cb1168c980dd": {
    "company": "Unison (GE Aerospace)",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Jacksonville, FL",
    "posted_at": "2026-07-16T00:00:00+00:00",
    "rank": "A",
@@ -3799,7 +4001,7 @@
   "6b522418a2bfa5a9": {
    "company": "Reframe Systems",
    "first_seen": "2026-08-11T02:10:11.515755+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Andover, MA",
    "posted_at": "2026-08-11T01:10:11.515755+00:00",
    "rank": "C",
@@ -3833,7 +4035,7 @@
    "company": "Micron Technology",
    "elig": "ok",
    "first_seen": "2026-08-13T23:50:33.007254+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Boise, ID - Main Site",
    "posted_at": "2026-08-14T04:24:53.130368+00:00",
    "rank": "C",
@@ -3869,7 +4071,7 @@
    "company": "RTX",
    "elig": "ok",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Huntsville, AL",
    "posted_at": "2026-08-31T18:04:17.018922+00:00",
    "rank": "A",
@@ -3979,6 +4181,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a833c63b5a0ac0e84a247eb?utm_campaign=1048&utm_source=git"
   },
+  "71273a3125ba9103": {
+   "company": "BWXT",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Euclid, OH, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Mechanical Engineering Intern/Co-Op - Summer 2027",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95b354f28891320e85d5bd?utm_campaign=1048&utm_source=git"
+  },
   "714033324e517a9a": {
    "company": "Danfoss",
    "elig": "ok",
@@ -4028,6 +4246,22 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a95095ec12c90443efce257?utm_campaign=1048&utm_source=git"
+  },
+  "733eff27b50035db": {
+   "company": "Stryker",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Tempe, AZ, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - Arizona",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95cd0bf28891320e85dfad?utm_campaign=1048&utm_source=git"
   },
   "7400a1f4aa9ccb4e": {
    "company": "IMEG",
@@ -4101,7 +4335,7 @@
   "74b1b2fc585f154d": {
    "company": "Analog Devices",
    "first_seen": "2026-08-21T19:43:03.283447+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Wilmington, MA",
    "posted_at": "2026-08-21T20:58:24.165159+00:00",
    "rank": "C",
@@ -4187,7 +4421,7 @@
   "75e44aac9d40c3f9": {
    "company": "Micron Technology",
    "first_seen": "2026-08-20T22:34:33.164249+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Folsom, CA",
    "posted_at": "2026-08-21T03:33:35.584452+00:00",
    "rank": "C",
@@ -4357,7 +4591,7 @@
    "company": "Shield AI",
    "elig": "ok",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Dallas, Texas",
    "posted_at": "2026-08-27T23:18:32.589000+00:00",
    "rank": "S",
@@ -4482,7 +4716,7 @@
   "7c6ca489bcd45e0e": {
    "company": "Honeywell",
    "first_seen": "2026-08-25T21:59:03.382305+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "United States",
    "posted_at": "2026-08-25T00:59:03.382305+00:00",
    "rank": "A",
@@ -4585,7 +4819,7 @@
   "7e30265f5a9c8b0a": {
    "company": "GE Aerospace",
    "first_seen": "2026-08-31T05:04:00.115453+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Evendale",
    "posted_at": "2026-08-31T18:04:17.018922+00:00",
    "rank": "A",
@@ -4755,7 +4989,7 @@
    "company": "Anduril",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:00:56+00:00",
@@ -4835,7 +5069,7 @@
   "875c4c4929842571": {
    "company": "Oshkosh Corporation",
    "first_seen": "2026-08-27T14:56:43.574080+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Orlando, Florida, Unit...",
    "posted_at": "2026-08-27T21:09:47.125245+00:00",
    "rank": "C",
@@ -4970,9 +5204,9 @@
    "last_seen": "2026-08-31T23:14:38.657252+00:00",
    "location": "Detroit, MI, United States",
    "posted_at": "2026-08-31T00:00:00+00:00",
-   "rank": "A",
+   "rank": "B",
    "role": "2027 Co-Op \u2013 Manufacturing Controls Engineer",
-   "score": 7,
+   "score": 5,
    "sources": [
     "jobright-engineering"
    ],
@@ -5152,7 +5386,7 @@
   "9415b53ec44123b0": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "San Mateo, California, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-07-28T18:27:09.057000+00:00",
@@ -5192,7 +5426,7 @@
    "company": "Skydio",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "San Mateo, California, United States",
    "posted_at": "2026-07-28T18:35:36.967000+00:00",
    "rank": "A",
@@ -5397,7 +5631,7 @@
   "9f9b114c19d484f0": {
    "company": "Smiths Group",
    "first_seen": "2026-08-07T05:00:12.980017+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Morton Grove, IL",
    "posted_at": "2026-07-24T05:00:12.980017+00:00",
    "rank": "C",
@@ -5427,6 +5661,22 @@
    "term": "target",
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a91e26b9864261ccd29f745?utm_campaign=1048&utm_source=git"
+  },
+  "a0bdb9252b97652d": {
+   "company": "Honeywell Aerospace",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Moca, PR, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "A",
+   "role": "Puerto Rico - Systems Engineering Intern - Summer 2027 (U.S. Citizen Required)",
+   "score": 6,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a95fad7f28891320e85f664?utm_campaign=1048&utm_source=git"
   },
   "a14899a949d1fafd": {
    "company": "Qorvo, Inc.",
@@ -5531,7 +5781,7 @@
   "a2caae3de17495d1": {
    "company": "Oshkosh Corporation",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Bradenton, Florida, Un...",
    "posted_at": "2026-08-31T21:14:38.657252+00:00",
    "rank": "C",
@@ -5645,6 +5895,22 @@
    "tier": 9,
    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472"
   },
+  "a7fcf5f6db714e26": {
+   "company": "Katalyst Space",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Broomfield, CO, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Engineering Intern (Electrical / Mechanical / GNC / Software)",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a960b9b3843db015990935f?utm_campaign=1048&utm_source=git"
+  },
   "a841ee15698f3a53": {
    "company": "Rocket Lab",
    "filtered": true,
@@ -5678,6 +5944,22 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a4bf96a971cd25b06f991ba?utm_campaign=1048&utm_source=git"
+  },
+  "a99f76d5ec6bf497": {
+   "company": "Stryker",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Mahwah, NJ, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "B",
+   "role": "Summer 2027 Internship - Mechanical Engineering - New Jersey",
+   "score": 7,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 3,
+   "url": "https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git"
   },
   "a9c803060c1137b4": {
    "company": "Lennox",
@@ -5819,7 +6101,7 @@
   "b0d91835c2475f42": {
    "company": "Bosch Group",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Farmington Hills, MI",
    "posted_at": "2026-08-11T15:04:29.886594+00:00",
    "rank": "C",
@@ -5924,7 +6206,7 @@
   "b56f067d31a29d08": {
    "company": "Field AI",
    "first_seen": "2026-08-10T19:25:41.306132+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Irvine, CA",
    "posted_at": "2026-08-10T01:25:41.306132+00:00",
    "rank": "C",
@@ -5992,7 +6274,7 @@
   "b6b38f9420b17b5e": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Alameda, CA, Albuquerque, NM, Oak Ridge, TN",
    "posted_at": "2026-07-23T22:04:30+00:00",
    "rank": "A",
@@ -6010,7 +6292,7 @@
   "b710fe8342309a53": {
    "company": "Eight Sleep",
    "first_seen": "2026-08-28T22:09:41.337174+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "San Francisco",
    "posted_at": "2026-08-28T18:09:41.337174+00:00",
    "rank": "C",
@@ -6096,7 +6378,7 @@
   "b8961312db5d3c39": {
    "company": "Human Computer Lab",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "San Francisco",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -6352,7 +6634,7 @@
   "c2531f5dc210a2c7": {
    "company": "Micron Technology",
    "first_seen": "2026-08-31T00:40:01.461495+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Boise, ID - Main Site",
    "posted_at": "2026-08-31T04:04:00.115453+00:00",
    "rank": "C",
@@ -6588,7 +6870,7 @@
   "ca750f3fdde18b71": {
    "company": "Vertiv",
    "first_seen": "2026-08-05T22:41:26.855834+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-05T22:41:26.855834+00:00",
    "rank": "C",
@@ -6816,6 +7098,22 @@
    "tier": 1,
    "url": "https://jobright.ai/jobs/info/6a525671e726ec56126a2a29?utm_campaign=1048&utm_source=git"
   },
+  "d068420c25bf7bf2": {
+   "company": "Honeywell Aerospace",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Moca, PR, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "A",
+   "role": "Puerto Rico - Mechanical Engineering Intern - Summer 2027 (U.S. Citizen Required)",
+   "score": 11,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://jobright.ai/jobs/info/6a95fad8cabc9f6703e1b588?utm_campaign=1048&utm_source=git"
+  },
   "d0709e2c50f2daa3": {
    "company": "Vertiv",
    "first_seen": "2026-08-19T17:57:51.514977+00:00",
@@ -6873,7 +7171,7 @@
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "United States",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -7054,12 +7352,13 @@
   "d9709c19db5db2fa": {
    "company": "Laveer Engineering",
    "first_seen": "2026-08-25T01:39:45.302021+00:00",
-   "last_seen": "2026-08-25T01:39:45.302021+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Cranberry Township, PA, United States",
    "posted_at": "2026-08-24T00:00:00+00:00",
    "rank": "C",
    "role": "Summer Intern - Mechanical Engineering",
-   "score": 4,
+   "score": 6,
+   "scored_live": true,
    "sources": [
     "jobright-engineering"
    ],
@@ -7071,7 +7370,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Utah",
    "posted_at": "2026-08-31T18:04:17.018922+00:00",
    "rank": "A",
@@ -7273,7 +7572,7 @@
   "e19099747ad7fcfd": {
    "company": "Zipline",
    "first_seen": "2026-08-27T03:33:31.849237+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "South San Francisco, C...",
    "posted_at": "2026-08-27T00:33:31.849237+00:00",
    "rank": "A",
@@ -7303,6 +7602,22 @@
    "term": "assumed",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a86469274e02153f145b6ca?utm_campaign=1048&utm_source=git"
+  },
+  "e307e125704e2044": {
+   "company": "Olsson",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Fayetteville, AR",
+   "posted_at": "2026-08-31T21:52:13.440809+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Internship - S...",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "unknown",
+   "tier": 9,
+   "url": "https://job-boards.greenhouse.io/olsson/jobs/5411244008"
   },
   "e385a575dcd42960": {
    "company": "RTX",
@@ -7339,7 +7654,7 @@
   "e4ed3366bcc2b4ea": {
    "company": "Brunswick",
    "first_seen": "2026-08-21T01:44:41.026498+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Edgewater, FL",
    "posted_at": "2026-08-18T01:44:41.026498+00:00",
    "rank": "C",
@@ -7356,7 +7671,7 @@
   "e62192304cd4f4d9": {
    "company": "Honeywell",
    "first_seen": "2026-08-25T21:35:28.774500+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "United States",
    "posted_at": "2026-08-25T21:35:28.774500+00:00",
    "rank": "A",
@@ -7659,6 +7974,22 @@
    "term": "target",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a89b3dad34f700f87fcbdb2?utm_campaign=1048&utm_source=git"
+  },
+  "efa5f159d721fa57": {
+   "company": "Optimus Steel LLC",
+   "first_seen": "2026-09-01T01:52:13.440809+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
+   "location": "Vidor, TX, United States",
+   "posted_at": "2026-08-31T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical / Electrical Internship",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6a95ea12f28891320e85f007?utm_campaign=1048&utm_source=git"
   },
   "eff2c349bb7d1151": {
    "company": "RTX",
@@ -8079,7 +8410,7 @@
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:51:24+00:00",
@@ -8151,7 +8482,7 @@
   "ffce5329b6474942": {
    "company": "Bosch Group",
    "first_seen": "2026-08-11T14:42:47.200809+00:00",
-   "last_seen": "2026-08-31T23:14:38.657252+00:00",
+   "last_seen": "2026-09-01T01:52:13.440809+00:00",
    "location": "Charleston, SC",
    "posted_at": null,
    "rank": "C",
@@ -8182,32 +8513,32 @@
   },
   "ats:ashby:radiant": {
    "company": "Radiant Nuclear",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 36
   },
   "ats:ashby:rivianvw.tech": {
    "company": "Rivian",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 118
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 119
   },
   "ats:ashby:saronic": {
    "company": "Saronic",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 197
   },
   "ats:ashby:skydio": {
    "company": "Skydio",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 129
   },
   "ats:greenhouse:andurilindustries": {
    "company": "Anduril",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 2189
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 2185
   },
   "ats:greenhouse:apptronik": {
    "company": "Apptronik",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 86
   },
   "ats:greenhouse:archeraviation": {
@@ -8216,7 +8547,7 @@
   },
   "ats:greenhouse:astranis": {
    "company": "Astranis",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 86
   },
   "ats:greenhouse:betatechnologies": {
@@ -8237,13 +8568,13 @@
   },
   "ats:greenhouse:electraaero": {
    "company": "Electra",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 27
   },
   "ats:greenhouse:figureai": {
    "company": "Figure AI",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 124
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 123
   },
   "ats:greenhouse:fireflyaerospace": {
    "company": "Firefly Aerospace",
@@ -8267,22 +8598,22 @@
   },
   "ats:greenhouse:kairospower": {
    "company": "Kairos Power",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 22
   },
   "ats:greenhouse:lucidmotors": {
    "company": "Lucid Motors",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 330
   },
   "ats:greenhouse:oklo": {
    "company": "Oklo",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 65
   },
   "ats:greenhouse:redwoodmaterials": {
    "company": "Redwood Materials",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 143
   },
   "ats:greenhouse:relativityspace": {
@@ -8291,13 +8622,13 @@
   },
   "ats:greenhouse:rocketlab": {
    "company": "Rocket Lab",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 439
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 442
   },
   "ats:greenhouse:spacex": {
    "company": "SpaceX",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 2236
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 2239
   },
   "ats:greenhouse:stokespace": {
    "company": "Stoke Space",
@@ -8305,18 +8636,18 @@
   },
   "ats:greenhouse:ursamajor": {
    "company": "Ursa Major",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 100
   },
   "ats:greenhouse:vardaspace": {
    "company": "Varda Space",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 89
   },
   "ats:greenhouse:vast": {
    "company": "Vast",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 174
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 178
   },
   "ats:greenhouse:zipline": {
    "company": "Zipline",
@@ -8328,33 +8659,33 @@
   },
   "ats:lever:hermeus": {
    "company": "Hermeus",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 76
   },
   "ats:lever:shieldai": {
    "company": "Shield AI",
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 436
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 434
   },
   "jobright-engineering": {
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
-   "rows": 784
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
+   "rows": 814
   },
   "sndsh-2027": {
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "rows": 265
   },
   "zapply-2027": {
-   "last_ok": "2026-08-31T23:14:38.657252+00:00",
+   "last_ok": "2026-09-01T01:52:13.440809+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 600
   }
