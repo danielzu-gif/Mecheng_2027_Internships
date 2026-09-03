@@ -1,18 +1,21 @@
-# Brief 2026-09-02 21:58 UTC
+# Brief 2026-09-03 08:29 UTC
 
-14 new since the last brief.
+17 new since the last brief.
 
-- `A` **RTX** — RF Mechanical Engineer Intern (Summer... · AZ-TUCSON-M02 · score 11 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998)
-- `A` **RTX** — Antenna Design Engineer Intern (Summe... · AZ-TUCSON-M02 · score 9 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007)
-- `A` **RTX** — RF Design Engineer Intern (Summer 202... · AZ-TUCSON-M02 · score 9 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014)
-- `B` **Intel** — Silicon Hardware Engineering - Intern... · Oregon Hillsboro · score 5 · [apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829)
-- `C` **ABB** — Mechanical Design Engineer Intern- Su... · Fort Smith, Arkansas, United Sta... · score 7 · [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727)
-- `C` **Schaeffler** — Co-op Mechatronics Engineering - Summer 2027 · Troy, MI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a8ff948d96ad228f125f2ed?utm_campaign=1048&utm_source=git)
-- `C` **Apex - Satellite Platforms** — Mechanical Engineering Internship (Spring or Summer 2027) · Los Angeles, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a984e09af954907d65727a1?utm_campaign=1048&utm_source=git)
-- `C` **Arkansas Electric Cooperative Corporation** — 2027 Intern - Mechanical Engineering · Little Rock, AR, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a9851e2af954907d6572983?utm_campaign=1048&utm_source=git)
-- `C` **RTX** — Life Cycle Engineering Intern- (Onsite) · MA-TEWKSBURY-TB2 · score 4 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Life-Cycle-Engineering-Intern---Onsite-_01865901-1)
-- `C` **Allegion** — Mechanical Engineering Intern, Access... · Farmington, CT · score 4 · [apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1)
-- `C` **Apex Technology** — Mechanical Engineering Internship (Sp... · Los Angeles · score 4 · [apply](https://jobs.ashbyhq.com/apex-technology-inc/53eaeee7-bf54-4068-9d5d-f14375d8dcaa)
-- `C` **KPFF Consulting Engineers** — Mechanical Engineering Internship · Seattle, WA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9858d9c8ed473c5c76392f?utm_campaign=1048&utm_source=git)
-- `C` **Trilon** — Internship - Mechanical Engineer · Hartford, CT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a985979def18223c854ef98?utm_campaign=1048&utm_source=git)
-- `C` **Intel** — Silicon Hardware Engineering - Intern, Bachelor’s · Hillsboro, OR, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a98401683fc633357630527?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 Systems Engineer Intern - Azusa CA · United States-California-Azusa · score 9 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123)
+- `A` **Northrop Grumman** — 2027 Systems Engineer Intern - Gilber... · United States-Arizona-Gilbert · score 9 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1)
+- `A` **Northrop Grumman** — 2027 Systems Engineer Intern - Redond... · United States-California-Redondo... · score 9 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113)
+- `A` **Hadrian** — Robotics Engineer Intern · Los Angeles, CA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a989a41dd171c728579335a?utm_campaign=1048&utm_source=git)
+- `B` **Textron** — Integration Test Engineer Intern - Marine · New Orleans, LA · score 5 · [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674&utm_source=Simplify&ref=Simplify)
+- `C` **ABB** — Mechanical Design Engineer Intern- Summer 2027 · Fort Smith, AR, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a99058faf954907d6574c11?utm_campaign=1048&utm_source=git)
+- `C` **Olin** — Mechanical Engineer 6-Month Co-Op - 2027 · McIntosh, AL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a988e8911f73b6462c8f560?utm_campaign=1048&utm_source=git)
+- `C` **Jacobs** — Mechanical Engineering Intern (Energy/Power) - Summer 2027 · Portland, OR, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a99127eaf954907d6574e2f?utm_campaign=1048&utm_source=git)
+- `C` **Stryten** — Industrial or Mechanical Engineering Intern · Salina, KS · score 6 · [apply](https://jobs.stryten.com/jobs/5809?icims=1&utm_source=Simplify&ref=Simplify)
+- `C` **The Lubrizol Corporation** — Mechanical Engineering Co-op (Spring/Summer 2027) · Wickliffe, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6a99041e83fc633357632d16?utm_campaign=1048&utm_source=git)
+- `C` **Burns & McDonnell** — Mechanical Engineering Intern - Water (Richmond/Norfolk) · Richmond, VA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a989470dd171c7285793186?utm_campaign=1048&utm_source=git)
+- `C` **Ruekert & Mielke, Inc.** — Mechanical Engineering Student Intern · Iowa City, IA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9889dbc8ed473c5c7649f1?utm_campaign=1048&utm_source=git)
+- `C` **Olsson** — Mechanical Engineering Internship - Facilities (Healthcare-Omaha) · Omaha, NE, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a96cd70246d697dcee0150e?utm_campaign=1048&utm_source=git)
+- `C` **Merrick & Company** — Mechanical Equipment Designer Intern · Greenwood Village, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9881e6af954907d6573b66?utm_campaign=1048&utm_source=git)
+- `C` **Merrick & Company** — Mechanical Equipment Engineer Intern · Greenwood Village, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9881b883fc633357631e16?utm_campaign=1048&utm_source=git)
+- `C` **Merrick & Company** — Mechanical Engineering Intern · Greenwood Village, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9881d6c8ed473c5c7646e8?utm_campaign=1048&utm_source=git)
+- `C` **Stryker** — Manufacturing Engineering Intern · Redmond, WA, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a990adbaf954907d6574d36?utm_campaign=1048&utm_source=git)
