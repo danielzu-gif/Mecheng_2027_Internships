@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-09-04 16:12 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-04 19:01 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**97 open · 12 apply-now · 0 saved · 3 applied all-time**
+**96 open · 12 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -49,17 +49,17 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Honeywell Aerospace** — Systems Engineering Intern - Summer 2027 (U.S. Person Required) · posted Aug 28 (7d ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a91e26a8e59685453378343?utm_campaign=1048&utm_source=git) <!--a:a1b3d5373f1ba6d9-->
   - [ ] 📌 keep on the board <!--s:a1b3d5373f1ba6d9-->
 
-- [ ] **RTX** — RF Mechanical Engineer Intern (Summer... · posted Sep 02 (41h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) <!--a:363588d6d218a946-->
+- [ ] **RTX** — RF Mechanical Engineer Intern (Summer... · posted Sep 02 (43h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) <!--a:363588d6d218a946-->
   - [ ] 📌 keep on the board <!--s:363588d6d218a946-->
 - [ ] **RTX** — Manufacturing Engineering Intern (Sum... · posted Aug 28 (6d ago) · Burnsville, MN · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineering-Intern--Summer-2027-_01870591) <!--a:5654feb5358b466a-->
   - [ ] 📌 keep on the board <!--s:5654feb5358b466a-->
-- [ ] **RTX** — RF Design Engineer Intern (Summer 202... · posted Sep 02 (43h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014) <!--a:9253c2b86448880e-->
+- [ ] **RTX** — RF Design Engineer Intern (Summer 202... · posted Sep 02 (46h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014) <!--a:9253c2b86448880e-->
   - [ ] 📌 keep on the board <!--s:9253c2b86448880e-->
-- [ ] **RTX** — Antenna Design Engineer Intern (Summe... · posted Sep 02 (43h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007) <!--a:e2d0713446304447-->
+- [ ] **RTX** — Antenna Design Engineer Intern (Summe... · posted Sep 02 (46h ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007) <!--a:e2d0713446304447-->
   - [ ] 📌 keep on the board <!--s:e2d0713446304447-->
 - [ ] **RTX** — Antenna Electrical Design Engineer In... · posted Aug 31 (4d ago) · TX-MCKINNEY · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Antenna-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01866691) <!--a:30594cf3f5e72ec8-->
   - [ ] 📌 keep on the board <!--s:30594cf3f5e72ec8-->
-- [ ] **RTX** — TCMA Systems Engineering Intern - Sum... · posted Aug 31 (3d ago) · Huntsville, AL · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) <!--a:6e464b5c8b20c400-->
+- [ ] **RTX** — TCMA Systems Engineering Intern - Sum... · posted Aug 31 (4d ago) · Huntsville, AL · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) <!--a:6e464b5c8b20c400-->
   - [ ] 📌 keep on the board <!--s:6e464b5c8b20c400-->
 
 - [ ] **General Motors** — 2027 Summer Intern - Manufacturing Engineering— Global Propulsion Systems · posted Sep 01 (3d ago) · Warren, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a975b80d13b4819f39e0c08?utm_campaign=1048&utm_source=git) <!--a:779917a67f478bfe-->
@@ -77,7 +77,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Honeywell Technologies** — Mechanical Engineering - Summer 2027 Intern (US Person Required) · posted Aug 25 (10d ago) · United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e184b25fc4e7ae3dbfad6?utm_campaign=1048&utm_source=git) <!--a:bcccc5ac2c073f19-->
   - [ ] 📌 keep on the board <!--s:bcccc5ac2c073f19-->
 
-- [ ] **Intuitive** — Mechanical Engineering Intern · posted Sep 01 (2d ago) · Sunnyvale, CA · season unstated · [apply](https://jobs.smartrecruiters.com/Intuitive/744000146769559) <!--a:25d77dd95d98bbb0-->
+- [ ] **Intuitive** — Mechanical Engineering Intern · posted Sep 01 (3d ago) · Sunnyvale, CA · season unstated · [apply](https://jobs.smartrecruiters.com/Intuitive/744000146769559) <!--a:25d77dd95d98bbb0-->
   - [ ] 📌 keep on the board <!--s:25d77dd95d98bbb0-->
 
 - [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering Intern - Chandler AZ · posted Aug 26 (9d ago) · Chandler, AZ, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8f9bafa19886486675e114?utm_campaign=1048&utm_source=git) <!--a:03282d1687ed9d02-->
@@ -86,15 +86,15 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:2ab326e9b7a79fe5-->
 - [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Gilber... · posted Sep 02 (2d ago) · United States-Arizona-Gilbert · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1) <!--a:c1f6af4bb175be9c-->
   - [ ] 📌 keep on the board <!--s:c1f6af4bb175be9c-->
-- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Redond... · posted Sep 03 (40h ago) · United States-California-Redondo... · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113) <!--a:f3027567979d1806-->
+- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Redond... · posted Sep 03 (42h ago) · United States-California-Redondo... · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113) <!--a:f3027567979d1806-->
   - [ ] 📌 keep on the board <!--s:f3027567979d1806-->
 - [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering... · posted Aug 27 (8d ago) · Arizona · season unstated · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965) <!--a:56a0f5dffdbd5411-->
   - [ ] 📌 keep on the board <!--s:56a0f5dffdbd5411-->
-- [ ] **Northrop Grumman** — 2027 Intern Systems Engineer - CA & ND · posted Sep 03 (40h ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a99aa1b138838706058f803?utm_campaign=1048&utm_source=git) <!--a:9f7868fc6ee19357-->
+- [ ] **Northrop Grumman** — 2027 Intern Systems Engineer - CA & ND · posted Sep 03 (43h ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a99aa1b138838706058f803?utm_campaign=1048&utm_source=git) <!--a:9f7868fc6ee19357-->
   - [ ] 📌 keep on the board <!--s:9f7868fc6ee19357-->
 - [ ] **Northrop Grumman** — 2027 Industrial Engineering Intern · posted Sep 01 (3d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838) <!--a:afe2f3abd29d5a22-->
   - [ ] 📌 keep on the board <!--s:afe2f3abd29d5a22-->
-- [ ] **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · posted Aug 31 (3d ago) · Utah · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) <!--a:da7869318e934158-->
+- [ ] **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · posted Aug 31 (4d ago) · Utah · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) <!--a:da7869318e934158-->
   - [ ] 📌 keep on the board <!--s:da7869318e934158-->
 
 - [ ] **Raytheon** — Mechanical Engineering Internship (Summer 2027) · posted Aug 31 (4d ago) · Tewksbury, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95f169cabc9f6703e1b24a?utm_campaign=1048&utm_source=git) <!--a:4c5376c45ad8f0f0-->
@@ -102,7 +102,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Raytheon** — Antenna Electrical Design Engineer Intern (Summer 2027)(Onsite) · posted Sep 01 (3d ago) · McKinney, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a96990db22f636c8141357a?utm_campaign=1048&utm_source=git) <!--a:0c9efce381846270-->
   - [ ] 📌 keep on the board <!--s:0c9efce381846270-->
 
-- [ ] **General Atomics** — Intern - Mechanical Engineering · posted Sep 03 (40h ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a99d21d90a313642c652fba?utm_campaign=1048&utm_source=git) <!--a:5b3b548450dcf9c5-->
+- [ ] **General Atomics** — Intern - Mechanical Engineering · posted Sep 03 (43h ago) · San Diego, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a99d21d90a313642c652fba?utm_campaign=1048&utm_source=git) <!--a:5b3b548450dcf9c5-->
   - [ ] 📌 keep on the board <!--s:5b3b548450dcf9c5-->
 
 - [ ] **Hadrian** — Robotics Engineer Intern · posted Sep 02 (2d ago) · Los Angeles, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a989a41dd171c728579335a?utm_campaign=1048&utm_source=git) <!--a:bd978581aef86a0f-->
@@ -111,11 +111,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **L3Harris Technologies** — Integration and Test Engineering Intern · posted Sep 01 (3d ago) · Wilmington, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a96e189e4e60e4b8da5a741?utm_campaign=1048&utm_source=git) <!--a:e65b58a23d7d9ef5-->
   - [ ] 📌 keep on the board <!--s:e65b58a23d7d9ef5-->
 
-- [ ] **GE Aerospace** — Product Definition Engineering Intern... · posted Aug 31 (3d ago) · Lynn · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) <!--a:344c3571b90dbd00-->
+- [ ] **GE Aerospace** — Product Definition Engineering Intern... · posted Aug 31 (4d ago) · Lynn · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) <!--a:344c3571b90dbd00-->
   - [ ] 📌 keep on the board <!--s:344c3571b90dbd00-->
 - [ ] **GE Aerospace** — Product Definition Engineer Intern - Designer · posted Aug 31 (3d ago) · Lynn, MA · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1?utm_source=Simplify&ref=Simplify) <!--a:5994d9cf3c0bd6ea-->
   - [ ] 📌 keep on the board <!--s:5994d9cf3c0bd6ea-->
-- [ ] **GE Aerospace** — Applied AI Engineer Intern – Summer 2... · posted Aug 31 (3d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) <!--a:7e30265f5a9c8b0a-->
+- [ ] **GE Aerospace** — Applied AI Engineer Intern – Summer 2... · posted Aug 31 (4d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) <!--a:7e30265f5a9c8b0a-->
   - [ ] 📌 keep on the board <!--s:7e30265f5a9c8b0a-->
 
 - [ ] **Tesla** — Physics Engine Development Engineer Intern - Optimus · posted Sep 02 (2d ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) <!--a:a4d07d665684a925-->
@@ -124,7 +124,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Zipline** — Embedded Engineering Intern (Summer 2... · posted Aug 27 (8d ago) · South San Francisco, C... · S27 confirmed · [apply](https://www.zipline.com/open-roles?gh_jid=7978843003) <!--a:e19099747ad7fcfd-->
   - [ ] 📌 keep on the board <!--s:e19099747ad7fcfd-->
 
-## ▫️ Worth a look (49)
+## ▫️ Worth a look (48)
 
 - [ ] **Textron** — 2027 Internship - Defense and Special Missions Mechanical Systems Engineer · posted Aug 31 (4d ago) · Wichita, KS, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a966435e4e60e4b8da58890?utm_campaign=1048&utm_source=git) <!--a:bc081b074f1bde05-->
   - [ ] 📌 keep on the board <!--s:bc081b074f1bde05-->
@@ -181,7 +181,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron Specialized Vehicles** — 2027 Mechanical Engineer Intern · posted Sep 02 (2d ago) · Augusta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a97eb68c8ed473c5c76191f?utm_campaign=1048&utm_source=git) <!--a:e779754c81b55e4b-->
   - [ ] 📌 keep on the board <!--s:e779754c81b55e4b-->
 
-- [ ] **Hermeus** — Mission Systems Engineering Intern · posted Sep 03 (23h ago) · Atlanta, GA · season unstated · [apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) <!--a:2ec025be99d9ca96-->
+- [ ] **Hermeus** — Mission Systems Engineering Intern · posted Sep 03 (26h ago) · Atlanta, GA · season unstated · [apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) <!--a:2ec025be99d9ca96-->
   - [ ] 📌 keep on the board <!--s:2ec025be99d9ca96-->
 
 - [ ] **BWXT** — Mechanical Engineering Intern/Co-Op - Summer 2027 · posted Aug 31 (4d ago) · Euclid, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b354f28891320e85d5bd?utm_campaign=1048&utm_source=git) <!--a:71273a3125ba9103-->
@@ -193,18 +193,18 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Emerson** — Mechanical Design Engineering Intern · posted Aug 31 (4d ago) · Brenham, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a9625839fcec54423731c08?utm_campaign=1048&utm_source=git) <!--a:6a27131c277fe0bb-->
   - [ ] 📌 keep on the board <!--s:6a27131c277fe0bb-->
 
-- [ ] **GE Vernova** — CIC Systems Engineer Co-op · posted Sep 03 (36h ago) · Rochester, NY · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1?utm_source=Simplify&ref=Simplify) <!--a:19c5255e6d0a6961-->
+- [ ] **GE Vernova** — CIC Systems Engineer Co-op · posted Sep 03 (38h ago) · Rochester, NY · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1?utm_source=Simplify&ref=Simplify) <!--a:19c5255e6d0a6961-->
   - [ ] 📌 keep on the board <!--s:19c5255e6d0a6961-->
 - [ ] **GE Vernova** — Industrial Mechanical Technician 2026 Internship · posted Aug 29 (6d ago) · Schenectady, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a53c17dd007ee02d95fc6bd?utm_campaign=1048&utm_source=git) <!--a:49882fdf0e3a139a-->
   - [ ] 📌 keep on the board <!--s:49882fdf0e3a139a-->
-- [ ] **GE Vernova** — Hardware Engineer Intern - Critical Infrastructure Communications · posted Sep 03 (36h ago) · Rochester, NY · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1?utm_source=Simplify&ref=Simplify) <!--a:f8a8d051b158af6d-->
+- [ ] **GE Vernova** — Hardware Engineer Intern - Critical Infrastructure Communications · posted Sep 03 (38h ago) · Rochester, NY · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1?utm_source=Simplify&ref=Simplify) <!--a:f8a8d051b158af6d-->
   - [ ] 📌 keep on the board <!--s:f8a8d051b158af6d-->
 
 - [ ] **General Motors** — 2027 Summer Intern – Manufacturing Engineering General Assembly · posted Sep 01 (3d ago) · Warren, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a974a11e4e60e4b8da5d68c?utm_campaign=1048&utm_source=git) <!--a:7635627deebf027d-->
   - [ ] 📌 keep on the board <!--s:7635627deebf027d-->
 - [ ] **General Motors** — 2027 Co-Op – Manufacturing Controls Engineer · posted Aug 31 (4d ago) · Detroit, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95e9764c22023a07936de2?utm_campaign=1048&utm_source=git) <!--a:8c2cdfe4610560f1-->
   - [ ] 📌 keep on the board <!--s:8c2cdfe4610560f1-->
-- [ ] **General Motors** — 2027 Summer Intern – Manufacturing Paint Process Engineer · posted Sep 02 (40h ago) · Arlington, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a99b27690a313642c6521e1?utm_campaign=1048&utm_source=git) <!--a:a58c4278185d1592-->
+- [ ] **General Motors** — 2027 Summer Intern – Manufacturing Paint Process Engineer · posted Sep 02 (43h ago) · Arlington, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a99b27690a313642c6521e1?utm_campaign=1048&utm_source=git) <!--a:a58c4278185d1592-->
   - [ ] 📌 keep on the board <!--s:a58c4278185d1592-->
 - [ ] **General Motors** — 2027 Summer Intern – Manufacturing Engineering Global Automation · posted Sep 01 (3d ago) · Warren, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a975b8fd13b4819f39e0c0f?utm_campaign=1048&utm_source=git) <!--a:b03350f350ddff91-->
   - [ ] 📌 keep on the board <!--s:b03350f350ddff91-->
@@ -218,9 +218,6 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:2df6b09cb3808ef3-->
 - [ ] **L3Harris Technologies** — Intern D, Systems Engineer · posted Aug 25 (10d ago) · Palm Bay, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8d5a22a5639a4810325b25?utm_campaign=1048&utm_source=git) <!--a:5f48cc84620af5c8-->
   - [ ] 📌 keep on the board <!--s:5f48cc84620af5c8-->
-
-- [ ] **Moog** — Hardware Engineer Intern · posted Aug 25 (9d ago) · Mineral Wells, TX · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify) <!--a:fceebbd24d0aa445-->
-  - [ ] 📌 keep on the board <!--s:fceebbd24d0aa445-->
 
 - [ ] **Sandia National Laboratories** — Intern, R&D Graduate Summer - Research and Applications of Mechanics of Structures (RAMS), Onsite · posted Aug 25 (10d ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a8e6ec3e3efd719bf57d30b?utm_campaign=1048&utm_source=git) <!--a:10c6dbaf3fde97b1-->
   - [ ] 📌 keep on the board <!--s:10c6dbaf3fde97b1-->
@@ -238,5 +235,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Stryker** — Summer 2027 Internship - Mechanical Engineering - New Jersey · posted Aug 31 (4d ago) · Mahwah, NJ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git) <!--a:a99f76d5ec6bf497-->
   - [ ] 📌 keep on the board <!--s:a99f76d5ec6bf497-->
 
-### · Wide net (163)
+### · Wide net (162)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
