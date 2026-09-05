@@ -1,26 +1,28 @@
 # Summer 2027 board
-_rebuilt 2026-09-05 14:59 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-05 17:16 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**92 open · 13 apply-now · 0 saved · 3 applied all-time**
+**93 open · 14 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (13)
+## ⭐ Apply now (14)
 
 - [ ] **Hermeus** — Structures/Mechanical Engineering Intern - Spring/Summer 2027 · posted Sep 02 (3d ago) · Atlanta, GA · S27 confirmed · [apply](https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761) <!--a:bfac7f310bb5bdc4-->
   - [ ] 📌 keep on the board <!--s:bfac7f310bb5bdc4-->
 - [ ] **Hermeus** — Manufacturing Engineering Intern - Spring/Summer 2027 · posted Sep 02 (3d ago) · Atlanta, GA · S27 confirmed · [apply](https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f) <!--a:70d581e9ad55000a-->
   - [ ] 📌 keep on the board <!--s:70d581e9ad55000a-->
-- [ ] **Hermeus** — Subsystem Test Engineering Intern - Spring/Summer 2027 · posted Sep 01 (3d ago) · Atlanta, GA · S27 confirmed · [apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) <!--a:1fd813bc1b9f155f-->
+- [ ] **Hermeus** — Subsystem Test Engineering Intern - Spring/Summer 2027 · posted Sep 01 (4d ago) · Atlanta, GA · S27 confirmed · [apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) <!--a:1fd813bc1b9f155f-->
   - [ ] 📌 keep on the board <!--s:1fd813bc1b9f155f-->
+
+- [ ] **Astranis Space Technologies** — Mechanical Engineer Intern (Summer 2027) · posted Sep 05 (17h ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fb1deb56bea5779c0e45f?utm_campaign=1048&utm_source=git) <!--a:a81f3d16c37f7583-->
+  - [ ] 📌 keep on the board <!--s:a81f3d16c37f7583-->
+- [ ] **Astranis Space Technologies** — CAD Engineer Intern (Summer 2027) · posted Aug 28 (8d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:74abe6ad549baa4e-->
+  - [ ] 📌 keep on the board <!--s:74abe6ad549baa4e-->
 
 - [ ] **AV** — Summer 2027 Mechanical Engineering Intern · posted Sep 01 (4d ago) · Simi Valley, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a970044e4e60e4b8da5b53e?utm_campaign=1048&utm_source=git) <!--a:4fc9ac526aa04a4a-->
   - [ ] 📌 keep on the board <!--s:4fc9ac526aa04a4a-->
 - [ ] **AV** — Summer 2027 Manufacturing Engineering Intern · posted Sep 01 (4d ago) · Simi Valley, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a97003ce4e60e4b8da5b532?utm_campaign=1048&utm_source=git) <!--a:69fbfe468fd4fc23-->
   - [ ] 📌 keep on the board <!--s:69fbfe468fd4fc23-->
-
-- [ ] **Astranis Space Technologies** — CAD Engineer Intern (Summer 2027) · posted Aug 28 (8d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a7fafc1b56bea5779c0e334?utm_campaign=1048&utm_source=git) <!--a:74abe6ad549baa4e-->
-  - [ ] 📌 keep on the board <!--s:74abe6ad549baa4e-->
 
 - [ ] **Blue Origin** — Summer 2027 Structural & Mechanical E... · posted Sep 02 (3d ago) · Greater Seattle Area · S27 confirmed · [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R71444) <!--a:21a3632cb69e8659-->
   - [ ] 📌 keep on the board <!--s:21a3632cb69e8659-->
@@ -36,7 +38,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Shield AI** — Summer 2027 - Advanced Manufacturing Engineering Intern · posted Aug 27 (8d ago) · Dallas, Texas · S27 confirmed · [apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) <!--a:79cd6ee9ed20c903-->
   - [ ] 📌 keep on the board <!--s:79cd6ee9ed20c903-->
 
-- [ ] **Skydio** — Product Design Engineer Intern - Summ... · posted Sep 04 (18h ago) · San Mateo, California, United St... · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f) <!--a:37907f0c6cbf5650-->
+- [ ] **Skydio** — Product Design Engineer Intern - Summ... · posted Sep 04 (20h ago) · San Mateo, California, United St... · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f) <!--a:37907f0c6cbf5650-->
   - [ ] 📌 keep on the board <!--s:37907f0c6cbf5650-->
 
 ## 🔷 Strong (33)
@@ -72,7 +74,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **General Motors** — 2027 Summer Manufacturing Intern – Mechanical Engineer · posted Sep 01 (4d ago) · Arlington, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a974485455eaf6a08c1bde1?utm_campaign=1048&utm_source=git) <!--a:0581600e82cc23cd-->
   - [ ] 📌 keep on the board <!--s:0581600e82cc23cd-->
 
-- [ ] **Intuitive** — Mechanical Engineering Intern · posted Sep 01 (3d ago) · Sunnyvale, CA · season unstated · [apply](https://jobs.smartrecruiters.com/Intuitive/744000146769559) <!--a:25d77dd95d98bbb0-->
+- [ ] **Intuitive** — Mechanical Engineering Intern · posted Sep 01 (4d ago) · Sunnyvale, CA · season unstated · [apply](https://jobs.smartrecruiters.com/Intuitive/744000146769559) <!--a:25d77dd95d98bbb0-->
   - [ ] 📌 keep on the board <!--s:25d77dd95d98bbb0-->
 
 - [ ] **Northrop Grumman** — 2026 Part-Time Mechanical Engineering Intern - Chandler AZ · posted Aug 26 (10d ago) · Chandler, AZ, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a8f9bafa19886486675e114?utm_campaign=1048&utm_source=git) <!--a:03282d1687ed9d02-->
@@ -176,10 +178,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron Specialized Vehicles** — 2027 Mechanical Engineer Intern · posted Sep 02 (3d ago) · Augusta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a97eb68c8ed473c5c76191f?utm_campaign=1048&utm_source=git) <!--a:e779754c81b55e4b-->
   - [ ] 📌 keep on the board <!--s:e779754c81b55e4b-->
 
-- [ ] **Applied Materials** — Summer 2027 Mechanical Engineer Inter... · posted Sep 05 (9h ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) <!--a:97ab7e843d183cbb-->
+- [ ] **Applied Materials** — Summer 2027 Mechanical Engineer Inter... · posted Sep 05 (12h ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) <!--a:97ab7e843d183cbb-->
   - [ ] 📌 keep on the board <!--s:97ab7e843d183cbb-->
 
-- [ ] **Hermeus** — Mission Systems Engineering Intern · posted Sep 03 (46h ago) · Atlanta, GA · season unstated · [apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) <!--a:2ec025be99d9ca96-->
+- [ ] **Hermeus** — Mission Systems Engineering Intern · posted Sep 03 (2d ago) · Atlanta, GA · season unstated · [apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) <!--a:2ec025be99d9ca96-->
   - [ ] 📌 keep on the board <!--s:2ec025be99d9ca96-->
 
 - [ ] **BWXT** — Mechanical Engineering Intern/Co-Op - Summer 2027 · posted Aug 31 (5d ago) · Euclid, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b354f28891320e85d5bd?utm_campaign=1048&utm_source=git) <!--a:71273a3125ba9103-->
@@ -226,5 +228,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Stryker** — Summer 2027 Internship - Mechanical Engineering - New Jersey · posted Aug 31 (5d ago) · Mahwah, NJ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git) <!--a:a99f76d5ec6bf497-->
   - [ ] 📌 keep on the board <!--s:a99f76d5ec6bf497-->
 
-### · Wide net (166)
+### · Wide net (164)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
