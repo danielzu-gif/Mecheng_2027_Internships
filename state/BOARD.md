@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-09-07 08:51 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-07 14:43 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**97 open · 14 apply-now · 0 saved · 3 applied all-time**
+**96 open · 14 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -68,7 +68,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:de67299076f859eb-->
 - [ ] **RTX** — Antenna Design Engineer Intern (Summe... · posted Sep 02 (4d ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007) <!--a:e2d0713446304447-->
   - [ ] 📌 keep on the board <!--s:e2d0713446304447-->
-- [ ] **RTX** — Antenna Electrical Design Engineer In... · posted Aug 31 (6d ago) · TX-MCKINNEY · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Antenna-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01866691) <!--a:30594cf3f5e72ec8-->
+- [ ] **RTX** — Antenna Electrical Design Engineer In... · posted Aug 31 (7d ago) · TX-MCKINNEY · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Antenna-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01866691) <!--a:30594cf3f5e72ec8-->
   - [ ] 📌 keep on the board <!--s:30594cf3f5e72ec8-->
 - [ ] **RTX** — TCMA Systems Engineering Intern - Sum... · posted Aug 31 (6d ago) · Huntsville, AL · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) <!--a:6e464b5c8b20c400-->
   - [ ] 📌 keep on the board <!--s:6e464b5c8b20c400-->
@@ -124,7 +124,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Tesla** — Physics Engine Development Engineer Intern - Optimus · posted Sep 02 (5d ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) <!--a:a4d07d665684a925-->
   - [ ] 📌 keep on the board <!--s:a4d07d665684a925-->
 
-## ▫️ Worth a look (48)
+## ▫️ Worth a look (47)
 
 - [ ] **Textron** — 2027 Internship - Defense and Special Missions Mechanical Systems Engineer · posted Aug 31 (7d ago) · Wichita, KS, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a966435e4e60e4b8da58890?utm_campaign=1048&utm_source=git) <!--a:bc081b074f1bde05-->
   - [ ] 📌 keep on the board <!--s:bc081b074f1bde05-->
@@ -191,8 +191,6 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **BWXT** — Mechanical Engineering Intern/Co-Op - Summer 2027 · posted Aug 31 (7d ago) · Euclid, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b354f28891320e85d5bd?utm_campaign=1048&utm_source=git) <!--a:71273a3125ba9103-->
   - [ ] 📌 keep on the board <!--s:71273a3125ba9103-->
-- [ ] **BWXT** — Additive Manufacturing Intern · posted Sep 06 (32h ago) · Lynchburg, VA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a9e3c3e27c94c3d5a1cbaeb?utm_campaign=1048&utm_source=git) <!--a:e4b1d6722c94c882-->
-  - [ ] 📌 keep on the board <!--s:e4b1d6722c94c882-->
 
 - [ ] **Eaton** — Mechanical Engineer Internship / Co-op · posted Sep 01 (6d ago) · Moon Township, PA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a9607a64c22023a07937acd?utm_campaign=1048&utm_source=git) <!--a:7cff3bfddb21c67f-->
   - [ ] 📌 keep on the board <!--s:7cff3bfddb21c67f-->
@@ -204,7 +202,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:19c5255e6d0a6961-->
 - [ ] **GE Vernova** — Industrial Mechanical Technician 2026 Internship · posted Aug 29 (9d ago) · Schenectady, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6a53c17dd007ee02d95fc6bd?utm_campaign=1048&utm_source=git) <!--a:49882fdf0e3a139a-->
   - [ ] 📌 keep on the board <!--s:49882fdf0e3a139a-->
-- [ ] **GE Vernova** — GE Vernova CIC Systems Engineer Co-op - Spring - Summer 2027 · posted Sep 03 (3d ago) · Rochester · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2) <!--a:8c09406d572bbbb2-->
+- [ ] **GE Vernova** — GE Vernova CIC Systems Engineer Co-op - Spring - Summer 2027 · posted Sep 03 (4d ago) · Rochester · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2) <!--a:8c09406d572bbbb2-->
   - [ ] 📌 keep on the board <!--s:8c09406d572bbbb2-->
 - [ ] **GE Vernova** — Hardware Engineer Intern - Critical Infrastructure Communications · posted Sep 03 (4d ago) · Rochester, NY · S27 confirmed · [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1?utm_source=Simplify&ref=Simplify) <!--a:f8a8d051b158af6d-->
   - [ ] 📌 keep on the board <!--s:f8a8d051b158af6d-->
@@ -235,5 +233,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Stryker** — Summer 2027 Internship - Mechanical Engineering - New Jersey · posted Aug 31 (7d ago) · Mahwah, NJ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git) <!--a:a99f76d5ec6bf497-->
   - [ ] 📌 keep on the board <!--s:a99f76d5ec6bf497-->
 
-### · Wide net (164)
+### · Wide net (166)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
