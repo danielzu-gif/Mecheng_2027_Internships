@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-09-07 17:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-07 20:47 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **96 open · 14 apply-now · 0 saved · 3 applied all-time**
 
@@ -38,7 +38,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Shield AI** — Summer 2027 - Advanced Manufacturing Engineering Intern · posted Aug 27 (10d ago) · Dallas, Texas · S27 confirmed · [apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) <!--a:79cd6ee9ed20c903-->
   - [ ] 📌 keep on the board <!--s:79cd6ee9ed20c903-->
 
-- [ ] **Skydio** — Product Design Engineer Intern - Summ... · posted Sep 04 (2d ago) · San Mateo, California, United St... · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f) <!--a:37907f0c6cbf5650-->
+- [ ] **Skydio** — Product Design Engineer Intern - Summ... · posted Sep 04 (3d ago) · San Mateo, California, United St... · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f) <!--a:37907f0c6cbf5650-->
   - [ ] 📌 keep on the board <!--s:37907f0c6cbf5650-->
 
 ## 🔷 Strong (35)
@@ -70,7 +70,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:e2d0713446304447-->
 - [ ] **RTX** — Antenna Electrical Design Engineer In... · posted Aug 31 (7d ago) · TX-MCKINNEY · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Antenna-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01866691) <!--a:30594cf3f5e72ec8-->
   - [ ] 📌 keep on the board <!--s:30594cf3f5e72ec8-->
-- [ ] **RTX** — TCMA Systems Engineering Intern - Sum... · posted Aug 31 (6d ago) · Huntsville, AL · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) <!--a:6e464b5c8b20c400-->
+- [ ] **RTX** — TCMA Systems Engineering Intern - Sum... · posted Aug 31 (7d ago) · Huntsville, AL · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372) <!--a:6e464b5c8b20c400-->
   - [ ] 📌 keep on the board <!--s:6e464b5c8b20c400-->
 
 - [ ] **General Motors** — 2027 Summer Intern - Manufacturing Engineering— Global Propulsion Systems · posted Sep 01 (6d ago) · Warren, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a975b80d13b4819f39e0c08?utm_campaign=1048&utm_source=git) <!--a:779917a67f478bfe-->
@@ -95,7 +95,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:9f7868fc6ee19357-->
 - [ ] **Northrop Grumman** — 2027 Industrial Engineering Intern · posted Sep 01 (6d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838) <!--a:afe2f3abd29d5a22-->
   - [ ] 📌 keep on the board <!--s:afe2f3abd29d5a22-->
-- [ ] **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · posted Aug 31 (6d ago) · Utah · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) <!--a:da7869318e934158-->
+- [ ] **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · posted Aug 31 (7d ago) · Utah · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) <!--a:da7869318e934158-->
   - [ ] 📌 keep on the board <!--s:da7869318e934158-->
 
 - [ ] **Raytheon** — Mechanical Engineering Internship (Summer 2027) · posted Aug 31 (7d ago) · Tewksbury, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95f169cabc9f6703e1b24a?utm_campaign=1048&utm_source=git) <!--a:4c5376c45ad8f0f0-->
@@ -114,11 +114,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **GE Aerospace** — Applied AI Engineer Intern – Summer 2027 (May/June Start) · posted Aug 30 (8d ago) · Evendale, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a94ef88c12c90443efce05f?utm_campaign=1048&utm_source=git) <!--a:16c3355277d4bca1-->
   - [ ] 📌 keep on the board <!--s:16c3355277d4bca1-->
-- [ ] **GE Aerospace** — Product Definition Engineering Intern... · posted Aug 31 (6d ago) · Lynn · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) <!--a:344c3571b90dbd00-->
+- [ ] **GE Aerospace** — Product Definition Engineering Intern... · posted Aug 31 (7d ago) · Lynn · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) <!--a:344c3571b90dbd00-->
   - [ ] 📌 keep on the board <!--s:344c3571b90dbd00-->
 - [ ] **GE Aerospace** — Product Definition Engineer Intern - Designer · posted Aug 31 (6d ago) · Lynn, MA · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1?utm_source=Simplify&ref=Simplify) <!--a:5994d9cf3c0bd6ea-->
   - [ ] 📌 keep on the board <!--s:5994d9cf3c0bd6ea-->
-- [ ] **GE Aerospace** — Applied AI Engineer Intern – Summer 2... · posted Aug 31 (6d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) <!--a:7e30265f5a9c8b0a-->
+- [ ] **GE Aerospace** — Applied AI Engineer Intern – Summer 2... · posted Aug 31 (7d ago) · Evendale · S27 confirmed · [apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) <!--a:7e30265f5a9c8b0a-->
   - [ ] 📌 keep on the board <!--s:7e30265f5a9c8b0a-->
 
 - [ ] **Tesla** — Physics Engine Development Engineer Intern - Optimus · posted Sep 02 (5d ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) <!--a:a4d07d665684a925-->
