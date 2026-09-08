@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-09-08 04:09 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-08 08:31 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**91 open · 13 apply-now · 0 saved · 3 applied all-time**
+**90 open · 13 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -41,7 +41,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 ## 🔷 Strong (30)
 
-- [ ] **RTX** — RF Mechanical Engineer Intern (Summer 2027)(Onsite) · posted Sep 03 (4d ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) <!--a:f77cb77360d4c840-->
+- [ ] **RTX** — RF Mechanical Engineer Intern (Summer 2027)(Onsite) · posted Sep 03 (5d ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) <!--a:f77cb77360d4c840-->
   - [ ] 📌 keep on the board <!--s:f77cb77360d4c840-->
 - [ ] **RTX** — RF Design Engineer Intern (Summer 2027)(Onsite) · posted Sep 02 (5d ago) · AZ-TUCSON-M02 · S27 confirmed · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014) <!--a:325d4c2e1b8198f9-->
   - [ ] 📌 keep on the board <!--s:325d4c2e1b8198f9-->
@@ -71,17 +71,17 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Intuitive** — Mechanical Engineering Intern · posted Sep 01 (6d ago) · Sunnyvale, CA · season unstated · [apply](https://jobs.smartrecruiters.com/Intuitive/744000146769559) <!--a:25d77dd95d98bbb0-->
   - [ ] 📌 keep on the board <!--s:25d77dd95d98bbb0-->
 
-- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Azusa CA · posted Sep 02 (5d ago) · United States-California-Azusa · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123) <!--a:2ab326e9b7a79fe5-->
+- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Azusa CA · posted Sep 02 (6d ago) · United States-California-Azusa · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Systems-Engineer-Intern---Azusa-CA_R10249123) <!--a:2ab326e9b7a79fe5-->
   - [ ] 📌 keep on the board <!--s:2ab326e9b7a79fe5-->
 - [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Gilbert AZ · posted Sep 03 (5d ago) · United States-Arizona-Gilbert · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1) <!--a:bf221beb302c2ca5-->
   - [ ] 📌 keep on the board <!--s:bf221beb302c2ca5-->
-- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Gilber... · posted Sep 02 (5d ago) · United States-Arizona-Gilbert · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1) <!--a:c1f6af4bb175be9c-->
+- [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Gilber... · posted Sep 02 (6d ago) · United States-Arizona-Gilbert · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1) <!--a:c1f6af4bb175be9c-->
   - [ ] 📌 keep on the board <!--s:c1f6af4bb175be9c-->
 - [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Redond... · posted Sep 03 (5d ago) · United States-California-Redondo... · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113) <!--a:f3027567979d1806-->
   - [ ] 📌 keep on the board <!--s:f3027567979d1806-->
 - [ ] **Northrop Grumman** — 2027 Intern Systems Engineer - CA & ND · posted Sep 03 (5d ago) · San Diego, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a99aa1b138838706058f803?utm_campaign=1048&utm_source=git) <!--a:9f7868fc6ee19357-->
   - [ ] 📌 keep on the board <!--s:9f7868fc6ee19357-->
-- [ ] **Northrop Grumman** — 2027 Industrial Engineering Intern · posted Sep 01 (6d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838) <!--a:afe2f3abd29d5a22-->
+- [ ] **Northrop Grumman** — 2027 Industrial Engineering Intern · posted Sep 01 (7d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838) <!--a:afe2f3abd29d5a22-->
   - [ ] 📌 keep on the board <!--s:afe2f3abd29d5a22-->
 - [ ] **Northrop Grumman** — 2027 Systems Engineering Intern- Roy UT · posted Aug 31 (7d ago) · Utah · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475) <!--a:da7869318e934158-->
   - [ ] 📌 keep on the board <!--s:da7869318e934158-->
@@ -112,7 +112,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Tesla** — Physics Engine Development Engineer Intern - Optimus · posted Sep 02 (6d ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) <!--a:a4d07d665684a925-->
   - [ ] 📌 keep on the board <!--s:a4d07d665684a925-->
 
-## ▫️ Worth a look (48)
+## ▫️ Worth a look (47)
 
 - [ ] **Textron** — 2027 Internship - Defense and Special Missions Mechanical Systems Engineer · posted Aug 31 (8d ago) · Wichita, KS, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a966435e4e60e4b8da58890?utm_campaign=1048&utm_source=git) <!--a:bc081b074f1bde05-->
   - [ ] 📌 keep on the board <!--s:bc081b074f1bde05-->
@@ -169,12 +169,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron Specialized Vehicles** — 2027 Mechanical Engineer Intern · posted Sep 02 (6d ago) · Augusta, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a97eb68c8ed473c5c76191f?utm_campaign=1048&utm_source=git) <!--a:e779754c81b55e4b-->
   - [ ] 📌 keep on the board <!--s:e779754c81b55e4b-->
 
-- [ ] **Applied Materials** — Summer 2027 Mechanical Engineer Inter... · posted Sep 05 (2d ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) <!--a:97ab7e843d183cbb-->
+- [ ] **Applied Materials** — Summer 2027 Mechanical Engineer Inter... · posted Sep 05 (3d ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) <!--a:97ab7e843d183cbb-->
   - [ ] 📌 keep on the board <!--s:97ab7e843d183cbb-->
 - [ ] **Applied Materials** — Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) · posted Sep 04 (3d ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) <!--a:bce80d89b46e1cb2-->
   - [ ] 📌 keep on the board <!--s:bce80d89b46e1cb2-->
-- [ ] **Applied Materials** — 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) · posted Sep 08 (2h ago) · Austin,TX · S27 confirmed · [apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) <!--a:1c64a7af8015a164-->
-  - [ ] 📌 keep on the board <!--s:1c64a7af8015a164-->
 
 - [ ] **Hermeus** — Mission Systems Engineering Intern · posted Sep 03 (4d ago) · Atlanta, GA · season unstated · [apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) <!--a:2ec025be99d9ca96-->
   - [ ] 📌 keep on the board <!--s:2ec025be99d9ca96-->
@@ -223,5 +221,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Stryker** — Summer 2027 Internship - Mechanical Engineering - New Jersey · posted Aug 31 (8d ago) · Mahwah, NJ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b8463843db0159906c21?utm_campaign=1048&utm_source=git) <!--a:a99f76d5ec6bf497-->
   - [ ] 📌 keep on the board <!--s:a99f76d5ec6bf497-->
 
-### · Wide net (161)
+### · Wide net (166)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
