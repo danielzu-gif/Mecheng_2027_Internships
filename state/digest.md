@@ -1,11 +1,25 @@
-# Brief 2026-09-09 13:20 UTC
+# Brief 2026-09-09 21:56 UTC
 
-7 new since the last brief.
+21 new since the last brief.
 
-- `A` **Divergent** — Summer 2027 Engineering Intern · Torrance, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa09aa35b2d5633ef3bf9da?utm_campaign=1048&utm_source=git)
-- `C` **WSP in the U.S.** — Mechanical Engineering (Thermal Generation) Intern - Summer 2027 · Mount Laurel, NJ, United States · score 11 · [apply](https://jobright.ai/jobs/info/6aa08a57dbc0e60e37e0e4f1?utm_campaign=1048&utm_source=git)
-- `C` **Leonardo DRS** — 2027 Summer - Mechanical Engineering Intern/Co-Op - Cypress CA · Cypress, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa08643ea127c3794697a99?utm_campaign=1048&utm_source=git)
-- `C` **Leonardo DRS** — 2027 Summer - Mechanical Engineering Intern - Melbourne FL · Melbourne, FL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa0863b3b5aa83237b09af5?utm_campaign=1048&utm_source=git)
-- `C` **Westlake Royal Building Products** — 2027 Intern- Mechanical Engineering · Sulphur, LA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa0978f3b5aa83237b0a1a6?utm_campaign=1048&utm_source=git)
-- `C` **Baker Hughes** — Intern – Mechanical Engineering & Mechatronics – 2026 (M/F/D) · Celle, DE · score 4 · [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055)
-- `C` **IMEG** — Mechanical Engineering Intern / Scottsdale, AZ · Phoenix, AZ, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa0c0bba2266b538d2321ef?utm_campaign=1048&utm_source=git)
+- `S` **Hermeus** — Mechanical Engineering Intern  - Spring/Summer 2027 · Los Angeles, CA · score 15 · [apply](https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60)
+- `S` **Saronic** — Mechanical Engineer Intern (Summer 2027) · Austin, TX · score 15 · [apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088)
+- `S` **Blue Origin** — Mechanical Engineering Co-Op (Fixed Term) · Los Angeles, CA · score 13 · [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Mechanical-Engineering-Co-Op--Fixed-Term-_R71542)
+- `S` **Saronic Technologies** — Mechanical Engineer Intern (Summer 2027) · Austin, TX · score 13 · [apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088)
+- `S` **Anduril** — 2027 Quality & Test Engineer Intern · Dublin, Dublin, Ireland · score 11 · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007)
+- `S` **Anduril** — 2027 Hardware Engineer Intern · Dublin, Dublin, Ireland · score 11 · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007)
+- `S` **Saronic** — Manufacturing Engineer Intern (Summer 2027) · Franklin, LA · score 11 · [apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97)
+- `S` **TEL** — Process Engineer Summer 2027 Intern · San Jose · score 9 · [apply](https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/San-Jose/Process-Engineer-Summer-2027-Intern_R26-01530)
+- `S` **Saronic** — Forward Deployed Engineer Intern (Summer 2027) · Austin, TX · score 8 · [apply](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce)
+- `A` **Pratt & Whitney** — Mechanical Design Intern (Summer 2027) (Onsite) · North Berwick, ME, United States · score 9 · [apply](https://jobright.ai/jobs/info/6aa0d0f2500b01124c77affd?utm_campaign=1048&utm_source=git)
+- `A` **Blue Origin** — Electronics/Electrical Systems Engineer Co-Op (Fixed Term) · Los Angeles, CA · score 7 · [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548)
+- `A` **RTX** — Systems Engineer Intern -Portsmouth, RI · RI-PORTSMOUTH-PS1 · score 7 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094)
+- `B` **Emerson** — Mechanical Engineering Internship - Summer 2027 · Austin, TX, United States · score 7 · [apply](https://jobright.ai/jobs/info/6aa0b599ea127c3794698c00?utm_campaign=1048&utm_source=git)
+- `B` **Siemens** — Manufacturing Engineering Intern · Wendell, NC, United States · score 5 · [apply](https://jobright.ai/jobs/info/6aa0e18f3b5aa83237b0b3ea?utm_campaign=1048&utm_source=git)
+- `B` **RTX** — Test Engineer at Assembly - Systems Intern (Onsite) · CT-MIDDLETOWN · score 5 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Test-Engineer-at-Assembly---Systems-Intern--Onsite-_01872767)
+- `C` **WSP** — Mechanical Engineering (Thermal Generation) Intern - Summer 2027 · Overland Park, KS, United States · score 11 · [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94814)
+- `C` **Leidos** — Mechanical Design Engineer Summer Intern · Huntsville, AL · score 9 · [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782)
+- `C` **Entegris** — Mechanical Engineering Co-Op · San Luis Obispo, CA · score 4 · [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Co-Op_REQ-14405)
+- `C` **Hitachi** — Research Intern, Hardware Implementation and Validation (Energy Storage and Power Electronics) · Santa Clara, California, United... · score 4 · [apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Hardware-Implementation-and-Validation--Energy-Storage-and-Power-Electronics-_R0144505)
+- `C` **Oshkosh Corporation** — Mechanical Engineer Intern · Oshkosh, Wisconsin, United States · score 4 · [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50185)
+- `C` **Schweitzer Engineering Laboratories** — Mechanical Engineer Intern · Washington - Pullman · score 4 · [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineer-Intern_2026-21686)
