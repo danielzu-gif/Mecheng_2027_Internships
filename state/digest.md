@@ -1,11 +1,9 @@
-# Brief 2026-09-10 23:56 UTC
+# Brief 2026-09-11 08:30 UTC
 
-7 new since the last brief.
+5 new since the last brief.
 
-- `S` **Impulse Space** — RF Test Engineer Intern - Summer 2027 · Redondo Beach, CA · score 11 · [apply](https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq&utm_source=Simplify&ref=Simplify)
-- `A` **Vast** — Emerging Talent - Mechanical/Aerospace Engineering Internship · Long Beach, California, United States · score 11 · [apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006)
-- `A` **Vast** — Emerging Talent - Mechanical/Aerospace Internship · Long Beach, California, United States · score 9 · [apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006)
-- `A` **Vast** — Emerging Talent - Manufacturing Engineering Internship · Long Beach, California, United States · score 9 · [apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006)
-- `C` **Momentive** — Summer 2027 Silanes Production & Energy Systems Engineer Intern · WV Friendly · score 9 · [apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776)
-- `C` **DPR Construction** — Mechanical Design Intern · Baltimore, MD, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa08ef6a2266b538d231169?utm_campaign=1048&utm_source=git)
-- `C` **Garmin** — Mechanical Engineering Intern · Olathe, KS, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa1d644ef23570cae246779?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Mechanical Design Engineering Intern (Summer 2027) · NC-WINSTON SALEM · score 11 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01873966)
+- `A` **RTX** — Project Engineering Intern (Summer 2027) · NC-WINSTON SALEM · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Project-Engineering-Intern--Summer-2027-_01873994)
+- `C` **Entegris** — Mechanical Test Engineer Co-Op · Chaska, MN · score 7 · [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Mechanical-Test-Engineer-Co-Op_REQ-14477-1)
+- `C` **Allegion** — Summer Intern – Mechanical Engineer, Indianapolis, IN · Indianapolis, IN - Hague Rd · score 6 · [apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer--Indianapolis--IN_JR37453-1)
+- `C` **MITRE** — Modeling, Simulation, and Analysis Intern · McLean, VA, United States · score 3 · [apply](https://jobright.ai/jobs/info/6a974193b22f636c81416fcf?utm_campaign=1048&utm_source=git)
