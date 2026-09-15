@@ -1,20 +1,17 @@
-# Brief 2026-09-15 04:30 UTC
+# Brief 2026-09-15 14:36 UTC
 
-16 new since the last brief.
+13 new since the last brief.
 
-- `S` **Anduril** — 2027 Manufacturing Optimization Engineer Intern · Ashville, Ohio, United States · score 8 · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007)
-- `S` **Impulse Space** — Development Test Engineering Intern (Summer 2027) · Redondo Beach, California · score 8 · [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-579195?s=gh-internships-2027)
-- `B` **Textron** — 2027 Internship - Defense and Special Missions Airframe Design Engineer · Wichita, KS, United States · score 7 · [apply](https://jobright.ai/jobs/info/6aa846e0a77a53f5a1578687?utm_campaign=1048&utm_source=git)
-- `B` **Textron** — 2027 Internship - Flight Simulation/Test Lab Engineer · Wichita, KS, United States · score 5 · [apply](https://jobright.ai/jobs/info/6aa846ea2ed333b4ea5ce662?utm_campaign=1048&utm_source=git)
-- `C` **Knight Piesold USA** — Mechanical Engineer Internship - Summer 2027 · Denver, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa8446a3a9f0a4fe6f18445?utm_campaign=1048&utm_source=git)
-- `C` **Wabash** — Mechanical Engineering Intern - Summer 2027 · Lafayette, IN, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa8463a654b2a9424cfbc77?utm_campaign=1048&utm_source=git)
-- `C` **Johnson & Johnson** — Mechanical Engineering Intern - Robotics R&D · Santa Clara, California, United... · score 4 · [apply](https://zapply.jobs/l/d/workday-jj-jj-R-099647?s=gh-internships-2027)
-- `C` **CM Mission Critical Engineering** — Mechanical Engineering Intern · Atlanta, GA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa875b7654b2a9424cfcf06?utm_campaign=1048&utm_source=git)
-- `C` **Galloway & Company, LLC** — Mechanical Design Intern · Johnstown, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa871fb3a9f0a4fe6f195ca?utm_campaign=1048&utm_source=git)
-- `C` **MKEC Engineering, Inc.** — Mechanical Engineering Intern · Wichita, KS, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa8758d3a9f0a4fe6f196fd?utm_campaign=1048&utm_source=git)
-- `C` **Oatey Company** — Mechanical Engineering Intern - Cleveland Manufacturing · Cleveland, OH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa37aeb83233ca167c8ad9a?utm_campaign=1048&utm_source=git)
-- `C` **Oatey Company** — Mechanical Engineering Intern · Cleveland, OH, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa7f4caa77a53f5a15768a2?utm_campaign=1048&utm_source=git)
-- `C` **Olsson** — Mechanical Engineering Internship - Data Center Facilities · Dallas, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a95ebb0c8763a3a87ffd373?utm_campaign=1048&utm_source=git)
-- `C` **Gilbert Mechanical Contractors, LLC** — Mechanical Intern · Edina, MN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa8654b3a9f0a4fe6f1919d?utm_campaign=1048&utm_source=git)
-- `C` **LabCorp** — Intern - Mechanical Engineer · Bloomfield CT · score 4 · [apply](https://zapply.jobs/l/d/workday-labcorp-external-2632739?s=gh-internships-2027)
-- `C` **Smiths Group plc** — Mechanical Engineering Co-Op · Morton Grove, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa8b1773387a3d9b67d28d7?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 Cyber Systems Engineer Intern - Roy UT · United States-Utah-Roy · score 9 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249471?s=gh-internships-2027)
+- `A` **RTX** — Systems Engineering Intern – Integration and Test, Onsite · MA-ANDOVER-AN1 · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874598?s=gh-internships-2027)
+- `B` **Textron** — 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD · Hunt Valley, MD, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a966432b22f636c81412542?utm_campaign=1048&utm_source=git)
+- `B` **Textron** — 2027 Co-Op - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD · Hunt Valley, MD, United States · score 9 · [apply](https://jobright.ai/jobs/info/6a96642d26613756de6d7ba9?utm_campaign=1048&utm_source=git)
+- `B` **Textron** — 2027 Internship - Engineering Mechanical Systems - ECS/IPS · Wichita, KS, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a966431455eaf6a08c17241?utm_campaign=1048&utm_source=git)
+- `B` **Textron** — 2027 Summer Intern - Mechanical Engineering – Fort Worth · Fort Worth, TX, United States · score 7 · [apply](https://jobright.ai/jobs/info/6a966430e4e60e4b8da58878?utm_campaign=1048&utm_source=git)
+- `B` **BorgWarner** — Mechanical Engineering Co-op – Engine Solenoids · Auburn Hills - Michigan - USA · score 7 · [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-3583?s=gh-internships-2027)
+- `B` **BWXT** — Mechanical Design Intern · Lynchburg, VA, United States · score 5 · [apply](https://jobright.ai/jobs/info/6aa8cf503387a3d9b67d32d2?utm_campaign=1048&utm_source=git)
+- `C` **Johns Hopkins Applied Physics Laboratory** — 2027 Internship - Mechanical Engineer, Shipboard Systems · Laurel, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa87e9f654b2a9424cfd2b8?utm_campaign=1048&utm_source=git)
+- `C` **Tighe & Bond** — Mechanical HVAC Design Internship - Summer 2027 · Westwood, MA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa8d36b3387a3d9b67d3368?utm_campaign=1048&utm_source=git)
+- `C` **Marathon Petroleum Corporation** — Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027) · Denver, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa8eae2eff87f571fc980c2?utm_campaign=1048&utm_source=git)
+- `C` **ICS** — Field Engineer/Project Engineer Intern · Media, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa8d14110b1cd4f416041e0?utm_campaign=1048&utm_source=git)
+- `C` **CHS Inc.** — Mechanical Engineer Intern · Laurel, MT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aa85d762ed333b4ea5cefb6?utm_campaign=1048&utm_source=git)
