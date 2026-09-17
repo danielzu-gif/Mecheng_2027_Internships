@@ -1,16 +1,20 @@
-# Brief 2026-09-17 14:37 UTC
+# Brief 2026-09-17 22:54 UTC
 
-12 new since the last brief.
+16 new since the last brief.
 
-- `A` **Northrop Grumman** — 2027 Electrical Engineering Intern - Chandler AZ · Chandler, AZ, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa9fc6309ae03adcace08ec?utm_campaign=1048&utm_source=git)
-- `C` **Legence** — Mechanical Engineer Intern Summer 2027 (multiple locations) · Minneapolis, Minnesota, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab2904c85610f4a4843dff?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - San Francisco, CA · San Francisco, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab715640807b73bd394fa0?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Los Angeles, CA · Culver City, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7156c85610f4a4844b39?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - New York, NY · New York, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7155c85610f4a4844b38?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Portland, OR · Portland, OR, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714a8e1bf0f764af98f7?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Seattle, WA · Seattle, WA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714c76707040fb0854f7?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Denver, CO · Denver, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7160c85610f4a4844b3c?utm_campaign=1048&utm_source=git)
-- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Boston, MA · Boston, MA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714ac85610f4a4844b36?utm_campaign=1048&utm_source=git)
-- `C` **Astronautics Corporation of America** — Mechanical Engineering Intern · Oak Creek, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab048f76707040fb083aef?utm_campaign=1048&utm_source=git)
-- `C` **Smith+Nephew** — Intern Mechanical Engineering · Pittsburgh, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab6abf8e1bf0f764af97eb?utm_campaign=1048&utm_source=git)
-- `C` **IMEG** — Mechanical Engineering Intern / St. Louis, MO · St. Louis, MO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8ef671a10ee661e24d5a41?utm_campaign=1048&utm_source=git)
+- `S` **Rocket Lab USA** — Systems Engineer Intern · Pasadena, CA · score 11 · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003?utm_source=Simplify&ref=Simplify)
+- `A` **RTX** — Mechanical/Industrial Engineering Co-op (Spring/Summer 2027) · FL-MELBOURNE · score 11 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872434?s=gh-internships-2027)
+- `A` **RTX** — Skillbridge: Heat Transfer and Thermodynamic Systems Intern · CT-EAST HARTFORD-RTRC K · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875881?s=gh-internships-2027)
+- `C` **Clark-Reliance®** — Mechanical Engineering Co-Op (Spring/Summer 2027) · Strongsville, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aabf0a43d96632d741a8427?utm_campaign=1048&utm_source=git)
+- `C` **Johns Hopkins Applied Physics Laboratory** — 2027 Internship – Mechanical Engineer, Electrical Engineer - Engineering & Test · Laurel, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aabed043d96632d741a8346?utm_campaign=1048&utm_source=git)
+- `C` **Generac** — Mechanical Engineering Intern - Summer 2027 · Waukesha, WI · score 6 · [apply](https://zapply.jobs/l/d/workday-generac-external-JR16957?s=gh-internships-2027)
+- `C` **REV Robotics** — Mechanical Engineering INTERN 2027 · Carrollton, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aac49cc3d96632d741aa37b?utm_campaign=1048&utm_source=git)
+- `C` **Ahlstrom** — Maintenance Mechanical Engineering Intern · Rhinelander, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8f1812a10ee661e24d67e7?utm_campaign=1048&utm_source=git)
+- `C` **SharkNinja** — Mechanical Engineering Intern Opportunities · Needham, MA, United States · score 4 · [apply](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4713812006?s=gh-internships-2027)
+- `C` **SharkNinja** — Mechanical Engineering Co-op Opportunities · Needham, MA, United States · score 4 · [apply](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4713783006?s=gh-internships-2027)
+- `C` **Affiliated Engineers, Inc.** — Mechanical Engineer Intern E&U · Boston, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac1d2c3d96632d741a948f?utm_campaign=1048&utm_source=git)
+- `C` **Affiliated Engineers, Inc.** — Mechanical Engineer Intern · Boston, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac1d8995c707f49dfef990?utm_campaign=1048&utm_source=git)
+- `C` **Ahlstrom** — Mechanical Engineer Co-Op or Intern · Kaukauna, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac50932e757fcb5c8b4f44?utm_campaign=1048&utm_source=git)
+- `C` **Ahlstrom** — Mechanical Co-Op or Intern · Kaukauna, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac50942e757fcb5c8b4f47?utm_campaign=1048&utm_source=git)
+- `C` **Quantinuum** — Mechanical Engineering Intern for Photonics Physics Package R&D - 996 · Broomfield, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac3be695c707f49dff0536?utm_campaign=1048&utm_source=git)
+- `C` **Micron Technology** — INTERN- ID1 Process Engineer · Boise, ID - ID1 · score 3 · [apply](https://zapply.jobs/l/d/workday-micron-external-JR111233?s=gh-internships-2027)
