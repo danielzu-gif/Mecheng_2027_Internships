@@ -1,15 +1,16 @@
-# Brief 2026-09-17 04:31 UTC
+# Brief 2026-09-17 14:37 UTC
 
-11 new since the last brief.
+12 new since the last brief.
 
-- `B` **Emerson** — Mechanical Engineering Co-op (Summer 2027) · Elyria, OH, United States · score 7 · [apply](https://jobright.ai/jobs/info/6aab025ef6bd9d2d17c1ae68?utm_campaign=1048&utm_source=git)
-- `B` **Physical Intelligence** — Mechatronics Intern · San Francisco · score 7 · [apply](https://zapply.jobs/l/d/ashby-physicalintelligence-0bcf909e-b38b-4276-91a1-e55c4c56a33a?s=gh-internships-2027)
-- `C` **Corning Incorporated** — Intern, Thermal Equipment Design - Summer 2027 · Painted Post, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aaaf60340807b73bd392faa?utm_campaign=1048&utm_source=git)
-- `C` **Insulet Corporation** — Co-op, R&D Mechanical Engineering: January - June 2027 (Hybrid) · Acton, Massachusetts · score 6 · [apply](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18007?s=gh-internships-2027)
-- `C` **Allegion** — Summer Intern – Mechanical Engineer – Golden, CO · Golden, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa3e07cf7baf881567cbcea?utm_campaign=1048&utm_source=git)
-- `C` **Rehlko** — Mechanical Engineer Intern 2027 (Wisconsin) · Sheboygan, WI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab02634be87a72913a2b74?utm_campaign=1048&utm_source=git)
-- `C` **Ebara Elliott Energy** — Mechanical, Instrument & Control Engineering Intern · Jeannette, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aaae5c076707040fb082ec2?utm_campaign=1048&utm_source=git)
-- `C` **National Carwash Solutions** — Mechanical Engineering Co-op · Grimes, IA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab34f540807b73bd39449c?utm_campaign=1048&utm_source=git)
-- `C` **Overview Energy** — Mechanical Engineering Intern · Ashburn, VA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab40d58e1bf0f764af9177?utm_campaign=1048&utm_source=git)
-- `C` **Primera Engineers** — Mechanical Engineering Intern · Chicago, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab00028e1bf0f764af7cbb?utm_campaign=1048&utm_source=git)
-- `C` **Red Cat Holdings** — Mechanical Engineer Intern - Stem Fair · Salt Lake City, UT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab38a08e1bf0f764af906e?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 Electrical Engineering Intern - Chandler AZ · Chandler, AZ, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa9fc6309ae03adcace08ec?utm_campaign=1048&utm_source=git)
+- `C` **Legence** — Mechanical Engineer Intern Summer 2027 (multiple locations) · Minneapolis, Minnesota, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab2904c85610f4a4843dff?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - San Francisco, CA · San Francisco, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab715640807b73bd394fa0?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Los Angeles, CA · Culver City, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7156c85610f4a4844b39?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - New York, NY · New York, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7155c85610f4a4844b38?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Portland, OR · Portland, OR, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714a8e1bf0f764af98f7?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Seattle, WA · Seattle, WA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714c76707040fb0854f7?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Denver, CO · Denver, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab7160c85610f4a4844b3c?utm_campaign=1048&utm_source=git)
+- `C` **PAE** — Mechanical Engineer Internship Summer 2027 - Boston, MA · Boston, MA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aab714ac85610f4a4844b36?utm_campaign=1048&utm_source=git)
+- `C` **Astronautics Corporation of America** — Mechanical Engineering Intern · Oak Creek, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab048f76707040fb083aef?utm_campaign=1048&utm_source=git)
+- `C` **Smith+Nephew** — Intern Mechanical Engineering · Pittsburgh, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aab6abf8e1bf0f764af97eb?utm_campaign=1048&utm_source=git)
+- `C` **IMEG** — Mechanical Engineering Intern / St. Louis, MO · St. Louis, MO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a8ef671a10ee661e24d5a41?utm_campaign=1048&utm_source=git)
