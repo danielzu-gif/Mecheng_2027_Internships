@@ -1,18 +1,13 @@
-# Brief 2026-09-24 23:26 UTC
+# Brief 2026-09-25 09:19 UTC
 
-14 new since the last brief.
+9 new since the last brief.
 
-- `S` **Astranis** — Harness Design Engineer Intern (Summer 2027) · San Francisco · score 11 · [apply](https://job-boards.greenhouse.io/astranis/jobs/4704779006)
-- `S` **Astranis** — Thermal Intern (Summer 2027) · San Francisco · score 11 · [apply](https://job-boards.greenhouse.io/astranis/jobs/4704820006)
-- `A` **Raytheon** — Antenna Design Engineer Intern (Summer 2027)(Onsite) · Tucson, AZ, United States · score 9 · [apply](https://jobright.ai/jobs/info/6aab1e7b76707040fb0844f3?utm_campaign=1048&utm_source=git)
-- `A` **Rivian** — Engineering Intern - Powertrain Testing · Tustin, CA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ab54429634ec6aa7c0cde30?utm_campaign=1048&utm_source=git)
-- `A` **Northrop Grumman** — 2027 Industrial Safety Engineering Intern - Utah · United States-Utah-Magna · score 8 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252924?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Quality Engineering Intern - Utah · United States Utah Corinne · score 8 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252909?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Electronics Engineering Internship - Rolling Meadows IL · United States-Illinois-Rolling... · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252818?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Engineering Intern - Mesa AZ · United States-Arizona-Mesa · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252874?s=gh-internships-2027)
-- `C` **ProMach** — Mechanical Engineer Intern - Summer 2027 · Huntington, IN, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab540854873fd3fd8528656?utm_campaign=1048&utm_source=git)
-- `C` **iRhythm** — Mechanical Engineering Co-op Full Time Intern Jan - June 2027 · San Francisco, CA · score 6 · [apply](https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1766?s=gh-internships-2027)
-- `C` **Stantec** — Mechanical Engineering Intern - Buildings (Summer 2027) · Chicago, IL, United States · score 6 · [apply](https://zapply.jobs/l/d/oracle-hdhl-1007966?s=gh-internships-2027)
-- `C` **Fuss & O'Neill** — Internship - Mechanical Engineer · Hartford, CT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a9936ce138838706058d027?utm_campaign=1048&utm_source=git)
-- `C` **Burns & McDonnell** — Mechanical Engineering Intern - Global Facilities (Newton) · Newton, Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ab571789d4843569fe49c2d?utm_campaign=1048&utm_source=git)
-- `C` **ZOLL Medical Corporation** — Mechanical Engineering Intern · Chelmsford, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ab54117c6fe0dec8119ff99?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 Operations Industrial Engineering Intern · United States-Florida-Melbourne · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253047?s=gh-internships-2027)
+- `B` **Textron** — 2027 Intern - Aerospace Engineer (Uncrewed Land & Air) - Hunt Valley, MD · Hunt Valley, MD, United States · score 7 · [apply](https://jobright.ai/jobs/info/6ab620799d4843569fe4d046?utm_campaign=1048&utm_source=git)
+- `B` **Textron** — 2027 Internship: CWC Manufacturing Engineer (Muskegon, MI) · Muskegon, MI, United States · score 5 · [apply](https://jobright.ai/jobs/info/6ab620edc6fe0dec811a44bc?utm_campaign=1048&utm_source=git)
+- `C` **BAE Systems** — Mechanical and Electrical Inspection Engineering Intern, Summer 2027 · Westminster, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab597104873fd3fd852af44?utm_campaign=1048&utm_source=git)
+- `C` **Mativ** — Mechanical Engineer Intern (Summer 2027) · Munising, MI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab5ad889d4843569fe4bc0c?utm_campaign=1048&utm_source=git)
+- `C` **iRhythm Technologies, Inc.** — Mechanical Engineering Co-op Full Time Intern Jan - June 2027 · San Francisco, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab5738bc6fe0dec811a1246?utm_campaign=1048&utm_source=git)
+- `C` **Scrap Labs** — Mechanical Engineering Intern, Machine Design (Summer 2027) · Boulder, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab60a36d85922de20ce42bb?utm_campaign=1048&utm_source=git)
+- `C` **Dematic** — Mechanical Engineering Intern/Co-Op · Grand Rapids, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a6b6c1d57120971bf3a6b5e?utm_campaign=1048&utm_source=git)
+- `C` **Michael Baker International** — Mechanical Engineering Intern · Midvale, UT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ab561e8b3db59402d0fc59c?utm_campaign=1048&utm_source=git)
