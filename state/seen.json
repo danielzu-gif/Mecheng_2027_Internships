@@ -1167,10 +1167,6 @@
    "checked": "2026-09-18T16:15:28.140904+00:00",
    "snippet": "(function() { const theme = localStorage.getItem('theme') || 'light'; if (theme === 'dark') { document.documentElement.classList.add('dark'); } document.documentElement.classList.add('theme-loaded'); })(); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5LFC4L6M'); window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-6H6Q1VVY5L'); (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, \"clarity\", \"script\", \"vkrgv07ff6\"); Latest Entry-Level & New Grad Jobs \u00e2\u0080\u0094 Apply in Seconds | Zapply { \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"@id\": \"https://zapply.jobs/#organization\", \"name\": \"Zapply\", \"alternateName\": \"Zapply Jobs\", \"url\": \"https://zapply.jobs/\", \"logo\": \"https://zapply.jobs/zapply-icon.png\", \"description\": \"Zapply is a free Chrome extension and job board that automates job applications for students, new graduates, and early-career professionals.\", \"address\": { \"@type\": \"PostalAddress\", \"streetAddress\": \"ABC\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78727\", \"addressCountry\": \"US\" }, \"contactPoint\": { \"@type\": \"ContactPoint\", \"email\": \"support@zapply.jobs\", \"contactType\": \"customer support\" }, \"sameAs\": [ \"https://www.instagram.com/zapply.jobs\", \"https://www.tiktok.com/@zapply.jobs\", \"https://www.linkedin.com/company/zapply-jobs\", \"https://discord.com/invite/UswBsduwcD\", \"https://www.reddit.com/r/Zapply/\", \"https://github.com/zapplyjobs\" ] } @font-face{font-family:Montserrat;font-style:n"
   },
-  "9203242af231b49d": {
-   "checked": "2026-08-11T19:30:02.732310+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Mech / Thermal Intern @ Etched | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Mech / Thermal Intern\",\"description\":\" Etched is building hardware for frontier intelligence, focusing on redefining the infrastructure layer for the fastest growing industry. The mechanical/thermal engineering interns will work on various projects including prototyping and system development, contributing to the design of high power ASIC systems. Responsibilities Work within the mechanical and thermal engineering organization Focus on NPI prototyping Manufacturing fixture development Liquid cooling technologies Rack-level system development Work across all aspects of mechanical and electrical engineering to design high power ASIC systems Skills Progress towards a Bachelor's or Master's in Mechanical Engineering, Computer Engineering, or related field Experience building real mechanical systems, boards, or other hands-on projects Knowledge of board design cycle, high-speed interconnects, power delivery, and system integration Benefits Generous housing support for those relocating Daily lunch and dinner in our office Direct mentorship from industry leaders and world-class engineers Opportunity to work on one of the most important problems of our time 12-week paid internship Based at our office in San Jose, CA Company Overview Etched is an AI chip startup that designs and manufactures hardware systems optimized for artificial intelligence model inference workloads. It was founded in 2022, and is headquartered in San Jose, California, USA, with a workforce of 51-200 employees. Its website is https://www.etched.com. Company H1B Sponsorship Etched has a track record of offering H1B sponsorships, with 13 in 2026, 9 in 2025, 11 in 2024, 1 in 2023. Please note that this does not guarantee sponsorship for this specific role. \",\"datePosted\":\"202"
-  },
   "924c63a65c029024": {
    "checked": "2026-09-13T04:23:54.220141+00:00",
    "snippet": "(function() { const theme = localStorage.getItem('theme') || 'light'; if (theme === 'dark') { document.documentElement.classList.add('dark'); } document.documentElement.classList.add('theme-loaded'); })(); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5LFC4L6M'); window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-6H6Q1VVY5L'); (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, \"clarity\", \"script\", \"vkrgv07ff6\"); Latest Entry-Level & New Grad Jobs \u00e2\u0080\u0094 Apply in Seconds | Zapply { \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"@id\": \"https://zapply.jobs/#organization\", \"name\": \"Zapply\", \"alternateName\": \"Zapply Jobs\", \"url\": \"https://zapply.jobs/\", \"logo\": \"https://zapply.jobs/zapply-icon.png\", \"description\": \"Zapply is a free Chrome extension and job board that automates job applications for students, new graduates, and early-career professionals.\", \"address\": { \"@type\": \"PostalAddress\", \"streetAddress\": \"ABC\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78727\", \"addressCountry\": \"US\" }, \"contactPoint\": { \"@type\": \"ContactPoint\", \"email\": \"support@zapply.jobs\", \"contactType\": \"customer support\" }, \"sameAs\": [ \"https://www.instagram.com/zapply.jobs\", \"https://www.tiktok.com/@zapply.jobs\", \"https://www.linkedin.com/company/zapply-jobs\", \"https://discord.com/invite/UswBsduwcD\", \"https://www.reddit.com/r/Zapply/\", \"https://github.com/zapplyjobs\" ] } @font-face{font-family:Montserrat;font-style:n"
@@ -1534,6 +1530,10 @@
   "b592cb69820365a7": {
    "checked": "2026-08-13T23:50:33.007254+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"Boise, ID - Main Site\" } }, \"hiringOrganization\" : { \"name\" : \"1000 Micron Technology, Inc.\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Intern - Digital IP Design Engineer, DRAM\", \"@type\" : \"PropertyValue\", \"value\" : \"JR108533\" }, \"datePosted\" : \"2026-08-13\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Intern - Digital IP Design Engineer, DRAM\", \"description\" : \"Our vision is to transform how the world uses information to enrich life for all. Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever. At Micron Technology, we transform how the world uses information to enrich life for all. The DRAM IP Development (IPDEV) team develops critical digital IP solutions that enable next-generation AI, mobile, client, data center, and graphics memory products. Our team is responsible for delivering high-quality DRAM IPs that drive innovation, product performance, and development efficiency across Micron's memory portfolio. As a Senior or Graduate Engineering Intern in DRAM Circuit Design, you will work alongside experienced engineers to develop and validate digital IP circuits used in future DRAM products. This internship provides hands-on experience with RTL-to-GDS design methodologies, custom design and verification flows, silicon learning, and advanced semiconductor development processes. You will contribute to impactful engineering projects while gaining exposure to industry-standard EDA tools, multi-functional collaboration, and AI-enabled engineering workflows. Responsibilities Support the design, development, and verification of digital IP circuits for next-generation DRAM products using RTL-to-GDS methodologies. Perform circuit analysis"
+  },
+  "b5a6c585198195d9": {
+   "checked": "2026-09-25T20:32:57.675874+00:00",
+   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"US, MA, Wilmington\" } }, \"hiringOrganization\" : { \"name\" : \"1010 Analog Devices Inc.\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Healthcare Mechanical Engineering Co-op (Spring)\", \"@type\" : \"PropertyValue\", \"value\" : \"R266691\" }, \"datePosted\" : \"2026-09-25\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Healthcare Mechanical Engineering Co-op (Spring)\", \"description\" : \"Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally? About Analog Devices Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X. At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network. ADI\u00e2\u0080\u0099s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees. At ADI, our goal is to develop our interns so they are the first t"
   },
   "b5b2dad3266166e0": {
    "checked": "2026-09-01T14:28:46.916112+00:00",
@@ -2038,59 +2038,10 @@
   "ff2c2514685782b2": {
    "checked": "2026-08-12T00:42:07.439202+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2026 Intern Conversion - Electronics/Electrical Systems Engineer I @ Blue Origin | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2026 Intern Conversion - Electronics/Electrical Systems Engineer I\",\"description\":\" Blue Origin develops reusable, safe, and low-cost space vehicles and systems to support a future where millions of people live and work in space. The Electronics/Electrical Systems Engineer I will join the organization after completing a Blue Origin internship and contribute to rapid development programs while working independently and collaboratively across teams. Skills Successfully completed an internship with Blue Origin in 2026 Enrolled or recently graduating student attending a college or university Able to start working full-time on or before September of 2027 Minimum of a B.S. degree in mechanical engineering, aerospace engineering, astronautical engineering, or equivalent Ability to work independently and as part of a team on rapid development programs Self-driven with the ability to seek out requirements with minimal direction Strong written, verbal, communication, and interpersonal skills Passion for Blue's Mission with a strong desire to continuously learn and improve Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum Relevant internship/co-op and academic project experience that demonstrate development of both technical skills relevant to the internship as well as leadership qualities Hands-on project experience Co-curricular engagement Benefits Medical, dental, vision, basic and supplemental life insurance Paid parental leave Short- and long-term disability 401(k) with a company match of up to 5% Education Support Program Stock Options for all regular employees (working at least 20 hours/"
-  },
-  "ff43413968d82d84": {
-   "checked": "2026-08-11T18:12:33.457311+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern - DRAM Design Engineer @ Micron Technology | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern - DRAM Design Engineer\",\"description\":\" Micron Technology is a world leader in innovating memory and storage solutions. As a DRAM Verification Engineering Intern, you will work with a highly innovative engineering team to verify advanced memory products and gain hands-on experience using industry-standard verification tools. Responsibilities Perform verification activities including datasheet analysis, verification planning, simulation execution, coverage analysis, debugging, and results review Support modeling and simulation efforts using industry-standard verification and circuit simulation tools Collaborate with global design, verification, and multi-functional engineering teams to drive standardization, improve design quality, and support successful product development Contribute to innovation in future memory technologies by applying advanced verification methodologies and problem-solving techniques Leverage Artificial Intelligence, AI Assisted tools, and automation technologies to improve verification efficiency, accelerate analysis, and enhance workflow productivity Skills Currently pursuing a Bachelor's or Master's degree in Electrical Engineering or a related technical field Must not graduate before September 2026 Familiarity with analog and digital simulation tools such as HSPICE, Verilog HDL, FINESIM, or similar industry-standard environments Demonstrated debugging, timing analysis, analytical, and problem-solving skills through coursework, research, or project experience Strong communication and teamwork abilities with the capability to explain technical concepts effectively Knowledge of CMOS circuit design, semiconductor devices, and integrated circuit layout concepts Experience with verification,"
   }
  },
- "digest_queue": [
-  {
-   "company": "CF Industries",
-   "location": "Woodward, OK, United States",
-   "pid": "b0d69f5b42ac1473",
-   "posted_at": "2026-09-25T00:00:00+00:00",
-   "rank": "C",
-   "role": "Turnaround Intern - Mechanical Engineer",
-   "score": 4,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6ab5b59b4873fd3fd852b9d8?utm_campaign=1048&utm_source=git"
-  },
-  {
-   "company": "GE Vernova",
-   "location": "Rochester, NY, United States",
-   "pid": "87d78159f01e4718",
-   "posted_at": "2026-09-25T00:00:00+00:00",
-   "rank": "B",
-   "role": "GE Vernova Grid Solutions - Hardware Engineering Intern (Critical Infrastructure Communications) \u2013 Spring/Summer 2027",
-   "score": 5,
-   "term": "target",
-   "url": "https://jobright.ai/jobs/info/6a99af0e138838706058f9a9?utm_campaign=1048&utm_source=git"
-  },
-  {
-   "company": "WSP",
-   "location": "Portland, OR, United States",
-   "pid": "0215c63387c38834",
-   "posted_at": "2026-09-25T01:01:17.470834+00:00",
-   "rank": "C",
-   "role": "Mechanical Engineering (Transmission) Intern - Summer 2027",
-   "score": 6,
-   "term": "target",
-   "url": "https://zapply.jobs/l/d/oracle-wsp-95871?s=gh-internships-2027"
-  },
-  {
-   "company": "Bechtel Corporation",
-   "location": "United States",
-   "pid": "749f96663a80394e",
-   "posted_at": "2026-09-25T00:00:00+00:00",
-   "rank": "C",
-   "role": "27 Intern / US / Mechanical Engr",
-   "score": 4,
-   "term": "assumed",
-   "url": "https://jobright.ai/jobs/info/6ab536399d4843569fe486be?utm_campaign=1048&utm_source=git"
-  }
- ],
- "last_digest": "2026-09-25T09:19:00.776760+00:00",
+ "digest_queue": [],
+ "last_digest": "2026-09-25T20:32:57.675874+00:00",
  "postings": {
   "0011c5d92e2815b6": {
    "company": "Textron Aviation",
@@ -2164,7 +2115,7 @@
   "00eeb1e77b0575ba": {
    "company": "Hermeus",
    "first_seen": "2026-09-11T16:20:10.601296+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-09-08T16:13:08.569000+00:00",
    "rank": "S",
@@ -2249,13 +2200,16 @@
   },
   "0215c63387c38834": {
    "company": "WSP",
+   "dup": true,
+   "filtered": true,
    "first_seen": "2026-09-25T17:01:17.470834+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Portland, OR, United States",
    "posted_at": "2026-09-25T01:01:17.470834+00:00",
    "rank": "C",
    "role": "Mechanical Engineering (Transmission) Intern - Summer 2027",
    "score": 6,
+   "scored_live": true,
    "sources": [
     "zapply-2027"
    ],
@@ -2299,7 +2253,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-18T01:11:17.771890+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-09-17T23:21:05+00:00",
    "rank": "S",
@@ -2453,7 +2407,7 @@
   "04d287b5d70ecef7": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-22T19:11:37+00:00",
    "rank": "A",
@@ -2917,7 +2871,7 @@
   "0d0a4294b82112aa": {
    "company": "Philips",
    "first_seen": "2026-09-16T01:19:27.485958+00:00",
-   "last_seen": "2026-09-25T14:56:58.757100+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Latham, New York, United States",
    "posted_at": "2026-09-16T00:19:27.485958+00:00",
    "rank": "C",
@@ -2936,7 +2890,7 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-08-16T22:29:10.393360+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Tucson, AZ, United States",
    "posted_at": "2026-08-15T00:00:00+00:00",
    "rank": "A",
@@ -3241,7 +3195,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T00:04:07.653942+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-09T23:36:36+00:00",
    "rank": "S",
@@ -3343,7 +3297,7 @@
    "company": "Kairos Power",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-23T19:46:38+00:00",
    "rank": "A",
@@ -3378,7 +3332,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T19:09:38.313995+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-10T19:06:37+00:00",
    "rank": "S",
@@ -3768,7 +3722,7 @@
   "193026fee2e0c0bf": {
    "company": "DBR",
    "first_seen": "2026-08-28T06:10:54.504765+00:00",
-   "last_seen": "2026-09-18T13:20:11.652454+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Antonio, TX, United States",
    "posted_at": "2026-08-27T00:00:00+00:00",
    "rank": "C",
@@ -3819,7 +3773,7 @@
    "company": "GE Vernova",
    "elig": "ok",
    "first_seen": "2026-09-04T04:05:00.647613+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Rochester, NY",
    "posted_at": "2026-09-03T04:05:00.647613+00:00",
    "rank": "B",
@@ -3994,7 +3948,7 @@
    "company": "Vast",
    "elig": "ok",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, California, United States",
    "posted_at": "2026-09-10T18:53:47+00:00",
    "rank": "A",
@@ -4012,7 +3966,7 @@
   "1cbf209cec15ed60": {
    "company": "Rivian",
    "first_seen": "2026-09-18T04:17:00.353869+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Torrance, CA",
    "posted_at": "2026-09-18T04:17:00.353869+00:00",
    "rank": "A",
@@ -4114,7 +4068,7 @@
   "1ea677142b933093": {
    "company": "KION Group",
    "first_seen": "2026-09-11T19:12:48.057188+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Henrietta NY United States",
    "posted_at": "2026-09-11T18:12:48.057188+00:00",
    "rank": "C",
@@ -4184,7 +4138,7 @@
   "1fd813bc1b9f155f": {
    "company": "Hermeus",
    "first_seen": "2026-09-01T16:27:59.214215+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-01T15:46:08.009000+00:00",
    "rank": "S",
@@ -4357,7 +4311,7 @@
    "company": "Saronic",
    "elig": "ok",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Austin, TX",
    "posted_at": "2026-09-09T19:46:26.327000+00:00",
    "rank": "S",
@@ -5205,7 +5159,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T02:57:48+00:00",
    "rank": "S",
@@ -5238,7 +5192,7 @@
   "2ec025be99d9ca96": {
    "company": "Hermeus",
    "first_seen": "2026-09-03T19:20:05.241440+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-03T16:35:01.429000+00:00",
    "rank": "S",
@@ -5276,7 +5230,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-09-24T20:23:38.651052+00:00",
-   "last_seen": "2026-09-25T14:56:58.757100+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United States-Arizona-Mesa",
    "posted_at": "2026-09-24T22:26:54.949329+00:00",
    "rank": "A",
@@ -5567,7 +5521,7 @@
   "32c4eed2c8b7c112": {
    "company": "Hermeus",
    "first_seen": "2026-09-22T16:45:19.156787+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-22T15:09:49.327000+00:00",
    "rank": "S",
@@ -5601,7 +5555,7 @@
   "32db0eadada51d89": {
    "company": "Vertiv",
    "first_seen": "2026-08-10T14:42:09.582753+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-10T14:42:09.582753+00:00",
    "rank": "C",
@@ -5653,7 +5607,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T03:29:14+00:00",
    "rank": "S",
@@ -6025,7 +5979,7 @@
    "company": "Shield AI",
    "elig": "ok",
    "first_seen": "2026-09-22T00:54:41.484359+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Seattle, Washington",
    "posted_at": "2026-09-21T22:55:31.523000+00:00",
    "rank": "S",
@@ -6079,7 +6033,7 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-09-14T16:07:19.658427+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-09-08T16:07:19.658427+00:00",
    "rank": "A",
@@ -6245,7 +6199,7 @@
   "3d1edc9618ec65c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:34:22+00:00",
@@ -7068,7 +7022,7 @@
    "company": "Eaton",
    "elig": "ok",
    "first_seen": "2026-09-19T04:13:38.146828+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Cleveland, TN",
    "posted_at": "2026-09-19T04:13:38.146828+00:00",
    "rank": "B",
@@ -7554,7 +7508,7 @@
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Alameda, CA, Albuquerque, NM, or Oak Ridge, TN",
    "posted_at": "2026-07-23T20:03:32+00:00",
    "rank": "A",
@@ -7640,7 +7594,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-19T00:06:13.261782+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-18T23:39:52+00:00",
    "rank": "S",
@@ -7963,7 +7917,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-16T16:39:46.104772+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-16T16:01:30+00:00",
    "rank": "S",
@@ -8382,7 +8336,7 @@
   "5cd86c66ff526f4b": {
    "company": "Blue Origin",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-09-08T18:34:55.758644+00:00",
    "rank": "A",
@@ -8449,7 +8403,7 @@
   "5dbef53440d8d81b": {
    "company": "RTX",
    "first_seen": "2026-09-09T00:21:10.900525+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Cedar Rapids, IA",
    "posted_at": "2026-09-09T00:21:10.900525+00:00",
    "rank": "A",
@@ -8733,7 +8687,7 @@
    "company": "NVIDIA",
    "elig": "ok",
    "first_seen": "2026-08-19T10:23:37.433397+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Santa Clara, CA",
    "posted_at": "2026-08-19T10:23:37.433397+00:00",
    "rank": "A",
@@ -9266,12 +9220,12 @@
   "6698060e6ad6148b": {
    "company": "HDR",
    "first_seen": "2026-09-18T19:04:29.317078+00:00",
-   "last_seen": "2026-09-24T23:26:54.949329+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Pittsburgh, PA, United States",
    "posted_at": "2026-09-18T00:00:00+00:00",
    "rank": "C",
    "role": "Mechanical Intern - Summer 2027",
-   "score": 4,
+   "score": 6,
    "scored_live": true,
    "sources": [
     "jobright-engineering"
@@ -9387,7 +9341,7 @@
   "68d7cb1168c980dd": {
    "company": "Unison (GE Aerospace)",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Jacksonville, FL",
    "posted_at": "2026-07-16T00:00:00+00:00",
    "rank": "A",
@@ -9438,7 +9392,7 @@
    "company": "Rivian",
    "elig": "ok",
    "first_seen": "2026-09-08T19:34:55.758644+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Palo Alto, California",
    "posted_at": "2026-09-08T18:31:44.847000+00:00",
    "rank": "A",
@@ -9888,7 +9842,7 @@
    "company": "Vast",
    "elig": "ok",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, California, United States",
    "me_ok": true,
    "posted_at": "2026-09-10T19:11:36+00:00",
@@ -10212,7 +10166,7 @@
   "72e09ab5eb9a60eb": {
    "company": "Reflect Orbital",
    "first_seen": "2026-09-24T04:19:57.808079+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Hawthorne, CA",
    "posted_at": "2026-09-24T01:19:57.808079+00:00",
    "rank": "C",
@@ -10449,7 +10403,7 @@
   "74b1b2fc585f154d": {
    "company": "Analog Devices",
    "first_seen": "2026-08-21T19:43:03.283447+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Wilmington, MA",
    "posted_at": "2026-08-21T20:58:24.165159+00:00",
    "rank": "C",
@@ -10624,7 +10578,7 @@
   "75ffebc61d223483": {
    "company": "Saronic",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Franklin, LA",
    "posted_at": "2026-09-09T19:46:42.155000+00:00",
    "rank": "S",
@@ -11048,7 +11002,7 @@
    "company": "Shield AI",
    "elig": "ok",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Dallas, Texas",
    "posted_at": "2026-08-27T23:18:32.589000+00:00",
    "rank": "S",
@@ -11721,7 +11675,7 @@
    "company": "Anduril",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:00:56+00:00",
@@ -12142,9 +12096,9 @@
    "last_seen": "2026-09-25T17:01:17.470834+00:00",
    "location": "Rochester, NY, United States",
    "posted_at": "2026-09-25T00:00:00+00:00",
-   "rank": "B",
+   "rank": "C",
    "role": "GE Vernova Grid Solutions - Hardware Engineering Intern (Critical Infrastructure Communications) \u2013 Spring/Summer 2027",
-   "score": 5,
+   "score": 3,
    "sources": [
     "jobright-engineering"
    ],
@@ -12168,6 +12122,23 @@
    "term": "target",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a9eb1ccf6ea002358296558?utm_campaign=1048&utm_source=git"
+  },
+  "88931f99f7f5101c": {
+   "company": "Mach Industries",
+   "first_seen": "2026-09-25T20:32:57.675874+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
+   "location": "Huntington Beach, CA, United States",
+   "posted_at": "2026-09-25T00:00:00+00:00",
+   "rank": "C",
+   "role": "Summer 2027 Engineering Internship, Mechanical",
+   "score": 6,
+   "sources": [
+    "jobright-engineering",
+    "zapply-2027"
+   ],
+   "term": "target",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6ab6bbd4b3db59402d102142?utm_campaign=1048&utm_source=git"
   },
   "88a6dc7d7597fee7": {
    "company": "Tag Systems UK",
@@ -12253,7 +12224,7 @@
   "8973ad1dd3c127e6": {
    "company": "Leidos",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Huntsville, AL",
    "posted_at": "2026-09-09T20:56:52.378071+00:00",
    "rank": "C",
@@ -12985,7 +12956,7 @@
   "9415b53ec44123b0": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Mateo, California, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-07-28T18:27:09.057000+00:00",
@@ -13212,7 +13183,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-09-24T20:23:38.651052+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United States Utah Corinne",
    "posted_at": "2026-09-24T22:26:54.949329+00:00",
    "rank": "A",
@@ -13365,7 +13336,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T20:07:50.344044+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T19:51:39+00:00",
    "rank": "S",
@@ -13607,7 +13578,7 @@
   "9c5b8e957472b989": {
    "company": "Textron",
    "first_seen": "2026-09-03T04:01:44.341371+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "New Orleans, LA",
    "posted_at": "2026-09-02T04:01:44.341371+00:00",
    "rank": "B",
@@ -13709,7 +13680,7 @@
   "9de02e5906c555ae": {
    "company": "General Motors",
    "first_seen": "2026-09-22T04:26:48.285993+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI",
    "posted_at": "2026-09-21T04:26:48.285993+00:00",
    "rank": "A",
@@ -13814,7 +13785,7 @@
   "9ef595ce2d463ae4": {
    "company": "Graphcore",
    "first_seen": "2026-09-24T01:29:22.105544+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Austin, Texas, United States",
    "posted_at": "2026-09-24T00:29:22.105544+00:00",
    "rank": "C",
@@ -14142,7 +14113,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-24T23:26:54.949329+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-24T21:27:51+00:00",
    "rank": "S",
@@ -14315,7 +14286,7 @@
    "company": "Intel",
    "elig": "ok",
    "first_seen": "2026-09-02T21:58:40.655312+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Hillsboro, OR, United States",
    "posted_at": "2026-09-02T00:00:00+00:00",
    "rank": "B",
@@ -14334,7 +14305,7 @@
   "a4d07d665684a925": {
    "company": "Tesla",
    "first_seen": "2026-09-02T04:03:29.446333+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Palo Alto, CA",
    "posted_at": "2026-09-02T04:03:29.446333+00:00",
    "rank": "A",
@@ -14465,7 +14436,7 @@
   "a6e95da1e2cd9a2f": {
    "company": "Emerson Electric",
    "first_seen": "2026-09-11T21:46:52.941123+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Round Rock, TX, United States",
    "posted_at": "2026-09-11T00:46:52.941123+00:00",
    "rank": "B",
@@ -14585,7 +14556,7 @@
   "a822bf2b461eca80": {
    "company": "Impulse Space",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Redondo Beach, CA",
    "posted_at": "2026-09-10T23:56:50.697690+00:00",
    "rank": "S",
@@ -14638,7 +14609,7 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-09-01T19:35:20.252756+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Towson, MD, United States",
    "posted_at": "2026-09-01T23:19:55.877495+00:00",
    "rank": "C",
@@ -14741,7 +14712,7 @@
   "aa2e1f9764e1490c": {
    "company": "Stantec",
    "first_seen": "2026-09-24T23:26:54.949329+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Chicago, IL, United States",
    "posted_at": "2026-09-24T00:26:54.949329+00:00",
    "rank": "C",
@@ -14994,7 +14965,7 @@
   "ae612e03e5f39e63": {
    "company": "Draper",
    "first_seen": "2026-08-04T18:17:59.524572+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Cambridge, MA, United States",
    "posted_at": "2026-08-04T00:00:00+00:00",
    "rank": "B",
@@ -15377,7 +15348,7 @@
    "company": "Anduril",
    "elig": "ok",
    "first_seen": "2026-09-14T21:54:43.882865+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Ashville, Ohio, United States",
    "posted_at": "2026-09-14T19:30:12+00:00",
    "rank": "S",
@@ -15483,7 +15454,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T00:04:07.653942+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-09T22:36:33+00:00",
    "rank": "S",
@@ -15518,7 +15489,7 @@
    "company": "Rocket Lab USA",
    "elig": "ok",
    "first_seen": "2026-09-17T22:54:30.566313+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Pasadena, CA",
    "posted_at": "2026-09-17T22:54:30.566313+00:00",
    "rank": "S",
@@ -15587,7 +15558,7 @@
   "b6b38f9420b17b5e": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Alameda, CA, Albuquerque, NM, Oak Ridge, TN",
    "posted_at": "2026-07-23T22:04:30+00:00",
    "rank": "A",
@@ -16226,7 +16197,7 @@
   "bf22a003da9449d9": {
    "company": "RTX",
    "first_seen": "2026-09-23T01:33:20.563974+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "East Hartford, CT",
    "posted_at": "2026-09-22T01:33:20.563974+00:00",
    "rank": "A",
@@ -16243,7 +16214,7 @@
   "bfac7f310bb5bdc4": {
    "company": "Hermeus",
    "first_seen": "2026-09-02T04:03:29.446333+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-02T01:04:36.096000+00:00",
    "rank": "S",
@@ -16717,7 +16688,7 @@
    "company": "Saronic",
    "elig": "ok",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Austin, TX",
    "posted_at": "2026-09-09T19:47:04.501000+00:00",
    "rank": "S",
@@ -17468,7 +17439,7 @@
    "filtered": true,
    "first_seen": "2026-09-03T13:12:13.677519+00:00",
    "grad_only": true,
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ",
    "posted_at": "2026-09-02T13:12:13.677519+00:00",
    "rank": "B",
@@ -17749,7 +17720,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-09-23T09:01:11.121375+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United...",
    "posted_at": "2026-09-23T13:37:37.463169+00:00",
    "rank": "A",
@@ -17919,7 +17890,7 @@
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United States",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -18352,7 +18323,7 @@
   "d90a90cca9b2bfe7": {
    "company": "TEL",
    "first_seen": "2026-09-11T19:12:48.057188+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Austin MET 15",
    "posted_at": "2026-09-12T03:11:41.818934+00:00",
    "rank": "S",
@@ -18440,7 +18411,7 @@
    "elig": "ok",
    "filtered": true,
    "first_seen": "2026-09-21T16:09:55.145946+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Fond du Lac, WI",
    "posted_at": "2026-09-22T03:26:48.285993+00:00",
    "rank": "C",
@@ -18590,7 +18561,7 @@
   "dc391f8d37db624d": {
    "company": "RTX",
    "first_seen": "2026-09-08T22:01:42.469127+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "ME-NORTH BERWICK",
    "posted_at": "2026-09-09T00:16:06.133704+00:00",
    "rank": "A",
@@ -18745,7 +18716,7 @@
   "de154c56806b4725": {
    "company": "Sonos",
    "first_seen": "2026-09-23T20:07:50.344044+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Boston, MA",
    "posted_at": "2026-09-23T19:07:50.344044+00:00",
    "rank": "C",
@@ -18831,7 +18802,7 @@
   "def44b43ab4f4d03": {
    "company": "Hermeus",
    "first_seen": "2026-09-09T16:26:01.086685+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-08-31T15:21:07.823000+00:00",
    "rank": "S",
@@ -18869,7 +18840,7 @@
    "company": "Rivian",
    "elig": "ok",
    "first_seen": "2026-09-08T19:34:55.758644+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Irvine, California",
    "posted_at": "2026-09-08T17:36:25.312000+00:00",
    "rank": "A",
@@ -18987,7 +18958,7 @@
   "e200bb29f1fd710d": {
    "company": "Generac",
    "first_seen": "2026-09-23T16:41:34.361587+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Waukesha, WI - USA",
    "posted_at": "2026-09-23T08:57:23.648232+00:00",
    "rank": "C",
@@ -19215,7 +19186,7 @@
   "e62192304cd4f4d9": {
    "company": "Honeywell",
    "first_seen": "2026-08-25T21:35:28.774500+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United States",
    "posted_at": "2026-08-25T21:35:28.774500+00:00",
    "rank": "A",
@@ -19946,6 +19917,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6a96ac07e4e60e4b8da59a42?utm_campaign=1048&utm_source=git"
   },
+  "f010ea34a767da82": {
+   "company": "Leidos",
+   "first_seen": "2026-09-25T20:32:57.675874+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
+   "location": "Albuquerque, NM",
+   "posted_at": "2026-09-25T19:32:57.675874+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://zapply.jobs/l/d/workday-leidos-external-R-00193159?s=gh-internships-2027"
+  },
   "f0574ee4ef296b58": {
    "company": "DCI",
    "first_seen": "2026-08-04T20:05:43.288045+00:00",
@@ -20448,7 +20435,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-24T23:26:54.949329+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-24T21:28:51+00:00",
    "rank": "S",
@@ -20618,7 +20605,7 @@
    "company": "GE Vernova",
    "elig": "ok",
    "first_seen": "2026-09-04T04:05:00.647613+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Rochester, NY",
    "posted_at": "2026-09-03T04:05:00.647613+00:00",
    "rank": "B",
@@ -20654,7 +20641,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-09-24T20:23:38.651052+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "United States-Utah-Magna",
    "posted_at": "2026-09-24T00:00:00+00:00",
    "rank": "A",
@@ -20690,7 +20677,7 @@
    "company": "Micron Technology",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Richardson, TX",
    "posted_at": "2026-09-22T09:01:11.121375+00:00",
    "rank": "C",
@@ -20926,7 +20913,7 @@
   "fc98b89498d3da17": {
    "company": "Philips",
    "first_seen": "2026-09-21T16:09:55.145946+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Reedsville, Pennsylvania,...",
    "posted_at": "2026-09-21T15:09:55.145946+00:00",
    "rank": "C",
@@ -21093,7 +21080,7 @@
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:51:24+00:00",
@@ -21197,7 +21184,7 @@
   "ff036d3364709434": {
    "company": "iRhythm",
    "first_seen": "2026-09-24T20:23:38.651052+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "San Francisco, CA",
    "posted_at": "2026-09-24T22:26:54.949329+00:00",
    "rank": "C",
@@ -21214,7 +21201,7 @@
   "ff985b8234f20820": {
    "company": "Stryten",
    "first_seen": "2026-09-03T08:29:43.049970+00:00",
-   "last_seen": "2026-09-25T17:01:17.470834+00:00",
+   "last_seen": "2026-09-25T20:32:57.675874+00:00",
    "location": "Salina, KS",
    "posted_at": "2026-08-31T08:29:43.049970+00:00",
    "rank": "C",
@@ -21262,32 +21249,32 @@
   },
   "ats:ashby:radiant": {
    "company": "Radiant Nuclear",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 23
   },
   "ats:ashby:rivianvw.tech": {
    "company": "Rivian",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 146
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 148
   },
   "ats:ashby:saronic": {
    "company": "Saronic",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 209
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 208
   },
   "ats:ashby:skydio": {
    "company": "Skydio",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 135
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 136
   },
   "ats:greenhouse:andurilindustries": {
    "company": "Anduril",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 2371
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 2370
   },
   "ats:greenhouse:apptronik": {
    "company": "Apptronik",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 79
   },
   "ats:greenhouse:archeraviation": {
@@ -21296,8 +21283,8 @@
   },
   "ats:greenhouse:astranis": {
    "company": "Astranis",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 164
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 165
   },
   "ats:greenhouse:betatechnologies": {
    "company": "Beta Technologies",
@@ -21317,12 +21304,12 @@
   },
   "ats:greenhouse:electraaero": {
    "company": "Electra",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 30
   },
   "ats:greenhouse:figureai": {
    "company": "Figure AI",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 97
   },
   "ats:greenhouse:fireflyaerospace": {
@@ -21347,22 +21334,22 @@
   },
   "ats:greenhouse:kairospower": {
    "company": "Kairos Power",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 28
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 29
   },
   "ats:greenhouse:lucidmotors": {
    "company": "Lucid Motors",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 426
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 429
   },
   "ats:greenhouse:oklo": {
    "company": "Oklo",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 89
   },
   "ats:greenhouse:redwoodmaterials": {
    "company": "Redwood Materials",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 141
   },
   "ats:greenhouse:relativityspace": {
@@ -21371,12 +21358,12 @@
   },
   "ats:greenhouse:rocketlab": {
    "company": "Rocket Lab",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 526
   },
   "ats:greenhouse:spacex": {
    "company": "SpaceX",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 2591
   },
   "ats:greenhouse:stokespace": {
@@ -21385,17 +21372,17 @@
   },
   "ats:greenhouse:ursamajor": {
    "company": "Ursa Major",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 104
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 106
   },
   "ats:greenhouse:vardaspace": {
    "company": "Varda Space",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 89
   },
   "ats:greenhouse:vast": {
    "company": "Vast",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 209
   },
   "ats:greenhouse:zipline": {
@@ -21408,33 +21395,33 @@
   },
   "ats:lever:hermeus": {
    "company": "Hermeus",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 85
   },
   "ats:lever:shieldai": {
    "company": "Shield AI",
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 576
   },
   "jobright-engineering": {
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
-   "rows": 2104
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
+   "rows": 2089
   },
   "sndsh-2027": {
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "rows": 265
   },
   "zapply-2027": {
-   "last_ok": "2026-09-25T17:01:17.470834+00:00",
+   "last_ok": "2026-09-25T20:32:57.675874+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 600
   }
