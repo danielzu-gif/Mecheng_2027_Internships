@@ -1,13 +1,13 @@
 # Summer 2027 board
-_rebuilt 2026-09-27 16:49 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-09-27 20:00 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**77 open · 19 apply-now · 0 saved · 3 applied all-time**
+**78 open · 19 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
 ## ⭐ Apply now (19)
 
-- [ ] **Astranis** — Propulsion Engineer Intern (Summer 2027) · posted Sep 23 (3d ago) · San Francisco · S27 confirmed · [apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) <!--a:9a6a0ab96af7565a-->
+- [ ] **Astranis** — Propulsion Engineer Intern (Summer 2027) · posted Sep 23 (4d ago) · San Francisco · S27 confirmed · [apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) <!--a:9a6a0ab96af7565a-->
   - [ ] 📌 keep on the board <!--s:9a6a0ab96af7565a-->
 - [ ] **Astranis** — Propulsion Test Intern (Summer 2027) · posted Sep 23 (4d ago) · San Francisco · S27 confirmed · [apply](https://job-boards.greenhouse.io/astranis/jobs/4705640006) <!--a:2e8a0d215b85cb02-->
   - [ ] 📌 keep on the board <!--s:2e8a0d215b85cb02-->
@@ -47,7 +47,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rocket Lab USA** — Systems Engineer Intern · posted Sep 17 (9d ago) · Pasadena, CA · S27 confirmed · [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003?utm_source=Simplify&ref=Simplify) <!--a:b63f0a37b65b7d4a-->
   - [ ] 📌 keep on the board <!--s:b63f0a37b65b7d4a-->
 
-- [ ] **Saronic Technologies** — Manufacturing Engineer Intern (Summer 2027) · posted Sep 26 (40h ago) · Austin, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa1c26edbc0e60e37e1370f?utm_campaign=1048&utm_source=git) <!--a:93de2ebda8ff59e2-->
+- [ ] **Saronic Technologies** — Manufacturing Engineer Intern (Summer 2027) · posted Sep 26 (44h ago) · Austin, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa1c26edbc0e60e37e1370f?utm_campaign=1048&utm_source=git) <!--a:93de2ebda8ff59e2-->
   - [ ] 📌 keep on the board <!--s:93de2ebda8ff59e2-->
 
 - [ ] **Hermeus** — Build Reliability Engineering Intern - Spring/Summer 2027 · posted Sep 22 (5d ago) · Atlanta, GA · S27 confirmed · [apply](https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a) <!--a:32c4eed2c8b7c112-->
@@ -61,7 +61,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:c5e2b935fab96311-->
 - [ ] **Northrop Grumman** — 2027 Mechanical Engineer Intern - San Diego CA · posted Sep 22 (5d ago) · United States-California-San Diego · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252139?s=gh-internships-2027) <!--a:cab1468e92c2f75e-->
   - [ ] 📌 keep on the board <!--s:cab1468e92c2f75e-->
-- [ ] **Northrop Grumman** — 2027 Manufacturing Engineer Intern · posted Sep 18 (8d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251750?s=gh-internships-2027) <!--a:74fab9ad5bdc6a67-->
+- [ ] **Northrop Grumman** — 2027 Manufacturing Engineer Intern · posted Sep 18 (9d ago) · United States-Mississippi-Iuka · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251750?s=gh-internships-2027) <!--a:74fab9ad5bdc6a67-->
   - [ ] 📌 keep on the board <!--s:74fab9ad5bdc6a67-->
 - [ ] **Northrop Grumman** — 2027 Systems Engineer Intern - Woodland Hills CA · posted Sep 23 (4d ago) · United... · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) <!--a:d076ff5866c562b0-->
   - [ ] 📌 keep on the board <!--s:d076ff5866c562b0-->
@@ -92,15 +92,15 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Northrop Grumman** — 2027 Digital Engineer Intern - Baltimore MD · posted Sep 21 (6d ago) · United States-Maryland-Baltimore · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251150?s=gh-internships-2027) <!--a:b98a57983a9c8582-->
   - [ ] 📌 keep on the board <!--s:b98a57983a9c8582-->
 
-- [ ] **RTX** — Mechanical/Industrial Engineering Co-op (Spring/Summer 2027) · posted Sep 17 (9d ago) · FL-MELBOURNE · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872434?s=gh-internships-2027) <!--a:94c3fecc583c3c41-->
+- [ ] **RTX** — Mechanical/Industrial Engineering Co-op (Spring/Summer 2027) · posted Sep 17 (10d ago) · FL-MELBOURNE · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872434?s=gh-internships-2027) <!--a:94c3fecc583c3c41-->
   - [ ] 📌 keep on the board <!--s:94c3fecc583c3c41-->
 - [ ] **RTX** — Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027) · posted Sep 23 (4d ago) · MN-BURNSVILLE-WEST · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874254?s=gh-internships-2027) <!--a:73ddfa5382a5bc47-->
   - [ ] 📌 keep on the board <!--s:73ddfa5382a5bc47-->
 - [ ] **RTX** — Systems Engineer - Spring/Summer Co-op 2027 - (Onsite) · posted Sep 19 (8d ago) · Cedar Rapids, IA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aaf66373d96632d741b21b7?utm_campaign=1048&utm_source=git) <!--a:3408f7189c2413ac-->
   - [ ] 📌 keep on the board <!--s:3408f7189c2413ac-->
-- [ ] **RTX** — Skillbridge: Heat Transfer and Thermodynamic Systems Intern · posted Sep 17 (9d ago) · CT-EAST HARTFORD-RTRC K · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875881?s=gh-internships-2027) <!--a:6a59d13894e7ff34-->
+- [ ] **RTX** — Skillbridge: Heat Transfer and Thermodynamic Systems Intern · posted Sep 17 (10d ago) · CT-EAST HARTFORD-RTRC K · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875881?s=gh-internships-2027) <!--a:6a59d13894e7ff34-->
   - [ ] 📌 keep on the board <!--s:6a59d13894e7ff34-->
-- [ ] **RTX** — Industrial Engineering Co-op (Spring/Summer 2027) · posted Sep 21 (5d ago) · IA-DECORAH · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873166?s=gh-internships-2027) <!--a:058872ce870b8abe-->
+- [ ] **RTX** — Industrial Engineering Co-op (Spring/Summer 2027) · posted Sep 21 (6d ago) · IA-DECORAH · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873166?s=gh-internships-2027) <!--a:058872ce870b8abe-->
   - [ ] 📌 keep on the board <!--s:058872ce870b8abe-->
 - [ ] **RTX** — Aftermarket & Sustainment Engineering Repair Engineering Intern (Summer 2027) (Onsite) · posted Sep 22 (5d ago) · CT-EAST HARTFORD-ETC · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874527?s=gh-internships-2027) <!--a:10b51bed828dc7c8-->
   - [ ] 📌 keep on the board <!--s:10b51bed828dc7c8-->
@@ -136,10 +136,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rivian** — Engineering Intern/Co-op - Test and Validation - Charging Products · posted Sep 18 (9d ago) · Torrance, CA · S27 confirmed · [apply](https://careers.rivian.com/jobs/33725?icims=1&utm_source=Simplify&ref=Simplify) <!--a:1cbf209cec15ed60-->
   - [ ] 📌 keep on the board <!--s:1cbf209cec15ed60-->
 
-- [ ] **Waymo** — Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics · posted Sep 25 (41h ago) · Mountain View, CA · S27 confirmed · [apply](https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify) <!--a:30cc2f06e53c1192-->
+- [ ] **Waymo** — Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics · posted Sep 25 (44h ago) · Mountain View, CA · S27 confirmed · [apply](https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify) <!--a:30cc2f06e53c1192-->
   - [ ] 📌 keep on the board <!--s:30cc2f06e53c1192-->
 
-- [ ] **Zipline** — Flight Test Engineer Intern (Summer 2027) · posted Sep 21 (5d ago) · South San Francisco,... · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-flyzipline-7999924003?s=gh-internships-2027) <!--a:ca34186be3a02236-->
+- [ ] **Zipline** — Flight Test Engineer Intern (Summer 2027) · posted Sep 21 (6d ago) · South San Francisco,... · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-flyzipline-7999924003?s=gh-internships-2027) <!--a:ca34186be3a02236-->
   - [ ] 📌 keep on the board <!--s:ca34186be3a02236-->
 
 - [ ] **General Motors** — 2027 Summer Intern - Manufacturing Controls Engineer · posted Sep 18 (9d ago) · Arlington, TX, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a907f022e254e06fb9f1348?utm_campaign=1048&utm_source=git) <!--a:710fb4ff83ed2e96-->
@@ -163,7 +163,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Rocket Lab** — R&D Engineering Intern Summer 2027 · posted Sep 18 (9d ago) · Albuquerque, NM · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-rocketlab-7996576003?s=gh-internships-2027) <!--a:2ebfc516cec40ea4-->
   - [ ] 📌 keep on the board <!--s:2ebfc516cec40ea4-->
 
-## ▫️ Worth a look (10)
+## ▫️ Worth a look (11)
 
 - [ ] **Sandia National Laboratories** — Intern, R&D Undergraduate Summer - Design Engineering Mechanical Design, Onsite · posted Sep 18 (9d ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa183672f936e4a53dac027?utm_campaign=1048&utm_source=git) <!--a:bb773ae763f71b14-->
   - [ ] 📌 keep on the board <!--s:bb773ae763f71b14-->
@@ -174,7 +174,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **BWXT** — Mechanical Engineering Intern · posted Sep 17 (10d ago) · Jonesborough, TN, United States · season unstated · [apply](https://jobright.ai/jobs/info/6aac54bc95c707f49dff0e90?utm_campaign=1048&utm_source=git) <!--a:7ed62def86a71e89-->
   - [ ] 📌 keep on the board <!--s:7ed62def86a71e89-->
 
-- [ ] **BorgWarner** — Power Electronics Intern (Year-Round) · posted Sep 18 (8d ago) · Kokomo Technical · season unstated · [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-3426?s=gh-internships-2027) <!--a:d9316670103ebbb3-->
+- [ ] **BorgWarner** — Power Electronics Intern (Year-Round) · posted Sep 18 (9d ago) · Kokomo Technical · season unstated · [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-3426?s=gh-internships-2027) <!--a:d9316670103ebbb3-->
   - [ ] 📌 keep on the board <!--s:d9316670103ebbb3-->
 
 - [ ] **Eaton** — R&D Engineer Intern - Research & Development Engineering · posted Sep 19 (8d ago) · Cleveland, TN · S27 confirmed · [apply](https://eaton.eightfold.ai/careers/job/687239185039?utm_source=Simplify&ref=Simplify) <!--a:4996d068f215d388-->
@@ -191,8 +191,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Textron** — 2027 Internship - Design Engineer (AeroMotion - Monroe, WA) · posted Sep 23 (4d ago) · Monroe, Washington, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ab425ff0e0ae54eeea46e6a?utm_campaign=1048&utm_source=git) <!--a:188f6a60a9dbac9b-->
   - [ ] 📌 keep on the board <!--s:188f6a60a9dbac9b-->
+- [ ] **Textron** — 2027 Internship: CWC Manufacturing Engineer (Muskegon, MI) · posted Sep 25 (2d ago) · Muskegon, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ab620edc6fe0dec811a44bc?utm_campaign=1048&utm_source=git) <!--a:7a17d014534fe528-->
+  - [ ] 📌 keep on the board <!--s:7a17d014534fe528-->
 - [ ] **Textron** — 2027 Internship - Customer Service Engineer- Structures · posted Sep 23 (4d ago) · Wichita, KS, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa1cd623272060a8e3f2438?utm_campaign=1048&utm_source=git) <!--a:ee98e1b8d32056a2-->
   - [ ] 📌 keep on the board <!--s:ee98e1b8d32056a2-->
 
-### · Wide net (121)
+### · Wide net (120)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
