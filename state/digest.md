@@ -1,8 +1,28 @@
-# Brief 2026-09-29 10:22 UTC
+# Brief 2026-09-29 22:10 UTC
 
-4 new since the last brief.
+24 new since the last brief.
 
-- `A` **General Motors** — 2027 Summer Intern – Motorsports Aero-Thermal Engineering · Milford, Michigan, United... · score 9 · [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619861?s=gh-internships-2027)
-- `C` **ArcBest** — Intern, Mechatronics Engineer - 2027 Vaux · Fort Smith, AR, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abb1df8d2914e9273eef9e6?utm_campaign=1048&utm_source=git)
-- `C` **Therma** — Mechanical Engineering / Process Engineering Intern Summer 2027 · San Jose, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abb26dad2914e9273eefc3a?utm_campaign=1048&utm_source=git)
-- `C` **MITRE** — Systems Engineer Intern · McLean, VA, United States · score 3 · [apply](https://jobright.ai/jobs/info/6abb1b88d2914e9273eef95c?utm_campaign=1048&utm_source=git)
+- `S` **Blue Origin** — Summer 2027 Electrical Systems Engineering Internship - Undergraduate · Greater Seattle Area · score 8 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71438?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 Mechanical Engineering Intern - Clearfield UT · United States-Utah-Clearfield · score 11 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253458?s=gh-internships-2027)
+- `A` **RTX** — Mechanical Engineering Internship (Summer 2027) · MA-TEWKSBURY-TB3 · score 11 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878666?s=gh-internships-2027)
+- `A` **RTX** — Electrical Design Engineer Intern (Summer 2027) · CT-WINDSOR LOCKS-B1 · score 9 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01877254?s=gh-internships-2027)
+- `A` **RTX** — Manufacturing Engineering Co-op (Spring/Summer 2027) · ND-JAMESTOWN-P1 · score 9 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870846?s=gh-internships-2027)
+- `A` **RTX** — Systems Engineer Co-op - Avi MIL Fms/Das · Cedar Rapids, IA · score 7 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240?utm_source=Simplify&ref=Simplify)
+- `A` **RTX** — Test Engineering Intern · Burnsville, MN · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01872154?utm_source=Simplify&ref=Simplify)
+- `A` **Northrop Grumman** — 2027 Test Engineering Intern - VSFB CA · United... · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253497?s=gh-internships-2027)
+- `A` **RTX** — 2027 Systems Engineering Co-op – Special Operations Aviation Mainline (Onsite) · IA-CEDAR RAPIDS · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870331?s=gh-internships-2027)
+- `A` **RTX** — Electrical Production Support Engineer Intern - Summer 2027 · Tucson, AZ · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115?utm_source=Simplify&ref=Simplify)
+- `B` **Draper** — GN&C Modeling, Simulation and Analysis Intern (Summer 2027) · Cambridge, MA · score 5 · [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002773?s=gh-internships-2027)
+- `C` **Aquatech** — 2027 Summer Internship - Quality (Mechanical Engineering) - AIC · Canonsburg, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abbcf583217d1d13329b1d6?utm_campaign=1048&utm_source=git)
+- `C` **Aquatech** — 2027 Summer Internship - Mechanical Engineering - AIC · Canonsburg, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abbcf3ad6acfd3dd29fa005?utm_campaign=1048&utm_source=git)
+- `C` **Jacobs** — Building Mechanical Engineering Intern (Data Centers) - Summer 2027 · San Jose, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abbdcb6b23c6fb2b81a34d5?utm_campaign=1048&utm_source=git)
+- `C` **Haag, a Salas O'Brien Company** — Mechanical Engineering Intern - Summer 2027 · Raleigh, NC, United States · score 6 · [apply](https://jobright.ai/jobs/info/6abbe1dd92b2612ef0f8b2bb?utm_campaign=1048&utm_source=git)
+- `C` **ABB** — R&D Mechanical Engineering Co-op · Greenville, South Carolina,... · score 4 · [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048188?s=gh-internships-2027)
+- `C` **Velastra** — Mechanical Engineering Intern · Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abbc21c7119e56191ce9135?utm_campaign=1048&utm_source=git)
+- `C` **Brazeway** — Heat Transfer Product Development Intern · Adrian, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abbd2d7d6acfd3dd29fa106?utm_campaign=1048&utm_source=git)
+- `C` **CannonDesign** — Mechanical Student Intern · Chicago, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abbdb6da9a644f9656884f7?utm_campaign=1048&utm_source=git)
+- `C` **OPENSHELF** — Mechanical Engineer Intern · New York, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6a5ae41463a8f619507c8ec0?utm_campaign=1048&utm_source=git)
+- `C` **Thornton Tomasetti** — Mechanical Engineer Intern · New York, NY, USA · score 4 · [apply](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7270?s=gh-internships-2027)
+- `C` **Cisco** — Mechanical Engineer II (Co-op) - United States · Maynard, Massachusetts, US · score 4 · [apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026912?s=gh-internships-2027)
+- `C` **RENK America** — Intern- Mechanical Engineering- Transmissions · Muskegon, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abae73f7220f52e62ae8e4a?utm_campaign=1048&utm_source=git)
+- `C` **RENK America** — Intern- Mechanical Engineering- Engines · Muskegon, MI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abae73d3db4ca81fc7c52f2?utm_campaign=1048&utm_source=git)
