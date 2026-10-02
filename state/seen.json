@@ -4,7 +4,7 @@
   "cd97747c42ac0010": "2026-08-07T18:29:28.824045+00:00",
   "d8926edb4eb8cf78": "2026-08-07T18:29:28.824045+00:00"
  },
- "ats_last_warned": "2026-10-01T10:40:52.805056+00:00",
+ "ats_last_warned": "2026-10-02T16:27:44.649729+00:00",
  "board_issue": 4,
  "desc_cache": {
   "007dfc3bbc33b8d6": {
@@ -459,6 +459,10 @@
    "checked": "2026-09-18T19:04:29.317078+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Mechanical Engineering Intern @ BWXT | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Mechanical Engineering Intern\",\"description\":\" BWXT is a U.S.-based manufacturing and engineering company providing nuclear solutions for security, clean energy, environmental restoration, medicine, and space exploration. The Mechanical Engineering Intern will develop engineering solutions in a manufacturing and precision machining environment by creating drawings and procedures, supporting tooling and process design, conducting testing and analysis, and assisting with project management and material procurement. Responsibilities Work alongside our experienced Engineering team to create and update drawings and procedures Assist in designing processes and tooling solutions tailored for a manufacturing/precision machining environment Participate in testing and analysis to support engineering projects Contribute to project management efforts and the procurement of materials as needed Complete your internship with the opportunity to present your projects and insights to the team Skills Currently enrolled in a Mechanical Engineering, Civil Engineering, Manufacturing Engineering, or Mechanical Engineering Technology program Must be a sophomore or higher at the time the internship begins U.S. citizenship A cumulative GPA of 3.0 or higher Completed coursework in Statistics, Mechanics of Materials, and/or Solid Modeling A strong passion for engineering innovation and learning in a nuclear environment Benefits A housing stipend for interns whose home of record is more than 50 miles from Jonesborough, TN An inclusive atmosphere that celebrates new perspectives and supports collaboration between different generations. The chance to be part of a mission-driven organization making a positive impact on the future of energy. Opportunities for co"
   },
+  "330c20121593177d": {
+   "checked": "2026-10-02T16:27:44.649729+00:00",
+   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"VAMC01\" } }, \"hiringOrganization\" : { \"name\" : \"0090 CORP-Corporate Office\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 College Technical Intern - McLean VA\", \"@type\" : \"PropertyValue\", \"value\" : \"R10253146\" }, \"datePosted\" : \"2026-10-02\", \"validThrough\" : \"2026-10-07\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 College Technical Intern - McLean VA\", \"description\" : \"RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. An internship at Northrop Grumman is unique. Sure, you\u00e2\u0080\u0099ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you\u00e2\u0080\u0099ll gain something even more valuable: pride in what you\u00e2\u0080\u0099ve done. Join us and launch your career. We\u00e2\u0080\u0099ll support you with training, and our shared vision of global security. Northrop Grumman is seeking an Engineer for an internship opportunity. This position will be located at our Defen"
+  },
   "33585c5c2389ddf6": {
    "checked": "2026-09-23T09:01:11.121375+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"CAWH37\" } }, \"hiringOrganization\" : { \"name\" : \"0090 CORP-Corporate Office\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 Systems Engineer Intern - Woodland Hills CA\", \"@type\" : \"PropertyValue\", \"value\" : \"R10249319\" }, \"datePosted\" : \"2026-09-23\", \"validThrough\" : \"2026-09-25\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 Systems Engineer Intern - Woodland Hills CA\", \"description\" : \"RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: No Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. Job Description Northrop Grumman Mission Systems is a trusted provider of mission-enabling solutions for global security. We have a wide portfolio of secure, affordable, integrated, and multi-domain systems and technologies. Our differentiated battle management and cyber solutions deliver timely, mission-enabling information and provide superior situational awareness and understanding to protect the U.S. and its global allies. An internship at Northrop Grumman is unique. Sure, you\u00e2\u0080\u0099ll learn new"
@@ -623,10 +627,6 @@
    "checked": "2026-09-03T04:01:44.341371+00:00",
    "snippet": "Find a Career - Textron Go to the main content section. | My Account Options | Sign In This service is set to disconnect automatically after {0} minutes of inactivity. Your session will end in {1} minutes. Click OK to reset the timer to {0} minutes. You have been signed out. This service is set to sign out after {0} minutes of inactivity. Job Search My Jobpage Basic Search | Advanced Search | Jobs Matching My Profile | My Submissions | My Job Cart | My Saved Searches | Beginning of the main content section. Return to the home page Printable Format Return to previous position on page ( Job Number: ) Description Qualifications - : : : : Primary Location : Other Locations : Job Field : Schedule : Job Level : Job Type : Shift : Travel : : : Job Posting : Refer a friend for this job Refer a friend Refer a candidate Submit a candidate's profile var _ftl = { _acts:[['reqListAllJobsPage','joblist'],['requisitionDescriptionPage','jobdetail'],['requisitionDescriptionViewPage','jobview'],['requisitionDescriptionPrintablePage','jobprint'],['unavailableRequisitionPrintablePage','jobprintunavailable'],['reqListBasicPage','jobsearch'],['reqListAdvancedPage','moresearch'],['unavaibleRequisitionPage','unavailablerequisition'],['myJobCartPage','mycart'],['reqListPersonalizedPage','myjobs'],['mySavedSearchesPage','mysearches'],['applicationStatusDetailPage','applicationstatusdetail'],['applicationStatusDetailPrintableFormatPage','applicationstatusdetailprint'],['myReferralsPage','myreferrals'],['mySubmissionsPage','mysubmissions'],['withdrawApplicationConfirmationPage','withdrawapplicationconfirm'],['confirmCandidatePage','confirmcandidate'],['correspondenceListPage','emaillist'],['correspondenceDetailPage','emaildetail'],['correspondencePrintableFormatPage','emailprint'],['requestErrorPage','error'],['notAvailablePage','notavailable'],['noJavaScriptPage','nojavascript'],['unsupportedPage','unsupported'],['selectorPage','selector'],['ftlpspage','ftlps']], _ints:['topNavInterface','req"
   },
-  "448c80528b02b08b": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Info Sec Systems Engineer @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern, Info Sec Systems Engineer\",\"description\":\" L3Harris Technologies is seeking an Information Security Systems Engineer Intern. The role supports the assessment and protection of enterprise systems, applications, networks, and security infrastructure by identifying vulnerabilities and helping develop security controls, policies, and engineering standards. The intern will also assist with security technology evaluations, implementation, and technical guidance for clients and internal stakeholders. Responsibilities Provide guidance and oversight in assessing security infrastructure and network and systems design to ensure system/network security Identify security risks, threats and vulnerabilities of networks, systems, applications and new technology initiatives Provide oversight in the development, testing and operation of firewalls, intrusion detection systems, enterprise anti-virus systems and software deployment tools Develop policies and procedures for securing the system infrastructure and applications Develop complex technical and programmatic assessments, evaluate engineering and integration initiatives and provide technical support to assess security policies, standards and guidelines Perform product evaluations, recommend and implement products/services for network security Interact with clients and provide recommendations on information assurance engineering standards, implementation dependencies and changing information assurance related technologies Skills To be eligible, applicants must be pursuing a Bachelor's degree in Computer Science, Computer Engineering, Information Technology/Computer Information Systems with Network Focus or Communications Focus, Electrical Engineering or related fiel"
-  },
   "4571ce406101ae69": {
    "checked": "2026-09-25T09:19:00.776760+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Internship - Engineering Mechanical Systems - Hydraulics/Gear/Brakes @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Internship - Engineering Mechanical Systems - Hydraulics/Gear/Brakes\",\"description\":\" Textron is a global company with aviation and other industry-leading brands. The Engineering Mechanical Systems Intern will support the design, development, testing, certification, and production of aircraft mechanical systems such as hydraulics, landing gear, brakes, and flight controls. Responsibilities Incorporate designs utilizing CATIA V5 design and drafting software 3D model development in support of detail, assembly and installation drawings Support build of prototypes of systems components for testing; set up and run laboratory simulations Assist in the creation of test plans and reports Create presentations to convey test results, design issues, or trade study recommendations Communicate and coordinate with Engineering technical sections, Manufacturing, Tooling, Technical Publications, and other functional areas Check Peer drawings, initiate the drawing routing process and support Space Reviews (i.e. CATIA V5 Model Management/Interference Checks) Support build of production aircraft, which includes coordination with Manufacturing Engineering to support design interpretation and response to workmanship and producibility issues Coordinate design modifications to experimental aircraft in support of testing and qualification Support the investigation and response to customer aircraft and system component issues Skills Pursuing a Bachelor's Degree in: Mechanical Engineering Aerospace Engineering Other related technical degree Working knowledge of FAA and/or Military processes and procedures to support certification schedules is beneficial Working knowledge of generic CAD design tool process"
@@ -707,10 +707,6 @@
    "checked": "2026-09-08T13:15:11.846965+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"ALHU12\" } }, \"hiringOrganization\" : { \"name\" : \"0090 CORP-Corporate Office\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 Systems Engineering Intern- Huntsville AL\", \"@type\" : \"PropertyValue\", \"value\" : \"R10249774\" }, \"datePosted\" : \"2026-09-08\", \"validThrough\" : \"2026-09-11\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 Systems Engineering Intern- Huntsville AL\", \"description\" : \"RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. An internship at Northrop Grumman is unique. Sure, you\u00e2\u0080\u0099ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you\u00e2\u0080\u0099ll gain something even more valuable: pride in what you\u00e2\u0080\u0099ve done. Join us and launch your career. We\u00e2\u0080\u0099ll support you with training, and our shared vision of global security. Northrop Grumman is seeking a Systems Engineer for an internship opportunity. This position will be loc"
   },
-  "4d2d1970467d5788": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Systems Engineer @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern, Systems Engineer\",\"description\":\" L3Harris Technologies is seeking an Intern, Systems Engineer to support the development of complex system solutions. The role performs operational analysis, evaluates requirements, supports systems architecture and integration, conducts testing, troubleshoots software and hardware, and communicates technical plans and results. Responsibilities Perform operational analysis and develop concept of operations, design and implementation plans Develop test plans, procedures & cases Conduct tests and document results Use software tools, scripting and software/hardware troubleshooting Analyze systems requirements from end systems and users Supports development and evaluation of complex system designs and architectures Develop and deliver presentations to communicate design activity plans and status to internal and external customers Skills To be elligible, candidate must be pursuing a Bachelor\\u0019s degree in Systems Engineering, Electrical Engineering, Mechanical Engineering, Computer Engineering, Computer Science, Physics, Mathematics, Aviation, Aerospace Engineering, or related field at an accredited university Coursework and/or experience in systems engineering, systems architecture, systems analysis and design, system performance modeling, integration and/or project management, and/or\\u0002model-based\\u0002systems engineering Familiar with Rhapsody Benefits 9/80 work schedule: employees work 9 out of every 14 days, totaling 80 hours worked, with every other Friday off Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It was founded in 1895, and is headquartered in Melbourne, Florida, USA, with a workforce of 10001+ employees. "
-  },
   "4dbf99886284a03f": {
    "checked": "2026-09-16T14:32:57.462171+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Internship - Engineering Mechanical Systems - Flight Controls/Doors @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Internship - Engineering Mechanical Systems - Flight Controls/Doors\",\"description\":\" Textron is a global company with a diverse portfolio of aviation and technology brands. The intern will support the development, planning, organization, and execution of complex mechanical system design assignments for Textron Aviation aircraft, including flight controls, doors, and related aircraft systems. The role also involves CAD modeling, prototype testing, technical documentation, design coordination, and support for aircraft production and qualification activities. Responsibilities Incorporate designs utilizing CATIA V5 design and drafting software 3D model development in support of detail, assembly and installation drawings Support build of prototypes of systems components for testing; set up and run laboratory simulations Assist in the creation of test plans and reports Create presentations to convey test results, design issues, or trade study recommendations Communicate and coordinate with Engineering technical sections, Manufacturing, Tooling, Technical Publications, and other functional areas Check Peer drawings, initiate the drawing routing process and support Space Reviews (i.e. CATIA V5 Model Management/Interference Checks) Support build of production aircraft, which includes coordination with Manufacturing Engineering to support design interpretation and response to workmanship and producibility issues Coordinate design modifications to experimental aircraft in support of testing and qualification Support the investigation and response to customer aircraft and system component issues Skills Pursuing a Bachelor's Degree in: Mechanical Engineering Aerospace Engineering Other relate"
@@ -730,10 +726,6 @@
   "4f230dbc23892b1d": {
    "checked": "2026-09-01T16:27:59.214215+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Early Career Internship Program: Engineering Technology - Power Electronics @ Eaton | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Early Career Internship Program: Engineering Technology - Power Electronics\",\"description\":\" Eaton develops intelligent power management solutions and offers early career programs designed to provide hands-on experience, mentorship, and exposure to global engineering opportunities. This 12-week Engineering and Technology internship focuses on power electronics technology platforms, common hardware building blocks, and product engineering projects involving wide band gap and medium-voltage power conversion, solid-state circuit protection, and energy intelligence. Responsibilities You\u2019ll support product engineering projects driving the next wave of innovation for Eaton\u2019s products Assignments will either be supporting a specific business unit/product line or working with broader technologies across the enterprise The summer internship culminates with a formal presentation where students showcase their success stories to leaders of the organization and receive feedback on their performance Skills Actively enrolled or received a master's degree in electrical or electronics engineering from an accredited institution Must be geographically flexible to relocate within the United States Excellent verbal and written communication skills including the ability to effectively explain technical concepts This role may include travel (up to 25%) within a local region as determined by the Engineering & Technology Assignment Manager Demonstrate geographic flexibility to relocate within the United States for the duration of the Internship Program to an Eaton facility including (but not limited to): Raleigh, NC; Pittsburgh, PA; Milwaukee, WI; or Torrance, CA Industry experience in Power Electronics incl"
-  },
-  "4f2691f659a3c78f": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Manufacturing Engineer (Anaheim, CA) @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern, Manufacturing Engineer (Anaheim, CA)\",\"description\":\" L3Harris Technologies is seeking a Manufacturing Engineering Intern to support production activities involving cable assemblies, PCBA testing, and complex electromechanical assembly integration. The role assists with manufacturing processes, work instructions, tooling, new product introductions, root-cause investigations, process controls, and continuous improvement initiatives while collaborating with cross-functional product teams. Responsibilities Implement and analyze manufacturing plans and projects Design, develop, and transfer manufacturing and engineering tools, strategies, and systems Develop manufacturing strategies for specific products and processes Interface with engineering to coordinate the release of new products Estimate manufacturing costs, determine time standards, and recommend tooling and process requirements for new or existing product lines Maintain records and reporting systems to coordinate manufacturing operations Work closely with cross-functional Integrated Product Teams (IPTs) to oversee the development and transfer of new products from Engineering to Production Create work instructions, assembly routings, and establish labor/cycle time standards Perform economic analyses to identify and address variances in planned labor and cycle times Maintain manufacturing processes and oversee process equipment Develop/procure manufacturing tooling and qualify materials required for new product introduction (NPI) Attend daily shift huddles and support product line key performance indicators (KPIs) Support root cause analyses and implement corrective actions to address product non-conformances Skills To be eligible, appli"
   },
   "4f883978706c0db3": {
    "checked": "2026-09-05T11:48:08.683242+00:00",
@@ -758,10 +750,6 @@
   "52411a732f0192c5": {
    "checked": "2026-09-11T13:11:28.641963+00:00",
    "snippet": "(function() { const theme = localStorage.getItem('theme') || 'light'; if (theme === 'dark') { document.documentElement.classList.add('dark'); } document.documentElement.classList.add('theme-loaded'); })(); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5LFC4L6M'); window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-6H6Q1VVY5L'); (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, \"clarity\", \"script\", \"vkrgv07ff6\"); Latest Entry-Level & New Grad Jobs \u2014 Apply in Seconds | Zapply { \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"@id\": \"https://zapply.jobs/#organization\", \"name\": \"Zapply\", \"alternateName\": \"Zapply Jobs\", \"url\": \"https://zapply.jobs/\", \"logo\": \"https://zapply.jobs/zapply-icon.png\", \"description\": \"Zapply is a free Chrome extension and job board that automates job applications for students, new graduates, and early-career professionals.\", \"address\": { \"@type\": \"PostalAddress\", \"streetAddress\": \"ABC\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78727\", \"addressCountry\": \"US\" }, \"contactPoint\": { \"@type\": \"ContactPoint\", \"email\": \"support@zapply.jobs\", \"contactType\": \"customer support\" }, \"sameAs\": [ \"https://www.instagram.com/zapply.jobs\", \"https://www.tiktok.com/@zapply.jobs\", \"https://www.linkedin.com/company/zapply-jobs\", \"https://discord.com/invite/UswBsduwcD\", \"https://www.reddit.com/r/Zapply/\", \"https://github.com/zapplyjobs\" ] } @font-face{font-family:Montserrat;font-style:nor"
-  },
-  "5269535c6402a09f": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Intern, Mechanical Engineer @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Intern, Mechanical Engineer\",\"description\":\" L3Harris Technologies is seeking a Mechanical Engineer Intern to support new product development and factory support for existing products. The role will translate product requirements into mechanical specifications and test plans, conduct structural and thermal analysis and verification testing, and collaborate on CAD documentation and engineering changes. Responsibilities Provide mechanical engineering support for both new product development activities as well as factory support of existing products Translate product requirements into a mechanical specification and test plan to be used for development Execute verification testing as defined by the mechanical specification and test plan Conduct design analysis and testing, both structural and thermal, to prove design will meet customer requirements Responsible for understanding customer needs, generating test procedures and finally executing the test Generate and/or process engineering change orders (ECO\u2019s) as required Work directly with mechanical designers on CAD models and part documentation Skills To be eligible, candidate's must be pursuing Bachelor's degree in mechanical engineering, Aerospace Engineering, Engineering Mechanics, Materials Science Engineering or related field Benefits Job Schedule: 9/80: Employees work 9 out of every 14 days \u2013 totaling 80 hours worked, and have every other Friday off Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It was founded in 1895, and is headquartered in Melbourne, Florida, USA, with a workforce of 10001+ employees. Its website is https://www.l3harris.com. Company H1B Sponsorship L3Harris Technologies has a track record"
   },
   "531de5b27f94dd8b": {
    "checked": "2026-08-20T14:04:40.859823+00:00",
@@ -879,6 +867,10 @@
    "checked": "2026-09-16T14:32:57.462171+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Internship - AES Mechanical Installations Engineer @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Internship - AES Mechanical Installations Engineer\",\"description\":\" Textron is a global company with aviation and other industry-leading brands. The 2027 AES Mechanical Installations Engineering Intern will design avionics and electrical systems equipment installations for aircraft, prepare engineering drawings, perform analyses, and assist with engineering documentation and certification activities. Responsibilities Prepare engineering drawings for avionics and electrical system equipment installation using computer based drafting tools (CATIA and/or IAI HarnesSys) Design installation of cockpit displays and controls, remote line replacement units, antennas, sensors, wire bundles and secondary support structure Perform analyses requiring frequent application of engineering principles Assist in preparing engineering trade studies, functional test procedures, certification reports, and other engineering documents Skills Prefer completion of 60 hours while currently enrolled in Bachelor of Science in Engineering (Mechanical or Aerospace) Strong mechanical aptitude Microsoft Office applications Time management skills Critical thinking skills in order to troubleshoot Excellent verbal and written communication skills Professional and diplomatic demeanor Working knowledge of CATIA V5 Applicants must be authorized to work lawfully in the U.S. for Textron Aviation at the time of making application, and visa sponsorship is not available for this position, including for F-1 students and J-1 exchange visitors who will need employment sponsorship Summer internships are 40 hours per week typically from late-May to early-August lasting 10 weeks Candidates must be able to work onsite for the entirety of the int"
   },
+  "5c8deb2916bcf73a": {
+   "checked": "2026-10-02T16:27:44.649729+00:00",
+   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"VAMC01\" } }, \"hiringOrganization\" : { \"name\" : \"0090 CORP-Corporate Office\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 College Technical Intern - McLean VA\", \"@type\" : \"PropertyValue\", \"value\" : \"R10253146\" }, \"datePosted\" : \"2026-10-02\", \"validThrough\" : \"2026-10-07\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 College Technical Intern - McLean VA\", \"description\" : \"RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. An internship at Northrop Grumman is unique. Sure, you\u00e2\u0080\u0099ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you\u00e2\u0080\u0099ll gain something even more valuable: pride in what you\u00e2\u0080\u0099ve done. Join us and launch your career. We\u00e2\u0080\u0099ll support you with training, and our shared vision of global security. Northrop Grumman is seeking an Engineer for an internship opportunity. This position will be located at our Defen"
+  },
   "5cb8f87fe4ecfd93": {
    "checked": "2026-08-18T22:33:24.771629+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Propulsion and Fluids Intern @ True Anomaly | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Propulsion and Fluids Intern\",\"description\":\" True Anomaly develops autonomous spacecraft, advanced payloads, mission software, and space-based interceptors to support space superiority and national security missions. The Propulsion and Fluids Intern will support spacecraft propulsion and fluid systems test operations, including test setup, execution, instrumentation, data analysis, documentation, and post-test activities. Responsibilities Assist test engineers with test setup, instrumentation installation, and hardware integration in preparation for propulsion and fluids test campaigns Support execution of propulsion test operations including pressure testing, leak testing, flow testing, and functional performance tests under the supervision of test engineers Assist with data acquisition system setup, sensor calibration, and test instrumentation checkout Collect, organize, and perform preliminary analysis of test data including pressure, temperature, flow, and performance measurements Help develop test procedures, work instructions, and test documentation under engineer guidance Support assembly and configuration of ground support equipment, test fixtures, and fluid systems hardware Assist with post-test hardware inspections, anomaly documentation, and test report generation Participate in test readiness reviews, safety briefings, and cross-functional team meetings Support maintenance of test equipment, tooling inventory, and test site cleanliness and organization Skills Currently enrolled in a Bachelor's or Master's degree program in aerospace, mechanical, chemical engineering, or related technical discipline Strong interest in spacecraft propulsion, rocket engines, or fluid systems Basic understanding of engineering pri"
@@ -987,10 +979,6 @@
    "checked": "2026-09-02T13:11:12.139662+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Intern - Aerospace Engineer (Uncrewed Land & Air) - Hunt Valley, MD @ Textron Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Intern - Aerospace Engineer (Uncrewed Land & Air) - Hunt Valley, MD\",\"description\":\" Textron Systems develops specialized aerospace, defense, and commercial products and services across air, land, sea, propulsion, weapon systems, electronic systems, and simulation. The Aerospace Engineering Intern will support unmanned air vehicle development, hardware design lifecycle activities, ground and flight testing, multidisciplinary design work, aerodynamic analysis, and aircraft performance simulation tools. Responsibilities Providing engineering support on both next generation technologies and proven platforms that support and protect our deployed warfighter Participating in development of new products across all phases of the hardware design lifecycle from concept development to test and evaluation Supporting hands-on ground and flight test events through test planning, test execution, and data reduction in a dynamic environment Working with multidisciplinary systems and accomplishing tasks that cover a wide range of design activities on unmanned air vehicles Conducting in-depth performance, stability and control, and aerodynamic analysis Use, update, and write aircraft performance simulation and predictive tools Skills Currently pursuing or have completed a bachelor's or master's degree in aerospace engineering or mechanical engineering or related field Experience in using, updating, and writing code in MATLAB or related software language Understanding and willingness to apply Aerospace Engineering principles, theories, and concepts Eligibility to obtain and maintain a DoD Secret clearance Effective written and oral presentation skills This position requires an individual to"
   },
-  "69c0511e7bd39959": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Systems Engineer Intern @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Systems Engineer Intern\",\"description\":\" L3Harris Technologies is seeking a Systems Engineering Intern to support systems engineering activities. The role focuses on operational analysis, systems requirements, architecture and design evaluation, test planning and execution, troubleshooting, and communicating project status to customers. Responsibilities Perform operational analysis and develop concept of operations, design and implementation plans Develop test plans, procedures & cases Conduct tests and document results Use software tools, scripting and software/hardware troubleshooting Analyze systems requirements from end systems and users Supports development and evaluation of complex system designs and architectures Develop and deliver presentations to communicate design activity plans and status to internal and external customers Skills Pursuing a Bachelor's degree in Systems Engineering, Electrical Engineering, Mechanical Engineering, Computer Engineering, Computer Science, Physics, Mathematics, or related field Coursework and/or experience in systems engineering, systems architecture, systems analysis and design, system performance modeling, integration and/or project management, and/or model-based systems engineering Benefits 9/80 work schedule: Employees work 9 out of every 14 days\u2014totaling 80 hours worked\u2014and have every other Friday off Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It was founded in 1895, and is headquartered in Melbourne, Florida, USA, with a workforce of 10001+ employees. Its website is https://www.l3harris.com. Company H1B Sponsorship L3Harris Technologies has a track record of offering H1B sponsorships, with 1 in 2026, 6 in 2025, 4 "
-  },
   "6a3986805721cf85": {
    "checked": "2026-08-21T19:02:25.520462+00:00",
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"US, MA, Wilmington\" } }, \"hiringOrganization\" : { \"name\" : \"\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Analog Design Engineer Intern\", \"@type\" : \"PropertyValue\", \"value\" : \"R265297\" }, \"datePosted\" : \"2026-08-21\", \"employmentType\" : \"OTHER\", \"title\" : \"Analog Design Engineer Intern\", \"description\" : \"Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally? About Analog Devices Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X. At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network. ADI\u00e2\u0080\u0099s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees. At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles. Apply now for the opportunity"
@@ -1050,10 +1038,6 @@
   "720cbe9b18ffd769": {
    "checked": "2026-08-18T23:31:39.163293+00:00",
    "snippet": "Open Roles at Zipline | Join Our Team (self.__next_s=self.__next_s||[]).push([0,{\"children\":\"history.scrollRestoration = 'manual'\",\"id\":\"scroll-restoration\"}]) (self.__next_s=self.__next_s||[]).push([\"https://cdn-cookieyes.com/client_data/857f495ab74e8cfd864340af/script.js\",{\"id\":\"cookieyes\"}]) {\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Zipline\",\"url\":\"https://www.zipline.com\",\"logo\":\"https://www.zipline.com/favicon.svg\",\"sameAs\":[\"https://x.com/zipline\",\"https://www.instagram.com/zipline\",\"https://www.facebook.com/flyzipline\",\"https://www.linkedin.com/company/flyzipline\",\"https://www.youtube.com/@FlyZipline\",\"https://www.tiktok.com/@flyzipline\"]} {\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Zipline\",\"url\":\"https://www.zipline.com\"} Skip to main content Partner with us Get delivery Technology Solutions Company Careers Partner with us Get delivery Zipline. Try it today Moments matter. Try it today Privacy Hub Safety Impact Report Newsroom Privacy Policy Your Privacy Choices Terms of Service (self.__next_f=self.__next_f||[]).push([0]) self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[70894,[\\\"/_next/static/chunks/06mw_522aok_u.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/3510q8yt4m-p9.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\"],\\\"default\\\"]\\n3:I[56792,[\\\"/_next/static/chunks/06mw_522aok_u.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/3510q8yt4m-p9.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\"],\\\"default\\\"]\\n4:I[69491,[\\\"/_next/static/chunks/06mw_522aok_u.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/3510q8yt4m-p9.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/00lca927dnu5f.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\"],\\\"default\\\"]\\n5:I[81584,[\\\"/_next/static/chunks/06mw_522aok_u.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/3510q8yt4m-p9.js?dpl=dpl_APCCfabc2rs9BRdStixGMKg5n9bS\\\",\\\"/_next/static/chunks/00lca927dnu5f.js?dpl=dpl_APCCfabc2rs9BRdStixGM"
-  },
-  "725c41aa1c02248d": {
-   "checked": "2026-08-18T16:03:16.383852+00:00",
-   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"Evendale\" } }, \"hiringOrganization\" : { \"name\" : \"Y99000 General Electric Company\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Manufacturing Engineering Co-op \u00e2\u0080\u0093 US \u00e2\u0080\u0093 Fall 2027\", \"@type\" : \"PropertyValue\", \"value\" : \"R5029664\" }, \"datePosted\" : \"2026-08-17\", \"validThrough\" : \"2026-11-06\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Manufacturing Engineering Co-op \u00e2\u0080\u0093 US \u00e2\u0080\u0093 Fall 2027\", \"description\" : \"Job Description Summary Are you ready to see your future take flight? At GE Aerospace, we believe the world works better when it flies. We are a world-leading provider of jet engines, components, and integrated systems for commercial and military aircraft. We have a relentless dedication to the future of safe and more sustainable flight and believe in our talented people to make it happen. Job Description Job Summary Help invent the future of flight, lift people up, and bring them home safely as a GE Aerospace intern! The Manufacturing Engineering internship offers a distinct role based on your major and field of interest: Manufacturing Engineering Internship: In this role you will build a strong technical foundation in manufacturing and assembly processes. This may include key manufacturing, new product integration, new technology integration, continuous improvement, and cost out. This internship is a great first step for those interested in our MEDP or OMLP program after graduation. Essential Responsibilities Our Manufacturing and Supply Chain organizations combine passionate people, cutting-edge technology, and a culture of continuous improvement to provide the highest quality products to our customers. Members of our team are part of a fast-paced and dynamic environment. They typically have the benefit of getting hands-on experience with our products. In either internship experience, you\u00e2\u0080\u0099"
   },
   "72f21b940ab1ab3c": {
    "checked": "2026-09-18T19:04:29.317078+00:00",
@@ -1395,10 +1379,6 @@
    "checked": "2026-09-25T09:19:00.776760+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Internship: CWC Manufacturing Engineer (Muskegon, MI) @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Internship: CWC Manufacturing Engineer (Muskegon, MI)\",\"description\":\" Kautex, a global Tier One automotive supplier and part of Textron, designs and manufactures plastic fuel systems and other advanced mobility and industrial products. The Manufacturing Engineer Intern will work with engineering and maintenance teams to analyze manufacturing processes, improve cycle time, scrap, downtime, and equipment efficiency, and support new product launches. Responsibilities Work closely with the engineering and maintenance functions Problem-solving on current and prospective process opportunities Gain an understanding of patterns, tooling and layout, and system operations Gain an understanding of the blow molding and assembly process for manufacturing automotive fuel systems Conduct cycle time studies to determine bottlenecks and drive improvements to reduce scrap and downtime Create standardized work instructions as needed Analyze Scrap and Downtime on a production line, using analytical tools to Pareto and trend scrap drivers, root cause highest scrap drivers Work to analyze operational equipment efficiencies and make improvements based on A3/root cause analysis of top items affecting OEE and Scrap Participate in the operational meetings Assist the NPI group as needed to ensure the flawless launch of the projects Perform work as assigned by supervisor Skills Currently pursuing a university degree in Engineering or Applied Science with a focus on automation or robotics Textron expects employees to use AI-enabled tools responsibly and effectively. Candidates should be comfortable learning and applying these tools, evaluating AI-generated output with sound judgment, and using AI in line with company pol"
   },
-  "9bc8f0f538a15dba": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Manufacturing Engineering Intern @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Manufacturing Engineering Intern\",\"description\":\" L3Harris Technologies is a defense technology company delivering end-to-end solutions across space, air, land, sea, and cyber domains. The Manufacturing Engineering Intern will support Operations within the Space and Mission Systems segment through manufacturing planning, process improvement, logistics, quality assurance, digital dashboards, and AI adoption in manufacturing work cells. Responsibilities Implement and analyze manufacturing plans and projects Baseline Hours per Unit (HPU) for an array of product lines Develop process improvements and plans to create efficiencies Make recommendations for tooling and process requirements for new product introductions Maintain records and reporting systems for coordination of manufacturing operations Support development of digital dashboards using PowerBI systems enhancing manufacturing metrics Provide logistics support for optimizing product flow and throughput Support Artificial Intelligence (AI) adoption and application to manufacturing work cells Work on cross-functional teams supporting the business Quality assurance development of mistake-proofing, Root Cause Corrective Action (RCCA) Skills \u2022 Pursuing a Bachelors of Arts or Sciences degree in related field \u2022 Lean manufacturing, continuous improvement, 5S+1, Kaizen events \u2022 Knowledgeable using SharePoint, Excel, PowerPoint, Project, Visio, PowerBI, AI tools \u2022 Logistics support, process flows, factory layouts \u2022 Technical writing skills \u2022 Data analytics \u2022 Advanced communication skills (written and verbal) Benefits Employees work 9 out of every 14 days \u2013 totaling 80 hours worked, and have every other Friday off An inclusive, engaging environment designed to empower"
-  },
   "9bdb0ed142ab5827": {
    "checked": "2026-09-25T09:19:00.776760+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Mechanical Engineer Intern- Ground Support Equipment @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Mechanical Engineer Intern- Ground Support Equipment\",\"description\":\" Textron is a global company with industry-leading brands across multiple industries. The company is seeking a Mechanical Engineer Intern to assist with the design, development, testing, documentation, and validation of mechanical and electrical systems for ground support equipment while working within project timelines and participating in cross-functional design reviews. Responsibilities Completion of assigned tasks to assist in the design and development of various mechanical or electrical systems, such as vehicle frame, steering, suspension, axles, drivelines, seating, roll cages, body panels, lighting, electrical harness and electrical system design, circuit board design, or microprocessor programming Work within defined project timelines to complete tasks according to project schedule Revise, review, and create functional specifications and engineering design standards Develop and design packaging layouts Create, test, and analyze plans for product validation Perform tolerance studies on components and assemblies Develop and release engineering components, assembly drawings, and vehicle bill of material Incorporate Geometric Dimensioning and Tolerancing (GD&T) on engineering drawings Resolve and document design issues found during testing Participate in cross functional design reviews and Design for Assembly (DFA) and Design for Manufacturing (DFM) Assessments Skills Education: pursuing a bachelor's degree in mechanical or Electrical Engineering or another related field required Textron expects employees to use AI-enabled tools responsibly and effectively. Candidates should be comfortable learning and applying these tool"
@@ -1458,10 +1438,6 @@
   "9ed603d19eee03d4": {
    "checked": "2026-09-01T09:06:53.992735+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Internship - Defense and Special Missions Mechanical Systems Engineer @ Textron | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Internship - Defense and Special Missions Mechanical Systems Engineer\",\"description\":\" Textron is a global company with businesses spanning aviation and defense-related industries. The internship supports the development, planning, organization, and execution of complex mechanical system design assignments for Textron Aviation aircraft, including environmental control, landing gear, hydraulics, ice protection, and flight control systems. The intern will contribute to modeling, prototyping, testing, production support, design modifications, and investigation of aircraft system issues. Responsibilities Incorporate designs utilizing CATIA V5 design and drafting software 3D model development in support of detail, assembly and installation drawings Support build of prototypes of systems components for testing; set up and run laboratory simulations Assist in the creation of test plans and reports Create presentations to convey test results, design issues, or trade study recommendations Communicate and coordinate with Engineering technical sections, Manufacturing, Tooling, Technical Publications, and other functional areas Check Peer drawings, initiate the drawing routing process and support Space Reviews (i.e. CATIA V5 Model Management/Interference Checks) Support build of production aircraft, which includes coordination with Manufacturing Engineering to support design interpretation and response to workmanship and producibility issues Coordinate design modifications to experimental aircraft in support of testing and qualification Support the investigation and response to customer aircraft and system component issues Skills Pursuing a Bachelor's Degree in: Mechanical Engineering Aero"
-  },
-  "9f6c7a91b82758f5": {
-   "checked": "2026-08-18T15:38:28.465823+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Electrical Engineer Intern - Spring 2027 @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electrical Engineer Intern - Spring 2027\",\"description\":\" L3Harris Technologies is seeking an Electrical Engineer Intern to join its Aeronautical Systems Engineering team for a full-time spring 2027 co-op. The role involves learning to design and develop electrical systems for military and commercial aircraft and ground stations, including creating engineering designs, supporting systems integration, and assisting with aircraft testing. Responsibilities Create system wiring diagrams, circuit breaker panels, control panels and other items using CAD (Computer Aided Design) tools Research and preparation of engineering drawings, and coordination of design activities with Systems Engineering, Manufacturing, and Production to ensure that designs meet requirements at minimum cost Designs can include development of Avionics Systems, RF, LAN, Data Processing, Power Distribution Systems, Electrical Loads analysis, Load shedding scheme to name a few, along with the opportunity to support testing and integration of systems on the aircraft Skills Must be pursuing a Bachelor's Degree in Electrical Engineering, Electrical Engineering Technology degree or related field Skills/Knowledge of CAD and PLM software, including NX and Teamcenter Knowledge of Siemens Capital software Understanding of basic aircraft systems Systems integration experience Benefits 9/80 work schedule with every other Friday off Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It was founded in 1895, and is headquartered in Melbourne, Florida, USA, with a workforce of 10001+ employees. Its website is https://www.l3harris.com. Company H1B Sponsorship L3Harris Technologies has a track record of "
   },
   "9fb68dc9f9295c5f": {
    "checked": "2026-09-04T21:34:19.882789+00:00",
@@ -1951,6 +1927,10 @@
    "checked": "2026-09-30T22:09:02.655995+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Mechanical Engineering Intern (Cincinnati, OH) @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Mechanical Engineering Intern (Cincinnati, OH)\",\"description\":\" L3Harris Technologies is seeking an Intern, Mechanical Engineering to support the design and development of electrical systems for military and commercial aircraft and ground stations. The role involves creating engineering drawings and wiring designs, coordinating with cross-functional teams, and supporting aircraft systems testing and integration. Responsibilities Create system wiring diagrams, circuit breaker panels, control panels and other items using CAD (Computer Aided Design) tool Research and preparation of engineering drawings, and coordination of design activities with Systems Engineering, Manufacturing, and Production to ensure that designs meet requirements at minimum cost Designs can include development of Avionics Systems, RF, LAN, Data Processing, Power Distribution Systems, Electrical Loads analysis, Load shedding scheme to name a few, along with the opportunity to support testing and integration of systems on the aircraft Skills Must be pursuing a bachelor's degree, a master's degree, or a PhD in Mechanical Engineering, Aerospace Engineering, Engineering Mechanics, Materials Science Engineering or related field at an accredited university Good computer skills including working knowledge of Microsoft Office Co-Op/Intern or previous entry-level experience in electrical engineering Skills/Knowledge of with CAD and PLM software, including NX and Teamcenter Knowledge of Siemens Capital software Understanding of basic aircraft systems Systems integration experience Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It was founded in 1895, and is headquartered in Melbourn"
   },
+  "d59a376c6f7cb184": {
+   "checked": "2026-10-02T16:27:44.649729+00:00",
+   "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"CANR01\" } }, \"hiringOrganization\" : { \"name\" : \"0891 DS - Advanced Weapons - Northridge\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"2027 Engineering Intern - Northridge CA\", \"@type\" : \"PropertyValue\", \"value\" : \"R10254123\" }, \"datePosted\" : \"2026-10-02\", \"validThrough\" : \"2026-10-05\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"2027 Engineering Intern - Northridge CA\", \"description\" : \"RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work \u00e2\u0080\u0094 and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history. An internship at Northrop Grumman is unique. Sure, you\u00e2\u0080\u0099ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you\u00e2\u0080\u0099ll gain something even more valuable: pride in what you\u00e2\u0080\u0099ve done. Join us and launch your career. We\u00e2\u0080\u0099ll support you with training and our shared vision of global security. Northrop Grumman is seeking Engineers for an internship opportunities. This position will be located "
+  },
   "d5ac8b7eb14cac61": {
    "checked": "2026-09-10T23:56:50.697690+00:00",
    "snippet": "Job Application for Emerging Talent - Mechanical/Aerospace Engineering Internship at Vast New Emerging Talent - Mechanical/Aerospace Engineering Internship Long Beach, California, United States Apply Vast is developing next-generation space stations and space infrastructure using an incremental, hardware-rich, and low-cost approach. Vast is rapidly developing its multi-module Haven Station to ensure a continuous human presence in space for America and its allies, enabling advanced microgravity research and manufacturing, and unlocking a new space economy for government, corporate, and private customers. Haven Demo\u2019s 2025 success made Vast the only operational commercial space station company to fly and operate its own spacecraft. Next, Haven-1 is expected to become the world\u2019s first commercial space station when it launches in 2027, followed by additional Haven modules. Additionally, the company recently announced Vast Satellite , a high-power satellite product line leveraging its space station components and the heritage of Haven Demo. Headquartered in Long Beach, California , and with more than 1,000 employees and over a billion dollars in private capital, Vast has built the facilities required to manufacture and operate America\u2019s next space station. The company plans to develop future habitats and systems for the Moon and Mars, dedicated space stations for government partners, and other crewed systems that will unlock the expanding long-term space economy. Vast offers an advanced engineering internship program with hands-on opportunities to design and build space hardware and software. You will play a crucial role in the development of the systems that will be required for the operation of human-rated space stations and space infrastructure. We have five engineering internship postings for different areas of focus. Please only apply to the most relevant posting for your background. Our interns are mentored by industry experts to solve challenging real-world engin"
@@ -2042,10 +2022,6 @@
   "df4434032e854571": {
    "checked": "2026-09-01T09:06:53.992735+00:00",
    "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD @ Textron Aviation | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD\",\"description\":\" Textron Systems develops specialized products and services across air, land, sea, propulsion, weapon systems, electronic systems, and test, training, and simulation capabilities. The Mechanical Engineer Intern will support the development and lifecycle of aero-electro-mechanical hardware through mechanical design, analysis, testing, troubleshooting, documentation, and cross-functional teamwork. Responsibilities Providing mechanical engineering support on both next generation technologies and proven platforms that support and protect our deployed warfighter Opportunities that range from solid modeling, fabrication and assembly, structural design, fastening and joining, and operations of measurement tools Fulfilling daily responsibilities including research and trade studies, developing mechanical design concepts, performance calculations, structural and thermal analysis, and hands-on support of testing and troubleshooting Work cohesively on a multi-functional team with exciting technologies and products Participate as an individual contributor in development of aero-electro-mechanical hardware across all phases of the product lifecycle, from concept development to lab integration and evaluation through end of life support Receive and execute activities in line with the broader project schedule and Senior or Principal Engineer guidance Perform detailed design of aeromechanical and electromechanical structures and subsystems using solid modeling, requirements analysis, trade studies, mechanical analysis including structural, thermal, and tolerance analysis, human interface design, design "
-  },
-  "df4c3ee34ae006a5": {
-   "checked": "2026-08-18T16:03:16.383852+00:00",
-   "snippet": "html { font-family: 'inter', 'inter Fallback', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Arial, Helvetica, sans-serif; } Electrical Engineer Intern @ L3Harris Technologies | Jobright.ai {\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Electrical Engineer Intern\",\"description\":\" L3Harris Technologies is seeking an Electrical Engineer Intern to support engineering design and analysis activities. The role involves determining design approaches, evaluating system feasibility, conducting modeling and experimental testing, selecting components, performing simulations, presenting design reviews, and writing scripts to control synthesis and build tools. Responsibilities Determine design approaches and parameters Perform system analysis to determine feasibility of design within time and cost constraints Utilize modeling tools and equipment to establish operating data, conduct experimental tests, and evaluate results Select components and equipment based on analysis of specifications and reliability Perform simulations and present design reviews to peer engineers Write scripts to control synthesis and build tools Skills Must be pursuing a Bachelor's degree in Electrical Engineering, Computer Engineering, Electrical & Computer Engineering, Materials Engineering, Materials Science Engineering or related field Knowledge and/or experience with VHDL, MCM, HFSS, Network, Power, Analog, Antennas, Controls, ENE, RF, Photonics, Modem, EDA, DSP, MATLAB, Communication Systems, FPGA, Aerospace industry or Optical Engineering Knowledge of Code V and/or Zemax software tools Knowledge of FRED, Matlab, Python Knowledge of and/or understanding circuit analysis and operational concepts Familiarity with various computing environments (LINUX/Windows) Benefits 9/80 schedule: Employees work 9 out of every 14 days, totaling 80 hours worked, and have every other Friday off Company Overview L3Harris Technologies provides platform management system solutions for armed forces. It wa"
   },
   "df515dc0adc08792": {
    "checked": "2026-08-31T23:14:38.657252+00:00",
@@ -2312,7 +2288,74 @@
    "snippet": "{ \"jobLocation\" : { \"@type\" : \"Place\", \"address\" : { \"@type\" : \"PostalAddress\", \"addressCountry\" : \"United States of America\", \"addressLocality\" : \"US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192\" } }, \"hiringOrganization\" : { \"name\" : \"\", \"@type\" : \"Organization\", \"sameAs\" : \"\" }, \"identifier\" : { \"name\" : \"Intern- Systems Engineer (Onsite)\", \"@type\" : \"PropertyValue\", \"value\" : \"01868500\" }, \"datePosted\" : \"2026-09-08\", \"employmentType\" : \"FULL_TIME\", \"title\" : \"Intern- Systems Engineer (Onsite)\", \"description\" : \"Date Posted: 2026-09-08 Country: United States of America Location: US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract. Security Clearance Type: None/Not Required Security Clearance Status: Not Required Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in the industry? At RTX, our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and create a safer, more connected world. Discover opportunities to make a difference at RTX. What You Will Do: Understand KC-135 systems engineering processes Capture, define, allocate, verify and validate system requirements Perform and support system tests in a lab environment in both informal and formal test events Assist in the collaboration of cross-functional teams to design and implement new KC-135 features Qualifications You Must Have: Must be pursuing a Bachelor\u00e2\u0080\u0099s or Advanced degree in an applicable discipline Science, Technology, Engineering, Math and actively enrolled through completion of the internship / co-op session. Prior KC-135 Platform Systems Experience Ability to be onsite in Cedar Rapids for test events and test environm"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "company": "Cleveland-Cliffs",
+   "location": "Cleveland, Ohio, United States",
+   "pid": "0a224e91b835f993",
+   "posted_at": "2026-10-02T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "term": "assumed",
+   "url": "https://jobright.ai/jobs/info/6aa38d0f959a10d7230d255e?utm_campaign=1048&utm_source=git"
+  },
+  {
+   "company": "General Motors",
+   "location": "Sunnyvale, CA",
+   "pid": "036e1d2003c0afd9",
+   "posted_at": "2026-10-01T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+   "score": 9,
+   "term": "target",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
+  },
+  {
+   "company": "RTX",
+   "location": "AZ-TUCSON",
+   "pid": "cb9a11c3b52c238d",
+   "posted_at": "2026-10-01T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "Production Test Engineering Intern (Summer 2027)",
+   "score": 6,
+   "term": "target",
+   "url": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872992?s=gh-internships-2027"
+  },
+  {
+   "company": "Northrop Grumman",
+   "location": "United States-Virginia-McLean",
+   "pid": "eb098695e0bfe2d7",
+   "posted_at": "2026-10-02T15:27:44.649729+00:00",
+   "rank": "A",
+   "role": "2027 College Technical Intern - McLean VA",
+   "score": 6,
+   "term": "target",
+   "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253146?s=gh-internships-2027"
+  },
+  {
+   "company": "Northrop Grumman",
+   "location": "United States-California-Northridge",
+   "pid": "33f5db3a98fe2327",
+   "posted_at": null,
+   "rank": "A",
+   "role": "2027 Engineering Intern - Northridge CA",
+   "score": 6,
+   "term": "target",
+   "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254123?s=gh-internships-2027"
+  },
+  {
+   "company": "Northrop Grumman",
+   "location": "McLean, VA",
+   "pid": "a5c2946f9f9e40d6",
+   "posted_at": "2026-10-02T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "College Technical Intern",
+   "score": 6,
+   "term": "target",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146?utm_source=Simplify&ref=Simplify"
+  }
+ ],
  "last_digest": "2026-10-02T10:16:18.219341+00:00",
  "postings": {
   "0011c5d92e2815b6": {
@@ -2405,7 +2448,7 @@
   "00eeb1e77b0575ba": {
    "company": "Hermeus",
    "first_seen": "2026-09-11T16:20:10.601296+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-09-08T16:13:08.569000+00:00",
    "rank": "S",
@@ -2561,7 +2604,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-18T01:11:17.771890+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-09-17T23:21:05+00:00",
    "rank": "S",
@@ -2626,6 +2669,22 @@
    "term": "target",
    "tier": 3,
    "url": "https://jobright.ai/jobs/info/6a8bc9644afae74a083516e6?utm_campaign=1048&utm_source=git"
+  },
+  "036e1d2003c0afd9": {
+   "company": "General Motors",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "Sunnyvale, CA",
+   "posted_at": "2026-10-01T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+   "score": 9,
+   "sources": [
+    "simplify-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
   },
   "0394fef0b5a3edb7": {
    "company": "Stryker",
@@ -2715,7 +2774,7 @@
   "04d287b5d70ecef7": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-22T19:11:37+00:00",
    "rank": "A",
@@ -2783,7 +2842,7 @@
   "0581600e82cc23cd": {
    "company": "General Motors",
    "first_seen": "2026-09-02T00:19:55.877495+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Arlington, TX, United States",
    "posted_at": "2026-09-01T00:00:00+00:00",
    "rank": "A",
@@ -2991,7 +3050,7 @@
   "08796486acb42d4b": {
    "company": "RTX",
    "first_seen": "2026-09-08T19:34:55.758644+00:00",
-   "last_seen": "2026-10-02T05:12:32.200041+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "MN-BURNSVILLE-WEST",
    "posted_at": "2026-09-08T08:34:05.928422+00:00",
    "rank": "A",
@@ -3057,6 +3116,22 @@
    "term": "target",
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6aabe893636cddf7396f1325?utm_campaign=1048&utm_source=git"
+  },
+  "0a224e91b835f993": {
+   "company": "Cleveland-Cliffs",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "Cleveland, Ohio, United States",
+   "posted_at": "2026-10-02T00:00:00+00:00",
+   "rank": "C",
+   "role": "Mechanical Engineering Intern",
+   "score": 4,
+   "sources": [
+    "jobright-engineering"
+   ],
+   "term": "assumed",
+   "tier": 9,
+   "url": "https://jobright.ai/jobs/info/6aa38d0f959a10d7230d255e?utm_campaign=1048&utm_source=git"
   },
   "0a590f908ef43200": {
    "company": "Rocket Lab",
@@ -3637,7 +3712,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T00:04:07.653942+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-09T23:36:36+00:00",
    "rank": "S",
@@ -3755,7 +3830,7 @@
    "company": "Kairos Power",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
    "posted_at": "2026-07-23T19:46:38+00:00",
    "rank": "A",
@@ -3790,7 +3865,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T19:09:38.313995+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-10T19:06:37+00:00",
    "rank": "S",
@@ -3894,7 +3969,7 @@
   "14a31f0386061897": {
    "company": "Trane Technologies",
    "first_seen": "2026-09-14T16:07:19.658427+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "McGregor TX 182 Cotton Belt",
    "posted_at": "2026-09-14T23:26:27.966994+00:00",
    "rank": "C",
@@ -3913,7 +3988,7 @@
    "company": "RTX",
    "elig": "ok",
    "first_seen": "2026-09-29T16:45:31.678449+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Burnsville, MN",
    "posted_at": "2026-09-15T16:45:31.678449+00:00",
    "rank": "A",
@@ -4512,7 +4587,7 @@
    "company": "Vast",
    "elig": "ok",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, California, United States",
    "posted_at": "2026-09-10T18:53:47+00:00",
    "rank": "A",
@@ -4530,7 +4605,7 @@
   "1cbf209cec15ed60": {
    "company": "Rivian",
    "first_seen": "2026-09-18T04:17:00.353869+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Torrance, CA",
    "posted_at": "2026-09-18T04:17:00.353869+00:00",
    "rank": "A",
@@ -4751,7 +4826,7 @@
   "1fd813bc1b9f155f": {
    "company": "Hermeus",
    "first_seen": "2026-09-01T16:27:59.214215+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-01T15:46:08.009000+00:00",
    "rank": "S",
@@ -4924,7 +4999,7 @@
    "company": "Saronic",
    "elig": "ok",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Austin, TX",
    "posted_at": "2026-09-09T19:46:26.327000+00:00",
    "rank": "S",
@@ -4943,7 +5018,7 @@
    "company": "Varda Space",
    "elig": "ok",
    "first_seen": "2026-10-01T17:14:09.987377+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "El Segundo, California, United States",
    "posted_at": "2026-10-01T16:30:00+00:00",
    "rank": "S",
@@ -4995,7 +5070,7 @@
   "23f35fdbef9ade6c": {
    "company": "Blue Origin",
    "first_seen": "2026-09-29T22:10:19.865961+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Greater Seattle Area",
    "posted_at": "2026-09-29T21:10:19.865961+00:00",
    "rank": "S",
@@ -5209,7 +5284,7 @@
   "268f954760c95f68": {
    "company": "Hermeus",
    "first_seen": "2026-09-30T22:09:02.655995+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-09-30T20:04:52.257000+00:00",
    "rank": "S",
@@ -5801,7 +5876,7 @@
   "2d55c6fbba4096fe": {
    "company": "Blue Origin",
    "first_seen": "2026-09-30T01:20:47.154141+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Greater Seattle Area",
    "posted_at": "2026-09-30T00:20:47.154141+00:00",
    "rank": "S",
@@ -5959,7 +6034,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T02:57:48+00:00",
    "rank": "S",
@@ -5992,7 +6067,7 @@
   "2ec025be99d9ca96": {
    "company": "Hermeus",
    "first_seen": "2026-09-03T19:20:05.241440+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-03T16:35:01.429000+00:00",
    "rank": "S",
@@ -6065,7 +6140,7 @@
   "2f8d96475339eaf0": {
    "company": "Impulse Space",
    "first_seen": "2026-09-12T20:26:45.294301+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Mojave, California",
    "posted_at": null,
    "rank": "S",
@@ -6167,7 +6242,7 @@
   "30c3ddfa994b49ee": {
    "company": "Base Power",
    "first_seen": "2026-10-01T10:40:52.805056+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Austin, TX",
    "posted_at": "2026-09-30T22:40:52.805056+00:00",
    "rank": "C",
@@ -6184,7 +6259,7 @@
   "30cc2f06e53c1192": {
    "company": "Waymo",
    "first_seen": "2026-09-25T23:32:31.130551+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Mountain View, CA",
    "posted_at": "2026-09-25T23:32:31.130551+00:00",
    "rank": "A",
@@ -6407,7 +6482,7 @@
   "32c4eed2c8b7c112": {
    "company": "Hermeus",
    "first_seen": "2026-09-22T16:45:19.156787+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-22T15:09:49.327000+00:00",
    "rank": "S",
@@ -6441,7 +6516,7 @@
   "32db0eadada51d89": {
    "company": "Vertiv",
    "first_seen": "2026-08-10T14:42:09.582753+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Westerville, OH",
    "posted_at": "2026-08-10T14:42:09.582753+00:00",
    "rank": "C",
@@ -6491,7 +6566,7 @@
   "336ecb80204e837a": {
    "company": "Thornton Tomasetti",
    "first_seen": "2026-09-29T17:59:41.570835+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "New York, NY, USA",
    "posted_at": "2026-09-29T21:10:19.865961+00:00",
    "rank": "C",
@@ -6526,7 +6601,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T03:29:14+00:00",
    "rank": "S",
@@ -6539,6 +6614,23 @@
    "term": "target",
    "tier": 1,
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006"
+  },
+  "33f5db3a98fe2327": {
+   "company": "Northrop Grumman",
+   "elig": "ok",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "United States-California-Northridge",
+   "posted_at": null,
+   "rank": "A",
+   "role": "2027 Engineering Intern - Northridge CA",
+   "score": 6,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254123?s=gh-internships-2027"
   },
   "3408f7189c2413ac": {
    "company": "RTX",
@@ -6900,7 +6992,7 @@
    "company": "Shield AI",
    "elig": "ok",
    "first_seen": "2026-09-22T00:54:41.484359+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Seattle, Washington",
    "posted_at": "2026-09-21T22:55:31.523000+00:00",
    "rank": "S",
@@ -6954,7 +7046,7 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-09-14T16:07:19.658427+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-09-08T16:07:19.658427+00:00",
    "rank": "A",
@@ -7136,7 +7228,7 @@
   "3cfc71ec78796068": {
    "company": "GE Aerospace",
    "first_seen": "2026-09-30T22:09:02.655995+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Evendale",
    "posted_at": "2026-09-30T23:20:02.214117+00:00",
    "rank": "A",
@@ -7153,7 +7245,7 @@
   "3d1edc9618ec65c8": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:34:22+00:00",
@@ -7367,7 +7459,7 @@
   "4023faa93c4506fd": {
    "company": "Impulse Space",
    "first_seen": "2026-09-12T20:26:45.294301+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Redondo Beach, California",
    "posted_at": null,
    "rank": "S",
@@ -7754,7 +7846,7 @@
   "4544bc2c41c25f71": {
    "company": "RTX",
    "first_seen": "2026-09-29T17:59:41.570835+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Cedar Rapids, IA",
    "posted_at": "2026-09-08T17:59:41.570835+00:00",
    "rank": "A",
@@ -8091,7 +8183,7 @@
    "company": "Eaton",
    "elig": "ok",
    "first_seen": "2026-09-19T04:13:38.146828+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Cleveland, TN",
    "posted_at": "2026-09-19T04:13:38.146828+00:00",
    "rank": "B",
@@ -8646,7 +8738,7 @@
   "5182d548ef11a6e4": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Alameda, CA, Albuquerque, NM, or Oak Ridge, TN",
    "posted_at": "2026-07-23T20:03:32+00:00",
    "rank": "A",
@@ -8732,7 +8824,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-19T00:06:13.261782+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-18T23:39:52+00:00",
    "rank": "S",
@@ -9092,7 +9184,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-16T16:39:46.104772+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-16T16:01:30+00:00",
    "rank": "S",
@@ -9164,7 +9256,7 @@
    "dup": true,
    "filtered": true,
    "first_seen": "2026-09-29T16:45:31.678449+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Cedar Rapids, IA",
    "posted_at": "2026-09-21T16:45:31.678449+00:00",
    "rank": "A",
@@ -9936,7 +10028,7 @@
    "company": "NVIDIA",
    "elig": "ok",
    "first_seen": "2026-08-19T10:23:37.433397+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Santa Clara, CA",
    "posted_at": "2026-08-19T10:23:37.433397+00:00",
    "rank": "A",
@@ -10433,7 +10525,7 @@
   "6596fac096380bdc": {
    "company": "RTX",
    "first_seen": "2026-10-01T22:54:05.826836+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "PR-AGUADILLA",
    "posted_at": "2026-10-01T21:54:05.826836+00:00",
    "rank": "A",
@@ -10538,7 +10630,7 @@
    "company": "Varda Space",
    "elig": "ok",
    "first_seen": "2026-10-01T10:40:52.805056+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "El Segundo, CA",
    "posted_at": "2026-10-01T10:40:52.805056+00:00",
    "rank": "S",
@@ -10693,7 +10785,7 @@
   "68d7cb1168c980dd": {
    "company": "Unison (GE Aerospace)",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Jacksonville, FL",
    "posted_at": "2026-07-16T00:00:00+00:00",
    "rank": "A",
@@ -10744,7 +10836,7 @@
    "company": "Rivian",
    "elig": "ok",
    "first_seen": "2026-09-08T19:34:55.758644+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Palo Alto, California",
    "posted_at": "2026-09-08T18:31:44.847000+00:00",
    "rank": "A",
@@ -10761,7 +10853,7 @@
   "69af838efd607c66": {
    "company": "AMD",
    "first_seen": "2026-09-30T16:37:59.533110+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Santa Clara, CA, United States",
    "posted_at": "2026-09-30T14:37:59.533110+00:00",
    "rank": "C",
@@ -10960,7 +11052,7 @@
   "6bcd6b4dd05616ba": {
    "company": "RTX",
    "first_seen": "2026-09-29T16:45:31.678449+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "CT-WINDSOR LOCKS-B1",
    "posted_at": "2026-09-29T21:10:19.865961+00:00",
    "rank": "A",
@@ -10994,7 +11086,7 @@
   "6c911d54fc2c7994": {
    "company": "Muon Space",
    "first_seen": "2026-09-30T22:09:02.655995+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Jose",
    "posted_at": "2026-09-30T21:09:02.655995+00:00",
    "rank": "C",
@@ -11063,7 +11155,7 @@
   "6d1b629de016fa92": {
    "company": "Vertiv",
    "first_seen": "2026-08-12T17:19:48.525387+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "United States",
    "posted_at": "2026-08-12T00:19:48.525387+00:00",
    "rank": "C",
@@ -11181,7 +11273,7 @@
   "6e85355ce4f72468": {
    "company": "KLA",
    "first_seen": "2026-10-01T01:20:02.214117+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Milpitas, CA",
    "posted_at": "2026-10-01T00:20:02.214117+00:00",
    "rank": "B",
@@ -11316,7 +11408,7 @@
    "company": "Vast",
    "elig": "ok",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, California, United States",
    "me_ok": true,
    "posted_at": "2026-09-10T19:11:36+00:00",
@@ -11352,7 +11444,7 @@
   "6ff266b04e83b748": {
    "company": "RTX",
    "first_seen": "2026-10-01T22:54:05.826836+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "PR-AGUADILLA",
    "posted_at": "2026-10-01T21:54:05.826836+00:00",
    "rank": "A",
@@ -11388,7 +11480,7 @@
   "6ffedbafb228b7a5": {
    "company": "Cisco",
    "first_seen": "2026-10-01T17:14:09.987377+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Jose, California, US",
    "posted_at": "2026-10-01T16:14:09.987377+00:00",
    "rank": "C",
@@ -12158,7 +12250,7 @@
   "75ffebc61d223483": {
    "company": "Saronic",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Franklin, LA",
    "posted_at": "2026-09-09T19:46:42.155000+00:00",
    "rank": "S",
@@ -12650,7 +12742,7 @@
    "company": "Shield AI",
    "elig": "ok",
    "first_seen": "2026-08-31T17:49:12.428169+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Dallas, Texas",
    "posted_at": "2026-08-27T23:18:32.589000+00:00",
    "rank": "S",
@@ -13411,7 +13503,7 @@
    "company": "Anduril",
    "filtered": true,
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:00:56+00:00",
@@ -13811,7 +13903,7 @@
   "87a3a556b29f2bcb": {
    "company": "Leidos",
    "first_seen": "2026-10-01T22:54:05.826836+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Huntsville, AL",
    "posted_at": "2026-10-01T18:54:05.826836+00:00",
    "rank": "C",
@@ -14080,7 +14172,7 @@
   "8a8c405dbd1acd23": {
    "company": "ABB",
    "first_seen": "2026-09-29T16:45:31.678449+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Greenville, South Carolina,...",
    "posted_at": "2026-09-29T14:45:31.678449+00:00",
    "rank": "C",
@@ -14098,12 +14190,13 @@
    "company": "General Motors",
    "elig": "ok",
    "first_seen": "2026-10-02T10:16:18.219341+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Sunnyvale, CA",
    "posted_at": "2026-10-01T10:16:18.219341+00:00",
    "rank": "A",
    "role": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
    "score": 9,
+   "scored_live": true,
    "sources": [
     "simplify-2027"
    ],
@@ -14435,7 +14528,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-10-01T17:14:09.987377+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "United States-Virginia-Dulles",
    "posted_at": "2026-10-01T16:54:05.826836+00:00",
    "rank": "A",
@@ -14881,7 +14974,7 @@
   "9415b53ec44123b0": {
    "company": "Skydio",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Mateo, California, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-07-28T18:27:09.057000+00:00",
@@ -15211,7 +15304,7 @@
   "99a3f99c0d235cbd": {
    "company": "Applied Materials",
    "first_seen": "2026-09-30T05:09:36.653073+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Santa Clara,CA",
    "posted_at": "2026-09-30T04:09:36.653073+00:00",
    "rank": "B",
@@ -15328,7 +15421,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-23T20:07:50.344044+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-23T19:51:39+00:00",
    "rank": "S",
@@ -15570,7 +15663,7 @@
   "9c5b8e957472b989": {
    "company": "Textron",
    "first_seen": "2026-09-03T04:01:44.341371+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "New Orleans, LA",
    "posted_at": "2026-09-02T04:01:44.341371+00:00",
    "rank": "B",
@@ -15672,7 +15765,7 @@
   "9de02e5906c555ae": {
    "company": "General Motors",
    "first_seen": "2026-09-22T04:26:48.285993+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI",
    "posted_at": "2026-09-21T04:26:48.285993+00:00",
    "rank": "A",
@@ -15828,7 +15921,7 @@
   "9f145738fbb2e763": {
    "company": "CoStar Group",
    "first_seen": "2026-10-01T22:54:05.826836+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Sunnyvale",
    "posted_at": "2026-10-01T20:54:05.826836+00:00",
    "rank": "C",
@@ -16021,7 +16114,7 @@
   "a0a7daeb8cb6d9d7": {
    "company": "Impulse Space",
    "first_seen": "2026-09-12T20:26:45.294301+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Redondo Beach, California",
    "posted_at": null,
    "rank": "S",
@@ -16157,7 +16250,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-24T23:26:54.949329+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-24T21:27:51+00:00",
    "rank": "S",
@@ -16363,7 +16456,7 @@
    "company": "Intel",
    "elig": "ok",
    "first_seen": "2026-09-02T21:58:40.655312+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Hillsboro, OR, United States",
    "posted_at": "2026-09-02T00:00:00+00:00",
    "rank": "B",
@@ -16382,7 +16475,7 @@
   "a4d07d665684a925": {
    "company": "Tesla",
    "first_seen": "2026-09-02T04:03:29.446333+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Palo Alto, CA",
    "posted_at": "2026-09-02T04:03:29.446333+00:00",
    "rank": "A",
@@ -16461,6 +16554,23 @@
    "tier": 2,
    "url": "https://jobright.ai/jobs/info/6a99b27690a313642c6521e1?utm_campaign=1048&utm_source=git"
   },
+  "a5c2946f9f9e40d6": {
+   "company": "Northrop Grumman",
+   "elig": "ok",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "McLean, VA",
+   "posted_at": "2026-10-02T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "College Technical Intern",
+   "score": 6,
+   "sources": [
+    "simplify-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146?utm_source=Simplify&ref=Simplify"
+  },
   "a5dd0af7e0ac8ff5": {
    "company": "Scrap Labs",
    "first_seen": "2026-09-25T09:19:00.776760+00:00",
@@ -16530,7 +16640,7 @@
   "a6e95da1e2cd9a2f": {
    "company": "Emerson Electric",
    "first_seen": "2026-09-11T21:46:52.941123+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Round Rock, TX, United States",
    "posted_at": "2026-09-11T00:46:52.941123+00:00",
    "rank": "B",
@@ -16666,7 +16776,7 @@
   "a822bf2b461eca80": {
    "company": "Impulse Space",
    "first_seen": "2026-09-10T23:56:50.697690+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Redondo Beach, CA",
    "posted_at": "2026-09-10T23:56:50.697690+00:00",
    "rank": "S",
@@ -17388,7 +17498,7 @@
   "b1aaf23946674fa3": {
    "company": "Blue Origin",
    "first_seen": "2026-09-30T01:20:47.154141+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Greater Seattle Area",
    "posted_at": "2026-09-30T00:20:47.154141+00:00",
    "rank": "S",
@@ -17525,7 +17635,7 @@
    "company": "Anduril",
    "elig": "ok",
    "first_seen": "2026-09-14T21:54:43.882865+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Ashville, Ohio, United States",
    "posted_at": "2026-09-14T19:30:12+00:00",
    "rank": "S",
@@ -17543,12 +17653,13 @@
   "b4662508bd58451a": {
    "company": "RTX",
    "first_seen": "2026-09-15T16:46:55.246928+00:00",
-   "last_seen": "2026-09-15T16:46:55.246928+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "NM-FARMINGTON",
-   "posted_at": null,
+   "posted_at": "2026-10-01T16:27:44.649729+00:00",
    "rank": "A",
    "role": "Production Test Engineer Intern (Summer 2027)",
-   "score": 7,
+   "score": 9,
+   "scored_live": true,
    "sources": [
     "zapply-2027"
    ],
@@ -17647,7 +17758,7 @@
    "company": "Rocket Lab",
    "elig": "ok",
    "first_seen": "2026-09-10T00:04:07.653942+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Long Beach, CA",
    "posted_at": "2026-09-09T22:36:33+00:00",
    "rank": "S",
@@ -17682,7 +17793,7 @@
    "company": "Rocket Lab USA",
    "elig": "ok",
    "first_seen": "2026-09-17T22:54:30.566313+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Pasadena, CA",
    "posted_at": "2026-09-17T22:54:30.566313+00:00",
    "rank": "S",
@@ -17768,7 +17879,7 @@
   "b6b38f9420b17b5e": {
    "company": "Kairos Power",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Alameda, CA, Albuquerque, NM, Oak Ridge, TN",
    "posted_at": "2026-07-23T22:04:30+00:00",
    "rank": "A",
@@ -18493,7 +18604,7 @@
   "bfac7f310bb5bdc4": {
    "company": "Hermeus",
    "first_seen": "2026-09-02T04:03:29.446333+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, GA",
    "posted_at": "2026-09-02T01:04:36.096000+00:00",
    "rank": "S",
@@ -18563,7 +18674,7 @@
   "c014be96a3b67cc4": {
    "company": "Impulse Space",
    "first_seen": "2026-09-12T20:26:45.294301+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Redondo Beach, California",
    "posted_at": null,
    "rank": "S",
@@ -18598,7 +18709,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-10-01T01:20:02.214117+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-30T22:48:17+00:00",
    "rank": "S",
@@ -18634,7 +18745,7 @@
    "company": "Varda Space",
    "elig": "ok",
    "first_seen": "2026-10-01T10:40:52.805056+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "El Segundo, California, United States",
    "posted_at": "2026-10-01T05:54:46+00:00",
    "rank": "S",
@@ -19070,7 +19181,7 @@
    "company": "Saronic",
    "elig": "ok",
    "first_seen": "2026-09-09T21:56:52.378071+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Austin, TX",
    "posted_at": "2026-09-09T19:47:04.501000+00:00",
    "rank": "S",
@@ -19717,6 +19828,22 @@
    "tier": 9,
    "url": "https://jobright.ai/jobs/info/6aad70930ebc8fb2313e98b8?utm_campaign=1048&utm_source=git"
   },
+  "cb9a11c3b52c238d": {
+   "company": "RTX",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "AZ-TUCSON",
+   "posted_at": "2026-10-01T16:27:44.649729+00:00",
+   "rank": "A",
+   "role": "Production Test Engineering Intern (Summer 2027)",
+   "score": 6,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872992?s=gh-internships-2027"
+  },
   "cbfbbf80ab523634": {
    "company": "Barry-Wehmiller",
    "first_seen": "2026-08-13T16:03:31.970141+00:00",
@@ -19822,7 +19949,7 @@
   "ccc5bd2a6237f163": {
    "company": "LabCorp",
    "first_seen": "2026-09-15T04:30:38.853117+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Bloomfield CT",
    "posted_at": "2026-09-15T03:30:38.853117+00:00",
    "rank": "C",
@@ -19874,7 +20001,7 @@
    "filtered": true,
    "first_seen": "2026-09-03T13:12:13.677519+00:00",
    "grad_only": true,
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ",
    "posted_at": "2026-09-02T13:12:13.677519+00:00",
    "rank": "B",
@@ -20359,7 +20486,7 @@
   "d3b37ddf885cdf0a": {
    "company": "Apple",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "United States",
    "posted_at": "2026-06-08T05:00:12.980017+00:00",
    "rank": "C",
@@ -20578,7 +20705,7 @@
   "d656de498d98f0a3": {
    "company": "RTX",
    "first_seen": "2026-07-31T00:59:23.985394+00:00",
-   "last_seen": "2026-09-15T09:08:49.481761+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Tewksbury, MA, United States",
    "posted_at": "2026-07-30T00:00:00+00:00",
    "rank": "A",
@@ -20727,7 +20854,7 @@
    "company": "Northrop Grumman",
    "elig": "ok",
    "first_seen": "2026-09-22T20:05:03.472456+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "United States-Florida-Tampa",
    "posted_at": "2026-09-22T21:01:56.784467+00:00",
    "rank": "A",
@@ -20912,7 +21039,7 @@
    "elig": "ok",
    "filtered": true,
    "first_seen": "2026-09-21T16:09:55.145946+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Fond du Lac, WI",
    "posted_at": "2026-09-22T03:26:48.285993+00:00",
    "rank": "C",
@@ -20929,7 +21056,7 @@
   "d9aa4dda9f709f21": {
    "company": "RTX",
    "first_seen": "2026-09-29T17:59:41.570835+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Tucson, AZ",
    "posted_at": "2026-08-31T17:59:41.570835+00:00",
    "rank": "A",
@@ -21146,7 +21273,7 @@
   "dca8bc02bd546d0c": {
    "company": "ABB",
    "first_seen": "2026-09-03T08:29:43.049970+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Fort Smith, AR, United States",
    "posted_at": "2026-09-02T00:00:00+00:00",
    "rank": "C",
@@ -21336,7 +21463,7 @@
   "def44b43ab4f4d03": {
    "company": "Hermeus",
    "first_seen": "2026-09-09T16:26:01.086685+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Los Angeles, CA",
    "posted_at": "2026-08-31T15:21:07.823000+00:00",
    "rank": "S",
@@ -21392,7 +21519,7 @@
    "company": "Rivian",
    "elig": "ok",
    "first_seen": "2026-09-08T19:34:55.758644+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Irvine, California",
    "posted_at": "2026-09-08T17:36:25.312000+00:00",
    "rank": "A",
@@ -21646,12 +21773,13 @@
   "e3c679a024fbff12": {
    "company": "General Motors",
    "first_seen": "2026-10-02T10:16:18.219341+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Sunnyvale, California, United...",
    "posted_at": "2026-10-01T10:16:18.219341+00:00",
    "rank": "A",
    "role": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
    "score": 7,
+   "scored_live": true,
    "sources": [
     "zapply-2027"
    ],
@@ -21788,7 +21916,7 @@
   "e62192304cd4f4d9": {
    "company": "Honeywell",
    "first_seen": "2026-08-25T21:35:28.774500+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "United States",
    "posted_at": "2026-08-25T21:35:28.774500+00:00",
    "rank": "A",
@@ -21912,7 +22040,7 @@
   "e82d5de548e89644": {
    "company": "Schweitzer Engineering Laboratories",
    "first_seen": "2026-08-07T00:20:23.888150+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Pullman",
    "posted_at": null,
    "rank": "C",
@@ -21963,7 +22091,7 @@
   "e8b43ec95f5c9409": {
    "company": "INFICON",
    "first_seen": "2026-09-30T16:37:59.533110+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "East Syracuse, NY",
    "posted_at": "2026-09-30T14:37:59.533110+00:00",
    "rank": "C",
@@ -22111,6 +22239,23 @@
    "term": "target",
    "tier": 3,
    "url": "https://jobright.ai/jobs/info/6a9741f2d13b4819f39e038b?utm_campaign=1048&utm_source=git"
+  },
+  "eb098695e0bfe2d7": {
+   "company": "Northrop Grumman",
+   "elig": "ok",
+   "first_seen": "2026-10-02T16:27:44.649729+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
+   "location": "United States-Virginia-McLean",
+   "posted_at": "2026-10-02T15:27:44.649729+00:00",
+   "rank": "A",
+   "role": "2027 College Technical Intern - McLean VA",
+   "score": 6,
+   "sources": [
+    "zapply-2027"
+   ],
+   "term": "target",
+   "tier": 2,
+   "url": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253146?s=gh-internships-2027"
   },
   "eb438571228e9a6b": {
    "company": "Vertiv",
@@ -23156,7 +23301,7 @@
    "company": "Astranis",
    "elig": "ok",
    "first_seen": "2026-09-24T23:26:54.949329+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "San Francisco",
    "posted_at": "2026-09-24T21:28:51+00:00",
    "rank": "S",
@@ -23414,7 +23559,7 @@
    "company": "Micron Technology",
    "elig": "ok",
    "first_seen": "2026-09-23T04:23:12.056061+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Richardson, TX",
    "posted_at": "2026-09-22T09:01:11.121375+00:00",
    "rank": "C",
@@ -23517,7 +23662,7 @@
   "fa64b271604a8678": {
    "company": "KLA",
    "first_seen": "2026-10-01T01:20:02.214117+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Milpitas, CA",
    "posted_at": "2026-10-01T00:20:02.214117+00:00",
    "rank": "B",
@@ -23887,7 +24032,7 @@
   "fdc8d7fb6c343383": {
    "company": "Anduril",
    "first_seen": "2026-07-30T19:14:47.654252+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
    "nudged": "2026-08-05T21:22:05.990588+00:00",
    "posted_at": "2026-06-11T17:51:24+00:00",
@@ -24027,7 +24172,7 @@
   "ff985b8234f20820": {
    "company": "Stryten",
    "first_seen": "2026-09-03T08:29:43.049970+00:00",
-   "last_seen": "2026-10-02T10:16:18.219341+00:00",
+   "last_seen": "2026-10-02T16:27:44.649729+00:00",
    "location": "Salina, KS",
    "posted_at": "2026-08-31T08:29:43.049970+00:00",
    "rank": "C",
@@ -24075,32 +24220,32 @@
   },
   "ats:ashby:radiant": {
    "company": "Radiant Nuclear",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 23
   },
   "ats:ashby:rivianvw.tech": {
    "company": "Rivian",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 145
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 146
   },
   "ats:ashby:saronic": {
    "company": "Saronic",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 205
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 207
   },
   "ats:ashby:skydio": {
    "company": "Skydio",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 144
   },
   "ats:greenhouse:andurilindustries": {
    "company": "Anduril",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 2419
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 2413
   },
   "ats:greenhouse:apptronik": {
    "company": "Apptronik",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 76
   },
   "ats:greenhouse:archeraviation": {
@@ -24109,8 +24254,8 @@
   },
   "ats:greenhouse:astranis": {
    "company": "Astranis",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 174
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 173
   },
   "ats:greenhouse:betatechnologies": {
    "company": "Beta Technologies",
@@ -24130,12 +24275,12 @@
   },
   "ats:greenhouse:electraaero": {
    "company": "Electra",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 31
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 32
   },
   "ats:greenhouse:figureai": {
    "company": "Figure AI",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 98
   },
   "ats:greenhouse:fireflyaerospace": {
@@ -24160,22 +24305,22 @@
   },
   "ats:greenhouse:kairospower": {
    "company": "Kairos Power",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 33
   },
   "ats:greenhouse:lucidmotors": {
    "company": "Lucid Motors",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 433
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 434
   },
   "ats:greenhouse:oklo": {
    "company": "Oklo",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 76
   },
   "ats:greenhouse:redwoodmaterials": {
    "company": "Redwood Materials",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 136
   },
   "ats:greenhouse:relativityspace": {
@@ -24184,12 +24329,12 @@
   },
   "ats:greenhouse:rocketlab": {
    "company": "Rocket Lab",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 560
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 561
   },
   "ats:greenhouse:spacex": {
    "company": "SpaceX",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 2635
   },
   "ats:greenhouse:stokespace": {
@@ -24198,17 +24343,17 @@
   },
   "ats:greenhouse:ursamajor": {
    "company": "Ursa Major",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 108
   },
   "ats:greenhouse:vardaspace": {
    "company": "Varda Space",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 102
   },
   "ats:greenhouse:vast": {
    "company": "Vast",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 201
   },
   "ats:greenhouse:zipline": {
@@ -24221,33 +24366,33 @@
   },
   "ats:lever:hermeus": {
    "company": "Hermeus",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 88
   },
   "ats:lever:shieldai": {
    "company": "Shield AI",
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 582
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 581
   },
   "jobright-engineering": {
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 100
   },
   "simplify-2027": {
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
-   "rows": 1953
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
+   "rows": 1929
   },
   "sndsh-2027": {
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 137
   },
   "vansh-2027": {
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "rows": 265
   },
   "zapply-2027": {
-   "last_ok": "2026-10-02T10:16:18.219341+00:00",
+   "last_ok": "2026-10-02T16:27:44.649729+00:00",
    "last_warned": "2026-08-17T15:00:08.379057+00:00",
    "rows": 600
   }
