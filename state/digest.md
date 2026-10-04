@@ -1,8 +1,10 @@
-# Brief 2026-10-04 15:37 UTC
+# Brief 2026-10-04 23:18 UTC
 
-4 new since the last brief.
+6 new since the last brief.
 
-- `S` **Impulse Space** — Avionics Electric Propulsion Engineering Intern · Redondo Beach, CA · score 13 · [apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq&utm_source=Simplify&ref=Simplify)
-- `B` **Moog** — Test Engineer Intern · Buffalo, NY · score 5 · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1?utm_source=Simplify&ref=Simplify)
-- `C` **Brixenta** — Mechanical Engineering Intern · Missouri, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac24b308ff3fb9b3bc7e53a?utm_campaign=1048&utm_source=git)
-- `C` **The Toro Company** — Mechatronics Engineering Co-Op · Bloomington, MN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abfc1cc372c01f6cd72889b?utm_campaign=1048&utm_source=git)
+- `C` **Avynera Studios** — Mechanical Engineering Intern · Missouri, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac2655d8ff3fb9b3bc7e6ab?utm_campaign=1048&utm_source=git)
+- `C` **Horizon Lane** — Thermal Engineer Intern · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac26790d9621c5b2839a0d8?utm_campaign=1048&utm_source=git)
+- `C` **Robynex Automation** — Mechanical Engineering Intern · Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac264b5372c01f6cd72e587?utm_campaign=1048&utm_source=git)
+- `C` **StructaLink Group** — Mechanical Engineering Internship · Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac265b7d9621c5b2839a0c2?utm_campaign=1048&utm_source=git)
+- `C` **Vexra Engineering** — Propulsion Engineer Intern · California, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac26208064da25272e0b8e3?utm_campaign=1048&utm_source=git)
+- `C` **RoboNexis** — Mechanical Engineering Intern · California, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac2908c372c01f6cd72fdf9?utm_campaign=1048&utm_source=git)
