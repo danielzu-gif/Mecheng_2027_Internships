@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-10-05 02:09 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-10-05 05:11 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **85 open · 15 apply-now · 0 saved · 3 applied all-time**
 
@@ -97,11 +97,11 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:6f8a66995e54947b-->
 - [ ] **RTX** — Aftermarket and Sustainment Engineering - CE Design Engineer Co-Op (January 2027) (Hybrid) · posted Oct 01 (3d ago) · PR-AGUADILLA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872853?s=gh-internships-2027) <!--a:6ff266b04e83b748-->
   - [ ] 📌 keep on the board <!--s:6ff266b04e83b748-->
-- [ ] **RTX** — Co-op: Columbus Forge Disks (CFD) Digital Technology (January 2027 Start) · posted Sep 29 (5d ago) · GA-MIDLAND-MPC · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878553?s=gh-internships-2027) <!--a:71916f50ed54ea84-->
+- [ ] **RTX** — Co-op: Columbus Forge Disks (CFD) Digital Technology (January 2027 Start) · posted Sep 29 (6d ago) · GA-MIDLAND-MPC · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878553?s=gh-internships-2027) <!--a:71916f50ed54ea84-->
   - [ ] 📌 keep on the board <!--s:71916f50ed54ea84-->
-- [ ] **RTX** — 2027 Systems Engineer Intern (Onsite) - Mission Sensor Manager · posted Sep 30 (4d ago) · IA-CEDAR RAPIDS · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879093?s=gh-internships-2027) <!--a:84aad89796d33504-->
+- [ ] **RTX** — 2027 Systems Engineer Intern (Onsite) - Mission Sensor Manager · posted Sep 30 (5d ago) · IA-CEDAR RAPIDS · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879093?s=gh-internships-2027) <!--a:84aad89796d33504-->
   - [ ] 📌 keep on the board <!--s:84aad89796d33504-->
-- [ ] **RTX** — Avionics Test Engineering -Systems Engineer Intern (Onsite) · posted Oct 03 (39h ago) · IA-CEDAR RAPIDS · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876518?s=gh-internships-2027) <!--a:97425c327a1824de-->
+- [ ] **RTX** — Avionics Test Engineering -Systems Engineer Intern (Onsite) · posted Oct 03 (42h ago) · IA-CEDAR RAPIDS · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876518?s=gh-internships-2027) <!--a:97425c327a1824de-->
   - [ ] 📌 keep on the board <!--s:97425c327a1824de-->
 - [ ] **RTX** — Thermal Analysis Intern (Summer 2027) · posted Sep 28 (6d ago) · AL-HUNTSVILLE · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878156?s=gh-internships-2027) <!--a:a3420aa99a11a0a3-->
   - [ ] 📌 keep on the board <!--s:a3420aa99a11a0a3-->
@@ -181,7 +181,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron** — 2027 Internship: CWC Manufacturing Engineer (Muskegon, MI) · posted Sep 25 (10d ago) · Muskegon, MI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ab620edc6fe0dec811a44bc?utm_campaign=1048&utm_source=git) <!--a:7a17d014534fe528-->
   - [ ] 📌 keep on the board <!--s:7a17d014534fe528-->
 
-- [ ] **Applied Materials** — 2027 Summer Intern - Mechanical Engineer I (Santa Clara, CA) · posted Sep 30 (4d ago) · Santa Clara,CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2628355?s=gh-internships-2027) <!--a:99a3f99c0d235cbd-->
+- [ ] **Applied Materials** — 2027 Summer Intern - Mechanical Engineer I (Santa Clara, CA) · posted Sep 30 (5d ago) · Santa Clara,CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2628355?s=gh-internships-2027) <!--a:99a3f99c0d235cbd-->
   - [ ] 📌 keep on the board <!--s:99a3f99c0d235cbd-->
 
 - [ ] **AV** — Production Engineering Intern · posted Sep 29 (6d ago) · Simi Valley, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6abc33f4a9a644f96568ae8d?utm_campaign=1048&utm_source=git) <!--a:0738a791ba8fc219-->
@@ -215,5 +215,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Westinghouse Electric Company** — Summer Intern - Thermal-Hydraulic · posted Sep 30 (5d ago) · Hopkins, SC, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abd77f5d9621c5b2838c5f1?utm_campaign=1048&utm_source=git) <!--a:c1cf99f212ac8dd5-->
   - [ ] 📌 keep on the board <!--s:c1cf99f212ac8dd5-->
 
-### · Wide net (113)
+### · Wide net (114)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
