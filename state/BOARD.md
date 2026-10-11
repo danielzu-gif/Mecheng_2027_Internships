@@ -1,11 +1,11 @@
 # Summer 2027 board
-_rebuilt 2026-10-11 10:32 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-10-11 16:29 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**90 open · 17 apply-now · 0 saved · 3 applied all-time**
+**84 open · 13 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (17)
+## ⭐ Apply now (13)
 
 - [ ] **Arc** — Mechanical Engineering Intern - Powertrain · posted Oct 05 (6d ago) · Torrance, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac3d80e064da25272e0fb8a?utm_campaign=1048&utm_source=git) <!--a:7cc25ad7e219591a-->
   - [ ] 📌 keep on the board <!--s:7cc25ad7e219591a-->
@@ -15,7 +15,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **ATI** — Summer 2027 Mechanical Design Engineer Intern · posted Oct 07 (4d ago) · Monroe, NC, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ab3fc150e0ae54eeea45ac8?utm_campaign=1048&utm_source=git) <!--a:7dfc8228d751e1ba-->
   - [ ] 📌 keep on the board <!--s:7dfc8228d751e1ba-->
 
-- [ ] **Impulse Space** — Avionics Electric Propulsion Engineering Intern · posted Sep 12 (28d ago) · Redondo Beach, CA · S27 confirmed · [apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq&utm_source=Simplify&ref=Simplify) <!--a:33165863626f5c3e-->
+- [ ] **Impulse Space** — Avionics Electric Propulsion Engineering Intern · posted Sep 12 (29d ago) · Redondo Beach, CA · S27 confirmed · [apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq&utm_source=Simplify&ref=Simplify) <!--a:33165863626f5c3e-->
   - [ ] 📌 keep on the board <!--s:33165863626f5c3e-->
 - [ ] **Impulse Space** — Opto-Mechanical Engineering Intern (Summer 2027) · posted Oct 08 (3d ago) · Redondo Beach, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa416edf7baf881567cd281?utm_campaign=1048&utm_source=git) <!--a:7e83dcc455f5fbea-->
   - [ ] 📌 keep on the board <!--s:7e83dcc455f5fbea-->
@@ -24,13 +24,6 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Impulse Space** — Weld Engineering Intern (Summer 2027) · posted Oct 07 (4d ago) · Redondo Beach, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac6da3a372c01f6cd73f6b7?utm_campaign=1048&utm_source=git) <!--a:da57d2b9803a3cb5-->
   - [ ] 📌 keep on the board <!--s:da57d2b9803a3cb5-->
 
-- [ ] **Varda Space** — Thermal Engineering Internship - Summer 2027 · posted Oct 01 (10d ago) · El Segundo, California, United States · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010172003) <!--a:c14f9419a2a96952-->
-  - [ ] 📌 keep on the board <!--s:c14f9419a2a96952-->
-- [ ] **Varda Space** — Aerodynamics & Analysis Engineering Internship - Summer 2027 · posted Oct 01 (9d ago) · El Segundo, California, United States · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010632003) <!--a:22ba5843ffe586af-->
-  - [ ] 📌 keep on the board <!--s:22ba5843ffe586af-->
-- [ ] **Varda Space** — Avionics Engineering Intern · posted Oct 01 (9d ago) · El Segundo, CA · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003?utm_source=Simplify&ref=Simplify) <!--a:66402652552e59e3-->
-  - [ ] 📌 keep on the board <!--s:66402652552e59e3-->
-
 - [ ] **Anduril** — 2027 Systems Engineer Intern · posted Oct 06 (5d ago) · Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States · S27 confirmed · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) <!--a:33cd8daddb7858e8-->
   - [ ] 📌 keep on the board <!--s:33cd8daddb7858e8-->
 - [ ] **Anduril** — 2027 Reliability Engineer Intern · posted Oct 06 (5d ago) · Costa Mesa, California, United States · S27 confirmed · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) <!--a:c41b3ce935f4134d-->
@@ -38,18 +31,16 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Anduril** — 2027 Industrial Engineer Intern · posted Oct 02 (8d ago) · Ashville, Ohio, United States; Costa Mesa, California, United States · S27 confirmed · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) <!--a:110e567790903897-->
   - [ ] 📌 keep on the board <!--s:110e567790903897-->
 
-- [ ] **Varda Space Industries** — Thermal Engineering Internship - Summer 2027 · posted Sep 30 (11d ago) · El Segundo, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abdf7e48ff3fb9b3bc72859?utm_campaign=1048&utm_source=git) <!--a:1be6c7e7573d8f3b-->
-  - [ ] 📌 keep on the board <!--s:1be6c7e7573d8f3b-->
-- [ ] **Varda Space Industries** — Structures Engineering Internship - Summer 2027 · posted Sep 30 (11d ago) · El Segundo, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abdf7ae4ac55253f5d5f483?utm_campaign=1048&utm_source=git) <!--a:fb399d3ddb2fb7de-->
-  - [ ] 📌 keep on the board <!--s:fb399d3ddb2fb7de-->
-
 - [ ] **Astranis Space Technologies** — Thermal Intern (Summer 2027) · posted Oct 08 (3d ago) · San Francisco, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ab596eeb3db59402d0fe11c?utm_campaign=1048&utm_source=git) <!--a:07bb62a2dcbe5be1-->
   - [ ] 📌 keep on the board <!--s:07bb62a2dcbe5be1-->
 
 - [ ] **Blue Origin** — Summer 2027 Electrical Systems Engineering Internship - Graduate · posted Oct 03 (8d ago) · Greater Seattle Area · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71437?s=gh-internships-2027) <!--a:9fa5bb059cc59c50-->
   - [ ] 📌 keep on the board <!--s:9fa5bb059cc59c50-->
 
-## 🔷 Strong (57)
+- [ ] **Varda Space** — Aerodynamics & Analysis Engineering Internship - Summer 2027 · posted Oct 01 (9d ago) · El Segundo, California, United States · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010632003) <!--a:22ba5843ffe586af-->
+  - [ ] 📌 keep on the board <!--s:22ba5843ffe586af-->
+
+## 🔷 Strong (56)
 
 - [ ] **Northrop Grumman** — 2027 Mechanical/Aerospace Engineer Intern - Baltimore MD · posted Oct 08 (3d ago) · United States-Maryland-Baltimore · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255003?s=gh-internships-2027) <!--a:d24c2df04bdd9c5d-->
   - [ ] 📌 keep on the board <!--s:d24c2df04bdd9c5d-->
@@ -63,7 +54,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:c3f45c2e1c9fb5f0-->
 - [ ] **Northrop Grumman** — 2027 Mechanical Engineer Intern - Sunnyvale CA · posted Oct 06 (4d ago) · United States-California-Sunnyvale · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251428?s=gh-internships-2027) <!--a:fe7f8b4cd3397b65-->
   - [ ] 📌 keep on the board <!--s:fe7f8b4cd3397b65-->
-- [ ] **Northrop Grumman** — 2027 Manufacturing Engineer Intern - Commerce CA · posted Oct 07 (3d ago) · United States-California-Commerce · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255136?s=gh-internships-2027) <!--a:1ade1756da4621f5-->
+- [ ] **Northrop Grumman** — 2027 Manufacturing Engineer Intern - Commerce CA · posted Oct 07 (4d ago) · United States-California-Commerce · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255136?s=gh-internships-2027) <!--a:1ade1756da4621f5-->
   - [ ] 📌 keep on the board <!--s:1ade1756da4621f5-->
 - [ ] **Northrop Grumman** — 2027 Electrical/Systems Engineer Intern - Baltimore MD · posted Oct 08 (2d ago) · United States-Maryland-Baltimore · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255010?s=gh-internships-2027) <!--a:456d5bf284c95f42-->
   - [ ] 📌 keep on the board <!--s:456d5bf284c95f42-->
@@ -83,15 +74,15 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:33f5db3a98fe2327-->
 - [ ] **Northrop Grumman** — 2027 Structural Engineering Intern Dulles Va · posted Oct 01 (9d ago) · United States-Virginia-Dulles · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253912?s=gh-internships-2027) <!--a:8ec441f27e6eb1ec-->
   - [ ] 📌 keep on the board <!--s:8ec441f27e6eb1ec-->
-- [ ] **Northrop Grumman** — College Technical Intern · posted Oct 02 (8d ago) · McLean, VA · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146?utm_source=Simplify&ref=Simplify) <!--a:a5c2946f9f9e40d6-->
+- [ ] **Northrop Grumman** — College Technical Intern · posted Oct 02 (9d ago) · McLean, VA · S27 confirmed · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146?utm_source=Simplify&ref=Simplify) <!--a:a5c2946f9f9e40d6-->
   - [ ] 📌 keep on the board <!--s:a5c2946f9f9e40d6-->
-- [ ] **Northrop Grumman** — 2027 College Technical Intern - McLean VA · posted Oct 02 (8d ago) · United States-Virginia-McLean · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253146?s=gh-internships-2027) <!--a:eb098695e0bfe2d7-->
+- [ ] **Northrop Grumman** — 2027 College Technical Intern - McLean VA · posted Oct 02 (9d ago) · United States-Virginia-McLean · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253146?s=gh-internships-2027) <!--a:eb098695e0bfe2d7-->
   - [ ] 📌 keep on the board <!--s:eb098695e0bfe2d7-->
 
-- [ ] **Rivian** — Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027) · posted Oct 09 (43h ago) · Champaign, Illinois · S27 confirmed · [apply](https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc) <!--a:3cdb49d653737fc9-->
+- [ ] **Rivian** — Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027) · posted Oct 09 (2d ago) · Champaign, Illinois · S27 confirmed · [apply](https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc) <!--a:3cdb49d653737fc9-->
   - [ ] 📌 keep on the board <!--s:3cdb49d653737fc9-->
 
-- [ ] **Rivian and Volkswagen Group Technologies** — Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027) · posted Oct 09 (43h ago) · Champaign, Illinois · S27 confirmed · [apply](https://zapply.jobs/l/d/ashby-rivianvw.tech-526c87f2-fba4-4744-8b87-1cb949b5cdfc?s=gh-internships-2027) <!--a:d98bb11f93a7e163-->
+- [ ] **Rivian and Volkswagen Group Technologies** — Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027) · posted Oct 09 (2d ago) · Champaign, Illinois · S27 confirmed · [apply](https://zapply.jobs/l/d/ashby-rivianvw.tech-526c87f2-fba4-4744-8b87-1cb949b5cdfc?s=gh-internships-2027) <!--a:d98bb11f93a7e163-->
   - [ ] 📌 keep on the board <!--s:d98bb11f93a7e163-->
 
 - [ ] **Arc** — Mechanical Engineering Intern - Recreational · posted Oct 07 (4d ago) · Torrance, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac6b225372c01f6cd73ea45?utm_campaign=1048&utm_source=git) <!--a:a356c55b9f4e1280-->
@@ -117,7 +108,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:800ae749664813a8-->
 - [ ] **RTX** — AI Engineering Intern (Summer 2027) · posted Oct 08 (3d ago) · NY-REMOTE · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880596?s=gh-internships-2027) <!--a:8aeae7f00c4a7450-->
   - [ ] 📌 keep on the board <!--s:8aeae7f00c4a7450-->
-- [ ] **RTX** — Production Test Engineering Intern (Summer 2027) · posted Oct 01 (9d ago) · AZ-TUCSON · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872992?s=gh-internships-2027) <!--a:cb9a11c3b52c238d-->
+- [ ] **RTX** — Production Test Engineering Intern (Summer 2027) · posted Oct 01 (10d ago) · AZ-TUCSON · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872992?s=gh-internships-2027) <!--a:cb9a11c3b52c238d-->
   - [ ] 📌 keep on the board <!--s:cb9a11c3b52c238d-->
 - [ ] **RTX** — Systems Engineering Co-Op (January 2027) (Hybrid) · posted Oct 02 (9d ago) · PR-AGUADILLA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879457?s=gh-internships-2027) <!--a:d1ce12910f9f15d0-->
   - [ ] 📌 keep on the board <!--s:d1ce12910f9f15d0-->
@@ -128,7 +119,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — FPGA Engineering Intern (Summer 2027)(Onsite) · posted Oct 06 (4d ago) · TX-MCKINNEY · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880037?s=gh-internships-2027) <!--a:f5df302d582759b5-->
   - [ ] 📌 keep on the board <!--s:f5df302d582759b5-->
 
-- [ ] **General Motors** — AI/ML Engineer Intern - Autonomous Vehicles: Simulation · posted Oct 01 (9d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify) <!--a:036e1d2003c0afd9-->
+- [ ] **General Motors** — AI/ML Engineer Intern - Autonomous Vehicles: Simulation · posted Oct 01 (10d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify) <!--a:036e1d2003c0afd9-->
   - [ ] 📌 keep on the board <!--s:036e1d2003c0afd9-->
 - [ ] **General Motors** — AI/ML Engineer Intern - Autonomous Vehicle: Simulation · posted Oct 01 (10d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify) <!--a:8a8e0f23b62f0ded-->
   - [ ] 📌 keep on the board <!--s:8a8e0f23b62f0ded-->
@@ -176,19 +167,16 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Impulse Space** — Avionics Engineering Intern (Summer 2027) · posted Oct 08 (3d ago) · Redondo Beach, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aa3df95f3aa936e2cdae5a9?utm_campaign=1048&utm_source=git) <!--a:dadcc6c3a8f0a698-->
   - [ ] 📌 keep on the board <!--s:dadcc6c3a8f0a698-->
 
-- [ ] **Varda Space Industries** — Avionics Engineering Internship - Summer 2027 · posted Sep 30 (11d ago) · El Segundo, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abdfa1e4ac55253f5d5f5d1?utm_campaign=1048&utm_source=git) <!--a:c4627be0e39ecc8e-->
-  - [ ] 📌 keep on the board <!--s:c4627be0e39ecc8e-->
-
-## ▫️ Worth a look (16)
+## ▫️ Worth a look (15)
 
 - [ ] **Aptiv** — Mechanical Engineering Intern - Tooling · posted Oct 08 (3d ago) · Warren, OH, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac741004ac55253f5d7d7d4?utm_campaign=1048&utm_source=git) <!--a:52676113cf18b0c5-->
   - [ ] 📌 keep on the board <!--s:52676113cf18b0c5-->
 
-- [ ] **Applied Materials** — 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) · posted Oct 09 (41h ago) · Gloucester,MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2630657?s=gh-internships-2027) <!--a:3630f4a4b19661db-->
+- [ ] **Applied Materials** — 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) · posted Oct 09 (47h ago) · Gloucester,MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2630657?s=gh-internships-2027) <!--a:3630f4a4b19661db-->
   - [ ] 📌 keep on the board <!--s:3630f4a4b19661db-->
 - [ ] **Applied Materials** — 2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara) · posted Oct 09 (2d ago) · Santa Clara,CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2629426?s=gh-internships-2027) <!--a:84e1cd780740465c-->
   - [ ] 📌 keep on the board <!--s:84e1cd780740465c-->
-- [ ] **Applied Materials** — 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) · posted Oct 09 (37h ago) · Santa Clara, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac9448c6355f8776ff183fd?utm_campaign=1048&utm_source=git) <!--a:ac93c0a4a524643e-->
+- [ ] **Applied Materials** — 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) · posted Oct 09 (43h ago) · Santa Clara, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac9448c6355f8776ff183fd?utm_campaign=1048&utm_source=git) <!--a:ac93c0a4a524643e-->
   - [ ] 📌 keep on the board <!--s:ac93c0a4a524643e-->
 
 - [ ] **Arc** — Electrical Integration Engineering Intern · posted Oct 05 (6d ago) · Torrance, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac43dd70e027c0f3b3aa429?utm_campaign=1048&utm_source=git) <!--a:436849c0ea870c24-->
@@ -202,13 +190,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **GE Vernova** — GE Vernova Manufacturing Engineering Internship Summer 2027 · posted Oct 07 (3d ago) · Longmont · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5050450?s=gh-internships-2027) <!--a:22a6743d1498b4de-->
   - [ ] 📌 keep on the board <!--s:22a6743d1498b4de-->
 
-- [ ] **KLA** — Mechanical Engineering Intern · posted Oct 10 (32h ago) · Ann Arbor, MI · season unstated · [apply](https://zapply.jobs/l/d/workday-kla-search-2640653?s=gh-internships-2027) <!--a:dd2ef91126d60a16-->
+- [ ] **KLA** — Mechanical Engineering Intern · posted Oct 10 (38h ago) · Ann Arbor, MI · season unstated · [apply](https://zapply.jobs/l/d/workday-kla-search-2640653?s=gh-internships-2027) <!--a:dd2ef91126d60a16-->
   - [ ] 📌 keep on the board <!--s:dd2ef91126d60a16-->
 
-- [ ] **L3Harris Technologies** — Intern, Information Security Systems Engineer (Salt Lake City, UT) · posted Sep 30 (11d ago) · Salt Lake City, UT, United States · season unstated · [apply](https://jobright.ai/jobs/info/6abd0ef28ff3fb9b3bc6e332?utm_campaign=1048&utm_source=git) <!--a:9a2d31b858181159-->
-  - [ ] 📌 keep on the board <!--s:9a2d31b858181159-->
-
-- [ ] **Moog** — Test Engineer Intern · posted Sep 22 (18d ago) · Buffalo, NY · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1?utm_source=Simplify&ref=Simplify) <!--a:9f170d747f0acf0b-->
+- [ ] **Moog** — Test Engineer Intern · posted Sep 22 (19d ago) · Buffalo, NY · S27 confirmed · [apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1?utm_source=Simplify&ref=Simplify) <!--a:9f170d747f0acf0b-->
   - [ ] 📌 keep on the board <!--s:9f170d747f0acf0b-->
 
 - [ ] **Parker Hannifin** — Intern – Mechanical Engineering (Aerospace) · posted Oct 05 (6d ago) · Kent, WA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac3ec968ff3fb9b3bc82fa8?utm_campaign=1048&utm_source=git) <!--a:b7e5be6e5576e8b2-->
@@ -225,5 +210,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Westinghouse Electric Company** — Summer Intern - Component Design Mechanical Engineering · posted Oct 09 (2d ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac95f7ad4a5a03707412289?utm_campaign=1048&utm_source=git) <!--a:cddb436783025619-->
   - [ ] 📌 keep on the board <!--s:cddb436783025619-->
 
-### · Wide net (104)
+### · Wide net (98)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
