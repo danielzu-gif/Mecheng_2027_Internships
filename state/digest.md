@@ -1,8 +1,14 @@
-# Brief 2026-10-12 05:32 UTC
+# Brief 2026-10-12 21:11 UTC
 
-4 new since the last brief.
+10 new since the last brief.
 
-- `B` **Parker Hannifin** — Aerospace Engineer Intern- Summer 2027 · Kalamazoo, MI, United States · score 5 · [apply](https://jobright.ai/jobs/info/6acb9d5d3c831dc4086bd552?utm_campaign=1048&utm_source=git)
-- `C` **Gridvanta PowerTech** — Mechanical Engineering Intern · San Francisco, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acbf5b1002e496d4beedceb?utm_campaign=1048&utm_source=git)
-- `C` **Samtec Inc** — Opto-Mechanical Design Engineering Co-Op- San Diego State University · San Diego, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acbebdf002e496d4beedc38?utm_campaign=1048&utm_source=git)
-- `C` **Thermagia Engineering** — Mechanical Engineering Intern · Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acbdc93e7a1d9333210d0c6?utm_campaign=1048&utm_source=git)
+- `A` **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 - Returning Students · Evendale · score 9 · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5030079?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 Systems Engineer Intern - Chantilly VA · United States-Virginia-Chantilly · score 9 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255633?s=gh-internships-2027)
+- `A` **General Motors** — 2027 Summer Intern – Research and Developement – Display Optical Simulation · Warren, Michigan, United States... · score 7 · [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621740?s=gh-internships-2027)
+- `A` **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 - Returning Students · Evendale · score 6 · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029793?s=gh-internships-2027)
+- `A` **RTX** — Product Quality Engineering Intern (Summer 2027) · MN-BURNSVILLE-WEST · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871830?s=gh-internships-2027)
+- `C` **HPE (University)** — Thermal/Mechanical Engineering Intern · Spring, Texas, United States of... · score 9 · [apply](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213398?s=gh-internships-2027)
+- `C` **Universal Orlando Resort** — Internship – Mechanical Engineering (Summer 2027) · Orlando, FL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6acc8f32d113c967e3c7a479?utm_campaign=1048&utm_source=git)
+- `C` **Hewlett Packard Enterprise** — Thermal Engineering Intern · Sunnyvale, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac855ad6355f8776ff14f50?utm_campaign=1048&utm_source=git)
+- `C` **Figure** — Deployment Engineering Intern · San Jose, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acd13e2d113c967e3c7c003?utm_campaign=1048&utm_source=git)
+- `C` **Micron Technology** — Intern - SSD Hardware Engineering · Longmont-MAX- · score 3 · [apply](https://zapply.jobs/l/d/workday-micron-external-JR114232?s=gh-internships-2027)
