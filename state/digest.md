@@ -1,14 +1,11 @@
-# Brief 2026-10-12 21:11 UTC
+# Brief 2026-10-13 06:29 UTC
 
-10 new since the last brief.
+7 new since the last brief.
 
-- `A` **GE Aerospace** — Manufacturing Engineering Intern – US – Summer 2027 - Returning Students · Evendale · score 9 · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5030079?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Systems Engineer Intern - Chantilly VA · United States-Virginia-Chantilly · score 9 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255633?s=gh-internships-2027)
-- `A` **General Motors** — 2027 Summer Intern – Research and Developement – Display Optical Simulation · Warren, Michigan, United States... · score 7 · [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621740?s=gh-internships-2027)
-- `A` **GE Aerospace** — Engines Engineering Intern – US – Summer 2027 - Returning Students · Evendale · score 6 · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029793?s=gh-internships-2027)
-- `A` **RTX** — Product Quality Engineering Intern (Summer 2027) · MN-BURNSVILLE-WEST · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871830?s=gh-internships-2027)
-- `C` **HPE (University)** — Thermal/Mechanical Engineering Intern · Spring, Texas, United States of... · score 9 · [apply](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213398?s=gh-internships-2027)
-- `C` **Universal Orlando Resort** — Internship – Mechanical Engineering (Summer 2027) · Orlando, FL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6acc8f32d113c967e3c7a479?utm_campaign=1048&utm_source=git)
-- `C` **Hewlett Packard Enterprise** — Thermal Engineering Intern · Sunnyvale, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ac855ad6355f8776ff14f50?utm_campaign=1048&utm_source=git)
-- `C` **Figure** — Deployment Engineering Intern · San Jose, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acd13e2d113c967e3c7c003?utm_campaign=1048&utm_source=git)
-- `C` **Micron Technology** — Intern - SSD Hardware Engineering · Longmont-MAX- · score 3 · [apply](https://zapply.jobs/l/d/workday-micron-external-JR114232?s=gh-internships-2027)
+- `A` **RTX** — JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite · IA-CEDAR RAPIDS · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873473?s=gh-internships-2027)
+- `A` **RTX** — 2027 Co-Op - Summer/Fall Systems Engineer - Onsite · IA-CEDAR RAPIDS · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871438?s=gh-internships-2027)
+- `B` **L3Harris Technologies** — Intern, Manufacturing Engineer (Waco, TX) 1 · Waco, TX, United States · score 5 · [apply](https://jobright.ai/jobs/info/6ac8197e51a1b3e4219f0505?utm_campaign=1048&utm_source=git)
+- `C` **Hewlett Packard Enterprise** — Thermal/Mechanical Engineering Intern · Spring, TX, United States · score 9 · [apply](https://jobright.ai/jobs/info/6acd5660d113c967e3c7d62c?utm_campaign=1048&utm_source=git)
+- `C` **AMETEK** — Mechanical Engineering Co-op - Summer 2027 · Kent, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ac3cac8064da25272e0f4ed?utm_campaign=1048&utm_source=git)
+- `C` **Life Fitness / Hammer Strength** — Mechanical Engineering Intern - Ramsey, MN · Ramsey, MN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ab1b76632552369083e4066?utm_campaign=1048&utm_source=git)
+- `C` **Life Fitness / Hammer Strength** — Mechanical Engineering Intern · Schaumburg, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acd701be7a1d93332111a68?utm_campaign=1048&utm_source=git)
