@@ -1,10 +1,22 @@
-# Brief 2026-10-13 23:19 UTC
+# Brief 2026-10-14 09:14 UTC
 
-6 new since the last brief.
+18 new since the last brief.
 
-- `A` **Northrop Grumman** — Computer Engineer Intern · Manhattan Beach, CA · score 6 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835?utm_source=Simplify&ref=Simplify)
-- `A` **RTX** — Engineering Intern · Cedar Rapids, IA · score 6 · [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Summer-Engineering-Intern--Summer-2027-_01882181?utm_source=Simplify&ref=Simplify)
-- `B` **Lockheed Martin** — Systems Integration/Electrical Test Engineer-INTERN · Cape Canaveral, FL, United States · score 5 · [apply](https://jobright.ai/jobs/info/6ace8130bb78de94580d691e?utm_campaign=1048&utm_source=git)
-- `C` **HNTB** — Intern Mechanical and Fire Protection Engineering (Summer 2027) · Oakland, CA · score 6 · [apply](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-32024?s=gh-internships-2027)
-- `C` **Lockheed Martin** — Systems Engineering Intern · King of Prussia, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ace81cc4f3229123da3c965?utm_campaign=1048&utm_source=git)
-- `C` **Emerson Electric** — Additive Manufacturing Co-op · Marshalltown, IA, United States · score 3 · [apply](https://zapply.jobs/l/d/oracle-emerson-electric-26009196?s=gh-internships-2027)
+- `S` **Blue Origin** — Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate · Greater Seattle Area · score 13 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71441?s=gh-internships-2027)
+- `S` **Blue Origin** — Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate · Greater Seattle Area · score 13 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71444?s=gh-internships-2027)
+- `S` **Blue Origin** — Summer 2027 Fluid Systems & Propulsion Engineering Internship - Graduate · Greater Seattle Area · score 13 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71439?s=gh-internships-2027)
+- `S` **Blue Origin** — Summer 2027 Test Engineering Internship - Undergraduate · Greater Seattle Area · score 8 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71433?s=gh-internships-2027)
+- `S` **Blue Origin** — Summer 2027 Test Engineering Internship - Graduate · Van Horn, TX · score 8 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71432?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 H/W Mechanical Engineering Intern – Annapolis MD · United States-Maryland-Annapolis · score 11 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254668?s=gh-internships-2027)
+- `A` **RTX** — Aero Propulsion Systems Intern (Summer 2027)(Onsite) · East Hartford, CT, United States · score 9 · [apply](https://jobright.ai/jobs/info/6acec3ee4391691a335ae80a?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Electro-Optics Systems Engineer Intern (Onsite) · TX-MCKINNEY · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880586?s=gh-internships-2027)
+- `A` **RTX** — RF Systems Engineer Intern (Onsite) · TX-MCKINNEY · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880592?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 H/W Electronics Engineering Intern – Annapolis MD · United States-Maryland-Annapolis · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254689?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 S/W Embedded Engineering Intern – Annapolis MD · United States-Maryland-Annapolis · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254697?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 Systems Engineering Intern – Annapolis MD · United States-Maryland-Annapolis · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254656?s=gh-internships-2027)
+- `A` **Northrop Grumman** — Electronics Engineering Intern · Annapolis, MD · score 6 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1?utm_source=Simplify&ref=Simplify)
+- `C` **Wing** — Hardware Reliability Intern (Mechatronics), Summer 2027 · Palo Alto, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aceaf1dbb78de94580d7aaf?utm_campaign=1048&utm_source=git)
+- `C` **Wing** — Mechanical Engineering Intern, Summer 2027 · Palo Alto, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aceaa6c4f3229123da3d869?utm_campaign=1048&utm_source=git)
+- `C` **General Dynamics Mission Systems** — Mechanical Engineering Intern (CWL) · Manassas, VA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abacd891acb8fc6f09c1962?utm_campaign=1048&utm_source=git)
+- `C` **Daimler Truck** — Powertrain Engineering Intern · Detroit, MI US · score 4 · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20216?s=gh-internships-2027)
+- `C` **Orvanta** — Propulsion Engineer Internship · California, United States · score 4 · [apply](https://jobright.ai/jobs/info/6acf1a54680c80c8753bfa92?utm_campaign=1048&utm_source=git)
