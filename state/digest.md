@@ -1,10 +1,12 @@
-# Brief 2026-10-17 12:39 UTC
+# Brief 2026-10-17 22:39 UTC
 
-6 new since the last brief.
+8 new since the last brief.
 
-- `A` **RTX** — 2027 Network Engineering Intern · Colorado Springs, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ab74e7a39fd8792cb73e08b?utm_campaign=1048&utm_source=git)
-- `C` **Hakkōda, an IBM Company** — Hardware Developer Engineer Intern (Mechanical) 2027 - San Jose, CA · San Jose, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ad2de295290d4375c45573f?utm_campaign=1048&utm_source=git)
-- `C` **Mantis Innovation** — Mechanical Engineer Intern / Co-Op for SUMMER 2027 · Alpharetta, GA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ac90d726355f8776ff17265?utm_campaign=1048&utm_source=git)
-- `C` **MOXTEK** — Mechanical Engineering Intern (Part-time) · Orem, UT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad153f7a4f99fef81943a3a?utm_campaign=1048&utm_source=git)
-- `C` **Solakair** — Mechanical Engineer Internship - Aircraft Drone Tech (Unpaid, Onsite, Part Time) · Fremont, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad2e67725289a0b3bf593f5?utm_campaign=1048&utm_source=git)
-- `C` **Parker Hannifin** — Intern Manufacturing Engineering - HPS Otsego · Otsego, MI, United States · score 3 · [apply](https://jobright.ai/jobs/info/6ad2893ef04335fc70ed60de?utm_campaign=1048&utm_source=git)
+- `S` **Blue Origin** — Summer 2027 Manufacturing Engineering Internship - Graduate · Huntsville, AL · score 11 · [apply](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71427?s=gh-internships-2027)
+- `A` **General Motors** — Research and Development Intern, Defense Lab Modeling and Simulation · Warren, MI · score 9 · [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729?utm_source=github-vansh-ouckah)
+- `A` **Northrop Grumman** — Engineer Intern, Product Support · Oklahoma City, OK · score 6 · [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1?utm_source=github-vansh-ouckah)
+- `A` **General Motors** — AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles · Sunnyvale, CA · score 6 · [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406?utm_source=github-vansh-ouckah)
+- `A` **General Motors** — AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure · Sunnyvale, CA · score 6 · [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410?utm_source=github-vansh-ouckah)
+- `C` **Avynera Studios** — Propulsion Engineer Intern · California, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad38f4283ada13a9da09ef5?utm_campaign=1048&utm_source=git)
+- `C` **Thermiq Systems** — Mechanical Engineering Intern · Los Angeles, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad39123f04335fc70ed9914?utm_campaign=1048&utm_source=git)
+- `C` **Valmont Industries, Inc.** — Mechanical Engineering Intern · Omaha, NE, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ab693dad85922de20ce55d5?utm_campaign=1048&utm_source=git)
