@@ -1,11 +1,11 @@
 # Summer 2027 board
-_rebuilt 2026-10-26 09:36 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-10-26 16:25 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**77 open · 18 apply-now · 0 saved · 3 applied all-time**
+**83 open · 22 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (18)
+## ⭐ Apply now (22)
 
 - [ ] **Joby Aviation** — Mechanical Engineer Intern, Autonomy (Summer 2027) · posted Oct 20 (6d ago) · San Carlos, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ad8149f3dc655658d8f2ddc?utm_campaign=1048&utm_source=git) <!--a:602f7bc493174fcb-->
   - [ ] 📌 keep on the board <!--s:602f7bc493174fcb-->
@@ -16,6 +16,8 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:d9ae1ededb1a59e7-->
 - [ ] **Ursa Major** — 2027 Summer Manufacturing Engineering Intern · posted Oct 19 (6d ago) · Berthoud, Colorado · S27 confirmed · [apply](https://ursamajor.com/careers/?gh_jid=4745122005) <!--a:fb07a2691a47471f-->
   - [ ] 📌 keep on the board <!--s:fb07a2691a47471f-->
+- [ ] **Ursa Major** — 2027 Summer Additive Manufacturing Engineering Intern · posted Oct 26 (51m ago) · Youngstown, Ohio · S27 confirmed · [apply](https://ursamajor.com/careers/?gh_jid=4746892005) <!--a:b74f0353da560496-->
+  - [ ] 📌 keep on the board <!--s:b74f0353da560496-->
 - [ ] **Ursa Major** — 2027 Summer Combustion Devices Intern · posted Oct 22 (3d ago) · Berthoud, Colorado · S27 confirmed · [apply](https://ursamajor.com/careers/?gh_jid=4746887005) <!--a:27e2d88a95776061-->
   - [ ] 📌 keep on the board <!--s:27e2d88a95776061-->
 - [ ] **Ursa Major** — 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern · posted Oct 22 (3d ago) · Berthoud, Colorado · S27 confirmed · [apply](https://ursamajor.com/careers/?gh_jid=4746882005) <!--a:4c5c0d49a725ae8e-->
@@ -41,8 +43,14 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Skydio** — Wireless Hardware Engineer Intern - Summer 2027 · posted Oct 20 (5d ago) · San Mateo, California, United States · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea) <!--a:8786d2e551b901af-->
   - [ ] 📌 keep on the board <!--s:8786d2e551b901af-->
-- [ ] **Skydio** — Autonomy Engineer Intern, 2027 · posted Oct 25 (10h ago) · San Mateo, California, United States · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b) <!--a:19ff6a5b2df5ed66-->
+- [ ] **Skydio** — Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich) · posted Oct 26 (9m ago) · Zurich, Switzerland · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a) <!--a:f2d7ec954ee5be77-->
+  - [ ] 📌 keep on the board <!--s:f2d7ec954ee5be77-->
+- [ ] **Skydio** — Autonomy Engineer Intern, 2027 · posted Oct 25 (17h ago) · San Mateo, California, United States · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b) <!--a:19ff6a5b2df5ed66-->
   - [ ] 📌 keep on the board <!--s:19ff6a5b2df5ed66-->
+- [ ] **Skydio** — Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) · posted Oct 26 (10m ago) · Zurich, Switzerland · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5) <!--a:fe6f54bd5ec9bf87-->
+  - [ ] 📌 keep on the board <!--s:fe6f54bd5ec9bf87-->
+- [ ] **Skydio** — Autonomy Engineer Intern, Reinforcement Learning, 2027 (Zurich) · posted Oct 26 (10m ago) · Zurich, Switzerland · S27 confirmed · [apply](https://jobs.ashbyhq.com/skydio/bdf927bf-8ec0-4bf4-9145-8211db836b6a) <!--a:9b71b11d12d334f7-->
+  - [ ] 📌 keep on the board <!--s:9b71b11d12d334f7-->
 
 - [ ] **Anduril Industries** — 2027 Field Test Engineer Intern · posted Oct 19 (7d ago) · Costa Mesa, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ad66cd2e4b94611ab83e9b3?utm_campaign=1048&utm_source=git) <!--a:d65666c08ec0942b-->
   - [ ] 📌 keep on the board <!--s:d65666c08ec0942b-->
@@ -135,7 +143,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **General Motors** — AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles · posted Oct 15 (11d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406?utm_source=github-vansh-ouckah) <!--a:faa637afbff67bd4-->
   - [ ] 📌 keep on the board <!--s:faa637afbff67bd4-->
 
-## ▫️ Worth a look (21)
+## ▫️ Worth a look (23)
 
 - [ ] **BorgWarner** — Mechanical Design Engineer Summer Intern · posted Oct 21 (5d ago) · Kokomo Technical · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-4198?s=gh-internships-2027) <!--a:ff08290ff2cd042b-->
   - [ ] 📌 keep on the board <!--s:ff08290ff2cd042b-->
@@ -181,8 +189,12 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:6caaec8ed97565a2-->
 - [ ] **Micron Technology** — Design Engineer Intern, HBM · posted Oct 19 (7d ago) · Richardson, TX · S27 confirmed · [apply](https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552?utm_source=github-vansh-ouckah) <!--a:b474e67edee6c2c1-->
   - [ ] 📌 keep on the board <!--s:b474e67edee6c2c1-->
+- [ ] **Micron Technology** — Memory Design Engineer Intern, HBM · posted Oct 15 (11d ago) · Richardson, TX · S27 confirmed <!--a:e65fa7289116633f-->
+  - [ ] 📌 keep on the board <!--s:e65fa7289116633f-->
+- [ ] **Micron Technology** — HBM Memory Design Engineer Intern · posted Oct 03 (23d ago) · Richardson, TX · S27 confirmed · [apply](https://go.vansh.nyc/Ev?s=y) <!--a:b958769146e01f3d-->
+  - [ ] 📌 keep on the board <!--s:b958769146e01f3d-->
 
-- [ ] **RTX** — Part Time Systems Engineer Co-Op (Remote) · posted Oct 21 (4d ago) · CO-AURORA-S75 · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883866?s=gh-internships-2027) <!--a:b14eb33a4c5c1ef3-->
+- [ ] **RTX** — Part Time Systems Engineer Co-Op (Remote) · posted Oct 21 (5d ago) · CO-AURORA-S75 · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883866?s=gh-internships-2027) <!--a:b14eb33a4c5c1ef3-->
   - [ ] 📌 keep on the board <!--s:b14eb33a4c5c1ef3-->
 
 - [ ] **Stryker** — Summer 2027 Internship - Mechanical Engineering - Illinois · posted Oct 23 (3d ago) · Cary, IL, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6a95b8359fcec5442372ea87?utm_campaign=1048&utm_source=git) <!--a:ed3940c6ffd34f5b-->
