@@ -1,16 +1,16 @@
-# Brief 2026-10-26 18:36 UTC
+# Brief 2026-10-27 04:37 UTC
 
 12 new since the last brief.
 
-- `S` **Ursa Major** — 2027 Summer Additive Manufacturing Engineering Intern · Youngstown, Ohio · score 13 · [apply](https://ursamajor.com/careers/?gh_jid=4746892005)
-- `S` **Skydio** — Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich) · Zurich, Switzerland · score 11 · [apply](https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a)
-- `S` **Skydio** — Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) · Zurich, Switzerland · score 8 · [apply](https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5)
-- `S` **Skydio** — Autonomy Engineer Intern, Reinforcement Learning, 2027 (Zurich) · Zurich, Switzerland · score 8 · [apply](https://jobs.ashbyhq.com/skydio/bdf927bf-8ec0-4bf4-9145-8211db836b6a)
-- `A` **General Motors** — Data Governance Engineer Intern · Warren, MI · score 6 · [apply](https://go.vansh.nyc/Q1?s=y)
-- `B` **Micron Technology** — Memory Design Engineer Intern, HBM · Richardson, TX · score 5
-- `B` **Micron Technology** — HBM Memory Design Engineer Intern · Richardson, TX · score 5 · [apply](https://go.vansh.nyc/Ev?s=y)
-- `C` **KION Group** — Mechanical Engineer - Co-Op · Grand Rapids, MI, United States · score 4 · [apply](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098269?s=gh-internships-2027)
-- `C` **Daimler Truck** — Mechatronics Engineering Intern – Vehicle Architecture and Controls · Gaffney, SC US · score 4 · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20389?s=gh-internships-2027)
-- `C` **S&C Electric Company** — Mechanical Engineer (Facilities) Intern · Chicago, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adf69c39a8c91d5c358511b?utm_campaign=1048&utm_source=git)
-- `C` **TAG Systems** — Mechanical Engineering Intern · Eatontown, NJ, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adf71d49e3e874dbfbac3af?utm_campaign=1048&utm_source=git)
-- `C` **Thermagia Engineering** — Associate Mechanical Engineering Intern · Andover, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adf6afe5dc7953215a3ea95?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Manufacturing Engineering Ops Co-Op (Spring/Summer 2027) · FL-MELBOURNE · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884010?s=gh-internships-2027)
+- `A` **L3Harris Technologies** — Manufacturing Engineering Intern (Salt Lake City, UT) · Salt Lake City, UT, United States · score 7 · [apply](https://jobright.ai/jobs/info/6adffa38065c4e77efafd799?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Technical Intern Summer 2027 - Onsite · RI-MIDDLETOWN · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882365?s=gh-internships-2027)
+- `B` **L3Harris Technologies** — Materials & Processes Engineering Intern (Orange, VA) · Orange, VA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6adffa3b5dc7953215a44e0b?utm_campaign=1048&utm_source=git)
+- `B` **Boston Dynamics** — Systems Test Engineer - Co-Op · Waltham · score 5 · [apply](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3312?s=gh-internships-2027)
+- `C` **Parallel Systems** — Hardware Engineering Intern - Mechanical and Electrical · LA · score 9 · [apply](https://boards.greenhouse.io/parallel/jobs/5275660007?utm_source=Simplify&ref=Simplify)
+- `C` **Jacobs** — Mechanical Engineering Intern - Semiconductor - Summer 2027 · Latham, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6adfdced9a8c91d5c358a162?utm_campaign=1048&utm_source=git)
+- `C` **Daimler Truck North America** — Mechatronics Engineering Intern – Vehicle Architecture and Controls · Gaffney, SC, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adfc3a1065c4e77efafb4b1?utm_campaign=1048&utm_source=git)
+- `C` **Delek US** — Mechanical Engineer Intern · Tyler, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adfbfe39e3e874dbfbafd57?utm_campaign=1048&utm_source=git)
+- `C` **Jabil** — Mechanical System Architect Intern · Austin, TX · score 4 · [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2469350?s=gh-internships-2027)
+- `C` **Areté** — Mechanical Engineering Intern · Falls Church, VA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae0050fc5c64fa3d9cc1c02?utm_campaign=1048&utm_source=git)
+- `C` **L3Harris Technologies** — Quality Engineering Intern · Rochester, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6adffa2bc5c64fa3d9cc18f1?utm_campaign=1048&utm_source=git)
