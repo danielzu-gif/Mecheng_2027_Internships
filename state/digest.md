@@ -1,5 +1,5 @@
-# Brief 2026-10-31 20:29 UTC
+# Brief 2026-10-31 23:44 UTC
 
 1 new since the last brief.
 
-- `C` **BAE Systems** — Electronic Combat Solutions Operations - Mechanical Engineering Intern III, Summer 2027 · Nashua, NH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ace5316a0453f9ba6247f62?utm_campaign=1048&utm_source=git)
+- `B` **Applied Materials** — 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) · Gloucester,MA · score 5 · [apply](https://zapply.jobs/l/d/workday-amat-external-R2632317?s=gh-internships-2027)
