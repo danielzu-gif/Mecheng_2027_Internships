@@ -1,12 +1,16 @@
-# Brief 2026-10-30 22:11 UTC
+# Brief 2026-10-31 10:08 UTC
 
-8 new since the last brief.
+12 new since the last brief.
 
-- `A` **General Motors** — 2027 Summer Intern - Research & Development - Energy and Propulsion Controls · Warren, Michigan, United States... · score 9 · [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622207?s=gh-internships-2027)
-- `A` **General Motors** — 2027 Summer Intern – Research and Development - Power Electronics & Energy Conversion Systems · 2 Locations · score 9 · [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623048?s=gh-internships-2027)
-- `A` **RTX** — Systems Engineer Intern (Summer 2027) - Tac Comm - Onsite · IA-CEDAR RAPIDS · score 9 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886283?s=gh-internships-2027)
-- `C` **OTTO Engineering, Inc.** — Mechanical Engineer Intern - Communications - Summer 2027 · Carpentersville, IL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae4ad9aeab1f9673097b9fb?utm_campaign=1048&utm_source=git)
-- `C` **CFS Energy** — Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 · Devens, MA · score 6 · [apply](https://zapply.jobs/l/d/lever-cfsenergy-2edaad6a-3def-479e-992e-b0c333b9022f?s=gh-internships-2027)
-- `C` **LaBella Associates** — Mechanical Engineer Intern · Buffalo, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae4e83677c09cb3bd4b0146?utm_campaign=1048&utm_source=git)
-- `C` **Robynex Automation** — Propulsion Engineer Intern · Long Beach, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae4ee1777c09cb3bd4b0418?utm_campaign=1048&utm_source=git)
-- `C` **Parker Hannifin** — Manufacturing Engineer Intern - Aerospace · Fort Worth, TX, United States · score 3 · [apply](https://jobright.ai/jobs/info/6aac16713dbb1f8967ce8b65?utm_campaign=1048&utm_source=git)
+- `A` **Tesla** — Internship, Actuator Mechanical Design Engineer, Optimus (Summer 2027) · Palo Alto, CA, United States · score 12 · [apply](https://jobright.ai/jobs/info/6ae53b63d45dc30fb7d36070?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 mechanical Engineer Intern- Redondo Beach CA · United... · score 11 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258669?s=gh-internships-2027)
+- `A` **Commonwealth Fusion Systems** — Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 · Devens, MA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ae4fb8ceab1f9673097eadd?utm_campaign=1048&utm_source=git)
+- `A` **Commonwealth Fusion Systems** — Intern - R&D Test Engineer - Spring or Summer 2027 · Devens, MA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6ae4c5c1d45dc30fb7d31f18?utm_campaign=1048&utm_source=git)
+- `C` **MAHLE** — Thermal Systems Engineer- Summer Intern · Lockport, New York, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ad8eb8439284cd5242818c5?utm_campaign=1048&utm_source=git)
+- `C` **OTC Industrial Technologies** — Mechanical Engineer Internship - Summer 2027 · West Chester, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae51927d45dc30fb7d35259?utm_campaign=1048&utm_source=git)
+- `C` **OTC Industrial Technologies** — Mechanical Engineer Intern - Summer 2027 · West Chester, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae5192777c09cb3bd4b1c63?utm_campaign=1048&utm_source=git)
+- `C` **Savannah River Mission Completion** — 2027 Summer Intern-Mechanical, Structural or Civil Engineering · Aiken, SC, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae555cbfb2cd420ace5e10e?utm_campaign=1048&utm_source=git)
+- `C` **Savannah River Mission Completion** — 2027 Summer Intern-Mechanical Engineering (DWFP Maintenance) · Aiken, SC, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae55038fb2cd420ace5df89?utm_campaign=1048&utm_source=git)
+- `C` **Aalo Atomics** — Summer 2027 Mechanical Engineering Internship/Co-op - Austin, TX · Austin, TX, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae5127cd7424a2a828eb648?utm_campaign=1048&utm_source=git)
+- `C` **Aalo Atomics** — Summer 2027 Mechanical Engineering Internship - Idaho Falls, ID · Idaho Falls, ID, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae5127dd45dc30fb7d34f45?utm_campaign=1048&utm_source=git)
+- `C` **Parker Hannifin** — Manufacturing Engineering Intern · Moncks Corner, South Carolina, United States · score 3 · [apply](https://jobright.ai/jobs/info/6ae4e37eeab1f9673097dc55?utm_campaign=1048&utm_source=git)
