@@ -1,5 +1,5 @@
 # Wide net
-_105 open · rebuilt 2026-11-01 17:03 UTC · tick 📌 to move one onto the main board_
+_105 open · rebuilt 2026-11-01 17:51 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 
@@ -14,7 +14,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Parallel Systems** — Hardware Engineering Intern - Mechanical and Electrical · posted Oct 26 (5d ago) · LA · S27 confirmed · [apply](https://boards.greenhouse.io/parallel/jobs/5275660007?utm_source=Simplify&ref=Simplify) <!--a:5a01b9cf3e2fa67d-->
   - [ ] 📌 keep on the board <!--s:5a01b9cf3e2fa67d-->
 
-- [ ] **Daimler Truck** — Mechanical Product Design Engineering Intern · posted Oct 28 (3d ago) · Gaffney, SC US · season unstated · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20440?s=gh-internships-2027) <!--a:a94b5044ca276e44-->
+- [ ] **Daimler Truck** — Mechanical Product Design Engineering Intern · posted Oct 28 (4d ago) · Gaffney, SC US · season unstated · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20440?s=gh-internships-2027) <!--a:a94b5044ca276e44-->
   - [ ] 📌 keep on the board <!--s:a94b5044ca276e44-->
 - [ ] **Daimler Truck** — Mechanical Product Validation Engineering Intern · posted Oct 28 (4d ago) · Portland, OR US · season unstated · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20436?s=gh-internships-2027) <!--a:379114ed75a61e2e-->
   - [ ] 📌 keep on the board <!--s:379114ed75a61e2e-->
@@ -33,7 +33,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Samsung Semiconductor** — Intern, Power-Thermal Simulation Software Engineer · posted Oct 28 (4d ago) · San Jose, California, United States · season unstated · [apply](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8046795003?s=gh-internships-2027) <!--a:bfc938e979a0c72d-->
   - [ ] 📌 keep on the board <!--s:bfc938e979a0c72d-->
 
-- [ ] **CFS Energy** — Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 · posted Oct 30 (44h ago) · Devens, MA · S27 confirmed · [apply](https://zapply.jobs/l/d/lever-cfsenergy-2edaad6a-3def-479e-992e-b0c333b9022f?s=gh-internships-2027) <!--a:637c4c734d0562be-->
+- [ ] **CFS Energy** — Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 · posted Oct 30 (45h ago) · Devens, MA · S27 confirmed · [apply](https://zapply.jobs/l/d/lever-cfsenergy-2edaad6a-3def-479e-992e-b0c333b9022f?s=gh-internships-2027) <!--a:637c4c734d0562be-->
   - [ ] 📌 keep on the board <!--s:637c4c734d0562be-->
 
 - [ ] **Dyno Nobel** — Mechanical Engineer Intern (Summer 2027) · posted Oct 22 (10d ago) · Wolf Lake, IL, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ada90a0950ef68d51858e96?utm_campaign=1048&utm_source=git) <!--a:ba49e843056f5eef-->
@@ -181,7 +181,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Jabil** — Mechanical System Architect Intern · posted Oct 27 (5d ago) · Austin, TX · season unstated · [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2469350?s=gh-internships-2027) <!--a:5d2418843dfa8233-->
   - [ ] 📌 keep on the board <!--s:5d2418843dfa8233-->
 
-- [ ] **KION Group** — Mechanical Engineer - Co-Op · posted Oct 26 (5d ago) · Grand Rapids, MI, United States · season unstated · [apply](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098269?s=gh-internships-2027) <!--a:2779b4acca3fdf7c-->
+- [ ] **KION Group** — Mechanical Engineer - Co-Op · posted Oct 26 (6d ago) · Grand Rapids, MI, United States · season unstated · [apply](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098269?s=gh-internships-2027) <!--a:2779b4acca3fdf7c-->
   - [ ] 📌 keep on the board <!--s:2779b4acca3fdf7c-->
 
 - [ ] **Kaleidoscope Innovation** — SUMMER 2027- Mechanical Engineering Co-op · posted Oct 25 (7d ago) · Cincinnati, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aae3dfd3dbb1f8967cf0632?utm_campaign=1048&utm_source=git) <!--a:bfce6dadd88fb077-->
