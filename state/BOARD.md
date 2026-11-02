@@ -1,7 +1,7 @@
 # Summer 2027 board
-_rebuilt 2026-11-02 05:34 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-11-02 11:57 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**77 open · 12 apply-now · 0 saved · 3 applied all-time**
+**76 open · 12 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
@@ -35,7 +35,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Aurora** — Simulation Engineering Intern · posted Oct 26 (7d ago) · Mountain View, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6adfe177c5c64fa3d9cc0940?utm_campaign=1048&utm_source=git) <!--a:1cddd5b40f24cfc6-->
   - [ ] 📌 keep on the board <!--s:1cddd5b40f24cfc6-->
 
-- [ ] **Varda Space** — Avionics Engineering Internship - Summer 2027 · posted Oct 01 (31d ago) · El Segundo, California, United States · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) <!--a:b2e340c2654de8f9-->
+- [ ] **Varda Space** — Avionics Engineering Internship - Summer 2027 · posted Oct 01 (32d ago) · El Segundo, California, United States · S27 confirmed · [apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) <!--a:b2e340c2654de8f9-->
   - [ ] 📌 keep on the board <!--s:b2e340c2654de8f9-->
 
 ## 🔷 Strong (43)
@@ -140,16 +140,13 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Waymo** — Sensor Performance Engineer Intern · posted Oct 28 (5d ago) · Mountain View, CA · S27 confirmed · [apply](https://careers.withwaymo.com/jobs?gh_jid=8319171&utm_source=Simplify&ref=Simplify) <!--a:97c7c753a776e04d-->
   - [ ] 📌 keep on the board <!--s:97c7c753a776e04d-->
 
-## ▫️ Worth a look (22)
-
-- [ ] **Siemens** — Mechanical Design Engineer Internship · posted Oct 22 (11d ago) · Raleigh, NC, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ada5bb054bbabbab071536b?utm_campaign=1048&utm_source=git) <!--a:1f09cf72d4bd6f82-->
-  - [ ] 📌 keep on the board <!--s:1f09cf72d4bd6f82-->
+## ▫️ Worth a look (21)
 
 - [ ] **Applied Materials** — Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ) · posted Oct 29 (4d ago) · Chandler,AZ · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2628770?s=gh-internships-2027) <!--a:33b206f3ecda4bbd-->
   - [ ] 📌 keep on the board <!--s:33b206f3ecda4bbd-->
 - [ ] **Applied Materials** — 2027 Summer Additive Manufacturing Intern - BS or MS (Gloucester, MA) · posted Oct 28 (5d ago) · Gloucester,MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2632032?s=gh-internships-2027) <!--a:552649b7bad763b1-->
   - [ ] 📌 keep on the board <!--s:552649b7bad763b1-->
-- [ ] **Applied Materials** — 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) · posted Oct 31 (30h ago) · Gloucester,MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2632317?s=gh-internships-2027) <!--a:67549ffc87e3c34b-->
+- [ ] **Applied Materials** — 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) · posted Oct 31 (37h ago) · Gloucester,MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2632317?s=gh-internships-2027) <!--a:67549ffc87e3c34b-->
   - [ ] 📌 keep on the board <!--s:67549ffc87e3c34b-->
 
 - [ ] **AV** — Test Engineering Intern - Space Technologies · posted Oct 27 (6d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ae14bc4829a3bada15fc331?utm_campaign=1048&utm_source=git) <!--a:1d2e590daf057136-->
@@ -205,5 +202,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Westinghouse Electric Company** — Summer Intern - Mechanical Systems · posted Oct 23 (10d ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abe90ea0e027c0f3b399940?utm_campaign=1048&utm_source=git) <!--a:88224a979498e252-->
   - [ ] 📌 keep on the board <!--s:88224a979498e252-->
 
-### · Wide net (98)
+### · Wide net (96)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
