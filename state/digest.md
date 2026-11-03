@@ -1,13 +1,12 @@
-# Brief 2026-11-03 06:15 UTC
+# Brief 2026-11-03 19:23 UTC
 
-9 new since the last brief.
+8 new since the last brief.
 
-- `A` **Northrop Grumman** — Engineering Intern - Multiple Teams · Chandler, AZ · score 6 · [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848?utm_source=Simplify&ref=Simplify)
-- `C` **PACCAR** — 2027 Summer Internship: Design Engineer - Powertrain - Aftertreatment Development (SG 15) · Denton, TX, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ae9492ea291a1db4de23439?utm_campaign=1048&utm_source=git)
-- `C` **Copeland** — Mechanical Engineering Internship Program (Spring & Summer 2027) · Sidney, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae8ed3ba2a252e21942add1?utm_campaign=1048&utm_source=git)
-- `C` **ASML** — Coop - Mechatronics Engineer (Internship) · Wilton, CT, USA · score 4 · [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356203?s=gh-internships-2027)
-- `C` **EXP** — Mechanical Intern · Maitland, FL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abfce590e027c0f3b39dfee?utm_campaign=1048&utm_source=git)
-- `C` **Enercon** — Intern- Mechanical Engineer - ENERCON Federal Services · Kennewick, WA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae91ecf6c51033758f465e0?utm_campaign=1048&utm_source=git)
-- `C` **Enercon Services, Inc.** — Intern- Mechanical Engineer - ENERCON Federal Services · Kennewick, WA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae91ee16c51033758f465e3?utm_campaign=1048&utm_source=git)
-- `C` **RTX** — Systems Engineering Intern, St. Petersburg, FL (Onsite) · FL-ST PETERSBURG · score 4 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886197?s=gh-internships-2027)
-- `C` **RTX** — Systems Engineering Intern, BMC2 (Onsite) · FL-ST PETERSBURG · score 4 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885577?s=gh-internships-2027)
+- `A` **Lockheed Martin** — Mechanical Test Engineer-INTERN · Cape Canaveral, FL, United States · score 12 · [apply](https://jobright.ai/jobs/info/6ae93a7fa291a1db4de22d84?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Structures Engineer Intern (Summer 2027)(Onsite) · CT-MIDDLETOWN · score 9 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885172?s=gh-internships-2027)
+- `A` **Lockheed Martin** — Systems Engineer Intern - Summer 2027 · King of Prussia, PA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6adf98e1065c4e77efaf952b?utm_campaign=1048&utm_source=git)
+- `A` **Lockheed Martin** — Cyber Engineer Intern - Summer 2027 · Colorado Springs, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae93ad873d24ab055c56284?utm_campaign=1048&utm_source=git)
+- `B` **Lockheed Martin** — Manufacturing Engineering - Intern · Orlando, FL, United States · score 5 · [apply](https://jobright.ai/jobs/info/6ae8fbc503f4a1104b2589e6?utm_campaign=1048&utm_source=git)
+- `C` **PACCAR** — 2027 Summer Internship: Design Engineer- Powertrain & Aftertreatment · Denton, TX, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ae9ffe6fc85f3a39432eb16?utm_campaign=1048&utm_source=git)
+- `C` **Lockheed Martin** — Radio Frequency (RF) Engineering Intern · Chelmsford, Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad6761e52aa6152bb695791?utm_campaign=1048&utm_source=git)
+- `C` **NDI (Northern Digital Inc.)** — Mechanical Engineering Intern – Manufacturing · Shelburne, Vermont, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae9fc56fc85f3a39432e90f?utm_campaign=1048&utm_source=git)
