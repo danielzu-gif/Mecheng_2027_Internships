@@ -1,12 +1,16 @@
-# Brief 2026-11-03 19:23 UTC
+# Brief 2026-11-04 05:51 UTC
 
-8 new since the last brief.
+12 new since the last brief.
 
-- `A` **Lockheed Martin** — Mechanical Test Engineer-INTERN · Cape Canaveral, FL, United States · score 12 · [apply](https://jobright.ai/jobs/info/6ae93a7fa291a1db4de22d84?utm_campaign=1048&utm_source=git)
-- `A` **RTX** — Structures Engineer Intern (Summer 2027)(Onsite) · CT-MIDDLETOWN · score 9 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885172?s=gh-internships-2027)
-- `A` **Lockheed Martin** — Systems Engineer Intern - Summer 2027 · King of Prussia, PA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6adf98e1065c4e77efaf952b?utm_campaign=1048&utm_source=git)
-- `A` **Lockheed Martin** — Cyber Engineer Intern - Summer 2027 · Colorado Springs, CO, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ae93ad873d24ab055c56284?utm_campaign=1048&utm_source=git)
-- `B` **Lockheed Martin** — Manufacturing Engineering - Intern · Orlando, FL, United States · score 5 · [apply](https://jobright.ai/jobs/info/6ae8fbc503f4a1104b2589e6?utm_campaign=1048&utm_source=git)
-- `C` **PACCAR** — 2027 Summer Internship: Design Engineer- Powertrain & Aftertreatment · Denton, TX, United States · score 9 · [apply](https://jobright.ai/jobs/info/6ae9ffe6fc85f3a39432eb16?utm_campaign=1048&utm_source=git)
-- `C` **Lockheed Martin** — Radio Frequency (RF) Engineering Intern · Chelmsford, Massachusetts, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad6761e52aa6152bb695791?utm_campaign=1048&utm_source=git)
-- `C` **NDI (Northern Digital Inc.)** — Mechanical Engineering Intern – Manufacturing · Shelburne, Vermont, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae9fc56fc85f3a39432e90f?utm_campaign=1048&utm_source=git)
+- `A` **Tesla** — Internship, Robotics Mechanical Design Engineer, Optimus (Summer 2027) · Palo Alto, CA, United States · score 12 · [apply](https://jobright.ai/jobs/info/6aea8152fc85f3a394334383?utm_campaign=1048&utm_source=git)
+- `A` **Commonwealth Fusion Systems** — Intern - R&D Multiphysics Simulation Intern - Spring or Summer 2027 · Somerville, MA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6aea44d8fc85f3a3943320c0?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 S/W Embedded Engineering Intern – Sykesville MD · United States-Maryland-Sykesville · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027)
+- `C` **Philips** — Co-op – Mechanical/Process Engineer – Reedsville, PA – January-June 2027 · Reedsville, Pennsylvania,... · score 9 · [apply](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592206?s=gh-internships-2027)
+- `C` **Zebra** — 2027 Summer Internship (US) - Mechanical Engineer, EMC Handheld BU · Holtsville, New York · score 6 · [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103631?s=gh-internships-2027)
+- `C` **Avista** — Student Engineer (Paid Summer Internship for Electrical, Mechanical, Civil Engineering Students) · Spokane, WA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ac3c75ed9621c5b2839db38?utm_campaign=1048&utm_source=git)
+- `C` **Johns Hopkins Applied Physics Laboratory** — 2027 Internship - Mechanical Engineer · Laurel, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aea0ef4440b469a1c0a9edb?utm_campaign=1048&utm_source=git)
+- `C` **Intuitive** — Product Development Engineering Intern · Durham, NC · score 4 · [apply](https://zapply.jobs/l/d/sr-Intuitive-744000159519489?s=gh-internships-2027)
+- `C` **LotusWorks** — Mechanical Commissioning Internship - Full Time · Sunnyvale, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aea36dc897466e69e31cc3f?utm_campaign=1048&utm_source=git)
+- `C` **Northrop Grumman** — 2026 Part-Time Systems Engineering Intern - Chandler AZ · United States-Arizona-Chandler · score 4 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259106?s=gh-internships-2027)
+- `C` **Kelvolta** — Energy Systems Modeling Intern (Python, NumPy) · San Francisco Bay Area, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aea8e55913589212b1f7e47?utm_campaign=1048&utm_source=git)
+- `C` **Strive Solutions** — Mechanical Engineering Intern · Osage, IA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aeaa2c4913589212b1f83c5?utm_campaign=1048&utm_source=git)
