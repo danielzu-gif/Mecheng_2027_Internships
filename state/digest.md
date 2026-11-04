@@ -1,16 +1,18 @@
-# Brief 2026-11-04 05:51 UTC
+# Brief 2026-11-04 19:38 UTC
 
-12 new since the last brief.
+14 new since the last brief.
 
-- `A` **Tesla** — Internship, Robotics Mechanical Design Engineer, Optimus (Summer 2027) · Palo Alto, CA, United States · score 12 · [apply](https://jobright.ai/jobs/info/6aea8152fc85f3a394334383?utm_campaign=1048&utm_source=git)
-- `A` **Commonwealth Fusion Systems** — Intern - R&D Multiphysics Simulation Intern - Spring or Summer 2027 · Somerville, MA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6aea44d8fc85f3a3943320c0?utm_campaign=1048&utm_source=git)
-- `A` **Northrop Grumman** — 2027 S/W Embedded Engineering Intern – Sykesville MD · United States-Maryland-Sykesville · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027)
-- `C` **Philips** — Co-op – Mechanical/Process Engineer – Reedsville, PA – January-June 2027 · Reedsville, Pennsylvania,... · score 9 · [apply](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592206?s=gh-internships-2027)
-- `C` **Zebra** — 2027 Summer Internship (US) - Mechanical Engineer, EMC Handheld BU · Holtsville, New York · score 6 · [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103631?s=gh-internships-2027)
-- `C` **Avista** — Student Engineer (Paid Summer Internship for Electrical, Mechanical, Civil Engineering Students) · Spokane, WA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ac3c75ed9621c5b2839db38?utm_campaign=1048&utm_source=git)
-- `C` **Johns Hopkins Applied Physics Laboratory** — 2027 Internship - Mechanical Engineer · Laurel, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aea0ef4440b469a1c0a9edb?utm_campaign=1048&utm_source=git)
-- `C` **Intuitive** — Product Development Engineering Intern · Durham, NC · score 4 · [apply](https://zapply.jobs/l/d/sr-Intuitive-744000159519489?s=gh-internships-2027)
-- `C` **LotusWorks** — Mechanical Commissioning Internship - Full Time · Sunnyvale, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aea36dc897466e69e31cc3f?utm_campaign=1048&utm_source=git)
-- `C` **Northrop Grumman** — 2026 Part-Time Systems Engineering Intern - Chandler AZ · United States-Arizona-Chandler · score 4 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259106?s=gh-internships-2027)
-- `C` **Kelvolta** — Energy Systems Modeling Intern (Python, NumPy) · San Francisco Bay Area, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aea8e55913589212b1f7e47?utm_campaign=1048&utm_source=git)
-- `C` **Strive Solutions** — Mechanical Engineering Intern · Osage, IA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aeaa2c4913589212b1f83c5?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — S/W Embedded Engineering Intern · Sykesville, MD · score 6 · [apply](https://go.vansh.nyc/1fW?s=y)
+- `A` **Northrop Grumman** — 2027 Operations Tool Engineer Intern · United States-California-Palmdale · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259204?s=gh-internships-2027)
+- `A` **RTX** — High Temperature Composites Engineering Intern (Summer 2027)(Onsite) · CO-PUEBLO · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885229?s=gh-internships-2027)
+- `A` **RTX** — Factory Enablement Digital Engineer Intern (Summer 2027) · IA-CEDAR RAPIDS · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887084?s=gh-internships-2027)
+- `C` **Daimler Truck** — Mechatronics Engineering Intern – Powertrain Integration · Gaffney, SC US · score 11 · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20546?s=gh-internships-2027)
+- `C` **Pacific Fusion** — Summer 2027 Internship- Mechanical Engineering · San Leandro, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aa1ca620ffb3d4fea6b7293?utm_campaign=1048&utm_source=git)
+- `C` **Zebra Technologies** — 2027 Summer Internship (US) - Mechanical Engineer, EMC Handheld BU · Holtsville, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aea6dc4897466e69e31ef83?utm_campaign=1048&utm_source=git)
+- `C` **Zurn Elkay Water Solutions** — Mechanical & HVAC Refrigeration Intern (Summer 2027) · Downers Grove, IL, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aea7deb440b469a1c0ae5bc?utm_campaign=1048&utm_source=git)
+- `C` **Corning Incorporated** — Mechanical Reliability Intern - Summer 2027 · Corning, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aeb66e7765815f7d745ff40?utm_campaign=1048&utm_source=git)
+- `C` **STERIS** — Mechanical Engineering Intern - Summer 2027 · Mentor, OH, United States · score 6 · [apply](https://jobright.ai/jobs/info/6ace463fba99f15ef4123e4b?utm_campaign=1048&utm_source=git)
+- `C` **FORVIA HELLA** — AUTOMOTIVE ENERGY SYSTEMS ENGINEERING INTERN · Northville, Michigan, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae0ccbf05a39c3e2c70c63b?utm_campaign=1048&utm_source=git)
+- `C` **Gradiant** — Mechanical Engineering Intern · Boise, ID, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aeab3c5913589212b1f887e?utm_campaign=1048&utm_source=git)
+- `C` **MechNova** — Mechanical Engineering Internship · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aeada30913589212b1f90e4?utm_campaign=1048&utm_source=git)
+- `C` **Quantinuum** — Mechanical Engineering Intern - 1086 · Broomfield, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ad8e267950ef68d5184b02c?utm_campaign=1048&utm_source=git)
