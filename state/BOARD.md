@@ -1,11 +1,11 @@
 # Summer 2027 board
-_rebuilt 2026-11-07 05:36 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-11-07 10:51 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**75 open · 3 apply-now · 0 saved · 3 applied all-time**
+**73 open · 4 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
-## ⭐ Apply now (3)
+## ⭐ Apply now (4)
 
 - [ ] **Shield AI** — Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+ · posted Oct 28 (9d ago) · Seattle, Washington · S27 confirmed · [apply](https://jobs.lever.co/shieldai/bc41648b-c201-4b01-8feb-d228cbfdd875) <!--a:e167344d4f3a41b2-->
   - [ ] 📌 keep on the board <!--s:e167344d4f3a41b2-->
@@ -14,7 +14,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Shield AI** — Summer 2027 - Product Support Engineering Intern #6470 & #6442 · posted Oct 28 (9d ago) · Dallas, Texas · S27 confirmed · [apply](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) <!--a:b8cd168ae9ee04f9-->
   - [ ] 📌 keep on the board <!--s:b8cd168ae9ee04f9-->
 
-## 🔷 Strong (55)
+- [ ] **ATI** — Engineering Intern - R&D, and Metallurgy - Summer 2027 · posted Nov 06 (34h ago) · Cudahy, WI, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aeea41740b5de2d2b30dbd1?utm_campaign=1048&utm_source=git) <!--a:1f230e7746803527-->
+  - [ ] 📌 keep on the board <!--s:1f230e7746803527-->
+
+## 🔷 Strong (53)
 
 - [ ] **Northrop Grumman** — 2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA · posted Nov 05 (2d ago) · United States-Virginia-Dulles · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259321?s=gh-internships-2027) <!--a:e4d175f24fb23da2-->
   - [ ] 📌 keep on the board <!--s:e4d175f24fb23da2-->
@@ -40,7 +43,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:3f98711de2917266-->
 - [ ] **Northrop Grumman** — 2027 Electrical Engineer Intern- Gilbert AZ · posted Oct 28 (9d ago) · United States-Arizona-Gilbert · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258107?s=gh-internships-2027) <!--a:480bfe1740b102bd-->
   - [ ] 📌 keep on the board <!--s:480bfe1740b102bd-->
-- [ ] **Northrop Grumman** — 2027 S/W Embedded Engineering Intern – Sykesville MD · posted Nov 04 (2d ago) · United States-Maryland-Sykesville · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027) <!--a:681ffbb5bf718b88-->
+- [ ] **Northrop Grumman** — 2027 S/W Embedded Engineering Intern – Sykesville MD · posted Nov 04 (3d ago) · United States-Maryland-Sykesville · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027) <!--a:681ffbb5bf718b88-->
   - [ ] 📌 keep on the board <!--s:681ffbb5bf718b88-->
 - [ ] **Northrop Grumman** — S/W Embedded Engineering Intern · posted Nov 03 (4d ago) · Sykesville, MD · S27 confirmed · [apply](https://go.vansh.nyc/1fW?s=y) <!--a:72ebf974d5c0ebfa-->
   - [ ] 📌 keep on the board <!--s:72ebf974d5c0ebfa-->
@@ -78,12 +81,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **RTX** — Factory Enablement Digital Engineer Intern (Summer 2027) · posted Nov 04 (2d ago) · IA-CEDAR RAPIDS · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887084?s=gh-internships-2027) <!--a:e51e86fb0fa8772b-->
   - [ ] 📌 keep on the board <!--s:e51e86fb0fa8772b-->
 
-- [ ] **AV** — Mechanical Engineering Intern - Space Technologies · posted Oct 27 (11d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ae14bc1829a3bada15fc32c?utm_campaign=1048&utm_source=git) <!--a:37a1c6f42d58a891-->
-  - [ ] 📌 keep on the board <!--s:37a1c6f42d58a891-->
-- [ ] **AV** — Systems Engineering Intern - Space Technologies · posted Oct 27 (11d ago) · Albuquerque, NM, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ae14bc567c31ab3489a2245?utm_campaign=1048&utm_source=git) <!--a:a83c4eaafd8fe3ab-->
-  - [ ] 📌 keep on the board <!--s:a83c4eaafd8fe3ab-->
-
-- [ ] **GE Aerospace** — Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 · posted Nov 05 (41h ago) · Bohemia · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042754?s=gh-internships-2027) <!--a:f4bc689f03d9cc6c-->
+- [ ] **GE Aerospace** — Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 · posted Nov 05 (47h ago) · Bohemia · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042754?s=gh-internships-2027) <!--a:f4bc689f03d9cc6c-->
   - [ ] 📌 keep on the board <!--s:f4bc689f03d9cc6c-->
 
 - [ ] **Relativity Space** — Launch Mechanical/Electrical Engineer Intern · posted Oct 28 (10d ago) · Cape Canaveral, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac5335e8ff3fb9b3bc883c9?utm_campaign=1048&utm_source=git) <!--a:97e69cd63440fd3b-->
@@ -124,14 +122,14 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **NVIDIA** — VLSI CAD Timing Intern, Applied AI - Summer 2027 · posted Oct 29 (9d ago) · US, CA, Santa Clara · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026799?s=gh-internships-2027) <!--a:ff3d7eecbc802c43-->
   - [ ] 📌 keep on the board <!--s:ff3d7eecbc802c43-->
-- [ ] **NVIDIA** — Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 · posted Nov 05 (47h ago) · CA Santa Clara · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260?s=gh-internships-2027) <!--a:158f4d0b3ea5f82c-->
+- [ ] **NVIDIA** — Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 · posted Nov 05 (2d ago) · CA Santa Clara · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260?s=gh-internships-2027) <!--a:158f4d0b3ea5f82c-->
   - [ ] 📌 keep on the board <!--s:158f4d0b3ea5f82c-->
 
-- [ ] **Zoox** — [Hardware Engineer Intern, Manufacturing Operations [Summer 2027]](https://jobright.ai/jobs/info/6aed15c53a3fa7f03ea8be0b?utm_campaign=1048&utm_source=git) · posted Nov 03 (3d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15c53a3fa7f03ea8be0b?utm_campaign=1048&utm_source=git) <!--a:a8b2013dc043353a-->
+- [ ] **Zoox** — [Hardware Engineer Intern, Manufacturing Operations [Summer 2027]](https://jobright.ai/jobs/info/6aed15c53a3fa7f03ea8be0b?utm_campaign=1048&utm_source=git) · posted Nov 03 (4d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15c53a3fa7f03ea8be0b?utm_campaign=1048&utm_source=git) <!--a:a8b2013dc043353a-->
   - [ ] 📌 keep on the board <!--s:a8b2013dc043353a-->
-- [ ] **Zoox** — [Hardware Engineer Intern, Vehicle Development [Summer 2027]](https://jobright.ai/jobs/info/6aed15bca2661405dc2c9025?utm_campaign=1048&utm_source=git) · posted Nov 03 (3d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15bca2661405dc2c9025?utm_campaign=1048&utm_source=git) <!--a:b2fa3ccb243a6065-->
+- [ ] **Zoox** — [Hardware Engineer Intern, Vehicle Development [Summer 2027]](https://jobright.ai/jobs/info/6aed15bca2661405dc2c9025?utm_campaign=1048&utm_source=git) · posted Nov 03 (4d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15bca2661405dc2c9025?utm_campaign=1048&utm_source=git) <!--a:b2fa3ccb243a6065-->
   - [ ] 📌 keep on the board <!--s:b2fa3ccb243a6065-->
-- [ ] **Zoox** — [Hardware Engineer Intern, Vehicle Systems [Summer 2027]](https://jobright.ai/jobs/info/6aed15bbab48a70793821211?utm_campaign=1048&utm_source=git) · posted Nov 03 (3d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15bbab48a70793821211?utm_campaign=1048&utm_source=git) <!--a:fca41a8ad9e6808b-->
+- [ ] **Zoox** — [Hardware Engineer Intern, Vehicle Systems [Summer 2027]](https://jobright.ai/jobs/info/6aed15bbab48a70793821211?utm_campaign=1048&utm_source=git) · posted Nov 03 (4d ago) · Foster City, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aed15bbab48a70793821211?utm_campaign=1048&utm_source=git) <!--a:fca41a8ad9e6808b-->
   - [ ] 📌 keep on the board <!--s:fca41a8ad9e6808b-->
 
 - [ ] **ATI** — Summer 2027 Process Engineering Intern · posted Oct 29 (9d ago) · Oakdale, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6abea0624ac55253f5d619d8?utm_campaign=1048&utm_source=git) <!--a:e70f9029e240cdb0-->
@@ -143,7 +141,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Intuitive** — AI/ML Engineer Intern · posted Nov 02 (5d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://go.vansh.nyc/19B?s=y) <!--a:905c139537a644bc-->
   - [ ] 📌 keep on the board <!--s:905c139537a644bc-->
 
-## ▫️ Worth a look (17)
+## ▫️ Worth a look (16)
 
 - [ ] **Applied Materials** — Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ) · posted Oct 29 (9d ago) · Chandler,AZ · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-amat-external-R2628770?s=gh-internships-2027) <!--a:33b206f3ecda4bbd-->
   - [ ] 📌 keep on the board <!--s:33b206f3ecda4bbd-->
@@ -153,13 +151,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Draper** — Electro-Mechanical Instrument Intern (Summer 2027) · posted Nov 04 (2d ago) · Cambridge, MA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003093?s=gh-internships-2027) <!--a:555a2538fecfc856-->
   - [ ] 📌 keep on the board <!--s:555a2538fecfc856-->
 
+- [ ] **KLA** — Mechanical Engineer Intern · posted Nov 07 (6h ago) · Milpitas, CA · season unstated · [apply](https://zapply.jobs/l/d/workday-kla-search-2643268?s=gh-internships-2027) <!--a:24524e7e2d1c6604-->
+  - [ ] 📌 keep on the board <!--s:24524e7e2d1c6604-->
 - [ ] **KLA** — Mechatronics Summer Intern · posted Nov 02 (4d ago) · Ann Arbor, MI · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-kla-search-2641557?s=gh-internships-2027) <!--a:d9f95837663d222a-->
   - [ ] 📌 keep on the board <!--s:d9f95837663d222a-->
-- [ ] **KLA** — Mechanical Engineer Intern · posted Nov 07 (1h ago) · Milpitas, CA · season unstated · [apply](https://zapply.jobs/l/d/workday-kla-search-2643268?s=gh-internships-2027) <!--a:24524e7e2d1c6604-->
-  - [ ] 📌 keep on the board <!--s:24524e7e2d1c6604-->
-
-- [ ] **AV** — Test Engineering Intern - Space Technologies · posted Oct 27 (11d ago) · Albuquerque, NM, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ae14bc4829a3bada15fc331?utm_campaign=1048&utm_source=git) <!--a:1d2e590daf057136-->
-  - [ ] 📌 keep on the board <!--s:1d2e590daf057136-->
 
 - [ ] **Relativity Space** — Weld Development Engineer Intern · posted Oct 28 (10d ago) · Long Beach, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ac54ca2064da25272e1623a?utm_campaign=1048&utm_source=git) <!--a:7246ea9d4942adb0-->
   - [ ] 📌 keep on the board <!--s:7246ea9d4942adb0-->
@@ -183,7 +178,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Lockheed Martin** — Manufacturing Engineering - Intern · posted Nov 03 (4d ago) · Orlando, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6ae8fbc503f4a1104b2589e6?utm_campaign=1048&utm_source=git) <!--a:fe75887015d80fd4-->
   - [ ] 📌 keep on the board <!--s:fe75887015d80fd4-->
 
-- [ ] **RTX** — Manufacturing Engineering Operations Intern (Summer 2027) · posted Nov 05 (34h ago) · WV-UNION · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886755?s=gh-internships-2027) <!--a:ab0383526c18dab5-->
+- [ ] **RTX** — Manufacturing Engineering Operations Intern (Summer 2027) · posted Nov 05 (40h ago) · WV-UNION · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886755?s=gh-internships-2027) <!--a:ab0383526c18dab5-->
   - [ ] 📌 keep on the board <!--s:ab0383526c18dab5-->
 
 - [ ] **Textron** — 2027 Intern - Mechanical Engineer (Weapons) - Wilmington, MA · posted Nov 05 (2d ago) · Wilmington, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aecf800465e3d2371383614?utm_campaign=1048&utm_source=git) <!--a:8b1665c233ee1fd6-->
@@ -192,5 +187,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Textron Aviation** — 2027 Intern - Mechanical Engineer (Weapons) - Wilmington, MA · posted Nov 05 (2d ago) · Wilmington, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aecf9a1a9ea762a04093e05?utm_campaign=1048&utm_source=git) <!--a:412fdef65c4b92ce-->
   - [ ] 📌 keep on the board <!--s:412fdef65c4b92ce-->
 
-### · Wide net (108)
+### · Wide net (104)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
