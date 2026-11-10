@@ -1,14 +1,15 @@
-# Brief 2026-11-09 22:13 UTC
+# Brief 2026-11-10 06:54 UTC
 
-10 new since the last brief.
+11 new since the last brief.
 
-- `S` **Skydio** — Systems Engineering Intern - Summer 2027 · San Mateo, California, United States · score 8 · [apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a)
-- `A` **RTX** — Manufacturing Engineer Co-op (Spring/Summer 2027) · NC-WILSON · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887620?s=gh-internships-2027)
-- `B` **Moog** — Intern, Mechanical Design Engineering · Buffalo, NY · score 7 · [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21029?s=gh-internships-2027)
-- `B` **Boston Dynamics** — Manufacturing Test Engineer Co-Op · Waltham · score 5 · [apply](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3360?s=gh-internships-2027)
-- `C` **ABB** — Mechanical Engineering Co-op- Summer 2027 · USA, NC, Mebane · score 6 · [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051089?s=gh-internships-2027)
-- `C` **KION Group** — Mechanical Engineering Intern - Summer 2027 · Grand Rapids MI United States · score 6 · [apply](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098967?s=gh-internships-2027)
-- `C` **Pacific Northwest National Laboratory** — Summer Undergraduate Engineering Intern – Energy Systems · Richland, WA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af21f991aaffa49f73819f7?utm_campaign=1048&utm_source=git)
-- `C` **Tenet Healthcare** — Healthcare Facilities Mechanical Engineering Intern – Summer 2027 – Onsite in Dallas, TX · Dallas, TX, United States · score 6 · [apply](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028285?s=gh-internships-2027)
-- `C` **CERATIZIT** — Co-op/Intern - Electrical/Mechatronics · Towanda, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af2073862fb9f5fcd892ed0?utm_campaign=1048&utm_source=git)
-- `C` **TTM Technologies** — Mechanical Engineering Internship · Farmingdale, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af1eac10cb834dad9321142?utm_campaign=1048&utm_source=git)
+- `A` **Relativity Space** — Facilities Engineer Intern · Long Beach, CA, United States · score 8 · [apply](https://jobright.ai/jobs/info/6af261c262fb9f5fcd897417?utm_campaign=1048&utm_source=git)
+- `A` **RTX** — Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027) · IA-MANCHESTER · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888519?s=gh-internships-2027)
+- `A` **RTX** — Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) · IA-CEDAR RAPIDS · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886221?s=gh-internships-2027)
+- `B` **Intuitive Surgical** — Robotics and Controls Engineer Intern · Sunnyvale, CA · score 5 · [apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319?utm_source=Simplify&ref=Simplify)
+- `C` **Dematic** — Mechanical Engineering Intern - Summer 2027 · Grand Rapids, MI, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af23af81116f6f0a076785f?utm_campaign=1048&utm_source=git)
+- `C` **Mettler-Toledo International, Inc** — Summer 2027 Intern - Mechanical Engineering (Oakland, CA) · Oakland, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af22c42905985ccaa40a2e1?utm_campaign=1048&utm_source=git)
+- `C` **Pivotal Software** — Internship, Mechanical Engineering (Summer 2027) · Palo Alto, CA · score 6 · [apply](https://zapply.jobs/l/d/lever-pivotal-b7f01112-1ca4-47c4-bd34-c291206bd506?s=gh-internships-2027)
+- `C` **Audubon Companies** — Mechanical Engineering Intern · Lake Charles, Louisiana, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af230231aaffa49f73827b2?utm_campaign=1048&utm_source=git)
+- `C` **Lockheed Martin** — MF Field Engineering Intern · Uniondale, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af268251116f6f0a0768fcd?utm_campaign=1048&utm_source=git)
+- `C` **Mason & Hanger** — Mechanical Intern, MHG · Glen Allen, VA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af2713a8cbcfef4a59dc460?utm_campaign=1048&utm_source=git)
+- `C` **TalentSphere Global** — Mechanical Engineering Intern · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af27ed041f4504a0888c3fb?utm_campaign=1048&utm_source=git)
