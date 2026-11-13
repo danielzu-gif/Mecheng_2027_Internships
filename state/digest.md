@@ -1,17 +1,10 @@
-# Brief 2026-11-13 00:58 UTC
+# Brief 2026-11-13 11:48 UTC
 
-13 new since the last brief.
+6 new since the last brief.
 
-- `S` **Shield AI** — 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) · San Diego, California · score 9 · [apply](https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca)
-- `S` **Shield AI** — Hardware Test Engineer Co-op · Dallas, TX · score 9 · [apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply?utm_source=Simplify&ref=Simplify)
-- `A` **RTX** — Cryogenic Engineering Intern (Summer 2027) · AZ-TUCSON · score 11 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888586?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Manufacturing Engineering Intern - Annapolis MD · United States-Maryland-Annapolis · score 9 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260385?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Wafer Processing Engineering Internship - Saint Charles MO · United States-Missouri-Saint... · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260401?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Electronics Engineering Intern - Elkridge MD · United States-Maryland-Elkridge · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260310?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Systems Engineering Intern - Graduate Level - Plymouth MN · United States-Minnesota-Plymouth · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260431?s=gh-internships-2027)
-- `A` **Northrop Grumman** — 2027 Aeronautical Engineering Intern - Sunnyvale CA · United States-California-Sunnyvale · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260488?s=gh-internships-2027)
-- `B` **Intel** — SLT Mechanical Design Intern · Oregon Hillsboro · score 7 · [apply](https://zapply.jobs/l/d/workday-intel-external-JR0286720?s=gh-internships-2027)
-- `B` **Analog Devices** — Mechanical Engineer - Advanced Robotics Intern · US, MA, Wilmington · score 5 · [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R268505?s=gh-internships-2027)
-- `C` **Lockheed Martin** — aerospace engineering intern · Littleton, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af5f06680054650a5e7a514?utm_campaign=1048&utm_source=git)
-- `C` **BeamSphere** — Thermal Engineer Intern · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af6433aa4a5218a07e850bd?utm_campaign=1048&utm_source=git)
-- `C` **Toyon Research Corporation** — Mechanical Engineering Intern · Goleta, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af63159323c531f31e30db6?utm_campaign=1048&utm_source=git)
+- `S` **Shield AI** — Hardware Test Engineering Co-op · Dallas, TX · score 8 · [apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true&utm_source=Simplify&ref=Simplify)
+- `A` **Intuitive Machines** — Propulsion Intern - Aerospace Engineering · Houston, TX, United States · score 7 · [apply](https://jobright.ai/jobs/info/6af624a579862a378dcf1245?utm_campaign=1048&utm_source=git)
+- `A` **Zoox** — [Systems & Safety Engineering Intern [Summer 2027]](https://jobright.ai/jobs/info/6af66e678a9bd36b08993357?utm_campaign=1048&utm_source=git) · Foster City, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af66e678a9bd36b08993357?utm_campaign=1048&utm_source=git)
+- `C` **BAE Systems** — Mechanical Engineer Intern Summer 2027 · Kingsport, Tennessee · score 6 · [apply](https://zapply.jobs/l/d/phenom-bae-systems-132333BR?s=gh-internships-2027)
+- `C` **C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC** — Mechanical-Electrical-Plumbing Engineering Intern · Latham, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abbfeb77119e56191ceaa4d?utm_campaign=1048&utm_source=git)
+- `C` **Hut 8** — Mechanical Engineering Intern, Data Center Infrastructure · Miami, FL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae3831377c09cb3bd4a697a?utm_campaign=1048&utm_source=git)
