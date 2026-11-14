@@ -1,10 +1,12 @@
-# Brief 2026-11-13 11:48 UTC
+# Brief 2026-11-14 00:27 UTC
 
-6 new since the last brief.
+8 new since the last brief.
 
-- `S` **Shield AI** — Hardware Test Engineering Co-op · Dallas, TX · score 8 · [apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true&utm_source=Simplify&ref=Simplify)
-- `A` **Intuitive Machines** — Propulsion Intern - Aerospace Engineering · Houston, TX, United States · score 7 · [apply](https://jobright.ai/jobs/info/6af624a579862a378dcf1245?utm_campaign=1048&utm_source=git)
-- `A` **Zoox** — [Systems & Safety Engineering Intern [Summer 2027]](https://jobright.ai/jobs/info/6af66e678a9bd36b08993357?utm_campaign=1048&utm_source=git) · Foster City, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af66e678a9bd36b08993357?utm_campaign=1048&utm_source=git)
-- `C` **BAE Systems** — Mechanical Engineer Intern Summer 2027 · Kingsport, Tennessee · score 6 · [apply](https://zapply.jobs/l/d/phenom-bae-systems-132333BR?s=gh-internships-2027)
-- `C` **C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC** — Mechanical-Electrical-Plumbing Engineering Intern · Latham, NY, United States · score 4 · [apply](https://jobright.ai/jobs/info/6abbfeb77119e56191ceaa4d?utm_campaign=1048&utm_source=git)
-- `C` **Hut 8** — Mechanical Engineering Intern, Data Center Infrastructure · Miami, FL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6ae3831377c09cb3bd4a697a?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — 2027 Manufacturing Engineering Intern - Sunnyvale CA · United States-California-Sunnyvale · score 9 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260394?s=gh-internships-2027)
+- `A` **Boston Dynamics** — Advanced Manufacturing Engineering Co-Op · Waltham · score 7 · [apply](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3380?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 Materials & Process Engineering Intern - Northridge CA · United States-California-Northridge · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260526?s=gh-internships-2027)
+- `A` **GE Aerospace** — Digital Systems Engineering Intern - Bohemia, NY - Summer 2027 · Bohemia · score 6 · [apply](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042961?s=gh-internships-2027)
+- `A` **RTX** — Composite Engineering Intern (Summer 2027)(Onsite) · CT-MIDDLETOWN · score 6 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887784?s=gh-internships-2027)
+- `C` **Linde** — Cryogenic Technology R&D Summer Intern · Tonawanda, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af735f78242286400642b49?utm_campaign=1048&utm_source=git)
+- `C` **SharkNinja** — Summer 2027: Mechanical Engineering Intern, Ninja (May to August) · Needham, MA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6af73df3d0eefb7d11b8a383?utm_campaign=1048&utm_source=git)
+- `C` **Legrand** — Mechanical Engineering Intern · West Hartford, CT, United States · score 4 · [apply](https://jobright.ai/jobs/info/6af2207a0cb834dad9323fa4?utm_campaign=1048&utm_source=git)
