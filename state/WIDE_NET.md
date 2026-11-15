@@ -1,5 +1,5 @@
 # Wide net
-_82 open · rebuilt 2026-11-15 01:59 UTC · tick 📌 to move one onto the main board_
+_82 open · rebuilt 2026-11-15 05:56 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 
@@ -19,9 +19,9 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **ABB** — Mechanical Engineering Co-op- Summer 2027 · posted Nov 09 (6d ago) · USA, NC, Mebane · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051089?s=gh-internships-2027) <!--a:ba7c212bbfc5b60a-->
   - [ ] 📌 keep on the board <!--s:ba7c212bbfc5b60a-->
 
-- [ ] **Aerospace Corporation** — 2027 Electric Propulsion & Plasma Science Graduate Intern · posted Nov 11 (3d ago) · El Segundo, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-aero-external-R017151?s=gh-internships-2027) <!--a:87bb1c3a7e4be546-->
+- [ ] **Aerospace Corporation** — 2027 Electric Propulsion & Plasma Science Graduate Intern · posted Nov 11 (4d ago) · El Segundo, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-aero-external-R017151?s=gh-internships-2027) <!--a:87bb1c3a7e4be546-->
   - [ ] 📌 keep on the board <!--s:87bb1c3a7e4be546-->
-- [ ] **Aerospace Corporation** — 2027 Propulsion Science Undergraduate Intern · posted Nov 11 (3d ago) · El Segundo, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-aero-external-R017148?s=gh-internships-2027) <!--a:c511af09ec3e1575-->
+- [ ] **Aerospace Corporation** — 2027 Propulsion Science Undergraduate Intern · posted Nov 11 (4d ago) · El Segundo, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-aero-external-R017148?s=gh-internships-2027) <!--a:c511af09ec3e1575-->
   - [ ] 📌 keep on the board <!--s:c511af09ec3e1575-->
 
 - [ ] **BAE Systems** — Mechanical Engineer Intern Summer 2027 · posted Nov 12 (2d ago) · Kingsport, Tennessee · S27 confirmed · [apply](https://zapply.jobs/l/d/phenom-bae-systems-132333BR?s=gh-internships-2027) <!--a:4a6af3a0e1e8bf86-->
@@ -58,7 +58,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **AECOM** — Mechanical Intern · posted Nov 06 (9d ago) · Dallas, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6aedfa13e0c9de7b05f8865a?utm_campaign=1048&utm_source=git) <!--a:0996a08038446345-->
   - [ ] 📌 keep on the board <!--s:0996a08038446345-->
 
-- [ ] **ASM** — Intern, Mechanical Engineering · posted Nov 06 (8d ago) · > Arizona > Phoenix · season unstated · [apply](https://zapply.jobs/l/d/greenhouse-asm-5029222101?s=gh-internships-2027) <!--a:5bdf4d742be11322-->
+- [ ] **ASM** — Intern, Mechanical Engineering · posted Nov 06 (9d ago) · > Arizona > Phoenix · season unstated · [apply](https://zapply.jobs/l/d/greenhouse-asm-5029222101?s=gh-internships-2027) <!--a:5bdf4d742be11322-->
   - [ ] 📌 keep on the board <!--s:5bdf4d742be11322-->
 
 - [ ] **Ascendria Consulting** — [Mechanical Engineering Intern [Full Time]](https://jobright.ai/jobs/info/6aee7a4bd20350c7a507d9cc?utm_campaign=1048&utm_source=git) · posted Nov 06 (9d ago) · El Segundo, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6aee7a4bd20350c7a507d9cc?utm_campaign=1048&utm_source=git) <!--a:017ceb183b102d53-->
