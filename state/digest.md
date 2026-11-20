@@ -1,13 +1,15 @@
-# Brief 2026-11-20 01:53 UTC
+# Brief 2026-11-20 12:26 UTC
 
-9 new since the last brief.
+11 new since the last brief.
 
-- `A` **Lucid Motors** — Intern, Simulation & Virtualization Engineer, Summer 2027 · Newark, CA · score 7 · [apply](https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007)
-- `A` **Lucid Motors** — Product Security Engineering Intern, Summer 2027 · Newark, CA · score 6 · [apply](https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007)
-- `B` **Sandia National Laboratories** — Intern, R&D Graduate Year Round - Concentrating Solar Thermal Technologies, Onsite · Albuquerque, NM, United States · score 5 · [apply](https://jobright.ai/jobs/info/6aff3dc41c42ea8f6b9fea13?utm_campaign=1048&utm_source=git)
-- `C` **Ferrovias** — Thermal Engineer Intern · El Segundo, CA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aff3f91c1c02a9acd80a2f2?utm_campaign=1048&utm_source=git)
-- `C` **Volvo Construction Equipment** — Intern: Mechanical Engineering - Virtual Product Development (Summer 2027) · Shippensburg, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aff3c29c1c02a9acd80a051?utm_campaign=1048&utm_source=git)
-- `C` **Volvo Construction Equipment** — Intern: Mechanical Engineering - Hydraulics (Summer 2027) · Shippensburg, PA, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aff3c30aea17e3f50eaec2f?utm_campaign=1048&utm_source=git)
-- `C` **General Dynamics Mission Systems** — Mechanical Engineering Co-Op - (May 2027-December 2027) · McLeansville, NC, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aff300faea17e3f50eae576?utm_campaign=1048&utm_source=git)
-- `C` **Gridvanta PowerTech** — Mechanical Engineering Intern – Microreactor Development · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aff8a086f4ca73dfeb455e7?utm_campaign=1048&utm_source=git)
-- `C` **King Technology, Inc.** — Mechanical Engineering Intern · Minnetonka, MN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aff7f6f6f4ca73dfeb451c9?utm_campaign=1048&utm_source=git)
+- `S` **CAS** — Infrastructure Engineer Intern, Technology · Columbus, OH · score 8 · [apply](https://go.vansh.nyc/1Ej?s=y)
+- `A` **RTX** — Mechanical Engineer Intern Summer 2027 (Onsite) · CA-EL SEGUNDO-E02 · score 11 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890290?s=gh-internships-2027)
+- `A` **RTX** — Life Cycle Systems Engineer Intern (Onsite) · MA-WOBURN-WB2 · score 7 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890521?s=gh-internships-2027)
+- `A` **NVIDIA** — Finance AI Engineering Intern - Summer 2027 · US, CA, Santa Clara · score 6 · [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029131?s=gh-internships-2027)
+- `A` **Northrop Grumman** — 2027 AI/ML Engineering Intern - Morrisville NC · United States-North... · score 6 · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261585?s=gh-internships-2027)
+- `A` **Honeywell Aerospace** — Semiconductor Engineer Intern · United States · score 6 · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888?utm_source=Simplify&ref=Simplify)
+- `A` **Honeywell Aerospace** — Embedded Engineer Intern · United States · score 6 · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify)
+- `A` **Intuitive Machines** — Mechanisms Engineering Intern · Linthicum Heights, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6affd8ba72b9be3685294589?utm_campaign=1048&utm_source=git)
+- `C` **Kiewit** — Mechanical Engineer Intern - Kiewit Power Engineering (Summer 2027) · Lenexa, KS, United States · score 6 · [apply](https://jobright.ai/jobs/info/6b00087a46419e65476b22f8?utm_campaign=1048&utm_source=git)
+- `C` **HPE (University)** — HPC Mechanical Engineer Intern · Chippewa Falls, Wisconsin,... · score 4 · [apply](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213418?s=gh-internships-2027)
+- `C` **Nidec** — Mechanical Engineering Intern · North... · score 4 · [apply](https://zapply.jobs/l/d/workday-nidec-nidec-R0018523?s=gh-internships-2027)
