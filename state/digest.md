@@ -1,12 +1,8 @@
-# Brief 2026-11-21 12:01 UTC
+# Brief 2026-11-21 23:50 UTC
 
-8 new since the last brief.
+4 new since the last brief.
 
-- `S` **Shield** — Summer 2027 - Advanced Manufacturing Engineering Intern · Dallas, TX, United States · score 11 · [apply](https://jobright.ai/jobs/info/6afa63d5f015f35e7418f332?utm_campaign=1048&utm_source=git)
-- `A` **Aurora** — Hardware Systems Engineering Intern · Pittsburgh, PA, United States · score 8 · [apply](https://jobright.ai/jobs/info/6b011675df73191d2e6b07e5?utm_campaign=1048&utm_source=git)
-- `C` **Schneider Electric** — Summer 2027 Electro-Mechanical Design Engineer Intern · Morristown, NJ, United States · score 9 · [apply](https://jobright.ai/jobs/info/6b00a723d1fe3bc162e3d985?utm_campaign=1048&utm_source=git)
-- `C` **Idaho National Laboratory** — Mechanical Solutions for Extreme Environments Intern - Summer 2027 · Idaho Falls, ID, United States · score 6 · [apply](https://jobright.ai/jobs/info/6afdfb2c0324c008a17e335a?utm_campaign=1048&utm_source=git)
-- `C` **TTM Technologies** — Mechanical Engineering Intern (May-August 2027) · Syracuse, NY, United States · score 6 · [apply](https://jobright.ai/jobs/info/6aad4d8b0ebc8fb2313e8b42?utm_campaign=1048&utm_source=git)
-- `C` **AAM - American Axle & Manufacturing** — Mechanical Engineering Intern · Ridgway, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac09cb3dbb1f8967ce868b?utm_campaign=1048&utm_source=git)
-- `C` **AAM - American Axle & Manufacturing** — Mechatronics Intern · Ridgway, PA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aac09cc3dbb1f8967ce868d?utm_campaign=1048&utm_source=git)
-- `C` **Hewlett Packard Enterprise** — HPC Mechanical Engineer Intern · Chippewa Falls, WI, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aff5f1897dcc4fc8dcab658?utm_campaign=1048&utm_source=git)
+- `C` **Neros Technologies** — Mechanical Engineer Intern - Summer 2027 · Torrance, California, United States · score 6 · [apply](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-internships-2027)
+- `C` **SSOE Group** — Mechanical Designer Part-Time Internship · Phoenix, AZ, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aaac325f6bd9d2d17c194b1?utm_campaign=1048&utm_source=git)
+- `C` **National Laboratory of the Rockies** — Undergraduate/Graduate (3-12 Month, Remote) Intern - Power System/Power Electronics Modeling · Golden, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6aad93f93dbb1f8967cee62c?utm_campaign=1048&utm_source=git)
+- `C` **RG&T Solutions** — Mechanical Design Intern · Weston, Wisconsin, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b01e787a512f514bbde3f11?utm_campaign=1048&utm_source=git)
