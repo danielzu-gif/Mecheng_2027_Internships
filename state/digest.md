@@ -1,6 +1,6 @@
-# Brief 2026-11-22 12:13 UTC
+# Brief 2026-11-23 00:28 UTC
 
 2 new since the last brief.
 
-- `C` **Agile Space Industries** — Summer Intern 2027 / Propulsion Design Engineer · Durango, CO, United States · score 9 · [apply](https://jobright.ai/jobs/info/6b021cfc505c87ccb3a2e830?utm_campaign=1048&utm_source=git)
-- `C` **BeamSphere** — Thermal Engineering Intern · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b027dbdb2c65d24f91eddb5?utm_campaign=1048&utm_source=git)
+- `C` **Thermagia Engineering** — Mechanical Executive Engineering Intern · Andover, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b02fdd84e3d6ecd7d5e41dc?utm_campaign=1048&utm_source=git)
+- `C` **Ascendria Consulting** — Mechanical Engineer Intern (ASC0053) · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b036029c35a3d9ff8f4943c?utm_campaign=1048&utm_source=git)
