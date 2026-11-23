@@ -1,6 +1,7 @@
-# Brief 2026-11-23 00:28 UTC
+# Brief 2026-11-23 13:58 UTC
 
-2 new since the last brief.
+3 new since the last brief.
 
-- `C` **Thermagia Engineering** — Mechanical Executive Engineering Intern · Andover, MA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b02fdd84e3d6ecd7d5e41dc?utm_campaign=1048&utm_source=git)
-- `C` **Ascendria Consulting** — Mechanical Engineer Intern (ASC0053) · El Segundo, CA, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b036029c35a3d9ff8f4943c?utm_campaign=1048&utm_source=git)
+- `S` **Shield** — 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) · San Diego, CA, United States · score 9 · [apply](https://jobright.ai/jobs/info/6afa63d51465de0d45f8618a?utm_campaign=1048&utm_source=git)
+- `A` **Honeywell Aerospace** — Mechanical Engineering Intern - Summer 2027 · United States · score 11 · [apply](https://jobright.ai/jobs/info/6a91e29b9864261ccd29f74e?utm_campaign=1048&utm_source=git)
+- `A` **Northrop Grumman** — AI/ML Engineering Intern · Morrisville, NC · score 6 · [apply](https://go.vansh.nyc/1GD?s=y)
