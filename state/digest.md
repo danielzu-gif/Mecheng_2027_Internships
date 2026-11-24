@@ -1,11 +1,10 @@
-# Brief 2026-11-23 23:44 UTC
+# Brief 2026-11-24 09:29 UTC
 
-7 new since the last brief.
+6 new since the last brief.
 
-- `S` **Skydio** — Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools · San Mateo, CA · score 8
-- `C` **Oceaneering** — 2027 Mechanical Engineering Intern · Hanover, MD, United States · score 6 · [apply](https://jobright.ai/jobs/info/6b04ad102d88b678f1178a84?utm_campaign=1048&utm_source=git)
-- `C` **Brewer Science** — Electro-Mechanical Systems Intern · Springfield, MO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b04a71a13646880439e41de?utm_campaign=1048&utm_source=git)
-- `C` **Johnson Controls** — Mechanical Engineering Intern · New Freedom-Pennsylvania-United... · score 4 · [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30286070?s=gh-internships-2027)
-- `C` **RTX** — Embedded System Engineering Intern · CT-WINDSOR LOCKS-B1 · score 4 · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890950?s=gh-internships-2027)
-- `C` **Intel** — SATAS Graduate Research Intern – Modeling and Simulation · US, Arizona, Phoenix · score 3 · [apply](https://zapply.jobs/l/d/workday-intel-external-JR0287092?s=gh-internships-2027)
-- `C` **Intellian Technologies** — Electrical / CAD Engineering Intern · Rockville, MD, United States · score 3 · [apply](https://jobright.ai/jobs/info/6b0490057fd2e33bde095074?utm_campaign=1048&utm_source=git)
+- `B` **General Atomics** — Intern - Materials and Process Engineer · Poway, CA, United States · score 5 · [apply](https://jobright.ai/jobs/info/6b0529ffb4933fb9f436312c?utm_campaign=1048&utm_source=git)
+- `B` **General Atomics** — Intern - Aircraft Design Engineer · Adelanto, CA, United States · score 5 · [apply](https://jobright.ai/jobs/info/6b0520577fd2e33bde098fa9?utm_campaign=1048&utm_source=git)
+- `B` **Intuitive Machines** — Intern, Manufacturing Engineering · Palo Alto, CA, United States · score 5 · [apply](https://jobright.ai/jobs/info/6b04cf1113646880439e5a9b?utm_campaign=1048&utm_source=git)
+- `C` **Rockwell Automation** — Intern, Mechatronics & Electromagnetics · Mequon, Wisconsin, United States · score 4 · [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-8372?s=gh-internships-2027)
+- `C` **Veolia** — Mechanical Engineer Intern · West Orange, TX, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b050d252d88b678f117afa5?utm_campaign=1048&utm_source=git)
+- `C` **Veolia Environnement SA** — Mechanical Engineer Intern · West Orange, TX · score 4 · [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163378029?s=gh-internships-2027)
