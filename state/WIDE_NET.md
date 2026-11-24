@@ -1,5 +1,5 @@
 # Wide net
-_79 open · rebuilt 2026-11-24 14:29 UTC · tick 📌 to move one onto the main board_
+_81 open · rebuilt 2026-11-24 22:16 UTC · tick 📌 to move one onto the main board_
 
 Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 
@@ -12,11 +12,14 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Quick Quack Car Wash** — Mechanical/Manufacturing Engineering Intern · posted Nov 17 (7d ago) · Roseville, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afd0e01d96a0d1196c727b5?utm_campaign=1048&utm_source=git) <!--a:ca41783222ec54f6-->
   - [ ] 📌 keep on the board <!--s:ca41783222ec54f6-->
 
-- [ ] **Samsara** — Product Design (Mechanical Engineering) Co-Op · posted Nov 15 (8d ago) · San Francisco - SF9 · season unstated · [apply](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) <!--a:9f64b40463ee2d6a-->
+- [ ] **Samsara** — Product Design (Mechanical Engineering) Co-Op · posted Nov 15 (9d ago) · San Francisco - SF9 · season unstated · [apply](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) <!--a:9f64b40463ee2d6a-->
   - [ ] 📌 keep on the board <!--s:9f64b40463ee2d6a-->
 
 - [ ] **Schneider Electric** — Summer 2027 Electro-Mechanical Design Engineer Intern · posted Nov 20 (4d ago) · Morristown, NJ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b00a723d1fe3bc162e3d985?utm_campaign=1048&utm_source=git) <!--a:2ed7a089f5434732-->
   - [ ] 📌 keep on the board <!--s:2ed7a089f5434732-->
+
+- [ ] **Apex Technology** — Mechanical Ground Systems Engineering Internship (Summer 2027) · posted Nov 24 (1h ago) · Los Angeles · S27 confirmed · [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-e34724bd-0db2-4433-9352-7ad49d37e627?s=gh-internships-2027) <!--a:dad28cacb0b8633d-->
+  - [ ] 📌 keep on the board <!--s:dad28cacb0b8633d-->
 
 - [ ] **Kiewit** — Mechanical Engineer Intern - Kiewit Power Engineering (Summer 2027) · posted Nov 20 (4d ago) · Lenexa, KS, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b00087a46419e65476b22f8?utm_campaign=1048&utm_source=git) <!--a:7210ac8986693900-->
   - [ ] 📌 keep on the board <!--s:7210ac8986693900-->
@@ -24,11 +27,11 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Neros Technologies** — Mechanical Engineer Intern - Summer 2027 · posted Nov 21 (2d ago) · Torrance, California, United States · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-internships-2027) <!--a:63b929c809c44e90-->
   - [ ] 📌 keep on the board <!--s:63b929c809c44e90-->
 
-- [ ] **Pacific Fusion** — Summer 2027 Nuclear Diagnostics Mechanical Engineering Internship · posted Nov 16 (7d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4505884009?s=gh-internships-2027) <!--a:7ea4e52be60af758-->
+- [ ] **Pacific Fusion** — Summer 2027 Nuclear Diagnostics Mechanical Engineering Internship · posted Nov 16 (8d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4505884009?s=gh-internships-2027) <!--a:7ea4e52be60af758-->
   - [ ] 📌 keep on the board <!--s:7ea4e52be60af758-->
-- [ ] **Pacific Fusion** — Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship · posted Nov 20 (3d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4515017009?s=gh-internships-2027) <!--a:d398dd7490c1250b-->
+- [ ] **Pacific Fusion** — Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship · posted Nov 20 (4d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4515017009?s=gh-internships-2027) <!--a:d398dd7490c1250b-->
   - [ ] 📌 keep on the board <!--s:d398dd7490c1250b-->
-- [ ] **Pacific Fusion** — Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship · posted Nov 16 (7d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4505884009?s=gh-internships-2027) <!--a:f4293f254d77d3f6-->
+- [ ] **Pacific Fusion** — Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship · posted Nov 16 (8d ago) · San Leandro, CA · S27 confirmed · [apply](https://zapply.jobs/l/d/greenhouse-pacificfusion-4505884009?s=gh-internships-2027) <!--a:f4293f254d77d3f6-->
   - [ ] 📌 keep on the board <!--s:f4293f254d77d3f6-->
 
 - [ ] **Southern States LLC** — Summer 2027 Electrical/Mechanical Engineering Intern /Coop · posted Nov 15 (9d ago) · Hampton, GA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afa1eab48f3528e5a7306b7?utm_campaign=1048&utm_source=git) <!--a:85a60420917e34b4-->
@@ -62,7 +65,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Black & Veatch** — Mechanical Engineer Intern - Conventional Power Systems (Jacksonville) · posted Nov 20 (4d ago) · Jacksonville, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b007d94dfa58e4c244dba98?utm_campaign=1048&utm_source=git) <!--a:9dd5210a32b82348-->
   - [ ] 📌 keep on the board <!--s:9dd5210a32b82348-->
 
-- [ ] **Brewer Science** — Electro-Mechanical Systems Intern · posted Nov 23 (38h ago) · Springfield, MO, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b04a71a13646880439e41de?utm_campaign=1048&utm_source=git) <!--a:c716cb417db5702a-->
+- [ ] **Brewer Science** — Electro-Mechanical Systems Intern · posted Nov 23 (46h ago) · Springfield, MO, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b04a71a13646880439e41de?utm_campaign=1048&utm_source=git) <!--a:c716cb417db5702a-->
   - [ ] 📌 keep on the board <!--s:c716cb417db5702a-->
 
 - [ ] **Burns Engineering, Inc.** — Mechanical Engineering Intern - Summer 2027 · posted Nov 17 (7d ago) · Philadelphia, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ae0517f9e3e874dbfbb3c72?utm_campaign=1048&utm_source=git) <!--a:0c0d3a92eb886656-->
@@ -77,7 +80,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Colliers Engineering & Design** — Architectural Engineering - Mechanical Intern · posted Nov 17 (7d ago) · Rochester, NY, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afcb3ced163750294925b55?utm_campaign=1048&utm_source=git) <!--a:3c8bd492e458c2ac-->
   - [ ] 📌 keep on the board <!--s:3c8bd492e458c2ac-->
 
-- [ ] **Collins Aerospace** — Systems Engineering Intern, BMC2 (Onsite) · posted Nov 24 (14h ago) · St. Petersburg, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b056f7b707ad7f350538710?utm_campaign=1048&utm_source=git) <!--a:94539cc5cf5e5c55-->
+- [ ] **Collins Aerospace** — Systems Engineering Intern, BMC2 (Onsite) · posted Nov 24 (22h ago) · St. Petersburg, FL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b056f7b707ad7f350538710?utm_campaign=1048&utm_source=git) <!--a:94539cc5cf5e5c55-->
   - [ ] 📌 keep on the board <!--s:94539cc5cf5e5c55-->
 
 - [ ] **Daimler Truck** — Mechanical Design Engineering Intern · posted Nov 18 (6d ago) · High Point, NC US · season unstated · [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20712?s=gh-internships-2027) <!--a:663c6b6f7afaacd5-->
@@ -114,7 +117,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Intuitive Machines** — Avionics Production/Project Engineer Intern · posted Nov 16 (8d ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afb890fbe8589f0b74bf02e?utm_campaign=1048&utm_source=git) <!--a:a91d9fdd47c2efe4-->
   - [ ] 📌 keep on the board <!--s:a91d9fdd47c2efe4-->
 
-- [ ] **Johnson Controls** — Mechanical Engineering Intern · posted Nov 23 (16h ago) · New Freedom-Pennsylvania-United... · season unstated · [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30286070?s=gh-internships-2027) <!--a:0682a1d8cf4da4b1-->
+- [ ] **Johnson Controls** — Mechanical Engineering Intern · posted Nov 23 (24h ago) · New Freedom-Pennsylvania-United... · season unstated · [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30286070?s=gh-internships-2027) <!--a:0682a1d8cf4da4b1-->
   - [ ] 📌 keep on the board <!--s:0682a1d8cf4da4b1-->
 - [ ] **Johnson Controls** — Mechanical Engineering Intern / Compressor Team · posted Nov 17 (7d ago) · Waynesboro, Pennsylvania, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afc8098755d7cdf65800e84?utm_campaign=1048&utm_source=git) <!--a:fd5537440610f040-->
   - [ ] 📌 keep on the board <!--s:fd5537440610f040-->
@@ -152,7 +155,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Nokia** — Mechanical Design Intern · posted Nov 16 (8d ago) · United States · season unstated · [apply](https://zapply.jobs/l/d/oracle-nokia-41816?s=gh-internships-2027) <!--a:08d66aa605b51ad8-->
   - [ ] 📌 keep on the board <!--s:08d66aa605b51ad8-->
 
-- [ ] **Oceaneering** — 2027 Mechanical Engineering Intern · posted Nov 23 (38h ago) · Hanover, MD, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b04ad102d88b678f1178a84?utm_campaign=1048&utm_source=git) <!--a:de824c4844fdbac5-->
+- [ ] **Oceaneering** — 2027 Mechanical Engineering Intern · posted Nov 23 (46h ago) · Hanover, MD, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b04ad102d88b678f1178a84?utm_campaign=1048&utm_source=git) <!--a:de824c4844fdbac5-->
   - [ ] 📌 keep on the board <!--s:de824c4844fdbac5-->
 
 - [ ] **Pond & Company** — Mechanical Intern · posted Nov 16 (8d ago) · Mobile, AL, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afb947cc5917ce34b5dc787?utm_campaign=1048&utm_source=git) <!--a:bdb3e814c3b223b5-->
@@ -163,7 +166,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 
 - [ ] **RTX** — Industrial Engineering Intern - Site Transformation (Summer 2027) · posted Nov 18 (6d ago) · Burnsville, MN, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afdd64c758942b6422b479b?utm_campaign=1048&utm_source=git) <!--a:92bfd781eef73321-->
   - [ ] 📌 keep on the board <!--s:92bfd781eef73321-->
-- [ ] **RTX** — Embedded System Engineering Intern · posted Nov 23 (16h ago) · CT-WINDSOR LOCKS-B1 · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890950?s=gh-internships-2027) <!--a:94738e60d7c36e98-->
+- [ ] **RTX** — Embedded System Engineering Intern · posted Nov 23 (24h ago) · CT-WINDSOR LOCKS-B1 · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890950?s=gh-internships-2027) <!--a:94738e60d7c36e98-->
   - [ ] 📌 keep on the board <!--s:94738e60d7c36e98-->
 
 - [ ] **Raytheon** — Systems Engineering Co-Op (2027 Summer/Fall) – SOA CAAS Mainline Platform (Onsite) · posted Nov 16 (8d ago) · Cedar Rapids, IA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ad3003683ada13a9da088dd?utm_campaign=1048&utm_source=git) <!--a:9442cfe25478cee8-->
@@ -172,7 +175,7 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Roche** — 2027 Summer Intern - Mechanical Engineer - Systems and Hardware Development · posted Nov 18 (6d ago) · Tucson, AZ, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afdf5fe758942b6422b5fe7?utm_campaign=1048&utm_source=git) <!--a:9cbecc4993cac92d-->
   - [ ] 📌 keep on the board <!--s:9cbecc4993cac92d-->
 
-- [ ] **Rockwell Automation** — Intern, Mechatronics & Electromagnetics · posted Nov 24 (7h ago) · Mequon, Wisconsin, United States · season unstated · [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-8372?s=gh-internships-2027) <!--a:711767074138d125-->
+- [ ] **Rockwell Automation** — Intern, Mechatronics & Electromagnetics · posted Nov 24 (15h ago) · Mequon, Wisconsin, United States · season unstated · [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-8372?s=gh-internships-2027) <!--a:711767074138d125-->
   - [ ] 📌 keep on the board <!--s:711767074138d125-->
 
 - [ ] **SSOE Group** — Mechanical Designer Part-Time Internship · posted Nov 21 (3d ago) · Phoenix, AZ, United States · season unstated · [apply](https://jobright.ai/jobs/info/6aaac325f6bd9d2d17c194b1?utm_campaign=1048&utm_source=git) <!--a:77bd97b4d0d7bcc5-->
@@ -184,20 +187,23 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Structavia Consulting Engineers** — Mechanical Engineer Intern · posted Nov 15 (9d ago) · Massachusetts, United States · season unstated · [apply](https://jobright.ai/jobs/info/6af9c3341465de0d45f84b8e?utm_campaign=1048&utm_source=git) <!--a:01c71e4f45d86060-->
   - [ ] 📌 keep on the board <!--s:01c71e4f45d86060-->
 
+- [ ] **TLD** — Mechanical Engineering Intern · posted Nov 24 (22h ago) · Boise, ID, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b05b0fad43f730eab59515d?utm_campaign=1048&utm_source=git) <!--a:6b6fd1a833f2bc9e-->
+  - [ ] 📌 keep on the board <!--s:6b6fd1a833f2bc9e-->
+
 - [ ] **TSI Titanium** — MECHANICAL ENGINEERING INTERN · posted Nov 17 (7d ago) · Derry, PA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afcf51b94232f5ac42d39dd?utm_campaign=1048&utm_source=git) <!--a:4576429f8c400a21-->
   - [ ] 📌 keep on the board <!--s:4576429f8c400a21-->
 
 - [ ] **Thermagia Engineering** — Mechanical Executive Engineering Intern · posted Nov 22 (2d ago) · Andover, MA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b02fdd84e3d6ecd7d5e41dc?utm_campaign=1048&utm_source=git) <!--a:f923535b814d27e2-->
   - [ ] 📌 keep on the board <!--s:f923535b814d27e2-->
 
-- [ ] **Veolia** — Mechanical Engineer Intern · posted Nov 23 (38h ago) · West Orange, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b050d252d88b678f117afa5?utm_campaign=1048&utm_source=git) <!--a:b8ea22d753ca3c1f-->
+- [ ] **Veolia** — Mechanical Engineer Intern · posted Nov 23 (46h ago) · West Orange, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b050d252d88b678f117afa5?utm_campaign=1048&utm_source=git) <!--a:b8ea22d753ca3c1f-->
   - [ ] 📌 keep on the board <!--s:b8ea22d753ca3c1f-->
 - [ ] **Veolia** — Mechanical Engineering Intern · posted Nov 17 (7d ago) · Boulder, CO, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afd1f73f1e9f80d47c333b4?utm_campaign=1048&utm_source=git) <!--a:ce12e445687d4b4b-->
   - [ ] 📌 keep on the board <!--s:ce12e445687d4b4b-->
 
 - [ ] **Veolia Environnement SA** — Mechanical Engineering Intern · posted Nov 18 (6d ago) · Boulder, CO · season unstated · [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162190929?s=gh-internships-2027) <!--a:0fac925884cbdc1e-->
   - [ ] 📌 keep on the board <!--s:0fac925884cbdc1e-->
-- [ ] **Veolia Environnement SA** — Mechanical Engineer Intern · posted Nov 24 (9h ago) · West Orange, TX · season unstated · [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163378029?s=gh-internships-2027) <!--a:1b295d9d62db47df-->
+- [ ] **Veolia Environnement SA** — Mechanical Engineer Intern · posted Nov 24 (17h ago) · West Orange, TX · season unstated · [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163378029?s=gh-internships-2027) <!--a:1b295d9d62db47df-->
   - [ ] 📌 keep on the board <!--s:1b295d9d62db47df-->
 
 - [ ] **Volvo Construction Equipment** — Intern: Mechanical Engineering - Virtual Product Development (Summer 2027) · posted Nov 19 (5d ago) · Shippensburg, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6aff3c29c1c02a9acd80a051?utm_campaign=1048&utm_source=git) <!--a:4ce711408e94a8e7-->
@@ -208,19 +214,19 @@ Main board: https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/4
 - [ ] **Vortexion Labs** — Mechanical Engineering Intern · posted Nov 17 (7d ago) · Chelmsford, Massachusetts, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afd10a3d96a0d1196c7297f?utm_campaign=1048&utm_source=git) <!--a:b86d86032f29edf0-->
   - [ ] 📌 keep on the board <!--s:b86d86032f29edf0-->
 
-- [ ] **Intel** — SATAS Graduate Research Intern – Modeling and Simulation · posted Nov 23 (20h ago) · US, Arizona, Phoenix · season unstated · [apply](https://zapply.jobs/l/d/workday-intel-external-JR0287092?s=gh-internships-2027) <!--a:13b4296aab62ce4a-->
+- [ ] **Intel** — SATAS Graduate Research Intern – Modeling and Simulation · posted Nov 23 (28h ago) · US, Arizona, Phoenix · season unstated · [apply](https://zapply.jobs/l/d/workday-intel-external-JR0287092?s=gh-internships-2027) <!--a:13b4296aab62ce4a-->
   - [ ] 📌 keep on the board <!--s:13b4296aab62ce4a-->
 
-- [ ] **Intellian Technologies** — Electrical / CAD Engineering Intern · posted Nov 23 (38h ago) · Rockville, MD, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0490057fd2e33bde095074?utm_campaign=1048&utm_source=git) <!--a:1986376861ec352f-->
+- [ ] **Intellian Technologies** — Electrical / CAD Engineering Intern · posted Nov 23 (46h ago) · Rockville, MD, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0490057fd2e33bde095074?utm_campaign=1048&utm_source=git) <!--a:1986376861ec352f-->
   - [ ] 📌 keep on the board <!--s:1986376861ec352f-->
 
 - [ ] **Micron** — Intern - SSD Hardware Engineering · posted Nov 17 (7d ago) · Longmont, Colorado, United... · season unstated · [apply](https://zapply.jobs/l/d/eightfold-micron-44920709?s=gh-internships-2027) <!--a:0fc8bd815b113a20-->
   - [ ] 📌 keep on the board <!--s:0fc8bd815b113a20-->
 
-- [ ] **Micron Technology** — Process Engineer Intern - VMEC · posted Nov 23 (22h ago) · Manassas, VA - Fab 6 · season unstated · [apply](https://zapply.jobs/l/d/workday-micron-external-JR116718?s=gh-internships-2027) <!--a:a21a0413d73595da-->
+- [ ] **Micron Technology** — Process Engineer Intern - VMEC · posted Nov 23 (29h ago) · Manassas, VA - Fab 6 · season unstated · [apply](https://zapply.jobs/l/d/workday-micron-external-JR116718?s=gh-internships-2027) <!--a:a21a0413d73595da-->
   - [ ] 📌 keep on the board <!--s:a21a0413d73595da-->
 
-- [ ] **Moog** — Intern, Manufacturing Engineering · posted Nov 18 (5d ago) · Salt Lake City, UT · season unstated · [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19675?s=gh-internships-2027) <!--a:b7d6f7f58bc8ed1c-->
+- [ ] **Moog** — Intern, Manufacturing Engineering · posted Nov 18 (6d ago) · Salt Lake City, UT · season unstated · [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19675?s=gh-internships-2027) <!--a:b7d6f7f58bc8ed1c-->
   - [ ] 📌 keep on the board <!--s:b7d6f7f58bc8ed1c-->
 
 - [ ] **Rocketdyne** — Test Engineer Intern (Summer 2027) · posted Nov 16 (8d ago) · Mason, OH, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afb44cb5305ed998d91bbd8?utm_campaign=1048&utm_source=git) <!--a:0f9298e363a7a3a8-->
