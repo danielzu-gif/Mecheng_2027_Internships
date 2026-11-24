@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-11-24 09:29 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-11-24 14:29 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **54 open · 9 apply-now · 0 saved · 3 applied all-time**
 
@@ -66,14 +66,14 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:405dd3eedf025291-->
 - [ ] **RTX** — Life Cycle Systems Engineer Intern (Onsite) · posted Nov 20 (4d ago) · MA-WOBURN-WB2 · season unstated · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890521?s=gh-internships-2027) <!--a:45a2259cca6d3481-->
   - [ ] 📌 keep on the board <!--s:45a2259cca6d3481-->
-- [ ] **RTX** — Additive Manufacturing Process Intern (Summer 2027) - Onsite · posted Nov 17 (6d ago) · CT-EAST HARTFORD-RTRC H · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889149?s=gh-internships-2027) <!--a:aa00d0c44a4209dd-->
+- [ ] **RTX** — Additive Manufacturing Process Intern (Summer 2027) - Onsite · posted Nov 17 (7d ago) · CT-EAST HARTFORD-RTRC H · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889149?s=gh-internships-2027) <!--a:aa00d0c44a4209dd-->
   - [ ] 📌 keep on the board <!--s:aa00d0c44a4209dd-->
 - [ ] **RTX** — Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite · posted Nov 16 (7d ago) · IA-CEDAR RAPIDS · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887900?s=gh-internships-2027) <!--a:60bbb7133c798592-->
   - [ ] 📌 keep on the board <!--s:60bbb7133c798592-->
 - [ ] **RTX** — Hardware in the Loop Engineering Intern - (Summer 2027) · posted Nov 16 (7d ago) · AZ-TUCSON · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882927?s=gh-internships-2027) <!--a:8dadff1310ec6fde-->
   - [ ] 📌 keep on the board <!--s:8dadff1310ec6fde-->
 
-- [ ] **General Atomics** — Intern - Mechanical Engineer · posted Nov 13 (10d ago) · Herndon, Virginia · season unstated · [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238046?s=gh-internships-2027) <!--a:c16bf2a4eb8ce6dd-->
+- [ ] **General Atomics** — Intern - Mechanical Engineer · posted Nov 13 (11d ago) · Herndon, Virginia · season unstated · [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238046?s=gh-internships-2027) <!--a:c16bf2a4eb8ce6dd-->
   - [ ] 📌 keep on the board <!--s:c16bf2a4eb8ce6dd-->
 
 - [ ] **Intuitive Machines** — Avionics Engineer – Test Engineer Intern · posted Nov 16 (8d ago) · Houston, TX, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afb891dc2bd7db01b882ab0?utm_campaign=1048&utm_source=git) <!--a:2e04ccc21dc566fc-->
@@ -94,7 +94,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Honeywell Aerospace** — Semiconductor Engineer Intern · posted Nov 19 (5d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888?utm_source=Simplify&ref=Simplify) <!--a:9c9a91206a30efe1-->
   - [ ] 📌 keep on the board <!--s:9c9a91206a30efe1-->
-- [ ] **Honeywell Aerospace** — Embedded Engineer Intern · posted Nov 20 (3d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify) <!--a:f7af0f25ce64cd90-->
+- [ ] **Honeywell Aerospace** — Embedded Engineer Intern · posted Nov 20 (4d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify) <!--a:f7af0f25ce64cd90-->
   - [ ] 📌 keep on the board <!--s:f7af0f25ce64cd90-->
 
 - [ ] **Intuitive** — Data Engineering Intern · posted Nov 19 (5d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://go.vansh.nyc/1Fo?s=y) <!--a:52850b213aa5a313-->
@@ -119,14 +119,14 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **GE Vernova** — GE Vernova Manufacturing Engineer Intern - Summer 2027 · posted Nov 18 (6d ago) · Clearwater, FL, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afde2e7f3e7976cc6109a98?utm_campaign=1048&utm_source=git) <!--a:b1f8c293b2229c2c-->
   - [ ] 📌 keep on the board <!--s:b1f8c293b2229c2c-->
 
+- [ ] **General Atomics** — Intern - Aircraft Design Engineer · posted Nov 23 (38h ago) · Adelanto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0520577fd2e33bde098fa9?utm_campaign=1048&utm_source=git) <!--a:2744b8683725e313-->
+  - [ ] 📌 keep on the board <!--s:2744b8683725e313-->
+- [ ] **General Atomics** — Intern - Materials and Process Engineer · posted Nov 23 (38h ago) · Poway, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0529ffb4933fb9f436312c?utm_campaign=1048&utm_source=git) <!--a:6a5f1d496b16958b-->
+  - [ ] 📌 keep on the board <!--s:6a5f1d496b16958b-->
 - [ ] **General Atomics** — Intern - Systems Engineer · posted Nov 16 (8d ago) · Englewood, CO, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afbd9868074edef8dd60c3b?utm_campaign=1048&utm_source=git) <!--a:e85bbfe6ecc6fffc-->
   - [ ] 📌 keep on the board <!--s:e85bbfe6ecc6fffc-->
-- [ ] **General Atomics** — Intern - Materials and Process Engineer · posted Nov 23 (33h ago) · Poway, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0529ffb4933fb9f436312c?utm_campaign=1048&utm_source=git) <!--a:6a5f1d496b16958b-->
-  - [ ] 📌 keep on the board <!--s:6a5f1d496b16958b-->
-- [ ] **General Atomics** — Intern - Aircraft Design Engineer · posted Nov 23 (33h ago) · Adelanto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b0520577fd2e33bde098fa9?utm_campaign=1048&utm_source=git) <!--a:2744b8683725e313-->
-  - [ ] 📌 keep on the board <!--s:2744b8683725e313-->
 
-- [ ] **Intuitive Machines** — Intern, Manufacturing Engineering · posted Nov 23 (33h ago) · Palo Alto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b04cf1113646880439e5a9b?utm_campaign=1048&utm_source=git) <!--a:5f13d865a7ce8963-->
+- [ ] **Intuitive Machines** — Intern, Manufacturing Engineering · posted Nov 23 (38h ago) · Palo Alto, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6b04cf1113646880439e5a9b?utm_campaign=1048&utm_source=git) <!--a:5f13d865a7ce8963-->
   - [ ] 📌 keep on the board <!--s:5f13d865a7ce8963-->
 
 - [ ] **MIT Lincoln Laboratory** — Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74 · posted Nov 18 (6d ago) · Lexington, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afe122a0cde47528ec11804?utm_campaign=1048&utm_source=git) <!--a:4b5ef7142be535b0-->
@@ -144,5 +144,5 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Sandia National Laboratories** — Intern, R&D Undergraduate Year-Round - Mechanical Design, Model & Analysis, Remote · posted Nov 18 (6d ago) · United States · season unstated · [apply](https://jobright.ai/jobs/info/6afde3348cffea7c97c8dddd?utm_campaign=1048&utm_source=git) <!--a:de0e28a39e11d2de-->
   - [ ] 📌 keep on the board <!--s:de0e28a39e11d2de-->
 
-### · Wide net (78)
+### · Wide net (79)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
