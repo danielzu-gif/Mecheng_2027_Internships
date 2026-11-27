@@ -1,16 +1,16 @@
 # Summer 2027 board
-_rebuilt 2026-11-27 13:26 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-11-27 21:00 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
-**56 open · 5 apply-now · 0 saved · 3 applied all-time**
+**55 open · 5 apply-now · 0 saved · 3 applied all-time**
 
 Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif/Mecheng_2027_Internships/blob/main/state/APPLIED.md)
 
 ## ⭐ Apply now (5)
 
-- [ ] **Anduril** — 2027 Business Systems Engineer Intern · posted Nov 18 (8d ago) · Costa Mesa, California, United States · S27 confirmed · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) <!--a:15ade6b55b71be3b-->
+- [ ] **Anduril** — 2027 Business Systems Engineer Intern · posted Nov 18 (9d ago) · Costa Mesa, California, United States · S27 confirmed · [apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) <!--a:15ade6b55b71be3b-->
   - [ ] 📌 keep on the board <!--s:15ade6b55b71be3b-->
 
-- [ ] **Shield AI** — 2027 Summer Intern - Mechanical Engineering - 6436 · posted Nov 24 (2d ago) · Dallas, TX, US · S27 confirmed · [apply](https://zapply.jobs/l/d/ashby-shield-d5931c9e-b020-46f1-9344-9ea17768fad8?s=gh-internships-2027) <!--a:94e3e4504bfda365-->
+- [ ] **Shield AI** — 2027 Summer Intern - Mechanical Engineering - 6436 · posted Nov 24 (3d ago) · Dallas, TX, US · S27 confirmed · [apply](https://zapply.jobs/l/d/ashby-shield-d5931c9e-b020-46f1-9344-9ea17768fad8?s=gh-internships-2027) <!--a:94e3e4504bfda365-->
   - [ ] 📌 keep on the board <!--s:94e3e4504bfda365-->
 
 - [ ] **Anduril Industries** — 2027 Business Systems Engineer Intern · posted Nov 18 (9d ago) · Costa Mesa, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afdd79e8cffea7c97c8d6a6?utm_campaign=1048&utm_source=git) <!--a:c3eaa93839366047-->
@@ -22,7 +22,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **CAS** — Infrastructure Engineer Intern, Technology · posted Nov 20 (7d ago) · Columbus, OH · S27 confirmed · [apply](https://go.vansh.nyc/1Ej?s=y) <!--a:688109b749e2fc40-->
   - [ ] 📌 keep on the board <!--s:688109b749e2fc40-->
 
-## 🔷 Strong (32)
+## 🔷 Strong (31)
 
 - [ ] **Northrop Grumman** — 2027 Propulsion Test Engineer Intern - Edwards AFB CA · posted Nov 19 (8d ago) · United... · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261436?s=gh-internships-2027) <!--a:d55ace4b484e95d4-->
   - [ ] 📌 keep on the board <!--s:d55ace4b484e95d4-->
@@ -38,12 +38,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
   - [ ] 📌 keep on the board <!--s:1f3b9376cc44a899-->
 - [ ] **Northrop Grumman** — 2027 AI/ML Engineering Intern - Morrisville NC · posted Nov 20 (7d ago) · United States-North... · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261585?s=gh-internships-2027) <!--a:27ef27e8d8906c7b-->
   - [ ] 📌 keep on the board <!--s:27ef27e8d8906c7b-->
-- [ ] **Northrop Grumman** — 2027 Industrial Engineer Intern - Apopka FL · posted Nov 17 (10d ago) · Apopka, FL, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afca09ee8a9612f4e0d9ea2?utm_campaign=1048&utm_source=git) <!--a:585423e97c5f21d3-->
-  - [ ] 📌 keep on the board <!--s:585423e97c5f21d3-->
 
-- [ ] **Lucid Motors** — Power Electronics Control Engineer Intern, Summer 2027 · posted Nov 20 (6d ago) · Newark, CA · S27 confirmed · [apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) <!--a:057f55c52d12207d-->
+- [ ] **Lucid Motors** — Power Electronics Control Engineer Intern, Summer 2027 · posted Nov 20 (7d ago) · Newark, CA · S27 confirmed · [apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) <!--a:057f55c52d12207d-->
   - [ ] 📌 keep on the board <!--s:057f55c52d12207d-->
-- [ ] **Lucid Motors** — Intern, Vehicle Motion Controls Engineer, Summer 2027 · posted Nov 20 (6d ago) · Newark, CA · S27 confirmed · [apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) <!--a:76ea905fafe11f8f-->
+- [ ] **Lucid Motors** — Intern, Vehicle Motion Controls Engineer, Summer 2027 · posted Nov 20 (7d ago) · Newark, CA · S27 confirmed · [apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) <!--a:76ea905fafe11f8f-->
   - [ ] 📌 keep on the board <!--s:76ea905fafe11f8f-->
 - [ ] **Lucid Motors** — Intern, Simulation & Virtualization Engineer, Summer 2027 · posted Nov 19 (7d ago) · Newark, CA · S27 confirmed · [apply](https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007) <!--a:7bcf999e75d7d840-->
   - [ ] 📌 keep on the board <!--s:7bcf999e75d7d840-->
@@ -64,7 +62,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **General Atomics** — Intern - Mechanical Test Engineer · posted Nov 24 (3d ago) · Huntsville, Alabama · season unstated · [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238050?s=gh-internships-2027) <!--a:dbcf52696c49f4bf-->
   - [ ] 📌 keep on the board <!--s:dbcf52696c49f4bf-->
 
-- [ ] **Lockheed Martin** — PCB Layout Design Engineer Intern · posted Nov 19 (7d ago) · Orlando, FL · season unstated · [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477518443?s=gh-internships-2027) <!--a:9a910f65a49ce840-->
+- [ ] **Lockheed Martin** — PCB Layout Design Engineer Intern · posted Nov 19 (8d ago) · Orlando, FL · season unstated · [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477518443?s=gh-internships-2027) <!--a:9a910f65a49ce840-->
   - [ ] 📌 keep on the board <!--s:9a910f65a49ce840-->
 - [ ] **Lockheed Martin** — FPGA Engineer Intern, Security Focus · posted Nov 25 (2d ago) · Owego, NY · S27 confirmed · [apply](https://go.vansh.nyc/1Ke?s=y) <!--a:0fd87d0952c48cfe-->
   - [ ] 📌 keep on the board <!--s:0fd87d0952c48cfe-->
@@ -99,13 +97,10 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **NVIDIA** — Finance AI Engineering Intern - Summer 2027 · posted Nov 19 (8d ago) · US, CA, Santa Clara · S27 confirmed · [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029131?s=gh-internships-2027) <!--a:9cd2f543e87c5ed7-->
   - [ ] 📌 keep on the board <!--s:9cd2f543e87c5ed7-->
 
-- [ ] **Tesla** — Robotics Audio DSP Engineer Intern · posted Nov 26 (33h ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/291227?utm_source=Simplify&ref=Simplify) <!--a:1fa3506adf30ba91-->
+- [ ] **Tesla** — Robotics Audio DSP Engineer Intern · posted Nov 26 (41h ago) · Palo Alto, CA · S27 confirmed · [apply](https://www.tesla.com/careers/search/job/291227?utm_source=Simplify&ref=Simplify) <!--a:1fa3506adf30ba91-->
   - [ ] 📌 keep on the board <!--s:1fa3506adf30ba91-->
 
 ## ▫️ Worth a look (19)
-
-- [ ] **Westinghouse Electric Company** — Summer Intern - Energy Systems Delivery Stream · posted Nov 27 (13h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac4f0920e027c0f3b3abfb4?utm_campaign=1048&utm_source=git) <!--a:a343da422451fab0-->
-  - [ ] 📌 keep on the board <!--s:a343da422451fab0-->
 
 - [ ] **Arc** — Service Engineering Intern · posted Nov 18 (9d ago) · Los Angeles, CA, United States · season unstated · [apply](https://jobright.ai/jobs/info/6afe149cf170d82b3967124a?utm_campaign=1048&utm_source=git) <!--a:f3685e3cb5ef4cb2-->
   - [ ] 📌 keep on the board <!--s:f3685e3cb5ef4cb2-->
@@ -140,7 +135,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **KLA** — Internship: Flow, Thermal and Structural Modeling · posted Nov 25 (2d ago) · Ann Arbor, MI · season unstated · [apply](https://zapply.jobs/l/d/workday-kla-search-2642808?s=gh-internships-2027) <!--a:e80d91eb2b385939-->
   - [ ] 📌 keep on the board <!--s:e80d91eb2b385939-->
 
-- [ ] **Lockheed Martin** — ASIC & FPGA Design Engineer - Intern · posted Nov 19 (7d ago) · Liverpool, NY · season unstated · [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477613394?s=gh-internships-2027) <!--a:17714c8fe241dff7-->
+- [ ] **Lockheed Martin** — ASIC & FPGA Design Engineer - Intern · posted Nov 19 (8d ago) · Liverpool, NY · season unstated · [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477613394?s=gh-internships-2027) <!--a:17714c8fe241dff7-->
   - [ ] 📌 keep on the board <!--s:17714c8fe241dff7-->
 
 - [ ] **MIT Lincoln Laboratory** — Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74 · posted Nov 18 (9d ago) · Lexington, MA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6afe122a0cde47528ec11804?utm_campaign=1048&utm_source=git) <!--a:4b5ef7142be535b0-->
@@ -156,6 +151,9 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Tesla** — Internship, Robotics Electronic Design Engineer, Optimus (Summer 2027) · posted Nov 25 (2d ago) · Palo Alto, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b0781e4953742e82620316b?utm_campaign=1048&utm_source=git) <!--a:4d3da5b4345e2ab9-->
   - [ ] 📌 keep on the board <!--s:4d3da5b4345e2ab9-->
+
+- [ ] **Westinghouse Electric Company** — Summer Intern - Energy Systems Delivery Stream · posted Nov 27 (21h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac4f0920e027c0f3b3abfb4?utm_campaign=1048&utm_source=git) <!--a:a343da422451fab0-->
+  - [ ] 📌 keep on the board <!--s:a343da422451fab0-->
 
 ### · Wide net (67)
 Unlisted companies that still match. Parked on [wide net](https://github.com/danielzu-gif/Mecheng_2027_Internships/issues/3) so they cannot bury the bands above. Ticking 📌 there moves one here.
