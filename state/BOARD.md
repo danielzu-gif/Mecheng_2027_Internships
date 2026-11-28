@@ -1,5 +1,5 @@
 # Summer 2027 board
-_rebuilt 2026-11-28 07:22 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
+_rebuilt 2026-11-28 12:39 UTC · tick the top box when you apply · tick 📌 to keep something past the 10-day expiry_
 
 **52 open · 5 apply-now · 0 saved · 3 applied all-time**
 
@@ -77,7 +77,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 
 - [ ] **Honeywell Aerospace** — Semiconductor Engineer Intern · posted Nov 19 (9d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888?utm_source=Simplify&ref=Simplify) <!--a:9c9a91206a30efe1-->
   - [ ] 📌 keep on the board <!--s:9c9a91206a30efe1-->
-- [ ] **Honeywell Aerospace** — Embedded Engineer Intern · posted Nov 20 (7d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify) <!--a:f7af0f25ce64cd90-->
+- [ ] **Honeywell Aerospace** — Embedded Engineer Intern · posted Nov 20 (8d ago) · United States · S27 confirmed · [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify) <!--a:f7af0f25ce64cd90-->
   - [ ] 📌 keep on the board <!--s:f7af0f25ce64cd90-->
 
 - [ ] **Intuitive** — Data Engineering Intern · posted Nov 19 (9d ago) · Sunnyvale, CA · S27 confirmed · [apply](https://go.vansh.nyc/1Fo?s=y) <!--a:52850b213aa5a313-->
@@ -145,7 +145,7 @@ Full applied log, by company: [state/APPLIED.md](https://github.com/danielzu-gif
 - [ ] **Tesla** — Internship, Robotics Electronic Design Engineer, Optimus (Summer 2027) · posted Nov 25 (3d ago) · Palo Alto, CA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6b0781e4953742e82620316b?utm_campaign=1048&utm_source=git) <!--a:4d3da5b4345e2ab9-->
   - [ ] 📌 keep on the board <!--s:4d3da5b4345e2ab9-->
 
-- [ ] **Westinghouse Electric Company** — Summer Intern - Energy Systems Delivery Stream · posted Nov 27 (31h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac4f0920e027c0f3b3abfb4?utm_campaign=1048&utm_source=git) <!--a:a343da422451fab0-->
+- [ ] **Westinghouse Electric Company** — Summer Intern - Energy Systems Delivery Stream · posted Nov 27 (36h ago) · Cranberry Township, PA, United States · S27 confirmed · [apply](https://jobright.ai/jobs/info/6ac4f0920e027c0f3b3abfb4?utm_campaign=1048&utm_source=git) <!--a:a343da422451fab0-->
   - [ ] 📌 keep on the board <!--s:a343da422451fab0-->
 
 ### · Wide net (59)
