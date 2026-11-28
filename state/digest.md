@@ -1,5 +1,8 @@
-# Brief 2026-11-27 21:00 UTC
+# Brief 2026-11-28 07:22 UTC
 
-1 new since the last brief.
+4 new since the last brief.
 
-- `B` **Westinghouse Electric Company** — Summer Intern - Energy Systems Delivery Stream · Cranberry Township, PA, United States · score 7 · [apply](https://jobright.ai/jobs/info/6ac4f0920e027c0f3b3abfb4?utm_campaign=1048&utm_source=git)
+- `B` **Draper** — Simulation Engineer Intern · Cambridge, MA · score 5 · [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181?utm_source=Simplify&ref=Simplify)
+- `C` **CN** — Intern-Stage Mechanical Locomotive · Homewood, IL, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b0a253762c6023db3023a47?utm_campaign=1048&utm_source=git)
+- `C` **CN** — Intern-Stage Mechanical Field · Memphis, TN, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b0a253cb80cc2b409d86c36?utm_campaign=1048&utm_source=git)
+- `C` **Enervexa PowerLabs** — Mechanical Engineering Intern (S5335) · Aurora, CO, United States · score 4 · [apply](https://jobright.ai/jobs/info/6b09dede0dcf7f64923b58ed?utm_campaign=1048&utm_source=git)
